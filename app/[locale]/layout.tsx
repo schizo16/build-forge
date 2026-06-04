@@ -2,8 +2,7 @@ import { NextIntlClientProvider } from "next-intl"
 import { notFound } from "next/navigation"
 import { Nav } from "@/components/layout/nav"
 import { Footer } from "@/components/layout/footer"
-
-const locales = ["en", "vi"]
+import { routing } from "@/lib/routing"
 
 type Props = {
   children: React.ReactNode
@@ -12,7 +11,7 @@ type Props = {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params
-  if (!locales.includes(locale)) notFound()
+  if (!(routing.locales as readonly string[]).includes(locale)) notFound()
 
   return (
     <NextIntlClientProvider locale={locale}>
