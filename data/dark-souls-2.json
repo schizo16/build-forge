@@ -3925,6 +3925,482 @@
                 "The weapon's size gives incredible reach",
                 "Str scaling at A makes this a pure Strength powerhouse"
             ]
+        },
+        {
+            "slug": "power-of-the-ladle",
+            "name": "Power of the Ladle",
+            "nameVi": "Sức Mạnh Của Cái Muôi",
+            "description": "The Ladle is the worst weapon in Dark Souls 2. It has 20 base damage. It is a cooking utensil. But with the right build, it becomes... a slightly more dangerous cooking utensil. Embrace the meme.",
+            "descriptionVi": "Ladle là vũ khí tệ nhất DS2. Sát thương cơ bản 20. Nó là dụng cụ nấu ăn. Nhưng với build đúng, nó trở thành... dụng cụ nấu ăn nguy hiểm hơn một chút.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": true,
+            "gameClass": "Deprived",
+            "gameClassVi": "Kẻ Cùng Khổ",
+            "sl": 150,
+            "stats": {
+                "Vigor": 50,
+                "Endurance": 30,
+                "Vitality": 10,
+                "Attunement": 4,
+                "Strength": 50,
+                "Dexterity": 10,
+                "Adaptability": 30,
+                "Intelligence": 3,
+                "Faith": 6
+            },
+            "phases": [
+                {
+                    "name": "Early Game — Soup Time",
+                    "nameVi": "Đầu Game — Giờ Nấu Canh",
+                    "levels": "1–50",
+                    "areas": "Things Betwixt, Majula, Forest of Giants",
+                    "areasVi": "Things Betwixt, Majula, Forest of Giants",
+                    "steps": [
+                        "Pick Deprived for the starting Ladle",
+                        "The Ladle is your starter weapon. Embrace your destiny.",
+                        "Level Strength to 30 and Vigor to 20",
+                        "Two-hand the Ladle — you need every bit of damage",
+                        "Upgrade the Ladle to +3 immediately",
+                        "The Ladle has a sweeping R1 — great for crowds if it did damage"
+                    ],
+                    "stepsVi": [
+                        "Chọn Deprived cho Ladle khởi đầu",
+                        "Ladle là vũ khí của bạn. Chấp nhận số phận.",
+                        "Tăng Strength lên 30 và Vigor lên 20",
+                        "Cầm hai tay Ladle",
+                        "Nâng Ladle lên +3 ngay",
+                        "Ladle có R1 quét — tốt cho đám đông nếu nó gây sát thương"
+                    ]
+                },
+                {
+                    "name": "Mid Game — The Ladle Awakens",
+                    "nameVi": "Giữa Game — Ladle Thức Tỉnh",
+                    "levels": "50–100",
+                    "areas": "Bastille, Iron Keep, Huntsman's Copse",
+                    "areasVi": "Bastille, Iron Keep, Huntsman's Copse",
+                    "steps": [
+                        "Push Strength to 40 and Vigor to 30",
+                        "Infuse the Ladle with Lightning — yes, you can infuse a Ladle",
+                        "Upgrade to +10 Ladle",
+                        "Equip the Ring of Blades for flat damage",
+                        "Use Gold Pine Resin for extra damage",
+                        "Your Ladle now does... 80 damage per swing. Incredible."
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength lên 40 và Vigor lên 30",
+                        "Gắn Lightning cho Ladle",
+                        "Nâng lên +10 Ladle",
+                        "Trang bị Ring of Blades",
+                        "Dùng Gold Pine Resin",
+                        "Ladle của bạn bây giờ... 80 sát thương mỗi đòn. Không thể tin được."
+                    ]
+                },
+                {
+                    "name": "Late Game — Ladle Legend",
+                    "nameVi": "Cuối Game — Huyền Thoại Ladle",
+                    "levels": "100–150",
+                    "areas": "Drangleic Castle, DLC, Undead Crypt",
+                    "areasVi": "Drangleic Castle, DLC, Undead Crypt",
+                    "steps": [
+                        "Max Strength at 50",
+                        "Max Ladle to +10 Lightning",
+                        "Equip Flynn's Ring for +50 AR at low equip load",
+                        "Equip the Old Leo Ring for counter damage (it has a thrust attack!)",
+                        "Powerstance TWO Ladles for double the cooking power",
+                        "Defeat Sir Alonne with the Ladle. Assert dominance."
+                    ],
+                    "stepsVi": [
+                        "Max Strength ở 50",
+                        "Nâng Ladle lên +10 Lightning",
+                        "Trang bị Flynn's Ring",
+                        "Trang bị Old Leo Ring",
+                        "Powerstance HAI LADLES",
+                        "Đánh bại Sir Alonne bằng Ladle. Khẳng định ưu thế."
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Lightning",
+                    "ar": 180,
+                    "scaling": "C Str",
+                    "verdict": "Best Ladle infusion. Yes, it says 'Best'. Relatively speaking.",
+                    "verdictVi": "Infusion Ladle tốt nhất. Tương đối thôi."
+                },
+                {
+                    "name": "Raw",
+                    "ar": 160,
+                    "scaling": "D Str",
+                    "verdict": "Better at very low levels but you're going to 50 Str anyway.",
+                    "verdictVi": "Tốt hơn ở cấp thấp."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Ladle",
+                    "type": "Weapon",
+                    "location": "Starting weapon for Deprived class",
+                    "locationVi": "Vũ khí khởi đầu của Deprived"
+                },
+                {
+                    "name": "Ring of Blades +2",
+                    "type": "Ring",
+                    "location": "NG+ Pursuer",
+                    "locationVi": "NG+ Pursuer"
+                },
+                {
+                    "name": "Flynn's Ring",
+                    "type": "Ring",
+                    "location": "Sunken King DLC, Sanctum City",
+                    "locationVi": "Sunken King DLC"
+                },
+                {
+                    "name": "Old Leo Ring",
+                    "type": "Ring",
+                    "location": "NG+ Old Dragonslayer",
+                    "locationVi": "NG+ Old Dragonslayer"
+                },
+                {
+                    "name": "Chloranthy Ring +2",
+                    "type": "Ring",
+                    "location": "NG+ The Rotten",
+                    "locationVi": "NG+ The Rotten"
+                }
+            ],
+            "tips": [
+                "The Ladle has a hidden bonus: it does 50% more damage to Slimes. You'll need that.",
+                "Powerstance two Ladles for the ultimate cooking experience",
+                "The R2 thrust can combo with the Leo Ring for counter damage",
+                "Ladle's running attack is actually decent for a utensil",
+                "If you beat the entire game with a Ladle, you are legally allowed to never cook again"
+            ],
+            "tipsVi": [
+                "Ladle có bonus ẩn: 50% sát thương với Slimes. Bạn sẽ cần đó.",
+                "Powerstance hai Ladles cho trải nghiệm nấu ăn tối thượng",
+                "R2 m có thể kết hợp Leo Ring",
+                "Chạy tấn công của Ladle khá ổn cho một cái muôi",
+                "Nếu bạn beat game với Ladle, bạn không bao giờ phải nấu ăn nữa"
+            ]
+        },
+        {
+            "slug": "bowmaster",
+            "name": "Bowmaster",
+            "nameVi": "Cung Thủ",
+            "description": "Only bows. No melee weapons at all. Dark Souls 2 has the best bow mechanics in the series with actual aiming, ammo types, and viable damage. Become a true ranger.",
+            "descriptionVi": "Chỉ dùng cung. Không vũ khí cận chiến. DS2 có cơ chế cung tốt nhất series với ngắm bắn thực sự, nhiều loại tên, và sát thương khả thi.",
+            "category": "meme",
+            "difficulty": 2,
+            "dlc": true,
+            "gameClass": "Swordsman",
+            "gameClassVi": "Kiếm Sĩ",
+            "sl": 150,
+            "stats": {
+                "Vigor": 30,
+                "Endurance": 25,
+                "Vitality": 10,
+                "Attunement": 10,
+                "Strength": 12,
+                "Dexterity": 60,
+                "Adaptability": 24,
+                "Intelligence": 3,
+                "Faith": 6
+            },
+            "phases": [
+                {
+                    "name": "Early Game — Basic Archery",
+                    "nameVi": "Đầu Game — Cung Cơ Bản",
+                    "levels": "1–50",
+                    "areas": "Forest of Giants, Heides Tower",
+                    "areasVi": "Forest of Giants, Heides Tower",
+                    "steps": [
+                        "Pick Swordsman for high starting Dexterity",
+                        "Buy the Short Bow from Leningrast in Majula",
+                        "Buy Wooden Arrows — stock up on as many as you can carry",
+                        "Level Dexterity to 30 and Vigor to 15",
+                        "Get the Stone Ring for extra poise damage on arrows",
+                        "Headshot enemies for extra damage — bows have actual aiming in DS2"
+                    ],
+                    "stepsVi": [
+                        "Chọn Swordsman cho Dexterity cao",
+                        "Mua Short Bow từ Leningrast",
+                        "Mua Wooden Arrows",
+                        "Tăng Dexterity lên 30 và Vigor lên 15",
+                        "Lấy Stone Ring",
+                        "Bắn đầu cho sát thương thêm"
+                    ]
+                },
+                {
+                    "name": "Mid Game — Sniper",
+                    "nameVi": "Giữa Game — Bắn Tỉa",
+                    "levels": "50–100",
+                    "areas": "Huntsman's Copse, Iron Keep, Shaded Woods",
+                    "areasVi": "Huntsman's Copse, Iron Keep, Shaded Woods",
+                    "steps": [
+                        "Push Dexterity to 40",
+                        "Get the Hunter's Blackbow from Drangleic Castle",
+                        "Upgrade Blackbow to +10 and infuse with Lightning",
+                        "Buy Iron Arrows and Lightning Arrows for different enemy types",
+                        "Equip the Ring of Blades and Old Leo Ring",
+                        "Learn to manual-aim — it's more accurate than lock-on"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Dexterity lên 40",
+                        "Lấy Hunter's Blackbow từ Drangleic Castle",
+                        "Nâng Blackbow lên +10",
+                        "Mua Iron Arrows và Lightning Arrows",
+                        "Trang bị Ring of Blades và Old Leo Ring",
+                        "Học ngắm tay — chính xác hơn lock-on"
+                    ]
+                },
+                {
+                    "name": "Late Game + DLC — Legolas Mode",
+                    "nameVi": "Cuối Game — Chế Độ Legolas",
+                    "levels": "100–150",
+                    "areas": "Drangleic Castle, Shrine of Amana, DLC",
+                    "areasVi": "Drangleic Castle, Shrine of Amana, DLC",
+                    "steps": [
+                        "Push Dexterity to 60 for maximum bow scaling",
+                        "Get the Bow of Want from Nashandra's soul",
+                        "Equip Flynn's Ring for more damage",
+                        "Use Magic Arrows, Fire Arrows, and Poison Arrows for status",
+                        "Keep a Short Bow +10 for faster firing rate on mobile enemies",
+                        "Bows in DS2 are actually viable for the entire game"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Dexterity lên 60",
+                        "Lấy Bow of Want từ linh hồn Nashandra",
+                        "Trang bị Flynn's Ring",
+                        "Dùng Magic Arrows, Fire Arrows, Poison Arrows",
+                        "Giữ Short Bow +10 cho tốc độ bắn nhanh hơn",
+                        "Cung trong DS2 thực sự khả thi cho cả game"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Lightning",
+                    "ar": 380,
+                    "scaling": "S Dex",
+                    "verdict": "Best for bows. S scaling with 60 Dexterity.",
+                    "verdictVi": "Tốt nhất cho cung. S scaling với 60 Dex."
+                },
+                {
+                    "name": "Magic",
+                    "ar": 360,
+                    "scaling": "S Dex",
+                    "verdict": "Good alternative for enemies weak to magic.",
+                    "verdictVi": "Tốt cho kẻ yếu phép."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Hunter's Blackbow",
+                    "type": "Weapon",
+                    "location": "Drangleic Castle, in a chest near the central bonfire",
+                    "locationVi": "Drangleic Castle, trong rương"
+                },
+                {
+                    "name": "Bow of Want",
+                    "type": "Weapon",
+                    "location": "Traded with Weaponsmith Ornifex using Nashandra's soul",
+                    "locationVi": "Đổi từ linh hồn Nashandra"
+                },
+                {
+                    "name": "Ring of Blades +2",
+                    "type": "Ring",
+                    "location": "NG+ Pursuer",
+                    "locationVi": "NG+ Pursuer"
+                },
+                {
+                    "name": "Old Leo Ring",
+                    "type": "Ring",
+                    "location": "NG+ Old Dragonslayer",
+                    "locationVi": "NG+ Old Dragonslayer"
+                },
+                {
+                    "name": "Flynn's Ring",
+                    "type": "Ring",
+                    "location": "Sunken King DLC",
+                    "locationVi": "Sunken King DLC"
+                },
+                {
+                    "name": "Chloranthy Ring +2",
+                    "type": "Ring",
+                    "location": "NG+ The Rotten",
+                    "locationVi": "NG+ The Rotten"
+                }
+            ],
+            "tips": [
+                "DS2 bows have zoom aiming — use the binoculars for even more zoom",
+                "Headshots deal 1.5x damage in DS2 — aim for the head",
+                "Poison Arrows + Hunter's Blackbow = safe damage over time on any boss",
+                "You can carry multiple bow types for different situations",
+                "The Bow of Want has the highest damage but slower fire rate than the Blackbow"
+            ],
+            "tipsVi": [
+                "Cung DS2 có zoom — dùng binoculars để zoom thêm",
+                "Bắn đầu 1.5x sát thương",
+                "Poison Arrows + Hunter's Blackbow = sát thương an toàn theo thời gian",
+                "Có thể mang nhiều cung cho các tình huống khác nhau",
+                "Bow of Want sát thương cao nhất nhưng tốc độ chậm hơn Blackbow"
+            ]
+        },
+        {
+            "slug": "poison-master",
+            "name": "Poison Master",
+            "nameVi": "Bậc Thầy Độc",
+            "description": "Only poison. Poison-infused weapons, poison arrows, poison mist, poison throwing knives. Watch the world rot while you dance around untouched. The ultimate attrition build.",
+            "descriptionVi": "Chỉ dùng độc. Vũ khí độc, tên độc, sương độc, phi tiêu độc. Nhìn thế giới thối rữa trong khi bạn nhảy múa không chạm.",
+            "category": "meme",
+            "difficulty": 2,
+            "dlc": true,
+            "gameClass": "Bandit",
+            "gameClassVi": "Kẻ Cướp",
+            "sl": 150,
+            "stats": {
+                "Vigor": 30,
+                "Endurance": 25,
+                "Vitality": 10,
+                "Attunement": 10,
+                "Strength": 12,
+                "Dexterity": 50,
+                "Adaptability": 24,
+                "Intelligence": 3,
+                "Faith": 6
+            },
+            "phases": [
+                {
+                    "name": "Early Game — Toxic Start",
+                    "nameVi": "Đầu Game — Khởi Đầu Độc",
+                    "levels": "1–50",
+                    "areas": "Forest of Giants, Heides Tower",
+                    "areasVi": "Forest of Giants, Heides Tower",
+                    "steps": [
+                        "Pick Bandit for high Dexterity",
+                        "Buy Rotten Pine Resin from Melentia for temporary poison weapons",
+                        "Buy two daggers from Lonesome Gavlan",
+                        "Level Dexterity to 25 and Vigor to 15",
+                        "Get the Poisonbite Ring for immunity",
+                        "Farm poison beetles in Forest of Giants for Poison Stones"
+                    ],
+                    "stepsVi": [
+                        "Chọn Bandit cho Dexterity cao",
+                        "Mua Rotten Pine Resin từ Melentia",
+                        "Mua hai dao găm từ Lonesome Gavlan",
+                        "Tăng Dexterity lên 25 và Vigor lên 15",
+                        "Lấy Poisonbite Ring",
+                        "Farm bọ độc ở Forest of Giants"
+                    ]
+                },
+                {
+                    "name": "Mid Game — Epidemics",
+                    "nameVi": "Giữa Game — Dịch Bệnh",
+                    "levels": "50–100",
+                    "areas": "Harvest Valley, Earthen Peak, Iron Keep",
+                    "areasVi": "Harvest Valley, Earthen Peak, Iron Keep",
+                    "steps": [
+                        "Push Dexterity to 35",
+                        "Infuse both daggers with Poison for powerstance",
+                        "Upgrade both to +10",
+                        "Get the Sanctum Crossbow with Poison Bolts from the DLC",
+                        "Equip the Crest of the Rat and Shadow Gauntlets",
+                        "One L1 powerstance combo procs poison on any enemy"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Dexterity lên 35",
+                        "Gắn Poison cho hai dao găm",
+                        "Nâng cả hai lên +10",
+                        "Lấy Sanctum Crossbow với Poison Bolts",
+                        "Trang bị Crest of the Rat và Shadow Gauntlets",
+                        "Một L1 powerstance kích hoạt độc cho mọi kẻ địch"
+                    ]
+                },
+                {
+                    "name": "Late Game — Plague Doctor",
+                    "nameVi": "Cuối Game — Bác Sĩ Dịch Hạch",
+                    "levels": "100–150",
+                    "areas": "Drangleic Castle, Shrine of Amana, DLC",
+                    "areasVi": "Drangleic Castle, Shrine of Amana, DLC",
+                    "steps": [
+                        "Push Dexterity to 50 for max scaling",
+                        "Use Poison Mist for AoE poison application",
+                        "Powerstance two Poison-infused curved swords",
+                        "The L1-L2 combo procs poison instantly",
+                        "Once poisoned, back off and let the damage tick",
+                        "Even DLC bosses are not immune to poison (but some are)"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Dexterity lên 50",
+                        "Dùng Poison Mist",
+                        "Powerstance hai kiếm cong độc",
+                        "L1-L2 kích hoạt độc ngay lập tức",
+                        "Khi bị độc, lùi lại và để sát thương chảy",
+                        "Ngay cả boss DLC cũng không miễn nhiễm độc"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Poison",
+                    "ar": 320,
+                    "scaling": "B Dex",
+                    "verdict": "The only choice. You are a poison build.",
+                    "verdictVi": "Lựa chọn duy nhất. Bạn là build độc."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Poison Dagger x2",
+                    "type": "Weapon",
+                    "location": "Infuse any dagger with Poison Stone",
+                    "locationVi": "Gắn Poison cho dao găm"
+                },
+                {
+                    "name": "Sanctum Crossbow",
+                    "type": "Weapon",
+                    "location": "Sunken King DLC, Sanctum City",
+                    "locationVi": "Sunken King DLC"
+                },
+                {
+                    "name": "Crest of the Rat",
+                    "type": "Ring",
+                    "location": "Rat King covenant rank 1 reward",
+                    "locationVi": "Phần thưởng Rat King"
+                },
+                {
+                    "name": "Shadow Gauntlets",
+                    "type": "Armor",
+                    "location": "Manikin drop in Earthen Peak",
+                    "locationVi": "Manikin rơi ở Earthen Peak"
+                },
+                {
+                    "name": "Rat Ring",
+                    "type": "Ring",
+                    "location": "Rat King covenant rank 2 reward",
+                    "locationVi": "Phần thưởng Rat King"
+                },
+                {
+                    "name": "Poisonbite Ring +1",
+                    "type": "Ring",
+                    "location": "NG+ Mytha or Bonfire Ascetic",
+                    "locationVi": "NG+ Mytha"
+                }
+            ],
+            "tips": [
+                "Poison in DS2 deals 1000 total damage — enough to win the attrition war",
+                "The Rat Ring extends poison duration by 50%",
+                "You can proc poison on most bosses in 2-3 powerstance L1 combos",
+                "Keep a backup Lightning weapon for enemies immune to poison",
+                "Sanctum Crossbow Poison Bolts poison in 2-3 hits from range"
+            ],
+            "tipsVi": [
+                "Độc trong DS2 gây 1000 sát thương tổng — đủ thắng chiến tranh tiêu hao",
+                "Rat Ring kéo dài thời gian độc 50%",
+                "Có thể kích hoạt độc trên hầu hết boss trong 2-3 L1",
+                "Giữ vũ khí Lightning dự phòng cho kẻ miễn nhiễm",
+                "Sanctum Crossbow Poison Bolts kích hoạt độc trong 2-3 đòn"
+            ]
         }
     ]
 }

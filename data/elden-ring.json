@@ -5018,6 +5018,633 @@
                 "Elden Stars chases enemies for 20 seconds",
                 "Stack Flock's Canvas + Godslayer's Seal for massive incantation damage"
             ]
+        },
+        {
+            "slug": "walter-white",
+            "name": "Walter White",
+            "nameVi": "Walter White",
+            "description": "\"I am the one who knocks.\" A poison/rot alchemist who uses only status incantations, perfume bottles, and consumable pots. No real weapons — just chemicals and faith that your enemies will die before you do.",
+            "descriptionVi": "\"Ta là người gõ cửa.\" Một nhà giả kim chỉ dùng độc tố, nước hoa và lọ ném. Không vũ khí thật — chỉ có hóa chất và niềm tin rằng kẻ địch sẽ chết trước bạn.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": true,
+            "gameClass": "Prophet",
+            "gameClassVi": "Tiên Tri",
+            "sl": 150,
+            "stats": {
+                "Vigor": 40,
+                "Mind": 30,
+                "Endurance": 20,
+                "Strength": 12,
+                "Dexterity": 12,
+                "Intelligence": 7,
+                "Faith": 45,
+                "Arcane": 45
+            },
+            "phases": [
+                {
+                    "name": "Early Game",
+                    "nameVi": "Đầu Game",
+                    "levels": "1–60",
+                    "areas": "Limgrave, Caelid",
+                    "areasVi": "Limgrave, Caelid",
+                    "steps": [
+                        "Choose Prophet for starting Faith",
+                        "Run to Third Church of Marika for Flask Physick",
+                        "Buy Poison Mist from Church of Dragon Communion in Caelid",
+                        "Farm Cracked Pots from Murkwater Cave merchants",
+                        "Level Faith to 20 and Arcane to 20",
+                        "Craft poison pots and rot pots from foraged materials"
+                    ],
+                    "stepsVi": [
+                        "Chọn Prophet để có Faith khởi đầu",
+                        "Chạy đến Third Church of Marika lấy Flask Physick",
+                        "Mua Poison Mist từ Church of Dragon Communion",
+                        "Farm Cracked Pots từ Murkwater Cave",
+                        "Tăng Faith lên 20 và Arcane lên 20",
+                        "Chế tạo lọ độc từ nguyên liệu thu thập"
+                    ]
+                },
+                {
+                    "name": "Mid Game",
+                    "nameVi": "Giữa Game",
+                    "levels": "60–100",
+                    "areas": "Altus Plateau, Mt. Gelmir, Caelid",
+                    "areasVi": "Altus Plateau, Mt. Gelmir, Caelid",
+                    "steps": [
+                        "Push Arcane to 35 and Faith to 30",
+                        "Get Pest Threads from Gowry in Caelid after Millicent quest",
+                        "Find Ekzykes's Decay (rot breath) from Cathedral of Dragon Communion",
+                        "Acquire the Frenzied Flame Seal from the Frenzied Flame Village",
+                        "Level Mind to 25 for FP to cast incantations",
+                        "Say \"I am the one who knocks\" before every major boss"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Arcane lên 35 và Faith lên 30",
+                        "Lấy Pest Threads từ Gowry",
+                        "Tìm Ekzykes's Decay từ Cathedral of Dragon Communion",
+                        "Lấy Frenzied Flame Seal từ Frenzied Flame Village",
+                        "Tăng Mind lên 25",
+                        "Nói \"Ta là người gõ cửa\" trước mỗi boss"
+                    ]
+                },
+                {
+                    "name": "Late Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
+                    "levels": "100–150",
+                    "areas": "Mountaintops, Farum Azula, Realm of Shadow",
+                    "areasVi": "Mountaintops, Farum Azula, Realm of Shadow",
+                    "steps": [
+                        "Push Faith to 45 and Arcane to 45",
+                        "Get the Frenzy Flame perfume bottle from the DLC",
+                        "Collect the Deadly Poison perfume bottle for toxic buildup",
+                        "Find all DLC perfume bottle recipes",
+                        "Use Unendurable Frenzy as your \"finale\" incantation",
+                        "Stack status effect talismans: Lord of Blood's Exultation, Kindred of Rot's Exultation"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Faith lên 45 và Arcane lên 45",
+                        "Lấy Frenzy Flame perfume bottle từ DLC",
+                        "Thu thập Deadly Poison perfume bottle",
+                        "Tìm tất cả công thức perfume bottle trong DLC",
+                        "Dùng Unendurable Frenzy làm tuyệt chiêu cuối",
+                        "Xếp talisman tăng sát thương trạng thái"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Poison",
+                    "ar": 0,
+                    "scaling": "S Arc",
+                    "verdict": "The whole point is status effects. You don't use weapons.",
+                    "verdictVi": "Toàn bộ mục tiêu là hiệu ứng trạng thái. Bạn không dùng vũ khí."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Poison Mist",
+                    "type": "Weapon",
+                    "location": "Church of Dragon Communion in Caelid",
+                    "locationVi": "Church of Dragon Communion ở Caelid"
+                },
+                {
+                    "name": "Pest Threads",
+                    "type": "Weapon",
+                    "location": "Gowry in Caelid after progressing Millicent quest",
+                    "locationVi": "Gowry ở Caelid sau khi tiến triển nhiệm vụ Millicent"
+                },
+                {
+                    "name": "Ekzykes's Decay",
+                    "type": "Weapon",
+                    "location": "Cathedral of Dragon Communion in Caelid",
+                    "locationVi": "Cathedral of Dragon Communion ở Caelid"
+                },
+                {
+                    "name": "Frenzied Flame Seal",
+                    "type": "Weapon",
+                    "location": "Frenzied Flame Village in Liurnia",
+                    "locationVi": "Frenzied Flame Village ở Liurnia"
+                },
+                {
+                    "name": "Deadly Poison Perfume Bottle",
+                    "type": "Weapon",
+                    "location": "DLC, found in the Shadow Keep",
+                    "locationVi": "DLC, tìm thấy ở Shadow Keep"
+                },
+                {
+                    "name": "Kindred of Rot's Exultation",
+                    "type": "Talisman",
+                    "location": "Lake of Rot, behind the Sealed Door",
+                    "locationVi": "Lake of Rot, sau cánh cửa niêm phong"
+                }
+            ],
+            "tips": [
+                "You are a chemist, not a warrior. Let the status effects do the killing.",
+                "Stack Lord of Blood's Exultation + Kindred of Rot's Exultation for 40% damage when bleed/rot procs",
+                "Pest Threads is your best damage option against large bosses",
+                "Don't forget to craft pots — they scale with Arcane and are limited resources",
+                "The perfume bottles from the DLC finally make this build truly viable"
+            ],
+            "tipsVi": [
+                "Bạn là nhà hóa học, không phải chiến binh. Để hiệu ứng trạng thái làm việc.",
+                "Xếp Lord of Blood's Exultation + Kindred of Rot's Exultation = 40% sát thương",
+                "Pest Threads là sát thương tốt nhất cho boss to",
+                "Đừng quên chế tạo lọ — chúng tăng theo Arcane",
+                "Perfume bottle từ DLC làm build này khả thi hơn"
+            ]
+        },
+        {
+            "slug": "pothead",
+            "name": "Pothead",
+            "nameVi": "Đầu Nồi",
+            "description": "Only throwable pots. Fire pots, lightning pots, holy pots, giant pots, and all DLC variants. No melee weapons — just pottery and determination. Laugh as your enemy dies to a jar of fire.",
+            "descriptionVi": "Chỉ dùng lọ ném. Lọ lửa, lọ sét, lọ thánh, lọ khổng lồ. Không vũ khí cận chiến — chỉ có đồ gốm và quyết tâm.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": true,
+            "gameClass": "Wretch",
+            "gameClassVi": "Kẻ Khốn Cùng",
+            "sl": 125,
+            "stats": {
+                "Vigor": 50,
+                "Mind": 15,
+                "Endurance": 30,
+                "Strength": 20,
+                "Dexterity": 20,
+                "Intelligence": 10,
+                "Faith": 25,
+                "Arcane": 25
+            },
+            "phases": [
+                {
+                    "name": "Early Game",
+                    "nameVi": "Đầu Game",
+                    "levels": "1–50",
+                    "areas": "Limgrave, Weeping Peninsula",
+                    "areasVi": "Limgrave, Weeping Peninsula",
+                    "steps": [
+                        "Choose Wretch for the true zero-to-hero experience",
+                        "Buy the Crafting Kit from the Merchant near Gatefront",
+                        "Craft a dozen Fire Pots immediately from materials in Limgrave",
+                        "Rush to Murkwater Cave for the Nomadic Merchant who sells Cookbooks",
+                        "Buy all Cookbooks as you progress — they unlock new pot types",
+                        "Never equip a weapon. Your hands are the weapons."
+                    ],
+                    "stepsVi": [
+                        "Chọn Wretch để có trải nghiệm từ số 0",
+                        "Mua Crafting Kit từ Merchant gần Gatefront",
+                        "Chế tạo ngay một tá Fire Pots từ nguyên liệu ở Limgrave",
+                        "Chạy đến Murkwater Cave mua Cookbooks",
+                        "Mua tất cả Cookbooks — chúng mở khóa lọ mới",
+                        "Không bao giờ trang bị vũ khí. Tay bạn là vũ khí."
+                    ]
+                },
+                {
+                    "name": "Mid Game",
+                    "nameVi": "Giữa Game",
+                    "levels": "50–100",
+                    "areas": "Liurnia, Altus Plateau, Caelid",
+                    "areasVi": "Liurnia, Altus Plateau, Caelid",
+                    "steps": [
+                        "Get the Ritual Pot from the Nomadic Merchant in Liurnia",
+                        "Find the Lightning Pot recipe from a scarab near Artist's Shack",
+                        "Complete Rya's quest to get the Volcano Manor invitation",
+                        "Get the Volcano Pot recipe from the Manor",
+                        "Level Vigor to 40 and Strength/Dex to 20 for pot damage scaling",
+                        "Farm materials efficiently — roots, mushrooms, and Rimed Buds"
+                    ],
+                    "stepsVi": [
+                        "Lấy Ritual Pot từ Merchant ở Liurnia",
+                        "Tìm Lightning Pot recipe từ bọ gần Artist's Shack",
+                        "Hoàn thành nhiệm vụ Rya để lấy thư mời Volcano Manor",
+                        "Lấy Volcano Pot recipe từ Manor",
+                        "Tăng Vigor lên 40 và Strength/Dex lên 20",
+                        "Farm nguyên liệu hiệu quả"
+                    ]
+                },
+                {
+                    "name": "Late Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
+                    "levels": "100–125",
+                    "areas": "Mountaintops, Farum Azula, Realm of Shadow",
+                    "areasVi": "Mountaintops, Farum Azula, Realm of Shadow",
+                    "steps": [
+                        "Get the Giant Pot from the Giant Pot quest in Liurnia",
+                        "Find the Ancient Dragon Pot recipe in the DLC",
+                        "Collect the Hefty Pot types from the DLC for massive damage",
+                        "Use Hefty Fire Pots and Hefty Rot Pots as your main arsenal",
+                        "Level Vigor to 50 for survivability",
+                        "The Ritual Pot heals on hit — your only sustain"
+                    ],
+                    "stepsVi": [
+                        "Lấy Giant Pot từ nhiệm vụ Giant Pot ở Liurnia",
+                        "Tìm Ancient Dragon Pot recipe trong DLC",
+                        "Thu thập Hefty Pots từ DLC",
+                        "Dùng Hefty Fire Pots và Hefty Rot Pots làm vũ khí chính",
+                        "Tăng Vigor lên 50",
+                        "Ritual Pot hồi máu khi trúng — nguồn hồi phục duy nhất"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Standard",
+                    "ar": 0,
+                    "scaling": "None",
+                    "verdict": "Pots scale with your stats and upgrade materials. Every pot is a weapon.",
+                    "verdictVi": "Lọ tăng theo chỉ số và nguyên liệu. Mỗi lọ là một vũ khí."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Crafting Kit",
+                    "type": "Weapon",
+                    "location": "Nomadic Merchant near Gatefront in Limgrave",
+                    "locationVi": "Nomadic Merchant gần Gatefront"
+                },
+                {
+                    "name": "Ritual Pot",
+                    "type": "Weapon",
+                    "location": "Nomadic Merchant in Liurnia of the Lakes",
+                    "locationVi": "Nomadic Merchant ở Liurnia"
+                },
+                {
+                    "name": "Giant Pot",
+                    "type": "Weapon",
+                    "location": "Liurnia, Giant's Mountaintop after defeating Golem",
+                    "locationVi": "Liurnia, Giant's Mountaintop"
+                },
+                {
+                    "name": "Volcano Pot",
+                    "type": "Weapon",
+                    "location": "Volcano Manor recipe book",
+                    "locationVi": "Sách công thức Volcano Manor"
+                },
+                {
+                    "name": "Hefty Fire Pot",
+                    "type": "Weapon",
+                    "location": "DLC, found in Gravesite Plain",
+                    "locationVi": "DLC, tìm thấy ở Gravesite Plain"
+                },
+                {
+                    "name": "Ancient Dragon Pot",
+                    "type": "Weapon",
+                    "location": "DLC, recipe near Dragon's Pit",
+                    "locationVi": "DLC, công thức gần Dragon's Pit"
+                }
+            ],
+            "tips": [
+                "You have limited pots per rest — make each one count",
+                "Volcano Pots have incredible AoE for clearing groups",
+                "Giant Pots deal the most single-target damage but are heavy",
+                "Keep a backup stock of basic Fire Pots for trash mobs",
+                "The DLC Hefty Pots finally give this build respectable damage"
+            ],
+            "tipsVi": [
+                "Bạn có số lọ giới hạn mỗi lần nghỉ — hãy dùng chúng khôn ngoan",
+                "Volcano Pots có AoE tuyệt vời cho đám đông",
+                "Giant Pots sát thương đơn mục tiêu cao nhất",
+                "Giữ lọ Lửa cơ bản cho quái thường",
+                "Hefty Pots DLC cho build này sát thương đáng kể"
+            ]
+        },
+        {
+            "slug": "punch-out",
+            "name": "Punch Out",
+            "nameVi": "Đấm Bốc",
+            "description": "Only fist weapons. Caestus, Spiked Caestus, Star Fist, Katar, and Dryleaf Arts from the DLC. No swords, no spells — just hands. The ultimate boxing build.",
+            "descriptionVi": "Chỉ dùng vũ khí tay không. Caestus, Spiked Caestus, Star Fist, Katar, và Dryleaf Arts từ DLC. Không kiếm, không phép — chỉ có tay không.",
+            "category": "meme",
+            "difficulty": 2,
+            "dlc": true,
+            "gameClass": "Hero",
+            "gameClassVi": "Anh Hùng",
+            "sl": 150,
+            "stats": {
+                "Vigor": 55,
+                "Mind": 11,
+                "Endurance": 40,
+                "Strength": 60,
+                "Dexterity": 20,
+                "Intelligence": 7,
+                "Faith": 8,
+                "Arcane": 11
+            },
+            "phases": [
+                {
+                    "name": "Early Game",
+                    "nameVi": "Đầu Game",
+                    "levels": "1–60",
+                    "areas": "Limgrave, Liurnia",
+                    "areasVi": "Limgrave, Liurnia",
+                    "steps": [
+                        "Choose Hero for high Strength",
+                        "Buy the Caestus from Brother Corhyn in Roundtable Hold",
+                        "Level Strength to 30 and Vigor to 25 first",
+                        "Use Endure ash of war to trade through enemy attacks",
+                        "Get the Green Turtle Talisman for stamina regen",
+                        "The Caestus R1 has the fastest attack speed in the game"
+                    ],
+                    "stepsVi": [
+                        "Chọn Hero cho Strength cao",
+                        "Mua Caestus từ Brother Corhyn ở Roundtable Hold",
+                        "Tăng Strength lên 30 và Vigor lên 25 trước",
+                        "Dùng Endure ash of war để trao đổi sát thương",
+                        "Lấy Green Turtle Talisman để hồi stamina",
+                        "Caestus R1 có tốc độ đánh nhanh nhất game"
+                    ]
+                },
+                {
+                    "name": "Mid Game",
+                    "nameVi": "Giữa Game",
+                    "levels": "60–100",
+                    "areas": "Altus Plateau, Caelid, Mt. Gelmir",
+                    "areasVi": "Altus Plateau, Caelid, Mt. Gelmir",
+                    "steps": [
+                        "Push Strength to 45 and Vigor to 40",
+                        "Get the Star Fist from the merchant near Old Altus Tunnel",
+                        "Collect the Spiked Caestus from the merchant in Liurnia",
+                        "Equip the Claw Talisman for jump attack damage",
+                        "Use Cragblade ash of war for extra poise damage",
+                        "Infuse your fist weapons with Heavy for pure Strength scaling"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength lên 45 và Vigor lên 40",
+                        "Lấy Star Fist từ merchant gần Old Altus Tunnel",
+                        "Thu thập Spiked Caestus từ merchant ở Liurnia",
+                        "Trang bị Claw Talisman cho nhảy đánh",
+                        "Dùng Cragblade ash of war",
+                        "Gắn Heavy cho vũ khí tay"
+                    ]
+                },
+                {
+                    "name": "Late Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
+                    "levels": "100–150",
+                    "areas": "Mountaintops, Farum Azula, Realm of Shadow",
+                    "areasVi": "Mountaintops, Farum Azula, Realm of Shadow",
+                    "steps": [
+                        "Push Strength to 60 for soft cap",
+                        "Get the Dryleaf Arts from the DLC for kick attacks",
+                        "Max your preferred fist weapon to +25 Heavy",
+                        "Equip the Two-Handed Sword Talisman from DLC",
+                        "Equip the Axe Talisman for charged R2 damage",
+                        "You can powerstance two fist weapons for dual-wield moveset"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength lên 60",
+                        "Lấy Dryleaf Arts từ DLC cho đòn đá",
+                        "Nâng vũ khí tay lên +25 Heavy",
+                        "Trang bị Two-Handed Sword Talisman từ DLC",
+                        "Trang bị Axe Talisman",
+                        "Có thể cầm hai vũ khí tay để đánh song kiếm"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Heavy",
+                    "ar": 520,
+                    "scaling": "S Str",
+                    "verdict": "Best for pure Strength. S scaling at 60 Str. Punch hard.",
+                    "verdictVi": "Tốt nhất cho Strength thuần. S scaling ở 60 Str. Đấm mạnh."
+                },
+                {
+                    "name": "Keen",
+                    "ar": 420,
+                    "scaling": "A Dex",
+                    "verdict": "Only if you respec to pure Dex.",
+                    "verdictVi": "Chỉ nếu reset sang Dex thuần."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Caestus",
+                    "type": "Weapon",
+                    "location": "Purchased from Brother Corhyn in Roundtable Hold",
+                    "locationVi": "Mua từ Brother Corhyn ở Roundtable Hold"
+                },
+                {
+                    "name": "Star Fist",
+                    "type": "Weapon",
+                    "location": "Merchant near Old Altus Tunnel entrance",
+                    "locationVi": "Merchant gần Old Altus Tunnel"
+                },
+                {
+                    "name": "Spiked Caestus",
+                    "type": "Weapon",
+                    "location": "Liurnia merchant in the lake facing cliffs",
+                    "locationVi": "Merchant ở Liurnia"
+                },
+                {
+                    "name": "Dryleaf Arts",
+                    "type": "Weapon",
+                    "location": "DLC, found in the Realm of Shadow",
+                    "locationVi": "DLC, tìm thấy ở Realm of Shadow"
+                },
+                {
+                    "name": "Claw Talisman",
+                    "type": "Talisman",
+                    "location": "Stormveil Castle, dropped by Lion Guardian",
+                    "locationVi": "Stormveil Castle, rơi từ Lion Guardian"
+                },
+                {
+                    "name": "Axe Talisman",
+                    "type": "Talisman",
+                    "location": "Mistywood, dropped by the Ancient Hero of Zamor",
+                    "locationVi": "Mistywood, rơi từ Ancient Hero of Zamor"
+                }
+            ],
+            "tips": [
+                "Fist weapons have the shortest range in the game — get in close and stay aggressive",
+                "Powerstanced L1 attacks are incredibly fast and build status effects quickly",
+                "Endure ash of war lets you poise through attacks and retaliate",
+                "The Dryleaf Arts from DLC add kick attacks that have amazing range",
+                "R2 charged attacks with Star Fist have surprising poise damage"
+            ],
+            "tipsVi": [
+                "Vũ khí tay có tầm ngắn nhất — hãy áp sát và tấn công liên tục",
+                "L1 song kiếm rất nhanh và tích trạng thái nhanh",
+                "Endure cho phép bạn chịu đòn và phản công",
+                "Dryleaf Arts từ DLC có đòn đá tầm xa",
+                "R2 nạp với Star Fist có sát thương poise đáng ngạc nhiên"
+            ]
+        },
+        {
+            "slug": "torch-hollow",
+            "name": "Torch Hollow",
+            "nameVi": "Đuốc Ma",
+            "description": "Only torches. Standard Torch, Beast-Repellent Torch, Ghostflame Torch, St. Trina's Torch. You are a humble hollow with a torch. The light guides you. The fire kills them.",
+            "descriptionVi": "Chỉ dùng đuốc. Đuốc thường, Đuốc Xua Thú, Đuốc Lửa Ma, Đuốc St. Trina. Bạn là một hollow khiêm tốn với cây đuốc.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": false,
+            "gameClass": "Wretch",
+            "gameClassVi": "Kẻ Khốn Cùng",
+            "sl": 125,
+            "stats": {
+                "Vigor": 50,
+                "Mind": 15,
+                "Endurance": 35,
+                "Strength": 30,
+                "Dexterity": 30,
+                "Intelligence": 15,
+                "Faith": 15,
+                "Arcane": 11
+            },
+            "phases": [
+                {
+                    "name": "Early Game",
+                    "nameVi": "Đầu Game",
+                    "levels": "1–50",
+                    "areas": "Limgrave, Weeping Peninsula",
+                    "areasVi": "Limgrave, Weeping Peninsula",
+                    "steps": [
+                        "Choose Wretch — you start with a club but you're looking for a torch",
+                        "Find the Standard Torch from the Nomadic Merchant near Gatefront",
+                        "Equip torch immediately. Drop the club. Never look back.",
+                        "Torch R1 is a fast horizontal swipe that does fire damage",
+                        "Level Vigor to 25 and Endurance to 20 first",
+                        "Fire damage is surprisingly effective against early game enemies"
+                    ],
+                    "stepsVi": [
+                        "Chọn Wretch — bạn bắt đầu với dùi cui nhưng đang tìm đuốc",
+                        "Tìm Standard Torch từ Nomadic Merchant gần Gatefront",
+                        "Trang bị đuốc ngay. Vứt dùi cui. Không bao giờ nhìn lại.",
+                        "Đuốc R1 là đòn quét ngang nhanh gây sát thương lửa",
+                        "Tăng Vigor lên 25 và Endurance lên 20",
+                        "Sát thương lửa rất hiệu quả với quái đầu game"
+                    ]
+                },
+                {
+                    "name": "Mid Game",
+                    "nameVi": "Giữa Game",
+                    "levels": "50–90",
+                    "areas": "Liurnia, Caelid, Altus Plateau",
+                    "areasVi": "Liurnia, Caelid, Altus Plateau",
+                    "steps": [
+                        "Push Strength and Dex to 25 each for torch scaling",
+                        "Get the Beast-Repellent Torch from the merchant in Dragonbarrow",
+                        "Find St. Trina's Torch from the Consecrated Snowfield",
+                        "Level Vigor to 35 and Endurance to 25",
+                        "Use Fire Scorpion Charm to boost fire damage",
+                        "St. Trina's Torch builds sleep status — a unique effect"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength và Dex lên 25",
+                        "Lấy Beast-Repellent Torch từ merchant ở Dragonbarrow",
+                        "Tìm St. Trina's Torch từ Consecrated Snowfield",
+                        "Tăng Vigor lên 35 và Endurance lên 25",
+                        "Dùng Fire Scorpion Charm",
+                        "St. Trina's Torch gây trạng thái ngủ"
+                    ]
+                },
+                {
+                    "name": "Late Game",
+                    "nameVi": "Cuối Game",
+                    "levels": "90–125",
+                    "areas": "Mountaintops, Farum Azula, Haligtree",
+                    "areasVi": "Mountaintops, Farum Azula, Haligtree",
+                    "steps": [
+                        "Push Strength and Dex to 30 each",
+                        "Get the Ghostflame Torch from the Mountaintops",
+                        "Ghostflame Torch deals magic damage — good for fire-resistant enemies",
+                        "Level Vigor to 50 for late-game survival",
+                        "Equip the Green Turtle Talisman for more stamina",
+                        "The charged R2 on torches has surprising range"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength và Dex lên 30",
+                        "Lấy Ghostflame Torch từ Mountaintops",
+                        "Ghostflame Torch gây sát thương phép — tốt cho quái kháng lửa",
+                        "Tăng Vigor lên 50",
+                        "Trang bị Green Turtle Talisman",
+                        "R2 nạp của đuốc có tầm bất ngờ"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Fire",
+                    "ar": 320,
+                    "scaling": "D Str D Dex",
+                    "verdict": "Torches cannot be infused. Embrace the base damage and the meme.",
+                    "verdictVi": "Đuốc không thể thay đổi. Chấp nhận sát thương cơ bản và meme."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Standard Torch",
+                    "type": "Weapon",
+                    "location": "Nomadic Merchant near Gatefront in Limgrave",
+                    "locationVi": "Nomadic Merchant gần Gatefront"
+                },
+                {
+                    "name": "Beast-Repellent Torch",
+                    "type": "Weapon",
+                    "location": "Isolated Merchant in Dragonbarrow",
+                    "locationVi": "Isolated Merchant ở Dragonbarrow"
+                },
+                {
+                    "name": "St. Trina's Torch",
+                    "type": "Weapon",
+                    "location": "Consecrated Snowfield, near the hidden Albinauric village",
+                    "locationVi": "Consecrated Snowfield, gần làng Albinauric ẩn"
+                },
+                {
+                    "name": "Ghostflame Torch",
+                    "type": "Weapon",
+                    "location": "Mountaintops of the Giants, dropped by a ghost at the spirit spring",
+                    "locationVi": "Mountaintops of the Giants, rơi từ hồn ma"
+                },
+                {
+                    "name": "Fire Scorpion Charm",
+                    "type": "Talisman",
+                    "location": "Mt. Gelmir, sub-boss arena near Fort Laiedd",
+                    "locationVi": "Mt. Gelmir, đấu trường sub-boss gần Fort Laiedd"
+                },
+                {
+                    "name": "Green Turtle Talisman",
+                    "type": "Talisman",
+                    "location": "Limgrave, Summonwater Village catacombs",
+                    "locationVi": "Limgrave, Summonwater Village catacombs"
+                }
+            ],
+            "tips": [
+                "Torches have low damage — this is a challenge run, not an efficient build",
+                "St. Trina's Torch can put enemies to sleep for free critical hits",
+                "Ghostflame Torch is actually decent against deathbirds and undead",
+                "The Beast-Repellent Torch keeps beasts at bay — useful for Caelid",
+                "You can equip a torch in each hand for dual-wield torch action (still bad but stylish)"
+            ],
+            "tipsVi": [
+                "Đuốc có sát thương thấp — đây là thử thách, không phải build hiệu quả",
+                "St. Trina's Torch có thể làm ngủ kẻ địch",
+                "Ghostflame Torch tốt cho deathbirds và undead",
+                "Beast-Repellent Torch xua đuổi thú dữ",
+                "Có thể cầm đuốc hai tay để song đuốc (vẫn yếu nhưng phong cách)"
+            ]
         }
     ]
 }

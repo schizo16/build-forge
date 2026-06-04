@@ -3848,6 +3848,471 @@
                 "The R1 is incredibly fast and hard to parry",
                 "Kết hợp Pyromancy"
             ]
+        },
+        {
+            "slug": "broken-sword-asylum",
+            "name": "Broken Sword Hollow",
+            "nameVi": "Hollow Kiếm Gãy",
+            "description": "Break your sword in the tutorial, never repair it. Fight through all of Lordran with a weapon that does less damage than a gentle breeze. The ultimate test of patience from the very first boss.",
+            "descriptionVi": "Làm gãy kiếm trong hướng dẫn, không bao giờ sửa. Chiến đấu qua toàn bộ Lordran với vũ khí gây sát thương ít hơn gió nhẹ.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": true,
+            "gameClass": "Pyromancer",
+            "gameClassVi": "Pháp Sư Lửa",
+            "sl": 99,
+            "stats": {
+                "Vitality": 60,
+                "Attunement": 12,
+                "Endurance": 40,
+                "Strength": 16,
+                "Dexterity": 10,
+                "Resistance": 11,
+                "Intelligence": 10,
+                "Faith": 8
+            },
+            "phases": [
+                {
+                    "name": "The Break",
+                    "nameVi": "Sự Gãy Đổ",
+                    "levels": "1–20",
+                    "areas": "Undead Asylum, Firelink",
+                    "areasVi": "Undead Asylum, Firelink",
+                    "steps": [
+                        "Choose Pyromancer for the starting pyro flame",
+                        "Equip your broken sword hilt from the asylum",
+                        "Yes, it CAN be repaired at a blacksmith. Don't do it.",
+                        "The Broken Sword deals 20 damage per hit. Embrace it.",
+                        "Rush to Undead Burg for your first sanity check",
+                        "Every enemy is now a boss. Every boss is now a raid boss."
+                    ],
+                    "stepsVi": [
+                        "Chọn Pyromancer cho pyro flame khởi đầu",
+                        "Trang bị broken sword hilt từ asylum",
+                        "Không bao giờ sửa nó",
+                        "Broken Sword gây 20 sát thương mỗi đòn",
+                        "Chạy đến Undead Burg",
+                        "Mỗi kẻ địch là boss. Mỗi boss là raid boss."
+                    ]
+                },
+                {
+                    "name": "The Grind",
+                    "nameVi": "Nghiền Răng",
+                    "levels": "20–60",
+                    "areas": "Undead Parish, Depths, Blighttown",
+                    "areasVi": "Undead Parish, Depths, Blighttown",
+                    "steps": [
+                        "Level Vitality to 40 first — you need HP to survive long fights",
+                        "The broken sword can be upgraded to +5. Do it.",
+                        "Use Gold Pine Resin for a damage boost",
+                        "Learn the Leo Ring for counter-hit bonus",
+                        "Equip Ring of Favor and Protection for more HP",
+                        "The broken sword at +5 with Gold Pine Resin does... slightly more damage"
+                    ],
+                    "stepsVi": [
+                        "Tăng Vitality lên 40 trước",
+                        "Broken sword có thể nâng lên +5",
+                        "Dùng Gold Pine Resin",
+                        "Học Leo Ring",
+                        "Trang bị Ring of Favor and Protection",
+                        "Broken sword +5 với Gold Pine Resin... hơi mạnh hơn một chút"
+                    ]
+                },
+                {
+                    "name": "The Madness",
+                    "nameVi": "Điên Rồ",
+                    "levels": "60–99",
+                    "areas": "Sen's Fortress, Anor Londo, Kiln",
+                    "areasVi": "Sen's Fortress, Anor Londo, Kiln",
+                    "steps": [
+                        "Max Vitality at 60 and Endurance at 40",
+                        "Max the broken sword to Crystal +5 for the highest broken sword AR",
+                        "Crystal +5 broken sword has 100 base damage — it's still terrible",
+                        "Power Within pyromancy for 40% damage boost",
+                        "Defeat Ornstein and Smough with your toothpick of a weapon",
+                        "When you beat Gwyn, you will have earned the title of TRUE Chosen Undead"
+                    ],
+                    "stepsVi": [
+                        "Max Vitality ở 60 và Endurance ở 40",
+                        "Nâng broken sword lên Crystal +5",
+                        "Crystal +5 broken sword có 100 sát thương cơ bản — vẫn tệ",
+                        "Power Within tăng 40% sát thương",
+                        "Đánh bại Ornstein và Smough với tăm xỉa răng",
+                        "Khi đánh bại Gwyn, bạn xứng đáng là Chosen Undead thực sự"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Crystal +5",
+                    "ar": 100,
+                    "scaling": "None",
+                    "verdict": "The best broken sword you can make. Still worse than every other weapon.",
+                    "verdictVi": "Broken sword tốt nhất có thể chế. Vẫn tệ hơn mọi vũ khí khác."
+                },
+                {
+                    "name": "Raw +5",
+                    "ar": 85,
+                    "scaling": "None",
+                    "verdict": "Worse AR than Crystal but repairable. For the less dedicated.",
+                    "verdictVi": "AR thấp hơn Crystal nhưng sửa được."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Broken Sword",
+                    "type": "Weapon",
+                    "location": "Undead Asylum, starting equipment (or break your weapon on purpose)",
+                    "locationVi": "Undead Asylum, trang bị khởi đầu"
+                },
+                {
+                    "name": "Leo Ring",
+                    "type": "Ring",
+                    "location": "Anor Londo, dropped by the Ornstein sentinel",
+                    "locationVi": "Anor Londo, rơi từ Ornstein sentinel"
+                },
+                {
+                    "name": "Ring of Favor and Protection",
+                    "type": "Ring",
+                    "location": "Undead Parish behind the giant rat",
+                    "locationVi": "Undead Parish sau chuột khổng lồ"
+                },
+                {
+                    "name": "Power Within",
+                    "type": "Weapon",
+                    "location": "Blighttown on a corpse near the giant leech swamp",
+                    "locationVi": "Blighttown trên xác chết"
+                },
+                {
+                    "name": "Gold Pine Resin",
+                    "type": "Weapon",
+                    "location": "Purchased from merchants or found",
+                    "locationVi": "Mua từ merchant"
+                }
+            ],
+            "tips": [
+                "The broken sword has a 6-hit R1 combo — it takes all 6 to equal one normal sword swing",
+                "Leo Ring counter-hits are your highest damage source",
+                "Power Within is mandatory for any boss that isn't Pinwheel",
+                "You can break any weapon by attacking crystal golems — not that you'd want to",
+                "This build teaches you every boss moveset better than any other run"
+            ],
+            "tipsVi": [
+                "Broken sword có combo R1 6 đòn — cả 6 đòn bằng một đòn kiếm thường",
+                "Leo Ring là nguồn sát thương cao nhất",
+                "Power Within bắt buộc cho mọi boss không phải Pinwheel",
+                "Build này dạy bạn moveset boss tốt hơn mọi run khác"
+            ]
+        },
+        {
+            "slug": "boxing-hollow",
+            "name": "Boxing Hollow",
+            "nameVi": "Hollow Quyền Anh",
+            "description": "Dragon Fist + Caestus. Become the boxing champion of Lordran. The Dragon Fist has a unique R2 that fires a fireball. The Caestus is your fast jab. No swords, no shields — just fists.",
+            "descriptionVi": "Dragon Fist + Caestus. Trở thành nhà vô địch quyền anh của Lordran. Dragon Fist có R2 bắn cầu lửa. Caestus là cú jab nhanh.",
+            "category": "meme",
+            "difficulty": 2,
+            "dlc": false,
+            "gameClass": "Bandit",
+            "gameClassVi": "Kẻ Cướp",
+            "sl": 99,
+            "stats": {
+                "Vitality": 50,
+                "Attunement": 8,
+                "Endurance": 40,
+                "Strength": 40,
+                "Dexterity": 10,
+                "Resistance": 11,
+                "Intelligence": 10,
+                "Faith": 8
+            },
+            "phases": [
+                {
+                    "name": "Early Game",
+                    "nameVi": "Đầu Game",
+                    "levels": "1–35",
+                    "areas": "Undead Burg, Parish, Darkroot",
+                    "areasVi": "Undead Burg, Parish, Darkroot",
+                    "steps": [
+                        "Pick Bandit for highest starting Strength",
+                        "Buy Caestus from the Undead Merchant in the Burg",
+                        "Level Strength to 30 and Endurance to 20",
+                        "Reinforce Caestus to +5",
+                        "The Caestus R1 is a fast jab — use it for quick hits",
+                        "Learn to love the short range"
+                    ],
+                    "stepsVi": [
+                        "Chọn Bandit cho Strength cao nhất",
+                        "Mua Caestus từ Undead Merchant",
+                        "Tăng Strength lên 30 và Endurance lên 20",
+                        "Nâng Caestus lên +5",
+                        "Caestus R1 là cú jab nhanh",
+                        "Học cách yêu tầm đánh ngắn"
+                    ]
+                },
+                {
+                    "name": "Mid Game",
+                    "nameVi": "Giữa Game",
+                    "levels": "35–70",
+                    "areas": "Sen's Fortress, Anor Londo, Ash Lake",
+                    "areasVi": "Sen's Fortress, Anor Londo, Ash Lake",
+                    "steps": [
+                        "Push Strength to 40 and Vitality to 30",
+                        "Get the Dragon Fist from the Everlasting Dragon in Ash Lake",
+                        "Cut the Dragon's tail for the Dragon Greatsword? No. Get the Fist.",
+                        "The Dragon Fist fires a fireball on R2",
+                        "Powerstance Caestus in right hand, Dragon Fist in left",
+                        "Equip the Leo Ring for counter damage on fist attacks"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength lên 40 và Vitality lên 30",
+                        "Lấy Dragon Fist từ Everlasting Dragon ở Ash Lake",
+                        "Dragon Fist có R2 bắn cầu lửa",
+                        "Powerstance: Caestus tay phải, Dragon Fist tay trái",
+                        "Trang bị Leo Ring"
+                    ]
+                },
+                {
+                    "name": "Late Game",
+                    "nameVi": "Cuối Game",
+                    "levels": "70–99",
+                    "areas": "Duke's Archives, Lost Izalith, Kiln",
+                    "areasVi": "Duke's Archives, Lost Izalith, Kiln",
+                    "steps": [
+                        "Max Caestus to +15 Standard for Strength scaling",
+                        "Dragon Fist stays at Dragon weapon level (cannot be upgraded easily)",
+                        "Equip the Dark Wood Grain Ring for fast roll ninja flips",
+                        "Use the Hornet Ring for critical damage on parry/backstab",
+                        "The R2 fireball from Dragon Fist has terrible tracking but amazing style",
+                        "Defeat Gwyn with fisticuffs"
+                    ],
+                    "stepsVi": [
+                        "Nâng Caestus lên +15 Standard",
+                        "Dragon Fist ở cấp Dragon",
+                        "Trang bị Dark Wood Grain Ring",
+                        "Trang bị Hornet Ring",
+                        "R2 cầu lửa của Dragon Fist có tracking tệ nhưng phong cách tuyệt vời",
+                        "Đánh bại Gwyn bằng tay không"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Standard +15",
+                    "ar": 380,
+                    "scaling": "A Str",
+                    "verdict": "Best for Caestus. A Strength scaling at 40 Str.",
+                    "verdictVi": "Tốt nhất cho Caestus."
+                },
+                {
+                    "name": "Chaos +5",
+                    "ar": 420,
+                    "scaling": "B Fire",
+                    "verdict": "Higher AR with 10 humanity but loses buff potential.",
+                    "verdictVi": "AR cao hơn với 10 humanity."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Caestus",
+                    "type": "Weapon",
+                    "location": "Purchased from Undead Merchant in Undead Burg",
+                    "locationVi": "Mua từ Undead Merchant"
+                },
+                {
+                    "name": "Dragon Fist",
+                    "type": "Weapon",
+                    "location": "Ash Lake, cut the Everlasting Dragon's tail",
+                    "locationVi": "Ash Lake, cắt đuôi Everlasting Dragon"
+                },
+                {
+                    "name": "Leo Ring",
+                    "type": "Ring",
+                    "location": "Anor Londo from Ornstein sentinel",
+                    "locationVi": "Anor Londo từ Ornstein sentinel"
+                },
+                {
+                    "name": "Dark Wood Grain Ring",
+                    "type": "Ring",
+                    "location": "DLC Royal Wood",
+                    "locationVi": "DLC Royal Wood"
+                },
+                {
+                    "name": "Hornet Ring",
+                    "type": "Ring",
+                    "location": "Darkroot Garden behind hidden wall",
+                    "locationVi": "Darkroot Garden sau tường ẩn"
+                }
+            ],
+            "tips": [
+                "Your range is terrible — you must stay glued to enemies at all times",
+                "The Dragon Fist R2 fireball is terrible for damage but amazing for intimidation",
+                "Powerstance L1 attacks with Caestus + Dragon Fist are very fast",
+                "You can parry with the Caestus in your offhand — use it",
+                "The Dragon Fist weighs 10 units — level Endurance accordingly"
+            ],
+            "tipsVi": [
+                "Tầm đánh rất ngắn — phải áp sát kẻ địch",
+                "Dragon Fist R2 cầu lửa sát thương tệ nhưng đe dọa tuyệt vời",
+                "Powerstance L1 Caestus + Dragon Fist rất nhanh",
+                "Có thể parry với Caestus tay trái",
+                "Dragon Fist nặng 10 — tăng Endurance tương ứng"
+            ]
+        },
+        {
+            "slug": "item-man",
+            "name": "Item Man",
+            "nameVi": "Người Đồ Vật",
+            "description": "Only consumable items. Firebombs, dung pies, throwing knives, Lloyd's Talismans. You are a walking inventory. Sort by \"Consumable\" and close your eyes. No weapons, no spells — just items.",
+            "descriptionVi": "Chỉ dùng vật phẩm tiêu hao. Bom lửa, bánh phân, phi tiêu, Lloyd's Talisman. Bạn là một cái túi đồ biết đi.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": true,
+            "gameClass": "Thief",
+            "gameClassVi": "Kẻ Trộm",
+            "sl": 90,
+            "stats": {
+                "Vitality": 40,
+                "Attunement": 8,
+                "Endurance": 30,
+                "Strength": 14,
+                "Dexterity": 20,
+                "Resistance": 11,
+                "Intelligence": 9,
+                "Faith": 8
+            },
+            "phases": [
+                {
+                    "name": "The Shopping Spree",
+                    "nameVi": "Mua Sắm",
+                    "levels": "1–30",
+                    "areas": "Undead Burg, Firelink, Depths",
+                    "areasVi": "Undead Burg, Firelink, Depths",
+                    "steps": [
+                        "Pick Thief for the Master Key",
+                        "Buy all Firebombs from the Undead Merchant in the Burg",
+                        "Buy all Throwing Knives from the same merchant",
+                        "Level Dexterity to 20 — it improves throwing speed",
+                        "Learn the Firebomb arc — it's different from other games",
+                        "Every soul goes to consumables. You are a walking munitions dump."
+                    ],
+                    "stepsVi": [
+                        "Chọn Thief cho Master Key",
+                        "Mua tất cả Firebombs từ Undead Merchant",
+                        "Mua tất cả Throwing Knives",
+                        "Tăng Dexterity lên 20 — cải thiện tốc độ ném",
+                        "Học đường vòng của Firebomb",
+                        "Mọi linh hồn đổ vào đồ tiêu hao"
+                    ]
+                },
+                {
+                    "name": "The Arsenal",
+                    "nameVi": "Kho Vũ Khí",
+                    "levels": "30–65",
+                    "areas": "Sen's Fortress, Anor Londo, Catacombs",
+                    "areasVi": "Sen's Fortress, Anor Londo, Catacombs",
+                    "steps": [
+                        "Buy Lightning Urns from the Crestfallen Merchant in Sen's Fortress",
+                        "Stock up on Dung Pies from several merchants",
+                        "Buy Alluring Skulls and Lloyd's Talismans",
+                        "Level Vitality to 30 and Endurance to 25",
+                        "Poison Throwing Knives are excellent for status buildup",
+                        "Kukris are the best throwing knives — farm them from Blighttown"
+                    ],
+                    "stepsVi": [
+                        "Mua Lightning Urns từ Crestfallen Merchant",
+                        "Dự trữ Dung Pies",
+                        "Mua Alluring Skulls và Lloyd's Talismans",
+                        "Tăng Vitality lên 30 và Endurance lên 25",
+                        "Phi tiêu độc rất tốt cho tích trạng thái",
+                        "Kukris là phi tiêu tốt nhất"
+                    ]
+                },
+                {
+                    "name": "The Legend",
+                    "nameVi": "Huyền Thoại",
+                    "levels": "65–90",
+                    "areas": "Duke's Archives, DLC, Kiln",
+                    "areasVi": "Duke's Archives, DLC, Kiln",
+                    "steps": [
+                        "Max Vitality at 40 and Endurance at 30",
+                        "Black Firebombs from the DLC merchants have best damage",
+                        "Keep ALL consumables in your quick item slots",
+                        "Use Lloyd's Talismans to prevent Estus chugging",
+                        "Defeat Artorias with nothing but consumables",
+                        "Your inventory management skills will be legendary"
+                    ],
+                    "stepsVi": [
+                        "Max Vitality ở 40 và Endurance ở 30",
+                        "Black Firebombs từ DLC có sát thương tốt nhất",
+                        "Đặt tất cả đồ tiêu hao vào ô nhanh",
+                        "Dùng Lloyd's Talismans để chặn Estus",
+                        "Đánh bại Artorias chỉ bằng đồ tiêu hao",
+                        "Kỹ năng quản lý túi đồ của bạn sẽ thành huyền thoại"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Consumable",
+                    "ar": 0,
+                    "scaling": "Dex",
+                    "verdict": "All items have fixed damage. Dexterity increases throw speed.",
+                    "verdictVi": "Tất cả vật phẩm có sát thương cố định. Dex tăng tốc ném."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Firebomb",
+                    "type": "Weapon",
+                    "location": "Undead Merchant in Undead Burg",
+                    "locationVi": "Undead Merchant ở Undead Burg"
+                },
+                {
+                    "name": "Kukri",
+                    "type": "Weapon",
+                    "location": "Dropped by merchants, found in Blighttown",
+                    "locationVi": "Tìm thấy ở Blighttown"
+                },
+                {
+                    "name": "Lightning Urn",
+                    "type": "Weapon",
+                    "location": "Crestfallen Merchant in Sen's Fortress",
+                    "locationVi": "Crestfallen Merchant ở Sen's Fortress"
+                },
+                {
+                    "name": "Black Firebomb",
+                    "type": "Weapon",
+                    "location": "DLC merchants, Undead Asylum",
+                    "locationVi": "Merchant DLC, Undead Asylum"
+                },
+                {
+                    "name": "Lloyd's Talisman",
+                    "type": "Weapon",
+                    "location": "Purchased from Oswald in Undead Parish",
+                    "locationVi": "Mua từ Oswald"
+                },
+                {
+                    "name": "Poison Throwing Knife",
+                    "type": "Weapon",
+                    "location": "Purchased from Shiva of the East or found",
+                    "locationVi": "Mua từ Shiva of the East"
+                }
+            ],
+            "tips": [
+                "Firebombs can be aimed — use the lock-on for better accuracy",
+                "Kukris are your best damage-to-weight ratio for throwing knives",
+                "Lloyd's Talisman prevents enemy healing for 30 seconds",
+                "Poison knives do 5 damage per tick for 120 ticks — 600 total poison damage",
+                "You can buy infinite Firebombs from the Undead Merchant — farm souls, buy bombs, win"
+            ],
+            "tipsVi": [
+                "Firebombs có thể nhắm — dùng lock-on cho chính xác",
+                "Kukris có tỷ lệ sát thương/trọng lượng tốt nhất",
+                "Lloyd's Talisman chặn hồi máu 30 giây",
+                "Phi tiêu độc gây 5 sát thương mỗi tick, 120 tick — 600 tổng",
+                "Có thể mua Firebombs vô hạn — farm souls, mua bom, chiến thắng"
+            ]
         }
     ]
 }

@@ -3918,6 +3918,633 @@
                 "S Dex scaling at +5 gives massive damage per hit",
                 "The rolling L1 is a unique lunging stab attack"
             ]
+        },
+        {
+            "slug": "broken-sword-hero",
+            "name": "Broken Sword Hero",
+            "nameVi": "Anh Hùng Kiếm Gãy",
+            "description": "The Broken Straight Sword is the worst weapon in Dark Souls 3. This build uses ONLY the Broken Straight Sword. SL1 if you have the masochism. Victory has never tasted so hollow.",
+            "descriptionVi": "Broken Straight Sword là vũ khí tệ nhất DS3. Build này CHỈ dùng Broken Straight Sword. SL1 nếu bạn có chủ nghĩa khổ dâm.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": true,
+            "gameClass": "Knight",
+            "gameClassVi": "Hiệp Sĩ",
+            "sl": 1,
+            "stats": {
+                "Vigor": 10,
+                "Attunement": 10,
+                "Endurance": 10,
+                "Vitality": 10,
+                "Strength": 11,
+                "Dexterity": 13,
+                "Intelligence": 9,
+                "Faith": 9,
+                "Luck": 10
+            },
+            "phases": [
+                {
+                    "name": "The Beginning",
+                    "nameVi": "Khởi Đầu",
+                    "levels": "SL 1",
+                    "areas": "Cemetery of Ash",
+                    "areasVi": "Cemetery of Ash",
+                    "steps": [
+                        "Pick Knight for the best starting SL1 stats",
+                        "Find the Broken Straight Sword on a corpse in Cemetery of Ash",
+                        "Embrace your fate. This is your weapon for the entire game.",
+                        "Level Vigor? No. You are SL1. Suffering is the point.",
+                        "Upgrade the Broken Sword as soon as you reach Firelink",
+                        "Raw infusion gives the best early damage for no scaling"
+                    ],
+                    "stepsVi": [
+                        "Chọn Knight cho chỉ số SL1 tốt nhất",
+                        "Tìm Broken Straight Sword từ xác chết ở Cemetery of Ash",
+                        "Chấp nhận số phận. Đây là vũ khí cho cả game.",
+                        "Tăng Vigor? Không. Bạn là SL1. Đau khổ là mục tiêu.",
+                        "Nâng cấp Broken Sword ngay khi đến Firelink",
+                        "Raw infusion cho sát thương tốt nhất đầu game"
+                    ]
+                },
+                {
+                    "name": "The Grind",
+                    "nameVi": "Nghiền Ngẫm",
+                    "levels": "SL 1",
+                    "areas": "High Wall, Undead Settlement, Farron Keep",
+                    "areasVi": "High Wall, Undead Settlement, Farron Keep",
+                    "steps": [
+                        "Every boss is a marathon. Learn their moves perfectly.",
+                        "Use Gold Pine Resin for a damage boost against every boss",
+                        "Equip the Lloyd's Sword Ring and Lloyd's Shield Ring",
+                        "Get the Prisoner's Chain as soon as you can reach Champion Gundyr",
+                        "The Broken Sword does less damage than a sneeze. Persevere.",
+                        "You will die hundreds of times. This is the way."
+                    ],
+                    "stepsVi": [
+                        "Mỗi boss là một cuộc chạy marathon. Học thuộc động tác của chúng.",
+                        "Dùng Gold Pine Resin để tăng sát thương",
+                        "Trang bị Lloyd's Sword Ring và Lloyd's Shield Ring",
+                        "Lấy Prisoner's Chain càng sớm càng tốt",
+                        "Broken Sword gây sát thương ít hơn cái hắt hơi. Hãy kiên trì.",
+                        "Bạn sẽ chết hàng trăm lần. Đây là con đường."
+                    ]
+                },
+                {
+                    "name": "The Victory",
+                    "nameVi": "Chiến Thắng",
+                    "levels": "SL 1",
+                    "areas": "Lothric Castle, Archdragon Peak, DLC",
+                    "areasVi": "Lothric Castle, Archdragon Peak, DLC",
+                    "steps": [
+                        "Max the Broken Sword to +10 Raw for peak (still terrible) damage",
+                        "Use Lightning Blade buff from 15 Faith via Priestess Ring",
+                        "Pontiff's Right Eye and Left Eye for multi-hit sustain",
+                        "The Broken Sword hits 3-4 times per combo — abuse this",
+                        "Defeat Soul of Cinder with your broken blade",
+                        "You are legally allowed to tell everyone you beat DS3 with a broken sword"
+                    ],
+                    "stepsVi": [
+                        "Nâng Broken Sword lên +10 Raw",
+                        "Dùng Lightning Blade buff nhờ Priestess Ring",
+                        "Pontiff's Right Eye và Left Eye",
+                        "Broken Sword đánh 3-4 lần mỗi combo",
+                        "Đánh bại Soul of Cinder với thanh kiếm gãy",
+                        "Bạn có quyền khoe với mọi người rằng bạn đã beat DS3 bằng kiếm gãy"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Raw",
+                    "ar": 130,
+                    "scaling": "None",
+                    "verdict": "Best for SL1. Base damage is all you have.",
+                    "verdictVi": "Tốt nhất cho SL1. Sát thương cơ bản là tất cả."
+                },
+                {
+                    "name": "Deep",
+                    "ar": 140,
+                    "scaling": "None",
+                    "verdict": "Slightly more damage but split into dark. Use for resistant enemies.",
+                    "verdictVi": "Sát thương cao hơn nhưng chia làm dark."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Broken Straight Sword",
+                    "type": "Weapon",
+                    "location": "Cemetery of Ash, on a corpse near the first bonfire",
+                    "locationVi": "Cemetery of Ash, trên xác chết gần bonfire đầu"
+                },
+                {
+                    "name": "Lloyd's Sword Ring",
+                    "type": "Ring",
+                    "location": "High Wall of Lothric, near Tower on the Wall",
+                    "locationVi": "High Wall of Lothric, gần Tower on the Wall"
+                },
+                {
+                    "name": "Prisoner's Chain",
+                    "type": "Ring",
+                    "location": "Transposed from Champion Gundyr's soul",
+                    "locationVi": "Transpose từ linh hồn Champion Gundyr"
+                },
+                {
+                    "name": "Pontiff's Right Eye",
+                    "type": "Ring",
+                    "location": "Transposed from Pontiff Sulyvahn",
+                    "locationVi": "Transpose từ Pontiff"
+                },
+                {
+                    "name": "Priestess Ring",
+                    "type": "Ring",
+                    "location": "Irithyll of the Boreal Valley, on a corpse in the church",
+                    "locationVi": "Irithyll, trên xác chết trong nhà thờ"
+                }
+            ],
+            "tips": [
+                "The Broken Sword has a 4-hit R1 combo that does less damage than most weapons' single swing",
+                "Raw infusion + resins/bundles is your only path to viable damage",
+                "Learn to parry — riposte damage is a significant portion of your boss DPS",
+                "Pontiff's Right Eye procs on 4 consecutive hits — your fast attacks actually help here",
+                "If you can beat Midir with this weapon, you have achieved godhood"
+            ],
+            "tipsVi": [
+                "Broken Sword có combo R1 4 đòn nhưng sát thương thấp hơn một đòn của vũ khí thường",
+                "Raw infusion + resins là con đường duy nhất",
+                "Học parry — riposte là phần lớn sát thương boss",
+                "Pontiff's Right Eye kích hoạt sau 4 đòn liên tiếp",
+                "Nếu bạn đánh bại được Midir với vũ khí này, bạn đã thành thần"
+            ]
+        },
+        {
+            "slug": "patches-cosplay",
+            "name": "Patches Cosplay",
+            "nameVi": "Patches Cosplay",
+            "description": "Full Patches cosplay: his spear, his shield, his armor, and most importantly — the \"Well, what is it?\" gesture. Trick hosts into trusting you, then kick them off cliffs.",
+            "descriptionVi": "Cosplay đầy đủ Patches: giáo, khiên, giáp, và quan trọng nhất — cử chỉ \"Well, what is it?\" Lừa host tin tưởng bạn, rồi đá họ xuống vực.",
+            "category": "meme",
+            "difficulty": 2,
+            "dlc": true,
+            "gameClass": "Knight",
+            "gameClassVi": "Hiệp Sĩ",
+            "sl": 90,
+            "stats": {
+                "Vigor": 30,
+                "Attunement": 10,
+                "Endurance": 25,
+                "Vitality": 20,
+                "Strength": 28,
+                "Dexterity": 13,
+                "Intelligence": 9,
+                "Faith": 9,
+                "Luck": 10
+            },
+            "phases": [
+                {
+                    "name": "Early Game",
+                    "nameVi": "Đầu Game",
+                    "levels": "SL 1-35",
+                    "areas": "High Wall, Undead Settlement",
+                    "areasVi": "High Wall, Undead Settlement",
+                    "steps": [
+                        "Pick Knight for starting gear close to Patches vibe",
+                        "Use a standard Spear from the Shrine Handmaid",
+                        "Find a Shield with 100% physical block — any will do",
+                        "Level Strength to 20 and Vigor to 20",
+                        "Buy the \"Well, what is it?\" gesture from Patches himself",
+                        "Practice kicking enemies off ledges — it's your signature move"
+                    ],
+                    "stepsVi": [
+                        "Chọn Knight để có gear giống Patches",
+                        "Dùng Spear thường từ Shrine Handmaid",
+                        "Tìm khiên 100% vật lý",
+                        "Tăng Strength lên 20 và Vigor lên 20",
+                        "Mua cử chỉ \"Well, what is it?\" từ Patches",
+                        "Luyện đá kẻ địch xuống vực"
+                    ]
+                },
+                {
+                    "name": "Mid Game",
+                    "nameVi": "Giữa Game",
+                    "levels": "SL 35-65",
+                    "areas": "Cathedral of the Deep, Farron Keep, Irithyll",
+                    "areasVi": "Cathedral of the Deep, Farron Keep, Irithyll",
+                    "steps": [
+                        "Complete Patches' questline in Cathedral of the Deep",
+                        "Buy Patches' armor set from the Shrine Handmaid after his quest",
+                        "Get the Winged Spear or his actual four-pronged plow",
+                        "Push Strength to 28 for his shield requirements",
+                        "Equip the Sunlight Straight Sword as backup for the \"Oath of Sunlight\" roleplay",
+                        "Patches' Shield has the \"Shield Bash\" weapon art"
+                    ],
+                    "stepsVi": [
+                        "Hoàn thành nhiệm vụ Patches ở Cathedral of the Deep",
+                        "Mua bộ giáp Patches từ Shrine Handmaid",
+                        "Lấy Winged Spear hoặc four-pronged plow của hắn",
+                        "Đẩy Strength lên 28",
+                        "Trang bị Sunlight Straight Sword để roleplay",
+                        "Khiên Patches có kỹ năng Shield Bash"
+                    ]
+                },
+                {
+                    "name": "Late Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
+                    "levels": "SL 65-90",
+                    "areas": "Lothric Castle, Grand Archives, PvP",
+                    "areasVi": "Lothric Castle, Grand Archives, PvP",
+                    "steps": [
+                        "Patches' armor is medium weight — mid-roll is fine",
+                        "Infuse your spear with Heavy for Strength scaling",
+                        "Use the Leo Ring for spear counter-hit damage",
+                        "The \"Well, what is it?\" gesture asserts dominance",
+                        "Invade as a mound-maker or sunbro — betray your host at the perfect moment",
+                        "Remember: the true victory is the emotional damage you inflict"
+                    ],
+                    "stepsVi": [
+                        "Giáp Patches là medium weight — mid-roll ổn",
+                        "Gắn Heavy cho giáo",
+                        "Dùng Leo Ring cho sát thương phản đòn",
+                        "Cử chỉ \"Well, what is it?\" khẳng định ưu thế",
+                        "Xâm lăng như mound-maker — phản bội host đúng lúc",
+                        "Chiến thắng thực sự là tổn thương tinh thần bạn gây ra"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Heavy",
+                    "ar": 420,
+                    "scaling": "A Str",
+                    "verdict": "Best for Strength-focused spear. Patches approves.",
+                    "verdictVi": "Tốt nhất cho giáo Strength. Patches chấp thuận."
+                },
+                {
+                    "name": "Sharp",
+                    "ar": 380,
+                    "scaling": "B Dex",
+                    "verdict": "Too tryhard. Patches would never min-max.",
+                    "verdictVi": "Quá tryhard. Patches không bao giờ tối ưu."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Patches' Armor Set",
+                    "type": "Armor",
+                    "location": "Shrine Handmaid after completing Patches' quest",
+                    "locationVi": "Shrine Handmaid sau nhiệm vụ Patches"
+                },
+                {
+                    "name": "Winged Spear",
+                    "type": "Weapon",
+                    "location": "Purchased from Shrine Handmaid or found",
+                    "locationVi": "Mua từ Shrine Handmaid"
+                },
+                {
+                    "name": "Patches' Shield",
+                    "type": "Armor",
+                    "location": "Dropped by Patches or purchased after quest",
+                    "locationVi": "Patches rơi ra"
+                },
+                {
+                    "name": "Leo Ring",
+                    "type": "Ring",
+                    "location": "Transposed from Pontiff Sulyvahn's soul",
+                    "locationVi": "Transpose từ Pontiff"
+                },
+                {
+                    "name": "\"Well, what is it?\" Gesture",
+                    "type": "Weapon",
+                    "location": "Purchased from Patches",
+                    "locationVi": "Mua từ Patches"
+                }
+            ],
+            "tips": [
+                "The \"Well, what is it?\" gesture is mandatory — use it after every kill",
+                "Patches' spear has a shield-poke moveset — hide behind your shield and poke",
+                "Kicking enemies off ledges is canon — always seek a gravity kill",
+                "As a Patches cosplayer, you are morally obligated to trick other players",
+                "The four-pronged plow has the same moveset as a spear — maximum disrespect"
+            ],
+            "tipsVi": [
+                "Cử chỉ \"Well, what is it?\" là bắt buộc — dùng nó sau mỗi mạng",
+                "Giáo Patches có moveset đâm sau khiên",
+                "Đá kẻ địch xuống vực là chính thống",
+                "Cosplay Patches, bạn có nghĩa vụ lừa người chơi khác",
+                "Four-pronged plow có moveset như giáo — thiếu tôn trọng tối đa"
+            ]
+        },
+        {
+            "slug": "dung-pie-bomber",
+            "name": "Dung Pie Bomber",
+            "nameVi": "Ném Bánh Phân",
+            "description": "Only throw dung pies, poop items, and any consumable that disgusts your enemies. You don't need to kill them — you just need to make them wish they were dead. The ultimate toxic build.",
+            "descriptionVi": "Chỉ ném bánh phân, đồ phân, và vật phẩm khiến kẻ địch kinh tởm. Bạn không cần giết — chỉ cần làm chúng ước gì mình chết rồi.",
+            "category": "meme",
+            "difficulty": 3,
+            "dlc": true,
+            "gameClass": "Deprived",
+            "gameClassVi": "Kẻ Cùng Khổ",
+            "sl": 80,
+            "stats": {
+                "Vigor": 30,
+                "Attunement": 6,
+                "Endurance": 30,
+                "Vitality": 15,
+                "Strength": 10,
+                "Dexterity": 10,
+                "Intelligence": 10,
+                "Faith": 10,
+                "Luck": 99
+            },
+            "phases": [
+                {
+                    "name": "The Stink Begins",
+                    "nameVi": "Mùi Bắt Đầu",
+                    "levels": "SL 1-30",
+                    "areas": "High Wall, Undead Settlement",
+                    "areasVi": "High Wall, Undead Settlement",
+                    "steps": [
+                        "Pick Deprived for the true zero start",
+                        "Buy Dung Pies from the Shrine Handmaid in Firelink",
+                        "Find more Dung Pies on corpses throughout the High Wall",
+                        "Level Luck to 30 first — Luck affects your consumable item discovery",
+                        "Use Alluring Skulls to distract enemies while you pelt them from range",
+                        "Embrace the fact that this build is a war of attrition"
+                    ],
+                    "stepsVi": [
+                        "Chọn Deprived cho khởi đầu thực sự từ số 0",
+                        "Mua Dung Pies từ Shrine Handmaid",
+                        "Tìm thêm Dung Pies trên xác chết ở High Wall",
+                        "Tăng Luck lên 30 đầu tiên",
+                        "Dùng Alluring Skulls để đánh lạc hướng",
+                        "Chấp nhận rằng build này là chiến tranh tiêu hao"
+                    ]
+                },
+                {
+                    "name": "The Stench Spreads",
+                    "nameVi": "Mùi Lan Tỏa",
+                    "levels": "SL 30-60",
+                    "areas": "Cathedral, Farron Keep, Irithyll",
+                    "areasVi": "Cathedral, Farron Keep, Irithyll",
+                    "steps": [
+                        "Push Luck to 60 for maximum item discovery",
+                        "Buy all Dung Pies from every merchant. Stock up.",
+                        "You can farm Dung Pies from certain enemies in the game",
+                        "Use Poison Moss to cure your own poison (you will poison yourself)",
+                        "Rotten Pine Resin on... wait, you don't use weapons. Just pies.",
+                        "The toxic buildup from multiple dung pies stacks"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Luck lên 60",
+                        "Mua tất cả Dung Pies từ mọi merchant",
+                        "Có thể farm Dung Pies từ một số kẻ địch",
+                        "Dùng Poison Moss để giải độc cho chính mình",
+                        "Rotten Pine Resin trên... khoan, bạn không dùng vũ khí.",
+                        "Tích tụ độc từ nhiều bánh phân cộng dồn"
+                    ]
+                },
+                {
+                    "name": "The Legend",
+                    "nameVi": "Huyền Thoại",
+                    "levels": "SL 60-80",
+                    "areas": "Lothric Castle, Grand Archives, DLC",
+                    "areasVi": "Lothric Castle, Grand Archives, DLC",
+                    "steps": [
+                        "Max Luck at 99 for maximum item discovery",
+                        "Dung Pies now do minimal damage but max toxicity to the enemy's spirit",
+                        "Invade other players' worlds. Throw dung pies. Run away.",
+                        "Use the Dung Pie patty cake true combo: pie, pie, point down",
+                        "You have achieved the highest form of trolling",
+                        "No boss is immune to emotional damage"
+                    ],
+                    "stepsVi": [
+                        "Max Luck ở 99",
+                        "Dung Pies bây giờ sát thương thấp nhất nhưng độc hại tinh thần cao nhất",
+                        "Xâm lăng thế giới người khác. Ném bánh phân. Bỏ chạy.",
+                        "Combo bánh phân: ném, ném, chỉ xuống đất",
+                        "Bạn đã đạt đến hình thức troll cao nhất",
+                        "Không boss nào miễn nhiễm với tổn thương tinh thần"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Toxic",
+                    "ar": 1,
+                    "scaling": "None",
+                    "verdict": "It's a dung pie. What scaling do you expect?",
+                    "verdictVi": "Nó là bánh phân. Bạn mong đợi scaling gì?"
+                }
+            ],
+            "items": [
+                {
+                    "name": "Dung Pie",
+                    "type": "Weapon",
+                    "location": "Shrine Handmaid and various merchants",
+                    "locationVi": "Shrine Handmaid và nhiều merchant"
+                },
+                {
+                    "name": "Alluring Skull",
+                    "type": "Weapon",
+                    "location": "Shrine Handmaid",
+                    "locationVi": "Shrine Handmaid"
+                },
+                {
+                    "name": "Undead Hunter Charm",
+                    "type": "Weapon",
+                    "location": "Shrine Handmaid, found in Undead Settlement",
+                    "locationVi": "Shrine Handmaid, tìm thấy ở Undead Settlement"
+                },
+                {
+                    "name": "Covetous Gold Serpent Ring +3",
+                    "type": "Ring",
+                    "location": "Ringed City DLC",
+                    "locationVi": "Ringed City DLC"
+                },
+                {
+                    "name": "Symbol of Avarice",
+                    "type": "Armor",
+                    "location": "Dropped by mimic in High Wall or Lothric Castle",
+                    "locationVi": "Rơi từ mimic"
+                }
+            ],
+            "tips": [
+                "Dung Pies inflict toxic buildup — wait, they actually do in this game? No. They just make a mess.",
+                "The true damage is psychological. Watch your opponent panic-roll away from the filth.",
+                "Stock up at every bonfire. You need dozens of pies per area.",
+                "Combine with the Point Down gesture for maximum disrespect",
+                "There is one specific Dung Pie in Firelink Shrine that respawns. Guard it with your life."
+            ],
+            "tipsVi": [
+                "Bánh phân không gây sát thương thực sự",
+                "Sát thương thực sự là tâm lý",
+                "Dự trữ ở mỗi bonfire. Bạn cần hàng tá bánh.",
+                "Kết hợp với cử chỉ Point Down",
+                "Có một bánh phân đặc biệt ở Firelink. Bảo vệ nó bằng mạng sống."
+            ]
+        },
+        {
+            "slug": "caestus-champion",
+            "name": "Caestus Champion",
+            "nameVi": "Nhà Vô Địch Caestus",
+            "description": "Only the Caestus — the boxing glove of Dark Souls. Powerstance two Caestus for a flurry of punches. Fast attacks, Perseverance weapon art, and the satisfaction of fisting every boss to death.",
+            "descriptionVi": "Chỉ dùng Caestus — găng tay boxing của Dark Souls. Powerstance hai Caestus cho một trận mưa đấm. Tấn công nhanh, kỹ năng Perseverance.",
+            "category": "meme",
+            "difficulty": 2,
+            "dlc": true,
+            "gameClass": "Warrior",
+            "gameClassVi": "Chiến Binh",
+            "sl": 125,
+            "stats": {
+                "Vigor": 40,
+                "Attunement": 6,
+                "Endurance": 35,
+                "Vitality": 15,
+                "Strength": 40,
+                "Dexterity": 18,
+                "Intelligence": 9,
+                "Faith": 9,
+                "Luck": 10
+            },
+            "phases": [
+                {
+                    "name": "Early Game",
+                    "nameVi": "Đầu Game",
+                    "levels": "SL 1-40",
+                    "areas": "High Wall, Undead Settlement",
+                    "areasVi": "High Wall, Undead Settlement",
+                    "steps": [
+                        "Pick Warrior for high Strength",
+                        "Buy Caestus from the Shrine Handmaid in Firelink",
+                        "Buy a SECOND Caestus — powerstance requires two",
+                        "Level Strength to 20 and Vigor to 20",
+                        "Use a Heavy Gem infusion as soon as possible",
+                        "Perseverance weapon art gives you massive poise"
+                    ],
+                    "stepsVi": [
+                        "Chọn Warrior cho Strength cao",
+                        "Mua Caestus từ Shrine Handmaid",
+                        "Mua Caestus THỨ HAI — powerstance cần hai",
+                        "Tăng Strength lên 20 và Vigor lên 20",
+                        "Gắn Heavy Gem ngay khi có thể",
+                        "Kỹ năng Perseverance cho poise khổng lồ"
+                    ]
+                },
+                {
+                    "name": "Mid Game",
+                    "nameVi": "Giữa Game",
+                    "levels": "SL 40-80",
+                    "areas": "Farron Keep, Catacombs, Irithyll",
+                    "areasVi": "Farron Keep, Catacombs, Irithyll",
+                    "steps": [
+                        "Push Strength to 30 and Endurance to 25",
+                        "Upgrade both Caestus to +7 Heavy",
+                        "Equip the Pontiff's Right Eye for multi-hit damage bonus",
+                        "Equip the Chloranthy Ring for stamina regen",
+                        "Level Vigor to 30 for more HP",
+                        "The powerstance L1 attacks are rapid punches"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength lên 30 và Endurance lên 25",
+                        "Nâng cấp cả hai Caestus lên +7 Heavy",
+                        "Trang bị Pontiff's Right Eye",
+                        "Trang bị Chloranthy Ring",
+                        "Tăng Vigor lên 30",
+                        "L1 powerstance là đấm liên hoàn"
+                    ]
+                },
+                {
+                    "name": "Late Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
+                    "levels": "SL 80-125",
+                    "areas": "Lothric Castle, Archdragon Peak, DLC",
+                    "areasVi": "Lothric Castle, Archdragon Peak, DLC",
+                    "steps": [
+                        "Push Strength to 40 (equals 60 two-handed via powerstance)",
+                        "Max both Caestus to +10 Heavy",
+                        "Equip the Ring of Favor +3 and Havel's Ring +3",
+                        "Use Gold Pine Resin for extra lightning damage on punches",
+                        "Perseverance lets you trade through any attack",
+                        "The powerstance L2 is a double punch with massive poise damage"
+                    ],
+                    "stepsVi": [
+                        "Đẩy Strength lên 40",
+                        "Nâng cả hai Caestus lên +10 Heavy",
+                        "Trang bị Ring of Favor +3 và Havel's Ring +3",
+                        "Dùng Gold Pine Resin",
+                        "Perseverance cho phép bạn trao đổi sát thương",
+                        "L2 powerstance là cú đấm đôi"
+                    ]
+                }
+            ],
+            "affinities": [
+                {
+                    "name": "Heavy",
+                    "ar": 350,
+                    "scaling": "A Str",
+                    "verdict": "Best for pure Strength. A scaling at 40 Str.",
+                    "verdictVi": "Tốt nhất cho Strength thuần."
+                },
+                {
+                    "name": "Sharp",
+                    "ar": 300,
+                    "scaling": "B Dex",
+                    "verdict": "Not worth it for this build.",
+                    "verdictVi": "Không đáng cho build này."
+                }
+            ],
+            "items": [
+                {
+                    "name": "Caestus x2",
+                    "type": "Weapon",
+                    "location": "Purchased from Shrine Handmaid in Firelink Shrine",
+                    "locationVi": "Mua từ Shrine Handmaid"
+                },
+                {
+                    "name": "Pontiff's Right Eye",
+                    "type": "Ring",
+                    "location": "Transposed from Pontiff Sulyvahn",
+                    "locationVi": "Transpose từ Pontiff"
+                },
+                {
+                    "name": "Chloranthy Ring +3",
+                    "type": "Ring",
+                    "location": "Ringed City DLC",
+                    "locationVi": "Ringed City DLC"
+                },
+                {
+                    "name": "Ring of Favor +3",
+                    "type": "Ring",
+                    "location": "Ringed City DLC",
+                    "locationVi": "Ringed City DLC"
+                },
+                {
+                    "name": "Havel's Ring +3",
+                    "type": "Ring",
+                    "location": "Dreg Heap from Havel Knight",
+                    "locationVi": "Dreg Heap từ Havel Knight"
+                },
+                {
+                    "name": "Prisoner's Chain",
+                    "type": "Ring",
+                    "location": "Transposed from Champion Gundyr",
+                    "locationVi": "Transpose từ Champion Gundyr"
+                }
+            ],
+            "tips": [
+                "Powerstance Caestus L1 is the fastest attack in the game — spam it",
+                "Perseverance gives you 15 seconds of massive damage reduction and infinite poise",
+                "Pontiff's Right Eye + Old Wolf Curved Sword on back = 30% damage after 4 hits",
+                "Caestus have terrible range — stay glued to your target",
+                "The powerstance L2 is a slow double-punch that does massive stamina damage to shields"
+            ],
+            "tipsVi": [
+                "Powerstance Caestus L1 là đòn nhanh nhất game",
+                "Perseverance cho 15 giây giảm sát thương và poise vô hạn",
+                "Pontiff's Right Eye + Old Wolf Curved Sword = 30% sát thương",
+                "Caestus có tầm rất ngắn — áp sát mục tiêu",
+                "L2 powerstance là đấm đôi gây sát thương stamina lớn lên khiên"
+            ]
         }
     ]
 }
