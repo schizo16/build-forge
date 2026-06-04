@@ -21,7 +21,7 @@ export default function HomePage() {
       </div>
 
       <div className="mt-16 grid w-full max-w-3xl grid-cols-2 gap-4 md:grid-cols-4">
-        {ALL_GAME_SLUGS.map((slug) => {
+        {ALL_GAME_SLUGS.map((slug, index) => {
           const config = GAME_CONFIGS[slug]
           return (
             <GameCard
@@ -30,6 +30,7 @@ export default function HomePage() {
               name={config.name}
               accent={config.accent}
               buildCount={getGameBuildCount(slug)}
+              index={index}
             />
           )
         })}

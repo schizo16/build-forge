@@ -1,4 +1,7 @@
+'use client'
+
 import Link from "next/link"
+import { motion } from "framer-motion"
 import type { Build } from "@/lib/utils"
 
 const CATEGORY_COLORS: Record<string, string> = {
@@ -13,9 +16,14 @@ export function BuildCard({ build, gameSlug, accent }: { build: Build; gameSlug:
   const catColor = CATEGORY_COLORS[build.category] ?? '#78716C'
 
   return (
-    <Link
-      href={`/${gameSlug}/${build.slug}`}
-      className="group block overflow-hidden rounded-lg border border-forge-border bg-forge-surface transition-all duration-300 hover:border-accent-gold/40"
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.4 }}
+    >
+      <Link
+        href={`/${gameSlug}/${build.slug}`}
+        className="group block overflow-hidden rounded-lg border border-forge-border bg-forge-surface transition-all duration-300 hover:border-accent-gold/40"
     >
       <div className="flex h-24 items-center justify-center border-b border-forge-border bg-gradient-to-br from-forge-surface to-forge-hover">
         <div
@@ -47,5 +55,6 @@ export function BuildCard({ build, gameSlug, accent }: { build: Build; gameSlug:
         </div>
       </div>
     </Link>
+    </motion.div>
   )
 }

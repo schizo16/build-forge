@@ -1,6 +1,7 @@
 'use client'
 
 import { useRouter } from "next/navigation"
+import { motion } from "framer-motion"
 
 export function RandomCTA() {
   const router = useRouter()
@@ -17,11 +18,17 @@ export function RandomCTA() {
   }
 
   return (
-    <button
-      onClick={handleRandom}
-      className="inline-block rounded-lg bg-gradient-to-r from-accent-gold to-yellow-700 px-12 py-4 font-display text-base tracking-widest text-black transition-all duration-300 hover:brightness-110"
+    <motion.div
+      initial={{ opacity: 0, scale: 0.9 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ duration: 0.4, delay: 0.2 }}
     >
-      🎲 RANDOM BUILD
-    </button>
+      <button
+        onClick={handleRandom}
+        className="inline-block rounded-lg bg-gradient-to-r from-accent-gold to-yellow-700 px-12 py-4 font-display text-base tracking-widest text-black transition-all duration-300 hover:brightness-110"
+      >
+        🎲 RANDOM BUILD
+      </button>
+    </motion.div>
   )
 }
