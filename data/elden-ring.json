@@ -3,14 +3,14 @@
     "nameVi": "Elden Ring",
     "accent": "#D4AF37",
     "itemType": "Talisman",
-    "itemTypeVi": "B�a",
+    "itemTypeVi": "Bùa",
     "builds": [
         {
             "slug": "blade-of-the-erdtree",
             "name": "Blade of the Erdtree",
             "nameVi": "Lưỡi Kiếm Erdtree",
             "description": "Blade of the Erdtree is a devastating bleed-focused dual-wield build that shreds every boss in the game. Designed around high Arcane 55, Vigor 50, Dexterity 45, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Blade of the Erdtree handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Scavenger's Curved Sword's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Blade of the Erdtree is its versatility and damage potential when optimized. Key items like Scavenger's Curved Sword are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nBlade of the Erdtree is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build chy mu tn bo vi hai thanh kiếm cong, x xc mi boss trong game. S dng php Occult v ch s Arcane  tch liy sát thng chy mu trong tch tc.",
+            "descriptionVi": "Build cho máu tận diệt với hai thanh kiếm cong, xóa sổ mọi boss trong game. Dùng Occult affinity và Arcane để tích lũy sát thương chảy máu.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -52,12 +52,12 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Samurai để starting Uchigatana and high Dex",
-                        "Rush to Fort Haight and Fort Gael for both halves of the Dectus Medallion",
-                        "Đánh bại Godrick to access Liurnia and respec later",
-                        "Đến Caelid and grab the Reduvia dagger from Murkwater Cave",
-                        "Tng Vigor lên 25 v Dexterity lên 20 trc",
-                        "Tìm the Bloody Slash ash of war in Fort Haight"
+                        "Chọn Samurai để bắt đầu với Uchigatana và chỉ số Dex cao",
+                        "Chạy đến Fort Haight và Fort Gael lấy hai mảnh Dectus Medallion",
+                        "Đánh bại Godrick để vào Liurnia, sau đó có thể reset chỉ số",
+                        "Đến Caelid lấy dao găm Reduvia từ Murkwater Cave",
+                        "Tăng Vigor lên 25 và Dexterity lên 20 trước",
+                        "Tìm Bloody Slash ash of war ở Fort Haight"
                     ]
                 },
                 {
@@ -85,12 +85,12 @@
                     ],
                     "stepsVi": [
                         "Tiếp tục nhiệm vụ của Ranni để đến Nokron lấy Silver Tear Mask",
-                        "Lấy Scavenger's Curved Sword từ Mt. Gelmir — thanh kiếm cong thứ hai",
-                        "Thu thập Lord of Blood's Exultation từ khu vực Lord of Blood",
-                        "Reset ch s ti Rennala  y Arcane lên 35, Dex lên 35",
+                        "Lấy Scavenger Curved Sword từ Mt. Gelmir — thanh kiếm cong thứ hai",
+                        "Thu thập Lord of Blood Exultation từ khu vực Mohgwyn Dynasty",
+                        "Reset chỉ số tại Rennala, đẩy Arcane lên 35, Dex lên 35",
                         "Gắn Occult affinity cho cả hai thanh kiếm cong",
                         "Giết Elemer of the Briar để lấy Claw Talisman",
-                        "Tm White Mask  Mohgwyn Dynasty Mausoleum  tng sát thng mu"
+                        "Tìm White Mask ở Mohgwyn Dynasty Mausoleum để tăng sát thương máu"
                     ]
                 },
                 {
@@ -117,13 +117,13 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "y Arcane lên 55 v Dexterity lên 45  ti a tch liy chy mu",
-                        "Trang b Rotten Winged Sword Insignia  tng sát thng n lin tip",
-                        "Tìm the Backhand Blade in the DLC as an alternative weapon",
+                        "Đẩy Arcane lên 55 và Dexterity lên 45 để tối đa tích lũy chảy máu",
+                        "Trang bị Rotten Winged Sword Insignia để tăng sát thương đánh liên tiếp",
+                        "Tìm Backhand Blade trong DLC làm vũ khí thay thế",
                         "Trang bị Two-Headed Turtle Talisman từ DLC để hồi stamina",
-                        "Dùng the Dragoncrest Greatshield Talisman for physical defense",
-                        "Thu thp Obsidian Lamina t DLC  mt thanh kiếm cong chy mu th v",
-                        "nh bi Promised Consort Radahn bắng n nhy L1"
+                        "Dùng Dragoncrest Greatshield Talisman để phòng thủ vật lý",
+                        "Thu thập Obsidian Lamina từ DLC — một thanh kiếm cong chảy máu thú vị",
+                        "Đánh bại Promised Consort Radahn bằng đánh nhảy L1"
                     ]
                 }
             ],
@@ -133,7 +133,7 @@
                     "ar": 485,
                     "scaling": "S Dex",
                     "verdict": "Worst option for this build. Pure Dex doesn't boost bleed.",
-                    "verdictVi": "L�a ch�n t� nh�t cho build n�y. Dex thu�n kh�ng t\u0003ng ch�y m�u."
+                    "verdictVi": "Lựa chọn tệ nhất cho build này. Dex thuần không tăng chảy máu."
                 },
                 {
                     "name": "Blood",
@@ -144,7 +144,7 @@
                         "value": 112
                     },
                     "verdict": "Insane bleed buildup, but lower AR. Best for pure bleed procs.",
-                    "verdictVi": "T�ch liy ch�y m�u kh�ng khi�p, nh�ng AR th�p h�n. T�t nh�t \u0011� g�y ch�y m�u nhanh."
+                    "verdictVi": "Tích lũy chảy máu khủng khiếp, nhưng AR thấp hơn. Tốt nhất để gây chảy máu nhanh."
                 },
                 {
                     "name": "Occult",
@@ -155,7 +155,7 @@
                         "value": 72
                     },
                     "verdict": "Best overall. Highest AR with solid bleed. One-hand powers stance moveset.",
-                    "verdictVi": "T�t nh�t t�ng th�. AR cao nh�t v�i ch�y m�u �n \u0011�nh."
+                    "verdictVi": "Tốt nhất tổng thể. AR cao nhất với chảy máu ổn định."
                 }
             ],
             "items": [
@@ -169,7 +169,7 @@
                     "name": "Bandit's Curved Sword",
                     "type": "Weapon",
                     "location": "Dropped by skeleton enemies in Caelid",
-                    "locationVi": "Dropped by skeleton enemies in Caelid"
+                    "locationVi": "Rơi từ kẻ địch skeleton ở Caelid"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
@@ -205,7 +205,7 @@
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael, Brace of the Haligtree, on a corpse near the Prayer Room site of grace",
-                    "locationVi": "Elphael, Brace of the Haligtree, on a corpse near the Prayer Room site of grace"
+                    "locationVi": "Elphael, Brace of the Haligtree"
                 },
                 {
                     "name": "Thorny Cracked Tear",
@@ -235,11 +235,11 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Blade of the Erdtree has flexibility in gear choices."
             ],
             "tipsVi": [
-                "n nhy L1 gy trăng thi hai lên mi lên nhn  lun nhy tn công khi c th",
-                "Cc talisman a n (Rotten Winged Sword, Millicent's Prosthesis, Claw) công dn vi nhau",
-                "Seppuku kch hot Lord of Blood's Exultation v White Mask công lc",
-                "Keep a spare Blood-infused weapon for bosses immune to Occult-scaling bleed",
-                "Two-Handed Sword Talisman t DLC tng sát thng n nhy"
+                "Đánh nhảy L1 gây trạng thái hai lần mỗi lần nhấn — luôn nhảy tấn công khi có thể",
+                "Các talisman đa đòn (Rotten Winged Sword, Millicent Prosthesis, Claw) cộng dồn với nhau",
+                "Seppuku kích hoạt Lord of Blood Exultation và White Mask cùng lúc",
+                "Giữ một vũ khí Blood-infused dự phòng cho boss miễn nhiễm Occult",
+                "Two-Handed Sword Talisman từ DLC tăng sát thương đánh nhảy"
             ]
         },
         {
@@ -247,7 +247,7 @@
             "name": "Moonveil Mage",
             "nameVi": "Moonveil Mage",
             "description": "Moonveil Mage is an intelligence-based katana build that combines powerful sorceries with moonveil's unique weapon skill. Designed around high Intelligence 60, Vigor 40, Mind 35, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans.\n\nIn PvE, Moonveil Mage handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Moonveil's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Moonveil Mage is its accessibility and consistent performance. Key items like Moonveil are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Moonveil Mage is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build katana da trn Intelligence, kt hp ma thut mnh m vi chiu thc c o ca Moonveil. Hon ho cho ngi chi mi mun sát thng c cn chin lên ma thut.",
+            "descriptionVi": "Build katana dựa trên Intelligence, kết hợp ma thuật mạnh mẽ với chiêu thức độc đáo của Moonveil. Hoàn hảo cho người chơi mới muốn sát thương cận chiến lẫn ma thuật.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -289,12 +289,12 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Prisonerthe best starting stat spread (Int 14, Dex 14)",
-                        "Rush to Caelid and Đánh bại Magma Wyrm to get Moonveil early",
-                        "Alternatively, Đánh bại Rennala and respec into Int build",
-                        "Tng Vigor lên 20 v Intelligence lên 30",
-                        "Mua Glintstone Pebble and Carian Slicer từ Sorceress Sellen",
-                        "Tìm the Meteorite Staff in Caelid for S-tier early staff"
+                        "Chọn Prisoner để có chỉ số khởi đầu tốt nhất (Int 14, Dex 14)",
+                        "Chạy đến Caelid và đánh bại Magma Wyrm để lấy Moonveil sớm",
+                        "Hoặc đánh bại Rennala và reset chỉ số sang Int build",
+                        "Tăng Vigor lên 20 và Intelligence lên 30",
+                        "Mua Glintstone Pebble và Carian Slicer từ Sorceress Sellen",
+                        "Tìm Meteorite Staff ở Caelid — cây gậy S-tier đầu game"
                     ]
                 },
                 {
@@ -321,12 +321,12 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "u t mnh vo Intelligence  y lên 50",
+                        "Đầu tư mạnh vào Intelligence, đẩy lên 50",
                         "Lấy Carian Regal Scepter từ Remembrance của Rennala",
                         "Thu thập Wing of Astel từ Uhl Palace Ruins",
                         "Nhận Magic Scorpion Charm từ nhiệm vụ của Seluvis",
-                        "Tng Mind lên 30  c FP thoi mi",
-                        "Trang b Graven-Mass Talisman  tng sát thng ma thut"
+                        "Tăng Mind lên 30 để có FP thoải mái",
+                        "Trang bị Graven-Mass Talisman để tăng sát thương ma thuật"
                     ]
                 },
                 {
@@ -353,12 +353,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "y Intelligence lên 60 v Vigor lên 40",
-                        "Tm Terra Magicus  thit lp sát thng nuke",
-                        "Thu thập Lusat's Glintstone Staff từ Sellia Hideaway",
-                        "Trang b Godfrey Icon  tng sát thng php tch liy",
-                        "Dex lên 18  tng tc nim php",
-                        "nh bi Malenia bắng Transient Moonlight  sát thng stance l cha kha"
+                        "Đẩy Intelligence lên 60 và Vigor lên 40",
+                        "Tìm Terra Magicus để thiết lập sát thương nuke",
+                        "Thu thập Lusat Glintstone Staff từ Sellia Hideaway",
+                        "Trang bị Godfrey Icon để tăng sát thương phép tích lũy",
+                        "Dex lên 18 để tăng tốc niệm phép",
+                        "Đánh bại Malenia bằng Transient Moonlight — sát thương stance là chìa khóa"
                     ]
                 }
             ],
@@ -368,7 +368,7 @@
                     "ar": 438,
                     "scaling": "S Int",
                     "verdict": "Default best option. Moonveil comes Magic-infused — just pump Int.",
-                    "verdictVi": "L�a ch�n m�c \u0011�nh t�t nh�t. Moonveil \u0011� c� Magic-infused \u0014 ch� c�n t\u0003ng Int."
+                    "verdictVi": "Lựa chọn mặc định tốt nhất. Moonveil đã có Magic-infused — chỉ cần tăng Int."
                 },
                 {
                     "name": "Cold",
@@ -379,14 +379,14 @@
                         "value": 85
                     },
                     "verdict": "Good for frost buildup but lowers AR. Only if you want frostbite utility.",
-                    "verdictVi": "T�t cho t�ch liy b\u0003ng nh�ng gi�m AR. Ch� d�ng n�u mu�n hi�u �ng b\u0003ng."
+                    "verdictVi": "Tốt cho tích lũy băng nhưng giảm AR. Chỉ dùng nếu muốn hiệu ứng băng."
                 },
                 {
                     "name": "Keen",
                     "ar": 352,
                     "scaling": "B Dex",
                     "verdict": "Not recommended. Moonveil is an Int weapon first.",
-                    "verdictVi": "Kh�ng khuy�n kh�ch. Moonveil l� vi kh� Int tr��c ti�n."
+                    "verdictVi": "Không khuyến khích. Moonveil là vũ khí Int trước tiên."
                 }
             ],
             "items": [
@@ -466,11 +466,11 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Moonveil Mage has flexibility in gear choices."
             ],
             "tipsVi": [
-                "Transient Moonlight ca Moonveil c tm xa tuyt vi v sát thng stance cao",
-                "Jumping heavy attack + Transient Moonlight R2 is a massive stagger combo",
-                "Terra Magicus into Comet Azur with Cerulean Hidden Tear melts bosses instantly",
-                "Carian Slicer l lửa chn DPS cao nht cho cn chin",
-                "Gi Loretta's Greatbow  bắn tỉa k ch t xa m khng ko aggro"
+                "Transient Moonlight của Moonveil có tầm xa tuyệt vời và sát thương stance cao",
+                "Jump heavy attack + Transient Moonlight R2 là combo stagger khủng",
+                "Terra Magicus + Comet Azur + Cerulean Hidden Tear nukem boss",
+                "Carian Slicer là lựa chọn DPS cao nhất cho cận chiến",
+                "Giữ Loretta Greatbow để bắn tỉa kẻ địch từ xa mà không kéo aggro"
             ]
         },
         {
@@ -478,7 +478,7 @@
             "name": "Blasphemous Paladin",
             "nameVi": "Hiệp Sĩ Blasphemous",
             "description": "Blasphemous Paladin is a strength/faith paladin build using the blasphemous blade. Designed around high Vigor 50, Faith 50, Strength 40, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Blasphemous Paladin handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Blasphemous Blade's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Blasphemous Paladin is its accessibility and consistent performance. Key items like Blasphemous Blade are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Blasphemous Paladin is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build Strength/Faith hip s) vi Blasphemous Blade. K nng vi kh hi HP trong khi gy sát thng lửa.",
+            "descriptionVi": "Build Strength/Faith hiệp sĩ với Blasphemous Blade. Kỹ năng hút hồi HP trong khi gây sát thương lửa.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -520,10 +520,10 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Hero để high Strength and Faith",
-                        "Tng Strength lên 22 v Faith lên 12",
-                        "Dùng acred Blade ash of war",
-                        "Tng Vigor lên 25 trc",
+                        "Chọn Hero để bắt đầu với Strength và Faith cao",
+                        "Tăng Strength lên 22 và Faith lên 12",
+                        "Dùng Sacred Blade ash of war",
+                        "Tăng Vigor lên 25 trước",
                         "Tìm Flask of Wondrous Physick",
                         "Giết Tree Sentinel"
                     ]
@@ -552,11 +552,11 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Đánh bại Rykard for Blasphemous Blade",
-                        "y Faith lên 35, Strength lên 30",
-                        "Trang bị Golden Vow on a dagger",
+                        "Đánh bại Rykard để lấy Blasphemous Blade",
+                        "Đẩy Faith lên 35, Strength lên 30",
+                        "Trang bị Golden Vow trên một con dao găm",
                         "Lấy Flame Grant Me Strength từ Caelid",
-                        "Tng Mind lên 20",
+                        "Tăng Mind lên 20",
                         "Trang bị Shard of Alexander"
                     ]
                 },
@@ -584,12 +584,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "y Strength lên 40 v Faith lên 50",
-                        "Trang bị Fire Scorpion Charm",
-                        "Lấy Erdtree Seal từ DLC",
-                        "Dùng est Threads from DLC for ranged",
-                        "Taker's Flames hi 10% sát thng",
-                        "Xếp talisman lửa"
+                        "Đẩy Faith lên 50 và Strength lên 40",
+                        "Max Blasphemous Blade lên +10",
+                        "Trang bị Dragoncrest Greatshield Talisman",
+                        "Lấy Golden Vow incantation cho buff 15% sát thương",
+                        "Dùng Fire Scorpion Charm để tăng sát thương lửa",
+                        "Combo Taker Flames để hồi máu qua mọi boss"
                     ]
                 }
             ],
@@ -606,7 +606,7 @@
                     "ar": 550,
                     "scaling": "B Str B Fth",
                     "verdict": "Better at low levels but not as good as default.",
-                    "verdictVi": "T�t h�n � c�p th�p nh�ng kh�ng b�ng m�c \u0011�nh."
+                    "verdictVi": "Tốt hơn ở cấp thấp nhưng không bằng mặc định."
                 }
             ],
             "items": [
@@ -686,11 +686,11 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Blasphemous Paladin has flexibility in gear choices."
             ],
             "tipsVi": [
-                "Taker's Flames hi mu phn trm sát thng",
-                "Golden Vow + FGMS + Fire Scorpion Charm = 60%+ sát thng lửa",
-                "Blasphemous Blade is one of the best weapons in the game",
-                "Pest Threads từ DLC rất mạnh với boss to",
-                "The weapon skill stance damage breaks bosses quickly"
+                "Taker Flames hồi HP dựa trên sát thương gây ra — tận dụng trên đám đông để full máu",
+                "Golden Vow + Flame Grant Me Strength = 40% buff sát thương cộng dồn",
+                "Blasphemous Blade gây sát thương lửa, dùng Fire Scorpion Charm để tối đa hóa",
+                "Shard of Alexander tăng 15% sát thương skill — thiết yếu cho Taker Flames",
+                "Luôn giữ một vũ khí dự phòng cho boss kháng lửa"
             ]
         },
         {
@@ -698,7 +698,7 @@
             "name": "Colossal Knight",
             "nameVi": "Colossal Knight",
             "description": "Colossal Knight is a pure strength build with the greatsword or giant-crusher. Designed around high Strength 80, Vigor 60, Endurance 40, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Colossal Knight handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Greatsword's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Colossal Knight is its accessibility and consistent performance. Key items like Greatsword are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Colossal Knight is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A pure Strength build with the Greatsword or Giant-Crusher. Heavy armor, Heavy infusion, jump attack spam. The ultimate unga bunga experience.",
+            "descriptionVi": "A pure Strength build với the Greatsword or Giant-Crusher. Heavy armor, Heavy infusion, jump attack spam. The ultimate unga bunga experience.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -740,7 +740,7 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Vagabondhigh Vigor and Strength",
+                        "Chọn Vagabondhigh Vigor và Strength",
                         "Chạy đến Caelid lấy Greatsword",
                         "Cầm hai tay với 20 Strength",
                         "Tng Vigor lên 30 trc",
@@ -826,7 +826,7 @@
                     "ar": 580,
                     "scaling": "C Str D Dex",
                     "verdict": "Wasted on this build. You have minimal Dex.",
-                    "verdictVi": "L�ng ph� cho build n�y."
+                    "verdictVi": "Lng ph cho build ny."
                 }
             ],
             "items": [
@@ -918,7 +918,7 @@
             "name": "Ice Spear DEX",
             "nameVi": "Giáo Băng Dex",
             "description": "Ice Spear DEX is a dexterity build using dragon halberd or frozen needle with ice spear. Designed around high Dexterity 70, Vigor 50, Endurance 30, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Ice Spear DEX handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Dragon Halberd's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Ice Spear DEX is its versatility and damage potential when optimized. Key items like Dragon Halberd are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nIce Spear DEX is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A Dexterity build using Dragon Halberd or Frozen Needle with Ice Spear. Frostbite procs with lightning-fast thrust attacks.",
+            "descriptionVi": "A Dexterity build using Dragon Halberd or Frozen Needle với Ice Spear. Frostbite procs với lightning-fast thrust attacks.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1046,7 +1046,7 @@
                     "ar": 520,
                     "scaling": "A Dex",
                     "verdict": "Adds frost buildup but lowers AR.",
-                    "verdictVi": "Th�m b\u0003ng nh�ng gi�m AR."
+                    "verdictVi": "Thm bng nhng gim AR."
                 }
             ],
             "items": [
@@ -1182,7 +1182,7 @@
                     "stepsVi": [
                         "Chọn Astrologer cho Int cao",
                         "Tng Int v Faith lên 15/15",
-                        "Dùng eteorite Staff with Rock Sling",
+                        "Dùng eteorite Staff với Rock Sling",
                         "Lấy Flame Sling từ trại Godrick Soldier",
                         "Tng Mind lên 20",
                         "Giết Rennala để reset về sau"
@@ -1259,7 +1259,7 @@
                     "ar": 650,
                     "scaling": "B Int B Fth",
                     "verdict": "Best for fire spells with 45/45 split.",
-                    "verdictVi": "T�t nh�t cho ph�p l�a."
+                    "verdictVi": "Tt nht cho php la."
                 },
                 {
                     "name": "Golden Order",
@@ -1435,7 +1435,7 @@
                         "y Arcane lên 40 v Faith lên 20",
                         "Tìm Dragon Communion Seal in Fringefolk Hero's Grave",
                         "Farm Dragon Hearts từ rồng",
-                        "Get Dragonmaw and Dragonclaw incantations",
+                        "Get Dragonmaw và Dragonclaw incantations",
                         "Tng Mind lên 25",
                         "Trang bị Flock's Canvas Talisman"
                     ]
@@ -1479,7 +1479,7 @@
                     "ar": 0,
                     "scaling": "S Arc",
                     "verdict": "Best seal. Scales almost purely with Arcane.",
-                    "verdictVi": "Seal t�t nh�t. T\u0003ng g�n nh� ho�n to�n theo Arcane."
+                    "verdictVi": "Seal tt nht. Tng gn nh hon ton theo Arcane."
                 }
             ],
             "items": [
@@ -1615,7 +1615,7 @@
                     "stepsVi": [
                         "Chn Vagabond cho ch s cn bắng",
                         "Lấy Bloodhound's Fang từ Darriwil",
-                        "Level Strength and Dex evenly to 20/20",
+                        "Level Strength và Dex evenly to 20/20",
                         "Dùng uality affinity from the Iron Whetblade",
                         "Giết Godrick",
                         "Tng Vigor lên 25"
@@ -1680,9 +1680,9 @@
                         "y Str/Dex lên 55/55",
                         "Nng Bloodhound's Fang lên +10",
                         "Trang bị Bloodhound's Step",
-                        "Wear best medium armor for fashion and function",
+                        "Wear best medium armor for fashion và function",
                         "Dùng ny Quality weapon in the game",
-                        "Bloodhound's Fang weapon skill is a gap closer and escape"
+                        "Bloodhound's Fang weapon skill is a gap closer và escape"
                     ]
                 }
             ],
@@ -1782,7 +1782,7 @@
                 "55/55 Str/Dex is the Quality soft cap - you can use any weapon in the game",
                 "Bloodhound's Fang combo: L2 rồi R2",
                 "Bloodhound's Fang is one of the few somber weapons that can be buffed",
-                "Keep multiple weapons with different damage types for different situations",
+                "Keep multiple weapons với different damage types for different situations",
                 "Quality affinity cho B/B hoặc A/A scaling"
             ]
         },
@@ -1836,7 +1836,7 @@
                         "Chọn Prophet cho Faith cao",
                         "Tng Faith lên 30",
                         "Lấy Cipher Pata từ Roundtable Hold",
-                        "Dùng atch Flame and Flame Sling",
+                        "Dùng atch Flame và Flame Sling",
                         "Tìm the Two Fingers Heirloom",
                         "Giết Tree Sentinel"
                     ]
@@ -1912,7 +1912,7 @@
                     "ar": 620,
                     "scaling": "S Fth",
                     "verdict": "Best for Lightning-infused weapons.",
-                    "verdictVi": "T�t nh�t cho vi kh� Lightning."
+                    "verdictVi": "Tt nht cho vi kh Lightning."
                 },
                 {
                     "name": "Sacred",
@@ -2132,14 +2132,14 @@
                     "ar": 540,
                     "scaling": "A Str",
                     "verdict": "Best AR but who cares. You flick people.",
-                    "verdictVi": "AR t�t nh�t nh�ng ai quan t�m."
+                    "verdictVi": "AR tt nht nhng ai quan tm."
                 },
                 {
                     "name": "Occult",
                     "ar": 480,
                     "scaling": "B Str",
                     "verdict": "Not worth it. Pure meme is the goal.",
-                    "verdictVi": "Kh�ng \u0011�ng. M�c ti�u l� meme."
+                    "verdictVi": "Khng ng. Mc tiu l meme."
                 }
             ],
             "items": [
@@ -2231,7 +2231,7 @@
             "name": "Dark Moon Greatsword",
             "nameVi": "Đại Kiếm Trăng Tối",
             "description": "Dark Moon Greatsword is an intelligence build wielding the legendary dark moon greatsword. Designed around high Intelligence 70, Vigor 50, Mind 30, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Dark Moon Greatsword handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Dark Moon Greatsword's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Dark Moon Greatsword is its versatility and damage potential when optimized. Key items like Dark Moon Greatsword are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nDark Moon Greatsword is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Intelligence v:i Dark Moon Greatsword huyn thoi. n nng tch lc bắn n bng trong khi kiếm gy sát thng php l:n.",
+            "descriptionVi": "Build Intelligence v:i Dark Moon Greatsword huyn thời n nng tch lc bắn n bng trong khi kiếm gy sát thng php l:n.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2352,7 +2352,7 @@
                     "ar": 680,
                     "scaling": "S Int",
                     "verdict": "Dark Moon Greatsword comes Magic-infused. Pump Intelligence for maximum damage.",
-                    "verdictVi": "Dark Moon Greatsword �\u0018� c� Magic-infused. T\u0012ng Intelligence t�\u0018i �\u0018a s�t th��ng."
+                    "verdictVi": "Dark Moon Greatsword  c Magic-infused. Tng Intelligence ti a st thng."
                 }
             ],
             "items": [
@@ -2421,7 +2421,7 @@
                 "Dark Moon Greatsword's charged R2 fires a frost projectile that deals massive stance damage",
                 "The weapon skill buffs the sword with 65 magic damage for 60 seconds",
                 "Use Terra Magicus before boss fights for 35% magic damage boost",
-                "The projectile counts as a charged attack �\u001d benefits from Godfrey Icon",
+                "The projectile counts as a charged attack  benefits from Godfrey Icon",
                 "Keep a staff in offhand for emergency sorceries",
                 "Stat soft caps in Elden Ring: Vigor 40/60, Endurance 50, Str/Dex 55, Int/Fth/Arc 50/80. Know these for efficient leveling of Dark Moon Greatsword.",
                 "Jump attacks are king in Elden Ring — they deal massive stance damage and are safe against most attacks. Dark Moon Greatsword users should abuse jumping R2s.",
@@ -2435,7 +2435,7 @@
                 "Charged R2 bắn n bng gy sát thng stance l:n",
                 "K nng vi kh buff 65 sát thng php trong 60 giy",
                 "Dng Terra Magicus tr:c boss  tng 35% sát thng php",
-                "The projectile counts as a charged attack �\u001d benefits from Godfrey Icon",
+                "The projectile counts as a charged attack  benefits from Godfrey Icon",
                 "Gi staff trong tay trơi cho ma thut khn cp"
             ]
         },
@@ -2486,7 +2486,7 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Vagabondhigh Strength and Vigor",
+                        "Chọn Vagabondhigh Strength và Vigor",
                         "Tng Strength lên 30 v Vigor lên 25",
                         "Dùng  Heavy-infused Greatsword temporarily",
                         "Đánh bại Godrick for access to Liurnia",
@@ -2520,7 +2520,7 @@
                     "stepsVi": [
                         "Chạy ến Mt Gelmir lấy Fallingstar Beast Jaw",
                         "Đánh bại the Full-Grown Fallingstar Beast",
-                        "Forty Strength and 20 Intelligence",
+                        "Forty Strength và 20 Intelligence",
                         "Nng vi kh lên +9",
                         "Trang bị Shard of Alexander for weapon skill damage",
                         "Tng Endurance lên 25"
@@ -2565,7 +2565,7 @@
                     "ar": 720,
                     "scaling": "B Str D Int",
                     "verdict": "Unique weapon, cannot be infused. Scales with Str and Int.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t, kh�ng th� thay �\u0018�\"i. T\u0012ng theo Str v� Int."
+                    "verdictVi": "Vi kh \"c nht, khng th thay \"i. Tng theo Str v Int."
                 }
             ],
             "items": [
@@ -2632,7 +2632,7 @@
             ],
             "tips": [
                 "Fallingstar Beast Jaw's weapon skill fires a gravity projectile that does massive poise damage",
-                "The weapon skill can be spammed from range �\u001d it's one of the safest boss killers",
+                "The weapon skill can be spammed from range  it's one of the safest boss killers",
                 "Two-handing the weapon gives bonus Strength scaling",
                 "The charged R2 has a unique follow-up attack",
                 "Stack poise armor to avoid interruption during the weapon skill wind-up",
@@ -2646,7 +2646,7 @@
             ],
             "tipsVi": [
                 "K nng vi kh bắn n trăng lc gy sát thng poise l:n",
-                "The weapon skill can be spammed from range �\u001d it's one of the safest boss killers",
+                "The weapon skill can be spammed from range  it's one of the safest boss killers",
                 "Cầm hai tay cho bonus Strength scaling",
                 "The charged R2 has a unique follow-up attack",
                 "Stack poise armor to avoid interruption during the weapon skill wind-up"
@@ -2699,9 +2699,9 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn SamuraiUchigatana and high Dex",
+                        "Chọn SamuraiUchigatana và high Dex",
                         "Tng Arcane lên 20 v Dexterity lên 20",
-                        "Dùng the Uchigatana with Bloody Slash",
+                        "Dùng the Uchigatana với Bloody Slash",
                         "Đến Altus Plateau s:m",
                         "Giết Okina tại Church of Repose lấy Rivers of Blood",
                         "Nng Rivers of Blood lên +6 ngay"
@@ -2778,7 +2778,7 @@
                     "ar": 580,
                     "scaling": "B Dex C Arc",
                     "verdict": "Unique weapon. Cannot be infused. Pure Arcane scaling for bleed.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. Kh�ng th� thay �\u0018�\"i."
+                    "verdictVi": "Vi kh \"c nht. Khng th thay \"i."
                 }
             ],
             "items": [
@@ -2861,7 +2861,7 @@
                 "Corpse Piler weapon skill triggers every hit of bleed buildup independently",
                 "Combo L2-R2 bắn hai loạt ạn",
                 "Lord of Blood's Exultation tng 20% sát thng khi chy mu",
-                "Dùng the Physick with Thorny Cracked Tear for multi-hit damage boost",
+                "Dùng the Physick với Thorny Cracked Tear for multi-hit damage boost",
                 "Keep a cold-infused weapon for enemies immune to bleed"
             ]
         },
@@ -2991,7 +2991,7 @@
                     "ar": 580,
                     "scaling": "B Int D Dex",
                     "verdict": "Unique weapon. Damage comes primarily from the weapon skill, not AR.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. S�t th��ng ch�nh t� k� n\u0012ng."
+                    "verdictVi": "Vi kh \"c nht. St thng chnh t k nng."
                 }
             ],
             "items": [
@@ -3204,7 +3204,7 @@
                     "ar": 620,
                     "scaling": "C Dex B Fth",
                     "verdict": "Unique weapon. Scales primarily with Faith.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. T\u0012ng ch� y�u theo Faith."
+                    "verdictVi": "Vi kh \"c nht. Tng ch yu theo Faith."
                 }
             ],
             "items": [
@@ -3270,11 +3270,11 @@
                 }
             ],
             "tips": [
-                "Queen's Black Flame does percentage-based damage �\u001d effective against all bosses",
+                "Queen's Black Flame does percentage-based damage  effective against all bosses",
                 "Black Flame incantation also does % damage and can be charged",
                 "Godslayer Greatsword has a unique R2 attack chain",
                 "Use Black Flame Tornado from the DLC for massive AoE black flame damage",
-                "The weapon skill has hyper armor �\u001d use it to trade hits",
+                "The weapon skill has hyper armor  use it to trade hits",
                 "Stat soft caps in Elden Ring: Vigor 40/60, Endurance 50, Str/Dex 55, Int/Fth/Arc 50/80. Know these for efficient leveling of Godslayer Greatsword.",
                 "Jump attacks are king in Elden Ring — they deal massive stance damage and are safe against most attacks. Godslayer Greatsword users should abuse jumping R2s.",
                 "Spirit Ash summons can completely change a boss fight. Mimic Tear is the best general-purpose option for Godslayer Greatsword.",
@@ -3285,10 +3285,10 @@
             ],
             "tipsVi": [
                 "Queen's Black Flame gy sát thng phn trm",
-                "Black Flame incantation also does % damage and can be charged",
+                "Black Flame incantation also does % damage và can be charged",
                 "Godslayer Greatsword has a unique R2 attack chain",
                 "Black Flame Tornado từ DLC cho AoE lửa en",
-                "The weapon skill has hyper armor �\u001d use it to trade hits"
+                "The weapon skill has hyper armor  use it to trade hits"
             ]
         },
         {
@@ -3340,7 +3340,7 @@
                     "stepsVi": [
                         "Chọn Samurai cho Dex cao",
                         "Tng Dexterity lên 25 v Vigor lên 20",
-                        "Dùng the Uchigatana with Unsheathe",
+                        "Dùng the Uchigatana với Unsheathe",
                         "Đến Altus Plateau",
                         "Locate the Bolt of Gransax in Leyndell",
                         "Nng lên +5 v:i somber stone"
@@ -3417,7 +3417,7 @@
                     "ar": 640,
                     "scaling": "E Str C Dex",
                     "verdict": "Unique weapon. Damage comes from the incredible weapon skill range.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. S�t th��ng t� t�m b�n k� n\u0012ng."
+                    "verdictVi": "Vi kh \"c nht. St thng t tm bn k nng."
                 }
             ],
             "items": [
@@ -3483,7 +3483,7 @@
                 }
             ],
             "tips": [
-                "Ancient Lightning Spear has infinite range �\u001d you can snipe any enemy in your line of sight",
+                "Ancient Lightning Spear has infinite range  you can snipe any enemy in your line of sight",
                 "The weapon skill deals massive damage and can be aimed freely",
                 "Charged weapon skill benefits from Godfrey Icon for 15% extra damage",
                 "Bolt of Gransax is one of the few somber weapons that works at extreme range",
@@ -3497,8 +3497,8 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Bolt of Gransax has flexibility in gear choices."
             ],
             "tipsVi": [
-                "Ancient Lightning Spear has infinite range �\u001d you can snipe any enemy in your line of sight",
-                "The weapon skill deals massive damage and can be aimed freely",
+                "Ancient Lightning Spear has infinite range  you can snipe any enemy in your line of sight",
+                "The weapon skill deals massive damage và can be aimed freely",
                 "Charged weapon skill benefits from Godfrey Icon for 15% extra damage",
                 "Bolt of Gransax is one of the few somber weapons that works at extreme range",
                 "Dng Spear Talisman khi nh 9ch ang tn công"
@@ -3509,7 +3509,7 @@
             "name": "Sword of Night and Flame",
             "nameVi": "Kiếm Đêm và Lửa",
             "description": "Sword of Night and Flame is a legendary intelligence/faith hybrid build using the sword of night and flame. Designed around high Intelligence 45, Faith 45, Vigor 40, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Sword of Night and Flame handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Sword of Night and Flame's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Sword of Night and Flame is its accessibility and consistent performance. Key items like Sword of Night and Flame are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Sword of Night and Flame is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build Intelligence/Faith hybrid v:i Sword of Night and Flame. Tia lửa v súng ma thut t m\"t vi kh.",
+            "descriptionVi": "Build Intelligence/Faith hybrid v:i Sword of Night và Flame. Tia lửa v súng ma thut t m\"t vi kh.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -3553,7 +3553,7 @@
                     "stepsVi": [
                         "Chọn Astrologer cho Int cao",
                         "Tng Int v Faith lên 15/15",
-                        "Chạy ến Caria Manor lấy Sword of Night and Flame",
+                        "Chạy ến Caria Manor lấy Sword of Night và Flame",
                         "Dng sorcery c bắn u game",
                         "Tìm the Meteorite Staff in Caelid",
                         "Meet the stat requirements 24/24 Int/Fth"
@@ -3584,7 +3584,7 @@
                     ],
                     "stepsVi": [
                         "y Int/Fth lên 30/30",
-                        "Nng Sword of Night and Flame lên +8",
+                        "Nng Sword of Night và Flame lên +8",
                         "Trang bị the Magic Scorpion Charm",
                         "Lấy Fire Scorpion Charm từ Mt Gelmir",
                         "Tng Mind lên 25",
@@ -3616,8 +3616,8 @@
                     ],
                     "stepsVi": [
                         "y Int/Fth lên 45/45",
-                        "Nng Sword of Night and Flame lên +10",
-                        "Night Comet with Staff of Loss for invisible spells",
+                        "Nng Sword of Night và Flame lên +10",
+                        "Night Comet với Staff of Loss for invisible spells",
                         "Tia lửa t k nng vi kh",
                         "Trang bị the Shard of Alexander for skill damage",
                         "Lun phin lửa v ma thut"
@@ -3630,7 +3630,7 @@
                     "ar": 670,
                     "scaling": "B Int B Fth",
                     "verdict": "Unique weapon. Requires both Int and Faith for maximum damage.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. Y�u c�u c� Int v� Faith."
+                    "verdictVi": "Vi kh \"c nht. Yu cu c Int v Faith."
                 }
             ],
             "items": [
@@ -3696,10 +3696,10 @@
                 }
             ],
             "tips": [
-                "The R1 weapon skill fires a massive fire beam �\u001d use it as your primary ranged attack",
+                "The R1 weapon skill fires a massive fire beam  use it as your primary ranged attack",
                 "The R2 weapon skill releases a magic wave that hits multiple enemies",
                 "Stack both magic and fire damage talismans for hybrid damage",
-                "Night Comet is invisible to enemy AI �\u001d they won't dodge it",
+                "Night Comet is invisible to enemy AI  they won't dodge it",
                 "The sword only meets its full potential with 45/45 Int/Fth split",
                 "Stat soft caps in Elden Ring: Vigor 40/60, Endurance 50, Str/Dex 55, Int/Fth/Arc 50/80. Know these for efficient leveling of Sword of Night and Flame.",
                 "Jump attacks are king in Elden Ring — they deal massive stance damage and are safe against most attacks. Sword of Night and Flame users should abuse jumping R2s.",
@@ -3713,7 +3713,7 @@
                 "R1 bắn tia lửa l:n  tn công xa chình",
                 "R2 to súng ma thut trăng nhiu 9ch",
                 "Xp c talisman php v lửa",
-                "Night Comet is invisible to enemy AI �\u001d they won't dodge it",
+                "Night Comet is invisible to enemy AI  they won't dodge it",
                 "Kiếm ch0 ạt tiềm nĒng ti a v:i 45/45 Int/Fth"
             ]
         },
@@ -3843,7 +3843,7 @@
                     "ar": 680,
                     "scaling": "B Str C Arc",
                     "verdict": "Unique weapon. Scales with Strength and Arcane equally.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. T\u0012ng theo Str v� Arcane."
+                    "verdictVi": "Vi kh \"c nht. Tng theo Str v Arcane."
                 }
             ],
             "items": [
@@ -3935,7 +3935,7 @@
             "name": "Morgott's Cursed Sword",
             "nameVi": "Kiếm Nguyền Morgott",
             "description": "Morgott's Cursed Sword is a quality build using morgott's cursed sword. Designed around high Vigor 55, Strength 50, Dexterity 50, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill.\n\nIn PvP combat, Morgott's Cursed Sword excels at controlling engagement distance and punishing opponent mistakes. The Morgott's Cursed Sword provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Morgott's Cursed Sword is its versatility and damage potential when optimized. Key items like Morgott's Cursed Sword are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nMorgott's Cursed Sword is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A Quality build using Morgott's Cursed Sword. The weapon skill Cursed-Blood Slice has incredible range and applies bleed. Excellent for both PvE and PvP with a versatile moveset.",
+            "descriptionVi": "A Quality build using Morgott's Cursed Sword. The weapon skill Cursed-Blood Slice has incredible range và applies bleed. Excellent for both PvE và PvP với a versatile moveset.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": false,
@@ -3978,7 +3978,7 @@
                     ],
                     "stepsVi": [
                         "Chn Vagabond cho Str/Dex cn bắng",
-                        "Level Str and Dex evenly to 20/20",
+                        "Level Str và Dex evenly to 20/20",
                         "Dùng the Bloodhound's Fang temporarily",
                         "Đến Leyndell",
                         "Đánh bại Morgott for Remembrance",
@@ -4056,7 +4056,7 @@
                     "ar": 620,
                     "scaling": "C Str C Dex",
                     "verdict": "Unique weapon. Quality scaling with built-in bleed.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. Quality scaling v�:i ch�y m�u."
+                    "verdictVi": "Vi kh \"c nht. Quality scaling v:i chy mu."
                 }
             ],
             "items": [
@@ -4123,7 +4123,7 @@
             ],
             "tips": [
                 "Cursed-Blood Slice has incredible range and applies bleed in 2-3 hits",
-                "The weapon skill can be roll-caught easily �\u001d spam it in PvP",
+                "The weapon skill can be roll-caught easily  spam it in PvP",
                 "Morgott's Sword has a unique heavy attack chain",
                 "The sword deals split physical and holy damage",
                 "Lord of Blood's Exultation triggers on the weapon skill bleed",
@@ -4136,8 +4136,8 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Morgott's Cursed Sword has flexibility in gear choices."
             ],
             "tipsVi": [
-                "Cursed-Blood Slice has incredible range and applies bleed in 2-3 hits",
-                "The weapon skill can be roll-caught easily �\u001d spam it in PvP",
+                "Cursed-Blood Slice has incredible range và applies bleed in 2-3 hits",
+                "The weapon skill can be roll-caught easily  spam it in PvP",
                 "Morgott's Sword has a unique heavy attack chain",
                 "Kiếm gy sát thng vt l v thình",
                 "Lord of Blood's Exultation triggers on the weapon skill bleed"
@@ -4268,8 +4268,8 @@
                     "name": "Standard",
                     "ar": 650,
                     "scaling": "B Str C Int",
-                    "verdict": "Unique weapon. Primarily Strength scaling with Intelligence�&�`�.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. T\u0012ng ch� y�u theo Strength."
+                    "verdict": "Unique weapon. Primarily Strength scaling with Intelligence&`.",
+                    "verdictVi": "Vi kh \"c nht. Tng ch yu theo Strength."
                 }
             ],
             "items": [
@@ -4338,7 +4338,7 @@
                 "Wolf's Assault fires a cold wave that does massive frostbite buildup",
                 "Royal Greatsword has a unique R2 that is a lunging thrust",
                 "Frostbite takes 20% of max HP when it procs on enemies",
-                "The weapon skill has hyper armor �\u001d trade through enemy attacks",
+                "The weapon skill has hyper armor  trade through enemy attacks",
                 "Reset frostbite with fire damage to proc it again immediately",
                 "Stat soft caps in Elden Ring: Vigor 40/60, Endurance 50, Str/Dex 55, Int/Fth/Arc 50/80. Know these for efficient leveling of Royal Greatsword.",
                 "Jump attacks are king in Elden Ring — they deal massive stance damage and are safe against most attacks. Royal Greatsword users should abuse jumping R2s.",
@@ -4352,7 +4352,7 @@
                 "Wolf's Assault bắn súng bng tch liy bng l:n",
                 "Royal Greatsword has a unique R2 that is a lunging thrust",
                 "Frostbite takes 20% of max HP when it procs on enemies",
-                "The weapon skill has hyper armor �\u001d trade through enemy attacks",
+                "The weapon skill has hyper armor  trade through enemy attacks",
                 "Reset bng bắng lửa  kch hot li"
             ]
         },
@@ -4406,7 +4406,7 @@
                         "Chọn Prophet cho Faith cao",
                         "Tng Faith lên 30",
                         "Dùng  Sacred-infused weapon temporarily",
-                        "Dùng atch Flame and Lightning Spear",
+                        "Dùng atch Flame và Lightning Spear",
                         "Progress through the game",
                         "Giết Godrick"
                     ]
@@ -4482,7 +4482,7 @@
                     "ar": 700,
                     "scaling": "C Dex S Fth",
                     "verdict": "Unique weapon. Primarily Faith scaling with holy damage.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. T\u0012ng ch� y�u theo Faith."
+                    "verdictVi": "Vi kh \"c nht. Tng ch yu theo Faith."
                 }
             ],
             "items": [
@@ -4548,8 +4548,8 @@
                 }
             ],
             "tips": [
-                "Wave of Gold is the best farming tool in the game �\u001d one-shots all Albinaurics at Palace Approach",
-                "The weapon has a holy damage modifier �\u001d use Sacred Scorpion Charm for more damage",
+                "Wave of Gold is the best farming tool in the game  one-shots all Albinaurics at Palace Approach",
+                "The weapon has a holy damage modifier  use Sacred Scorpion Charm for more damage",
                 "Sacred Relic Sword also wrecks undead enemies permanently",
                 "The charged R2 has excellent range for a greatsword",
                 "Stack Faith to 80 for even more Wave of Gold damage",
@@ -4618,7 +4618,7 @@
                     "stepsVi": [
                         "Chọn Samurai cho Dex cao",
                         "Tng Arcane lên 20 v Dex lên 20",
-                        "Dùng the Uchigatana with Bloody Slash",
+                        "Dùng the Uchigatana với Bloody Slash",
                         "Qua Liurnia ến Altus",
                         "Hon thình nhi!m v Yura",
                         "Đánh bại Eleonora for Poleblade"
@@ -4695,7 +4695,7 @@
                     "ar": 560,
                     "scaling": "D Dex B Arc",
                     "verdict": "Unique weapon. Arcane scaling determines bleed buildup.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. Arcane quy�t �\u0018�9nh t�ch liy ch�y m�u."
+                    "verdictVi": "Vi kh \"c nht. Arcane quyt 9nh tch liy chy mu."
                 }
             ],
             "items": [
@@ -4761,7 +4761,7 @@
                 }
             ],
             "tips": [
-                "Bloodblade Dance has 8+ hits total �\u001d procs bleed even on high-resist enemies",
+                "Bloodblade Dance has 8+ hits total  procs bleed even on high-resist enemies",
                 "Multi-hit talismans stack exponentially with the weapon skill",
                 "The Poleblade is a twinblade with excellent reach",
                 "Use the running R2 for gap closing before using the weapon skill",
@@ -4775,9 +4775,9 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Eleonora's Poleblade has flexibility in gear choices."
             ],
             "tipsVi": [
-                "Bloodblade Dance has 8+ hits total �\u001d procs bleed even on high-resist enemies",
-                "Multi-hit talismans stack exponentially with the weapon skill",
-                "The Poleblade is a twinblade with excellent reach",
+                "Bloodblade Dance has 8+ hits total  procs bleed even on high-resist enemies",
+                "Multi-hit talismans stack exponentially với the weapon skill",
+                "The Poleblade is a twinblade với excellent reach",
                 "Chy R2 p sát tr:c khi dng k nng",
                 "Lord of Blood's Exultation + White Mask = 30% sát thng thm"
             ]
@@ -4898,7 +4898,7 @@
                         "Nil's Blood Rain ph lửa mu",
                         "Trang bị the Shard of Alexander",
                         "Spear Talisman cho sát thng phn n",
-                        "Blood flame DoT stacks with bleed procs"
+                        "Blood flame DoT stacks với bleed procs"
                     ]
                 }
             ],
@@ -4908,7 +4908,7 @@
                     "ar": 620,
                     "scaling": "C Str B Arc",
                     "verdict": "Unique weapon. Arcane scaling is the primary damage source.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. Arcane l� ngu�\u001cn s�t th��ng ch�nh."
+                    "verdictVi": "Vi kh \"c nht. Arcane l ngun st thng chnh."
                 }
             ],
             "items": [
@@ -4989,10 +4989,10 @@
             ],
             "tipsVi": [
                 "Nil's Blood Rain to AoE lửa mu l:n",
-                "The weapon skill is especially effective in tight spaces and against large bosses",
+                "The weapon skill is especially effective in tight spaces và against large bosses",
                 "Thng c tm xa v sát thng phn n",
                 "Dùng ragon Communion incantations for ranged damage options",
-                "The blood flame DoT stacks with bleed hemorrhage damage"
+                "The blood flame DoT stacks với bleed hemorrhage damage"
             ]
         },
         {
@@ -5121,7 +5121,7 @@
                     "ar": 660,
                     "scaling": "B Str D Fth",
                     "verdict": "Unique weapon. Scales primarily with Strength.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. T\u0012ng ch� y�u theo Strength."
+                    "verdictVi": "Vi kh \"c nht. Tng ch yu theo Strength."
                 }
             ],
             "items": [
@@ -5191,7 +5191,7 @@
                 "The fire pools deal damage to enemies standing in them",
                 "Use Flame Grant Me Strength before boss fights for 20% fire damage",
                 "Two-handing the curved greatsword gives a unique moveset",
-                "The weapon deals primarily fire damage �\u001d use Fire Scorpion Charm",
+                "The weapon deals primarily fire damage  use Fire Scorpion Charm",
                 "Stat soft caps in Elden Ring: Vigor 40/60, Endurance 50, Str/Dex 55, Int/Fth/Arc 50/80. Know these for efficient leveling of Magma Wyrm Scalesword.",
                 "Jump attacks are king in Elden Ring — they deal massive stance damage and are safe against most attacks. Magma Wyrm Scalesword users should abuse jumping R2s.",
                 "Spirit Ash summons can completely change a boss fight. Mimic Tear is the best general-purpose option for Magma Wyrm Scalesword.",
@@ -5213,7 +5213,7 @@
             "name": "Greatsword Jump Build",
             "nameVi": "Build Nhảy Đại Kiếm",
             "description": "Greatsword Jump Build is a devastating jump attack build using the greatsword with the claw talisman and the dlc two-handed sword talisman. Designed around high Strength 60, Vigor 55, Endurance 35, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Greatsword Jump Build handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Greatsword's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Greatsword Jump Build is its accessibility and consistent performance. Key items like Greatsword are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Greatsword Jump Build is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A devastating jump attack build using the Greatsword with the Claw Talisman and the DLC Two-Handed Sword Talisman. Every jump attack hits like a truck with the Lion's Claw ash of war.",
+            "descriptionVi": "A devastating jump attack build using the Greatsword với the Claw Talisman và the DLC Two-Handed Sword Talisman. Every jump attack hits like a truck với the Lion's Claw ash of war.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -5421,7 +5421,7 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Greatsword Jump Build has flexibility in gear choices."
             ],
             "tipsVi": [
-                "Jump attacks deal 10% more damage with Claw Talisman",
+                "Jump attacks deal 10% more damage với Claw Talisman",
                 "Two-Handed Sword Talisman tăng 15%",
                 "Raptor's Black Feathers adds another 10% to jump attacks",
                 "Cả ba cho 35% bonus",
@@ -5433,7 +5433,7 @@
             "name": "Dual Spear Powerstance",
             "nameVi": "Song Thương",
             "description": "Dual Spear Powerstance is a dual spear powerstance build that combines range and speed. Designed around high Dexterity 55, Vigor 50, Endurance 30, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill.\n\nIn PvP combat, Dual Spear Powerstance excels at controlling engagement distance and punishing opponent mistakes. The Cross-Naginata provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Dual Spear Powerstance is its versatility and damage potential when optimized. Key items like Cross-Naginata are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nDual Spear Powerstance is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A dual spear powerstance build that combines range and speed. Using the Cross-Naginata and the Bolt of Gransax for devastating charged R2s and long-range pokes.",
+            "descriptionVi": "A dual spear powerstance build that combines range và speed. Using the Cross-Naginata và the Bolt of Gransax for devastating charged R2s và long-range pokes.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": false,
@@ -5477,7 +5477,7 @@
                     "stepsVi": [
                         "Chọn Samurai",
                         "Lấy Cross-Naginata ở Caelid",
-                        "Tăng Dexterity lên 30 and Vigor to 20",
+                        "Tăng Dexterity lên 30 và Vigor to 20",
                         "Tìm the second spear in Liurnia",
                         "Dùng een infusion for Dex scaling",
                         "Học moveset song thương"
@@ -5561,7 +5561,7 @@
                     "ar": 530,
                     "scaling": "B Dex",
                     "verdict": "Good split damage option.",
-                    "verdictVi": "L�a ch�n s�t th��ng chia."
+                    "verdictVi": "La chn st thng chia."
                 }
             ],
             "items": [
@@ -5696,7 +5696,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Astrologer",
-                        "Tăng Int lên 25 and Vigor to 15",
+                        "Tăng Int lên 25 và Vigor to 15",
                         "Carian Knight Sword ở Liurnia",
                         "Carian Greatshield ở Caria Manor",
                         "Mua Carian Slicer từ Sellen",
@@ -5727,7 +5727,7 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Int lên 45 and Mind to 25",
+                        "Tăng Int lên 45 và Mind to 25",
                         "Nng kiếm lên +15 Magic",
                         "Get Carian Piercer sorcery",
                         "Trang bị the Magic Scorpion Charm",
@@ -5911,7 +5911,7 @@
                         "Chọn Warrior",
                         "Mua Buckler từ Gostoc",
                         "Tìm the Misericorde in Stormveil Castle",
-                        "Tăng Dex lên 25 and Vigor to 20",
+                        "Tăng Dex lên 25 và Vigor to 20",
                         "Tp parry trn lênh",
                         "Dùng een infusion on Misericorde"
                     ]
@@ -5972,9 +5972,9 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Dex lên 55 and Faith to 25",
+                        "Tăng Dex lên 55 và Faith to 25",
                         "Nâng tối đa Misericorde to +25 Keen",
-                        "Buff with Electrify Armament or Bloodflame Blade",
+                        "Buff với Electrify Armament or Bloodflame Blade",
                         "Dagger Talisman adds 17% riposte damage",
                         "Dùng olden Vow for more damage",
                         "Parry mọi kẻ địch"
@@ -5994,7 +5994,7 @@
                     "ar": 450,
                     "scaling": "B Dex",
                     "verdict": "Good for split damage against heavy armor.",
-                    "verdictVi": "T�t cho gi�p n�ng."
+                    "verdictVi": "Tt cho gip nng."
                 }
             ],
             "items": [
@@ -6086,7 +6086,7 @@
             "name": "Beastial Claw",
             "nameVi": "Móng Vuốt Thú",
             "description": "Beastial Claw is a beast-themed build using the beast claw weapon from the dlc combined with bestial incantations. Designed around high Vigor 50, Strength 40, Dexterity 40, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Beastial Claw handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Beast Claw's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Beastial Claw is its versatility and damage potential when optimized. Key items like Beast Claw are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nBeastial Claw is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A beast-themed build using the Beast Claw weapon from the DLC combined with Bestial Incantations. The Claw attacks build up bleed quickly while incantations provide ranged pressure.",
+            "descriptionVi": "A beast-themed build using the Beast Claw weapon from the DLC combined với Bestial Incantations. The Claw attacks build up bleed quickly while incantations provide ranged pressure.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -6192,7 +6192,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Push Str/Dex to 40 each and Faith to 25",
+                        "Push Str/Dex to 40 each và Faith to 25",
                         "Nâng tối đa Beast Claw to +25 Quality",
                         "Beast Claw incantation tầm xa",
                         "Dùng estial Vitality for healing",
@@ -6299,7 +6299,7 @@
             "name": "Bow Only",
             "nameVi": "Cung Thủ",
             "description": "Bow Only is a challenging bow-only build that relies entirely on ranged combat. Designed around high Dexterity 55, Vigor 45, Mind 25, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Bow Only handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Lion Greatbow's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Bow Only is its raw power potential and devastating payoff for skilled play. Key items like Lion Greatbow are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Bow Only ranks among the most powerful setups when played optimally. Every aspect of the build, from the Dexterity 55, Vigor 45, Mind 25 stat distribution to the Lion Greatbow weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "A challenging bow-only build that relies entirely on ranged combat. The Lion Greatbow with Radahn's Rain and the DLC Horn Bow make this viable. Every encounter is a battle of positioning.",
+            "descriptionVi": "A challenging bow-only build that relies entirely on ranged combat. The Lion Greatbow với Radahn's Rain và the DLC Horn Bow make this viable. Every encounter is a battle of positioning.",
             "category": "pve",
             "difficulty": 3,
             "dlc": true,
@@ -6343,7 +6343,7 @@
                     "stepsVi": [
                         "Chọn Bandit",
                         "Mua Longbow ở Roundtable",
-                        "Tăng Dex lên 30 and Vigor to 15",
+                        "Tăng Dex lên 30 và Vigor to 15",
                         "Tìm the Arrow's Reach Talisman",
                         "Craft lots of regular arrows",
                         "Học bắn nhảy"
@@ -6410,7 +6410,7 @@
                         "Max cả hai +25",
                         "Dùng adahn's Rain for AoE arrow barrage",
                         "Dùng nchanted Shot on Horn Bow",
-                        "Arrow's Reach + Arrow's Sting for range and damage"
+                        "Arrow's Reach + Arrow's Sting for range và damage"
                     ]
                 }
             ],
@@ -6420,7 +6420,7 @@
                     "ar": 400,
                     "scaling": "A Dex",
                     "verdict": "Best. Bows only get Keen infusion.",
-                    "verdictVi": "T�t nh�t. Cung ch� c� Keen."
+                    "verdictVi": "Tt nht. Cung ch c Keen."
                 }
             ],
             "items": [
@@ -6556,7 +6556,7 @@
                     "stepsVi": [
                         "Chọn Prisoner",
                         "Death's Poker ở Caelid",
-                        "Tăng Int lên 30 and Vigor to 20",
+                        "Tăng Int lên 30 và Vigor to 20",
                         "Dùng lintstone pebble as filler spell",
                         "Get the Academy Glintstone Staff",
                         "Tìm the Ghostflame incantation"
@@ -6713,9 +6713,9 @@
                 "If you're struggling with a boss, try more Vigor, better talismans, or swapping to a different weapon. Death Knight has flexibility in gear choices."
             ],
             "tipsVi": [
-                "Death's Poker weapon art has three levels — tap, hold, and fully charged",
+                "Death's Poker weapon art has three levels — tap, hold, và fully charged",
                 "Ghostflame Ignition AoE lớn",
-                "The weapon art damage scales with Intelligence",
+                "The weapon art damage scales với Intelligence",
                 "Talisman lửa cho explosion",
                 "Ghostflame inflicts frostbite on enemies"
             ]
@@ -6725,7 +6725,7 @@
             "name": "Pure Faith Caster",
             "nameVi": "Pure Faith Caster",
             "description": "Pure Faith Caster is a pure faith caster build using the erdtree seal and a variety of offensive incantations. Designed around high Faith 70, Vigor 50, Mind 35, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Pure Faith Caster handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Erdtree Seal's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Pure Faith Caster is its versatility and damage potential when optimized. Key items like Erdtree Seal are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nPure Faith Caster is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A pure Faith caster build using the Erdtree Seal and a variety of offensive incantations. Catch Flame for close range, Lightning Spear for mid-range, and Elden Stars for boss fights.",
+            "descriptionVi": "A pure Faith caster build using the Erdtree Seal và a variety of offensive incantations. Catch Flame for close range, Lightning Spear for mid-range, và Elden Stars for boss fights.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -6768,7 +6768,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Prophet",
-                        "Tăng Faith lên 30 and Vigor to 15",
+                        "Tăng Faith lên 30 và Vigor to 15",
                         "Godslayer Seal ở Stormveil",
                         "Lấy Lightning Spear từ the dragon altar",
                         "Tìm the Two Fingers Heirloom",
@@ -6799,7 +6799,7 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Faith lên 50 and Mind to 20",
+                        "Tăng Faith lên 50 và Mind to 20",
                         "Erdtree Seal ở Leyndell",
                         "Get the Godslayer Greatsword for melee",
                         "Black Flame sát thng %",

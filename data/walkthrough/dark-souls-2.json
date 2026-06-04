@@ -1,170 +1,170 @@
 {
-  "name": "Dark Souls II Walkthrough",
-  "nameVi": "Hướng Dẫn Dark Souls II",
-  "sections": [
-    {
-      "title": "Things Betwixt & Majula",
-      "order": 1,
-      "content": [
-        "Bắt đầu ở Things Betwixt (tutorial area). Đi thẳng, gặp 3 ogres (không cần đánh - chạy qua).",
-        "Nhặt estus flask shards, human effigies. Gặp hags (bán lifegems - rất quan trọng).",
-        "Đến Majula - hub chính. NPC quan trọng: Emerald Herald (level up, estus upgrade), Shalquoir (cat bán ring).",
-        "Majula có 4 hướng: Forest of Fallen Giants (khuyên dùng), Heide's Tower, Huntsman's Copse, Things Betwixt.",
-        "Cơ chế mới: Soul Memory (matchmaking dựa trên souls thu thập), Adaptability (tăng i-frames khi roll - rất quan trọng).",
-        "Đầu game: level Adaptability lên 20-25 (để agility ~100) trước khi tập trung damage stats."
-      ]
-    },
-    {
-      "title": "Forest of Fallen Giants",
-      "order": 2,
-      "content": [
-        "Đi từ Majula - hướng dẫn đến Forest of Fallen Giants. Khu vực đầu tiên của game.",
-        "Khu vực: Cardinal Tower, Soldier's Rest, The Place Unbeknownst, Pursuer arena (ban đầu).",
-        "Boss: Last Giant. Level recommend: 15-25. Tips: Đánh vào chân, tránh stomp. Cắt tay cho Giant's Ring.",
-        "Boss: Pursuer (optional ở platform). Level recommend: 20-30. Tips: Ballista ở arena giúp kill 1 hit.",
-        "Key items: Estus Flask Shard (x2 ở khu vực), Antiquated Key (mở Majula mansion), Drangleic Sword.",
-        "NPC: Melentia (merchant sau Last Giant - bán boss armors), Straid (cần Fragrant Branch of Yore để giải cứu).",
-        "Covenant: Company of Champions (Majula monument - làm enemies khó hơn, tốt cho farming)."
-      ]
-    },
-    {
-      "title": "Heide's Tower of Flame & No-Man's Wharf",
-      "order": 3,
-      "content": [
-        "Từ Majula, đi xuống hướng biển đến Heide's Tower of Flame. Old Knights và Heide Knights.",
-        "Boss: Dragonrider. Tips: Đi vòng, chờ nó attack, roll vào đánh. Có thể làm rơi xuống platform (phá mở rộng bằng lever).",
-        "Sau Dragonrider, gặp Licia of Lindelt (bán miracles, mở đường đến Huntsman's Copse).",
-        "Boss: Old Dragonslayer (tùy chọn). Giống Ornstein từ DS1. Tips: Lightning resist, roll timing.",
-        "Từ Heide, đi tàu đến No-Man's Wharf. Khu vực tối, đầy varangians. Dùng torch.",
-        "Boss: Flexile Sentry. Tips: Kill 2 enemies ở trước. Boss đơn giản - roll attacks, heal khi cần.",
-        "Key items: Ring of Binding (giảm HP loss khi hollow), Bastille Key (mở nhiều cửa), Branch of Yore."
-      ]
-    },
-    {
-      "title": "Lost Bastille & Sinners Rise",
-      "order": 4,
-      "content": [
-        "Vào Lost Bastille từ No-Man's Wharf (tàu) hoặc qua Forest of Fallen Giants (bird nest).",
-        "Khu vực: Exile Holding Cells, McDuiff's workshop, Straid's cell, Tower Apart.",
-        "NPC: McDuiff (blacksmith - cho bracing knuckle ring + boltstone), Straid (cần Branch of Yore).",
-        "Boss: Ruin Sentinels. Level recommend: 35-45. Tips: Summon NPC (Pilgrim Bellclaire). Đánh từng con - nhảy xuống đầu tiên.",
-        "Sau Ruin Sentinels, đến Sinners Rise. Boss: Lost Sinner. Level recommend: 40-50.",
-        "Lost Sinner tips: Light torches trong arena (dùng flame butterfly) để dễ dodge. Pyromancy damage tốt.",
-        "Key items: Bastille Key (mở cửa đến Sinner), Large Ember (cần cho Andre - smithing).",
-        "Covenant: Bell Keepers (dùng bell tower, PVP focused)."
-      ]
-    },
-    {
-      "title": "Huntsman's Copse & Harvest Valley",
-      "order": 5,
-      "content": [
-        "Từ Majula, dùng 2000 souls để Licia mở đường (Rotunda lockstone) đến Huntsman's Copse.",
-        "Khu vực: đầy skeleton và necromancers. Necromancers revive skeletons - kill chúng trước.",
-        "Boss: Skeleton Lords. Tips: Kill các skeleton nhỏ trước, sau đó focus từng lord. AOE attacks hiệu quả.",
-        "Đến Harvest Valley: khu vực poison. Windmill (cần phá bằng burning torch hoặc fire).",
-        "Boss: Covetous Demon. Boss dễ - chỉ cần roll và đánh. Không đứng trước mặt nó.",
-        "Key items: Poison Moss, Dark Armor, Gyrm Great Hammer, Flash Sweat (pyromancy cho Iron King)."
-      ]
-    },
-    {
-      "title": "Earthen Peak & Iron Keep",
-      "order": 6,
-      "content": [
-        "Earthen Peak: khu vực nhiều tầng với traps và poison. NPC: Gilligan (bán ladders - hữu ích).",
-        "Boss: Mytha, the Baneful Queen. Tips: PHẢI drain poison trước (burn windmill ở Harvest Valley). Không drain thì cực kỳ khó.",
-        "Sau Earthen Peak, đến Iron Keep qua dung elevator. Khu vực lava + knights.",
-        "Iron Keep: Alonne Knights và Captains. Cẩn thận với aggro range.",
-        "Boss: Old Iron King. Level recommend: 55-70. Tips: Tránh hole ở arena. Stay gần, roll attacks. Tránh laser beam.",
-        "Key items: Dull Ember (cần cho Steady Hand McDuiff), Flame Weapon pyromancy, Soul of Iron King."
-      ]
-    },
-    {
-      "title": "Shaded Woods & Doors of Pharros",
-      "order": 7,
-      "content": [
-        "Từ Majula, hướng thứ 3 đến Shaded Woods. Đường chia 3: Shaded Woods, Doors of Pharros, Brightstone Cove.",
-        "Shaded Woods: khu vực sương mù - dùng torch để định hướng. Ghost enemies (cần transient curse).",
-        "NPC: Manscorpion Tark (friendly scorpion - quest), Vengarl (đầu vật ở woods - bán spells).",
-        "Doors of Pharros: khu vực với rat covenant traps. Boss: Royal Rat Authority. Dễ nếu kill rats trước.",
-        "Brightstone Cove Tseldora: spider town. Boss: The Duke's Dear Freja. Level recommend: 65-80.",
-        "Freja tips: Kill 2 spider heads trước. Fire damage hiệu quả. Đánh vào mặt. Nhặt soul bên dưới.",
-        "Key items: Fragrant Branch of Yore (giải cứu NPC), Soul of Freja (cần cho final boss door)."
-      ]
-    },
-    {
-      "title": "Castle Drangleic & Shrine of Amana",
-      "order": 8,
-      "content": [
-        "Sau 4 Great Souls (Lost Sinner, Iron King, Freja, Rotten), door ở Shaded Woods mở đến Castle Drangleic.",
-        "Castle Drangleic: khu vực lớn với nhiều traps và royal swordsmen. NPC: Chancellor Wellager (bán boss spells).",
-        "Dual Dragonriders boss: summon NPC, đánh từng con. Ranged rất khó ở arena hẹp này.",
-        "Boss: Looking Glass Knight. Level recommend: 75-90. Tips: Kill summon mirror knight trước. Lightning damage.",
-        "Castle Drangleic sau đó dẫn đến Shrine of Amana (đầy mages và water - slow movement).",
-        "Shrine of Amana: cực kỳ khó với magic spammers. Dùng bow hoặc spells để kill từ xa. High magic resist.",
-        "Boss: Demon of Song. Dễ - giữ khoảng cách, chờ nó mở mặt, đánh.",
-        "Key items: King's Ring (cần để vào final areas), Soul of Looking Glass Knight."
-      ]
-    },
-    {
-      "title": "Undead Crypt & Aldia's Keep",
-      "order": 9,
-      "content": [
-        "Sau Shrine of Amana, đến Undead Crypt. Khu vực tối, cần torch. Cẩn thận với bell ringers.",
-        "Boss: Velstadt, the Royal Aegis. Level recommend: 85-100. Tips: Stay close, roll attacks. Dark resist.",
-        "Sau Velstadt, gặp Vendrick (king). Không cần đánh - lấy King's Ring và đi. Có thể quay lại sau.",
-        "Aldia's Keep: khu vực dẫn đến Dragon Aerie và Dragon Shrine.",
-        "Dragon Shrine: Phải bow trước dragon warriors. Boss: Ancient Dragon (optional - khủng long).",
-        "Ancient Dragon tips: Stay between back toes. Tránh fly + fire AOE. Cực nhiều HP.",
-        "Key items: King's Ring, Vendrick's armor, Ashen Mist Heart (cần cho memory quests), Dragon Head Stone."
-      ]
-    },
-    {
-      "title": "Throne of Want & Final Boss",
-      "order": 10,
-      "content": [
-        "Sau khi có King's Ring và 4 Great Souls, quay lại Castle Drangleic đến Throne of Want.",
-        "Boss: Throne Watcher and Defender. Level recommend: 95-120. Tips: Kill 1 trước - nếu kill gần nhau, cả 2 sẽ revive.",
-        "Boss: Nashandra (final boss chính). Tips: Dark resist rất quan trọng. Curse attacks - cẩn thận.",
-        "Nashandra: Curse orbs bắn ra từ sừng. Dùng pillars để tránh. Tấn công khi cô ấy ở gần.",
-        "Boss: Aldia, Scholar of the First Sin (DLC boss - xuất hiện sau Nashandra nếu đã gặp Aldia).",
-        "Aldia tips: High HP và nhiều magic attacks. Dùng ranged weapons hoặc spells. Không thể bị poisoned.",
-        "Sau boss, chọn ending: Link the Fire (traditional) hoặc Leave the Throne (Aldia ending). NG+ bắt đầu."
-      ]
-    },
-    {
-      "title": "Crown of the Sunken King (DLC)",
-      "order": 11,
-      "content": [
-        "Vào DLC qua obelisks gần The Rotten. Sanctum City - khu vực nhiều tầng với traps.",
-        "Cơ chế mới: Pilgrims of Dark covenant, Ashen Mist Heart memories.",
-        "Boss: Elana, the Squalid Queen. Summon Velstadt hoặc skeletons. Tips: Kill summons. Strike damage.",
-        "Boss: Sinh, the Slumbering Dragon. Tips: Poison hiệu quả. Tránh đầu - tấn công đuôi/chân.",
-        "Key items: Flynn's Ring, Sanctum Crossbow, Yorgh's Spear."
-      ]
-    },
-    {
-      "title": "Crown of the Iron King (DLC)",
-      "order": 12,
-      "content": [
-        "Vào DLC ở Iron King's area (Brume Tower). Khu vực cao với nhiều traps và ashen warriors.",
-        "Cơ chế: Iron Scepter (phá ashen idols), Smelter Wedges (miễn nhiễm idols).",
-        "Boss: Fume Knight (Raime). Đây là boss khó nhất DS2. Level recommend: 120-150.",
-        "Fume Knight tips: High fire + dark resist. Phase 2 buff - tránh đòn. Roll timing rất quan trọng.",
-        "Boss: Sir Alonne. Tips: Dùng bow để pull. Tránh grab attacks. Đánh khi có window.",
-        "Key items: Fume Ultra Greatsword, Alonne's Greatbow, Flame Quartz Ring +3."
-      ]
-    },
-    {
-      "title": "Crown of the Ivory King (DLC)",
-      "order": 13,
-      "content": [
-        "Vào DLC ở Shrine of Winter. Eleum Loyce - khu vực băng tuyết. Cần torch để giữ ấm.",
-        "Cơ chế: Bản đồ bị chìm - cần mở gates bằng Crown of the Ivory King.",
-        "Boss: Aava, the King's Pet. Tips: Roll vào attacks. Magic resist. Phá băng để tăng visibility.",
-        "Boss: Burnt Ivory King. Level recommend: 130-160. Tiêu diệt 4 loyce knights trước bằng cách summon.",
-        "Ivory King tips: High fire resist. Phase 2 cần careful positioning. Summon NPCs.",
-        "Key items: Ivory King Ultra Greatsword, Loyce armor set, Crown of the Ivory King (tăng cast speed)."
-      ]
-    }
-  ]
+    "name": "Dark Souls II Walkthrough",
+    "nameVi": "Hướng Dẫn Dark Souls II",
+    "sections": [
+        {
+            "title": "Things Betwixt & Majula",
+            "order": 1,
+            "content": [
+                "Bắt đầu ở Things Betwixt (tutorial area). Đi thẳng, gặp 3 ogres (không cần đánh - chạy qua).",
+                "Nhặt estus flask shards, human effigies. Gặp hags (bán lifegems - rất quan trọng).",
+                "Đến Majula - hub chính. NPC quan trọng: Emerald Herald (level up, estus upgrade), Shalquoir (cat bán ring).",
+                "Majula có 4 hướng: Forest of Fallen Giants (khuyên dùng), Heide's Tower, Huntsman's Copse, Things Betwixt.",
+                "Cơ chế mới: Soul Memory (matchmaking dựa trên souls thu thập), Adaptability (tăng i-frames khi roll - rất quan trọng).",
+                "Đầu game: level Adaptability lên 20-25 (để agility ~100) trước khi tập trung damage stats."
+            ]
+        },
+        {
+            "title": "Forest of Fallen Giants",
+            "order": 2,
+            "content": [
+                "Đi từ Majula - hướng dẫn đến Forest of Fallen Giants. Khu vực đầu tiên của game.",
+                "Khu vực: Cardinal Tower, Soldier's Rest, The Place Unbeknownst, Pursuer arena (ban đầu).",
+                "Boss: Last Giant. Level recommend: 15-25. Tips: Đánh vào chân, tránh stomp. Cắt tay cho Giant's Ring.",
+                "Boss: Pursuer (optional ở platform). Level recommend: 20-30. Tips: Ballista ở arena giúp kill 1 hit.",
+                "Key items: Estus Flask Shard (x2 ở khu vực), Antiquated Key (mở Majula mansion), Drangleic Sword.",
+                "NPC: Melentia (merchant sau Last Giant - bán boss armors), Straid (cần Fragrant Branch of Yore để giải cứu).",
+                "Covenant: Company of Champions (Majula monument - làm enemies khó hơn, tốt cho farming)."
+            ]
+        },
+        {
+            "title": "Heide's Tower of Flame & No-Man's Wharf",
+            "order": 3,
+            "content": [
+                "Từ Majula, đi xuống hướng biển đến Heide's Tower of Flame. Old Knights và Heide Knights.",
+                "Boss: Dragonrider. Tips: Đi vòng, chờ nó attack, roll vào đánh. Có thể làm rơi xuống platform (phá mở rộng bằng lever).",
+                "Sau Dragonrider, gặp Licia of Lindelt (bán miracles, mở đường đến Huntsman's Copse).",
+                "Boss: Old Dragonslayer (tùy chọn). Giống Ornstein từ DS1. Tips: Lightning resist, roll timing.",
+                "Từ Heide, đi tàu đến No-Man's Wharf. Khu vực tối, đầy varangians. Dùng torch.",
+                "Boss: Flexile Sentry. Tips: Kill 2 enemies ở trước. Boss đơn giản - roll attacks, heal khi cần.",
+                "Key items: Ring of Binding (giảm HP loss khi hollow), Bastille Key (mở nhiều cửa), Branch of Yore."
+            ]
+        },
+        {
+            "title": "Lost Bastille & Sinners Rise",
+            "order": 4,
+            "content": [
+                "Vào Lost Bastille từ No-Man's Wharf (tàu) hoặc qua Forest of Fallen Giants (bird nest).",
+                "Khu vực: Exile Holding Cells, McDuiff's workshop, Straid's cell, Tower Apart.",
+                "NPC: McDuiff (blacksmith - cho bracing knuckle ring + boltstone), Straid (cần Branch of Yore).",
+                "Boss: Ruin Sentinels. Level recommend: 35-45. Tips: Summon NPC (Pilgrim Bellclaire). Đánh từng con - nhảy xuống đầu tiên.",
+                "Sau Ruin Sentinels, đến Sinners Rise. Boss: Lost Sinner. Level recommend: 40-50.",
+                "Lost Sinner tips: Light torches trong arena (dùng flame butterfly) để dễ dodge. Pyromancy damage tốt.",
+                "Key items: Bastille Key (mở cửa đến Sinner), Large Ember (cần cho Andre - smithing).",
+                "Covenant: Bell Keepers (dùng bell tower, PVP focused)."
+            ]
+        },
+        {
+            "title": "Huntsman's Copse & Harvest Valley",
+            "order": 5,
+            "content": [
+                "Từ Majula, dùng 2000 souls để Licia mở đường (Rotunda lockstone) đến Huntsman's Copse.",
+                "Khu vực: đầy skeleton và necromancers. Necromancers revive skeletons - kill chúng trước.",
+                "Boss: Skeleton Lords. Tips: Kill các skeleton nhỏ trước, sau đó focus từng lord. AOE attacks hiệu quả.",
+                "Đến Harvest Valley: khu vực poison. Windmill (cần phá bằng burning torch hoặc fire).",
+                "Boss: Covetous Demon. Boss dễ - chỉ cần roll và đánh. Không đứng trước mặt nó.",
+                "Key items: Poison Moss, Dark Armor, Gyrm Great Hammer, Flash Sweat (pyromancy cho Iron King)."
+            ]
+        },
+        {
+            "title": "Earthen Peak & Iron Keep",
+            "order": 6,
+            "content": [
+                "Earthen Peak: khu vực nhiều tầng với traps và poison. NPC: Gilligan (bán ladders - hữu ích).",
+                "Boss: Mytha, the Baneful Queen. Tips: PHẢI drain poison trước (burn windmill ở Harvest Valley). Không drain thì cực kỳ khó.",
+                "Sau Earthen Peak, đến Iron Keep qua dung elevator. Khu vực lava + knights.",
+                "Iron Keep: Alonne Knights và Captains. Cẩn thận với aggro range.",
+                "Boss: Old Iron King. Level recommend: 55-70. Tips: Tránh hole ở arena. Stay gần, roll attacks. Tránh laser beam.",
+                "Key items: Dull Ember (cần cho Steady Hand McDuiff), Flame Weapon pyromancy, Soul of Iron King."
+            ]
+        },
+        {
+            "title": "Shaded Woods & Doors of Pharros",
+            "order": 7,
+            "content": [
+                "Từ Majula, hướng thứ 3 đến Shaded Woods. Đường chia 3: Shaded Woods, Doors of Pharros, Brightstone Cove.",
+                "Shaded Woods: khu vực sương mù - dùng torch để định hướng. Ghost enemies (cần transient curse).",
+                "NPC: Manscorpion Tark (friendly scorpion - quest), Vengarl (đầu vật ở woods - bán spells).",
+                "Doors of Pharros: khu vực với rat covenant traps. Boss: Royal Rat Authority. Dễ nếu kill rats trước.",
+                "Brightstone Cove Tseldora: spider town. Boss: The Duke's Dear Freja. Level recommend: 65-80.",
+                "Freja tips: Kill 2 spider heads trước. Fire damage hiệu quả. Đánh vào mặt. Nhặt soul bên dưới.",
+                "Key items: Fragrant Branch of Yore (giải cứu NPC), Soul of Freja (cần cho final boss door)."
+            ]
+        },
+        {
+            "title": "Castle Drangleic & Shrine of Amana",
+            "order": 8,
+            "content": [
+                "Sau 4 Great Souls (Lost Sinner, Iron King, Freja, Rotten), door ở Shaded Woods mở đến Castle Drangleic.",
+                "Castle Drangleic: khu vực lớn với nhiều traps và royal swordsmen. NPC: Chancellor Wellager (bán boss spells).",
+                "Dual Dragonriders boss: summon NPC, đánh từng con. Ranged rất khó ở arena hẹp này.",
+                "Boss: Looking Glass Knight. Level recommend: 75-90. Tips: Kill summon mirror knight trước. Lightning damage.",
+                "Castle Drangleic sau đó dẫn đến Shrine of Amana (đầy mages và water - slow movement).",
+                "Shrine of Amana: cực kỳ khó với magic spammers. Dùng bow hoặc spells để kill từ xa. High magic resist.",
+                "Boss: Demon of Song. Dễ - giữ khoảng cách, chờ nó mở mặt, đánh.",
+                "Key items: King's Ring (cần để vào final areas), Soul of Looking Glass Knight."
+            ]
+        },
+        {
+            "title": "Undead Crypt & Aldia's Keep",
+            "order": 9,
+            "content": [
+                "Sau Shrine of Amana, đến Undead Crypt. Khu vực tối, cần torch. Cẩn thận với bell ringers.",
+                "Boss: Velstadt, the Royal Aegis. Level recommend: 85-100. Tips: Stay close, roll attacks. Dark resist.",
+                "Sau Velstadt, gặp Vendrick (king). Không cần đánh - lấy King's Ring và đi. Có thể quay lại sau.",
+                "Aldia's Keep: khu vực dẫn đến Dragon Aerie và Dragon Shrine.",
+                "Dragon Shrine: Phải bow trước dragon warriors. Boss: Ancient Dragon (optional - khủng long).",
+                "Ancient Dragon tips: Stay between back toes. Tránh fly + fire AOE. Cực nhiều HP.",
+                "Key items: King's Ring, Vendrick's armor, Ashen Mist Heart (cần cho memory quests), Dragon Head Stone."
+            ]
+        },
+        {
+            "title": "Throne of Want & Final Boss",
+            "order": 10,
+            "content": [
+                "Sau khi có King's Ring và 4 Great Souls, quay lại Castle Drangleic đến Throne of Want.",
+                "Boss: Throne Watcher and Defender. Level recommend: 95-120. Tips: Kill 1 trước - nếu kill gần nhau, cả 2 sẽ revive.",
+                "Boss: Nashandra (final boss chính). Tips: Dark resist rất quan trọng. Curse attacks - cẩn thận.",
+                "Nashandra: Curse orbs bắn ra từ sừng. Dùng pillars để tránh. Tấn công khi cô ấy ở gần.",
+                "Boss: Aldia, Scholar of the First Sin (DLC boss - xuất hiện sau Nashandra nếu đã gặp Aldia).",
+                "Aldia tips: High HP và nhiều magic attacks. Dùng ranged weapons hoặc spells. Không thể bị poisoned.",
+                "Sau boss, chọn ending: Link the Fire (traditional) hoặc Leave the Throne (Aldia ending). NG+ bắt đầu."
+            ]
+        },
+        {
+            "title": "Crown of the Sunken King (DLC)",
+            "order": 11,
+            "content": [
+                "Vào DLC qua obelisks gần The Rotten. Sanctum City - khu vực nhiều tầng với traps.",
+                "Cơ chế mới: Pilgrims of Dark covenant, Ashen Mist Heart memories.",
+                "Boss: Elana, the Squalid Queen. Summon Velstadt hoặc skeletons. Tips: Kill summons. Strike damage.",
+                "Boss: Sinh, the Slumbering Dragon. Tips: Poison hiệu quả. Tránh đầu - tấn công đuôi/chân.",
+                "Key items: Flynn's Ring, Sanctum Crossbow, Yorgh's Spear."
+            ]
+        },
+        {
+            "title": "Crown of the Iron King (DLC)",
+            "order": 12,
+            "content": [
+                "Vào DLC ở Iron King's area (Brume Tower). Khu vực cao với nhiều traps và ashen warriors.",
+                "Cơ chế: Iron Scepter (phá ashen idols), Smelter Wedges (miễn nhiễm idols).",
+                "Boss: Fume Knight (Raime). Đây là boss khó nhất DS2. Level recommend: 120-150.",
+                "Fume Knight tips: High fire + dark resist. Phase 2 buff - tránh đòn. Roll timing rất quan trọng.",
+                "Boss: Sir Alonne. Tips: Dùng bow để pull. Tránh grab attacks. Đánh khi có window.",
+                "Key items: Fume Ultra Greatsword, Alonne's Greatbow, Flame Quartz Ring +3."
+            ]
+        },
+        {
+            "title": "Crown of the Ivory King (DLC)",
+            "order": 13,
+            "content": [
+                "Vào DLC ở Shrine of Winter. Eleum Loyce - khu vực băng tuyết. Cần torch để giữ ấm.",
+                "Cơ chế: Bản đồ bị chìm - cần mở gates bằng Crown of the Ivory King.",
+                "Boss: Aava, the King's Pet. Tips: Roll vào attacks. Magic resist. Phá băng để tăng visibility.",
+                "Boss: Burnt Ivory King. Level recommend: 130-160. Tiêu diệt 4 loyce knights trước bằng cách summon.",
+                "Ivory King tips: High fire resist. Phase 2 cần careful positioning. Summon NPCs.",
+                "Key items: Ivory King Ultra Greatsword, Loyce armor set, Crown of the Ivory King (tăng cast speed)."
+            ]
+        }
+    ]
 }

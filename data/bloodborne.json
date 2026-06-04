@@ -10,7 +10,7 @@
             "name": "Saw Cleaver Quality",
             "nameVi": "Chất Lượng Saw Cleaver",
             "description": "Saw Cleaver Quality is a the quintessential bloodborne quality build using the saw cleaver. Designed around high Strength 35, Skill 35, Endurance 25, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Saw Cleaver Quality handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Saw Cleaver's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Saw Cleaver Quality is its accessibility and consistent performance. Key items like Saw Cleaver are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Saw Cleaver Quality is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build cht lng ca Bloodborne vi Saw Cleaver. St thng serrated cho qui vt, n bin hình p mt v DPS bắn vng cao nht game.",
+            "descriptionVi": "Build cht lng ca Bloodborne vi Saw Cleaver. St thng sẽrrấted cho qui vt, n bin hình p mt v DPS bắn vng cao nht game.",
             "category": "meta",
             "difficulty": 1,
             "dlc": true,
@@ -51,11 +51,11 @@
                     ],
                     "stepsVi": [
                         "Chn Military Veteran cho ch s cn bắng",
-                        "Chọn the Saw Cleaver as your starting weapon",
+                        "Chọn the Saw Cleaver as your khởi đầu weapon",
                         "Tng Vitality lên 20 v Endurance lên 15",
                         "Nng Saw Cleaver lên +3",
-                        "Đánh bại Cleric Beast and Father Gascoigne",
-                        "Trang bị Hunter's Set"
+                        "Đánh bại Cleric Beast và Father Gascoigne",
+                        "Trang bị Hunter's sẽt"
                     ]
                 },
                 {
@@ -63,7 +63,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Hemwick, Forbidden Woods, Byrgenwerth",
-                    "areasVi": "Hemwick, Forbidden Woods, Byrgenwerth",
+                    "areasVi": "Hemwick, Forbidđến Woods, Byrgenwerth",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Vitality should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Saw Cleaver, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -85,9 +85,9 @@
                         "Tng u Strength v Skill lên 25/25",
                         "Nng Saw Cleaver lên +6",
                         "Giết Vicar Amelia",
-                        "Hon thình Hemwick Charnel Lane",
-                        "Get the Threaded Cane as a backup for crowds",
-                        "Tìm Runes for extra stamina or HP"
+                        "hơn thình Hemwick Charnel Lane",
+                        "Get the Threađểd cầne as a backup for crowds",
+                        "Tìm Runes for extra stạmina or HP"
                     ]
                 },
                 {
@@ -117,7 +117,7 @@
                         "y Str/Skl lên 35/35",
                         "Nng Saw Cleaver lên +10",
                         "Lấy Beast Blood Pellet cho boss",
-                        "Trang bị 15%+ HP and stamina runes",
+                        "Trang bị 15%+ HP và stạmina runes",
                         "Farm Winter Lanterns for best physical droplet gems",
                         "Combo L1 bin hình l DPS cao nht"
                     ]
@@ -136,7 +136,7 @@
                     "ar": 520,
                     "scaling": "B Str/Skl",
                     "verdict": "Good for enemies weak to fire but loses serrated bonus.",
-                    "verdictVi": "Tốt cho kẻ yếu lửa nhưng mất serrated."
+                    "verdictVi": "Tốt cho kẻ yếu lửa nhưng mất sẽrrấted."
                 }
             ],
             "items": [
@@ -144,19 +144,19 @@
                     "name": "Saw Cleaver",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Starting weapon or purchased from Bath Messengers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
                 },
                 {
                     "name": "Hunter Set",
                     "type": "Armor",
                     "location": "Purchased from Bath Messengers in Hunter's Dream",
-                    "locationVi": "Mua từ Bath Messengers"
+                    "locationVi": "Mua từ Bath Messẽngers"
                 },
                 {
                     "name": "Beast Blood Pellet",
                     "type": "Weapon",
                     "location": "Found throughout Yharnam, commonly in Forbidden Woods",
-                    "locationVi": "Found throughout Yharnam, commonly in Forbidden Woods"
+                    "locationVi": "Found throughout Yharnam, commonly in Forbidđến Woods"
                 },
                 {
                     "name": "Rune Workshop Tool",
@@ -180,7 +180,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -198,7 +198,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 }
             ],
             "tips": [
@@ -216,9 +216,9 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "R1 bin hình ca Saw Cleaver c serrated  20% sát thng thm cho qui",
+                "R1 bin hình ca Saw Cleaver c sẽrrấted  20% sát thng thm cho qui",
                 "n L1 bin hình ni tip cho DPS khng l",
-                "Beast Blood Pellet + Bolt Paper = sát thng in cung",
+                "Beast Blood Pellet + Bolt Paper = sát thng in cùng",
                 "R2 khng bin hình l m  dng cho Kin",
                 "Always repair your weapon at the workshop"
             ]
@@ -228,7 +228,7 @@
             "name": "Ludwig's Holy Blade",
             "nameVi": "Thánh Kiếm",
             "description": "Ludwig's Holy Blade is a the legendary ludwig's holy blade — the 'easy mode' weapon of bloodborne. Designed around high Strength 40, Endurance 25, Skill 25, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Ludwig's Holy Blade handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Ludwig's Holy Blade's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Ludwig's Holy Blade is its accessibility and consistent performance. Key items like Ludwig's Holy Blade are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Ludwig's Holy Blade is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Thanh kiếm huyn thoi Ludwig's Holy Blade  'ch  d' ca Bloodborne. i kiếm cht lng vi tm nh tuyt vi v charged R2 mnh nht game.",
+            "descriptionVi": "Thanh kiếm huyn thời Ludwig's Holy Blađể  'ch  d' ca Bloodborne. i kiếm cht lng vi tm nh tuyt vi v charged R2 mnh nht game.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -270,10 +270,10 @@
                     "stepsVi": [
                         "Chọn Military Veteran",
                         "Buy Sword Hunter Badge after killing Cleric Beast",
-                        "Purchase Ludwig's Holy Blade from messengers",
+                        "Purchasẽ Ludwig's Holy Blađể from messẽngers",
                         "Tng Strength lên 20 v Skill lên 15",
                         "Nng lên +3",
-                        "Dng moveset khng bin hình"
+                        "Dng movesẽt khng bin hình"
                     ]
                 },
                 {
@@ -281,7 +281,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Vitality should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Ludwig's Holy Blade, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -302,9 +302,9 @@
                     "stepsVi": [
                         "y Strength lên 30 v Skill lên 20",
                         "Nng LHB lên +6",
-                        "Trang bị best stamina and HP runes",
-                        "Hc moveset bin hình",
-                        "Lấy Executioner Set",
+                        "Trang bị best stạmina và HP runes",
+                        "Hc movesẽt bin hình",
+                        "Lấy Executioner sẽt",
                         "Giết Rom"
                     ]
                 },
@@ -335,9 +335,9 @@
                         "y Strength lên 40 v Skill lên 25",
                         "Nng LHB lên +10",
                         "Farm gem 27.2% từ chalice",
-                        "Charged R2 knocks down everything including bosses",
-                        "Trang bị +15% HP rune and two stamina runes",
-                        "Dùng olt paper for beasts and fire paper for kin"
+                        "Charged R2 knocks down everything including bossẽs",
+                        "Trang bị +15% HP rune và two stạmina runes",
+                        "Dùng olt paper for beasts và fire paper for kin"
                     ]
                 }
             ],
@@ -347,7 +347,7 @@
                     "ar": 700,
                     "scaling": "S Str/Skl",
                     "verdict": "Best. Three physical gems from chalice dungeons.",
-                    "verdictVi": "T�t nh�t. Ba gem v�t l� t� chalice."
+                    "verdictVi": "Tt nht. Ba gem vt l t chalice."
                 }
             ],
             "items": [
@@ -355,7 +355,7 @@
                     "name": "Ludwig's Holy Blade",
                     "type": "Weapon",
                     "location": "Purchased from Bath Messengers after Sword Hunter Badge",
-                    "locationVi": "Mua từ Bath Messengers sau Sword Hunter Badge"
+                    "locationVi": "Mua từ Bath Messẽngers sau Sword Hunter Badge"
                 },
                 {
                     "name": "Sword Hunter Badge",
@@ -385,7 +385,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -403,7 +403,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -428,10 +428,10 @@
             ],
             "tipsVi": [
                 "Charged R2 bin hình c sát thng mt n cao nht",
-                "Ludwig's Holy Blade has S scaling in both Strength and Skill at +10",
+                "Ludwig's Holy Blađể has S scaling in both Strength và Skill at +10",
                 "R1 khng bin hình cho n nhanh",
                 "R2 bin hình c th tch thình combo hai n",
-                "This build trivializes most chalice dungeon bosses"
+                "This build trivializes most chalice dungeon bossẽs"
             ]
         },
         {
@@ -492,7 +492,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Bloodtinge should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Chikage, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -515,7 +515,7 @@
                         "Nng Chikage lên +6",
                         "Lấy Evelyn từ Cainhurst Castle",
                         "Tng Skill lên 20",
-                        "Trang bị Blood Rapture and Oedon Writhe runes",
+                        "Trang bị Blood Rapture và Oedon Writhe runes",
                         "Hc n bin hình L1 vo R1"
                     ]
                 },
@@ -547,7 +547,7 @@
                         "Nng Chikage lên +10",
                         "Farm gem bloodtinge từ chalice",
                         "Lấy Bloodletter từ DLC",
-                        "Trang bị 2 Rune stamina",
+                        "Trang bị 2 Rune stạmina",
                         "Combo L1 R1 tht l k nng chình"
                     ]
                 }
@@ -558,7 +558,7 @@
                     "ar": 780,
                     "scaling": "S Bld",
                     "verdict": "Best for transformed mode. Farm from shotgun watchers in chalice.",
-                    "verdictVi": "T�t nh�t cho ch� \u0011� bi�n h�nh. Farm t� watchers."
+                    "verdictVi": "Tt nht cho ch  bin hnh. Farm t watchers."
                 }
             ],
             "items": [
@@ -578,13 +578,13 @@
                     "name": "Repeating Pistol",
                     "type": "Weapon",
                     "location": "Central Yharnam from Bath Messengers",
-                    "locationVi": "Central Yharnam từ Bath Messengers"
+                    "locationVi": "Central Yharnam từ Bath Messẽngers"
                 },
                 {
                     "name": "Bloodletter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC in Research Hall",
-                    "locationVi": "The Old Hunters DLC in Research Hall"
+                    "locationVi": "The Old Hunters DLC in Resẽarch Hall"
                 },
                 {
                     "name": "Cainhurst Set",
@@ -596,7 +596,7 @@
                     "name": "Bone Marrow Ash",
                     "type": "Weapon",
                     "location": "Found throughout game, purchased from Messengers",
-                    "locationVi": "Found throughout game, purchased from Messengers"
+                    "locationVi": "Found throughout game, purchasẽd from Messẽngers"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -608,7 +608,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -650,7 +650,7 @@
             "name": "Rakuyo Skill",
             "nameVi": "Rakuyo Kỹ Năng",
             "description": "Rakuyo Skill is a skill build wielding the rakuyo from the dlc. Designed around high Skill 50, Endurance 25, Strength 10, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvP combat, Rakuyo Skill excels at controlling engagement distance and punishing opponent mistakes. The Rakuyo provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Rakuyo Skill is its raw power potential and devastating payoff for skilled play. Key items like Rakuyo are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Rakuyo Skill ranks among the most powerful setups when played optimally. Every aspect of the build, from the Skill 50, Endurance 25, Strength 10 stat distribution to the Rakuyo weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "Build Skill vi Rakuyo t DLC. Moveset phc tp v b ch nht Bloodborne vi tim nng sát thng khng. Ch  song kiếm bin bắn thình my xay.",
+            "descriptionVi": "Build Skill vi Rakuyo t DLC. Movesẽt phc tp v b ch nht Bloodborne vi tìm nng sát thng khng. Ch  song kiếm bin bắn thình my xay.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -691,11 +691,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Professional cho Skill khởi đầu cao nhất",
-                        "Dùng hreaded Cane as early weapon",
+                        "Dùng hreađểd cầne as early weapon",
                         "Tng Skill lên 25 v Vitality lên 20",
-                        "Nng Threaded Cane lên +4",
-                        "Đánh bại Cleric Beast and Father Gascoigne",
-                        "Lấy Hunter's Set"
+                        "Nng Threađểd cầne lên +4",
+                        "Đánh bại Cleric Beast và Father Gascoigne",
+                        "Lấy Hunter's sẽt"
                     ]
                 },
                 {
@@ -703,7 +703,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Skill should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Rakuyo, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -726,7 +726,7 @@
                         "Đến Fishing Hamlet trong DLC",
                         "Đánh bại the two Shark Giants for Rakuyo",
                         "Nng Rakuyo lên +6",
-                        "Trang bị Clawmark and Blood Rapture runes",
+                        "Trang bị Clawmark và Blood Rapture runes",
                         "Hc L2 bin hình quay cht chc"
                     ]
                 },
@@ -758,8 +758,8 @@
                         "Nng Rakuyo lên +10",
                         "Farm gem 27.2% từ chalice",
                         "L2 bin hình true combo vo R1",
-                        "Trang bị +15% HP and stamina runes",
-                        "Luyện backstep R1 để spacing PvP"
+                        "Trang bị +15% HP và stạmina runes",
+                        "lũyện backstep R1 để spacing PvP"
                     ]
                 }
             ],
@@ -777,19 +777,19 @@
                     "name": "Rakuyo",
                     "type": "Weapon",
                     "location": "Fishing Hamlet DLC after defeating Shark Giants",
-                    "locationVi": "Fishing Hamlet DLC after defeating Shark Giants"
+                    "locationVi": "Fishing Hamlet DLC after đểfeating Shark Giants"
                 },
                 {
                     "name": "Threaded Cane",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Starting weapon or purchased from Bath Messengers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
                 },
                 {
                     "name": "Hunter Set",
                     "type": "Armor",
                     "location": "Purchased from Bath Messengers",
-                    "locationVi": "Mua từ Bath Messengers"
+                    "locationVi": "Mua từ Bath Messẽngers"
                 },
                 {
                     "name": "Blood Rock",
@@ -807,7 +807,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -825,7 +825,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -861,7 +861,7 @@
             "name": "Beast Claw",
             "nameVi": "Móng Vuốt Thú",
             "description": "Beast Claw is a meme build using the beast claw with the beast's embrace rune. Designed around high Strength 40, Endurance 30, Skill 25, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nThis is a meme build through and through — prioritizing style, humor, and sheer entertainment over raw efficiency. The Beast Claw is the centerpiece of this comedic playthrough, with mechanics that are more about spectacle than optimization. While you won't top damage charts, you'll have an unforgettable experience trolling invaders, surprising co-op partners, and enjoying the game from a completely different perspective. The true power of this build lies in its ability to make you laugh.\n\nThe core strength of Beast Claw is its versatility and damage potential when optimized. Key items like Beast Claw are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is its comedic focus — some encounters will be harder than necessary due to the weapon choice. Players should practice the core combos regularly to build muscle memory.\n\nBeast Claw is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build meme vi Beast Claw v Beast's Embrace rune. Bin bắn thình qui th lai ngi vi moveset c o. Tch beasthood meter cho sát thng in cung.",
+            "descriptionVi": "Build meme vi Beast Claw v Beast's Embrace rune. Bin bắn thình qui th lại ngi vi movesẽt c o. Tch beasthood meter cho sát thng in cùng.",
             "category": "meme",
             "difficulty": 2,
             "dlc": true,
@@ -902,11 +902,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Đánh bại the game to reach the DLC or trade for Beast Claw",
+                        "Đánh bại the game to reach the DLC or trađể for Beast Claw",
                         "Tng Strength lên 25 v Skill lên 15",
                         "Dùng aw Cleaver until you get Beast Claw",
-                        "Build basic stamina and HP",
-                        "Đánh bại Cleric Beast and Gascoigne"
+                        "Build basic stạmina và HP",
+                        "Đánh bại Cleric Beast và Gascoigne"
                     ]
                 },
                 {
@@ -914,7 +914,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Forbidden Woods, Byrgenwerth, DLC",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, DLC",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Beast Claw, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -936,9 +936,9 @@
                         "y Strength lên 35",
                         "Lấy Beast Claw từ DLC",
                         "Tìm Beast's Embrace rune in the DLC",
-                        "Trang bị the rune to unlock beast mode moveset",
+                        "Trang bị the rune to unlock beast mođể movesẽt",
                         "Nng Beast Claw lên +6",
-                        "Trang bị runes for stamina and beasthood"
+                        "Trang bị runes for stạmina và beasthood"
                     ]
                 },
                 {
@@ -970,7 +970,7 @@
                         "Trang bị physical gems from chalice",
                         "Build beasthood meter before boss fog",
                         "Dng Beast Blood Pellet  tng sát thng",
-                        "The beast mode L2 leap attack is your best gap closer"
+                        "The beast mođể L2 leap attack is your best gap closẽr"
                     ]
                 }
             ],
@@ -980,7 +980,7 @@
                     "ar": 550,
                     "scaling": "B Str",
                     "verdict": "Beast Claw has lower AR but the playstyle makes up for it.",
-                    "verdictVi": "AR th�p nh�ng l�i ch�i b� l�i."
+                    "verdictVi": "AR thp nhng li chi b li."
                 }
             ],
             "items": [
@@ -1006,7 +1006,7 @@
                     "name": "Hunter Set",
                     "type": "Armor",
                     "location": "Purchased from Bath Messengers",
-                    "locationVi": "Mua từ Bath Messengers"
+                    "locationVi": "Mua từ Bath Messẽngers"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -1018,7 +1018,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -1036,7 +1036,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -1060,11 +1060,11 @@
                 "Fire Paper adds fire damage for beast enemies. Bolt Paper is for Kin (alien) enemies. Match your paper to the boss weakness."
             ],
             "tipsVi": [
-                "Beast's Embrace rune changes your entire moveset — more aggressive, lower defense",
+                "Beast's Embrace rune changes your entire movesẽt — more aggressive, lower đểfensẽ",
                 "Tch beasthood bắng cch tn công lin tc",
-                "Beast Claw attacks are incredibly fast — you can chain 6+ hits easily",
+                "Beast Claw attacks are incredibly fast — you cần chain 6+ hits easily",
                 "L2 bin hình l n nhy tip cn tt",
-                "Beast mode reduces your defense by 30% — be aggressive or die"
+                "Beast mođể reduces your đểfensẽ by 30% — be aggressive or die"
             ]
         },
         {
@@ -1072,7 +1072,7 @@
             "name": "Kos Parasite Arcane",
             "nameVi": "Ký Sinh Trùng Kos",
             "description": "Kos Parasite Arcane is an arcane build using the kos parasite with the milkweed rune. Designed around high Arcane 70, Endurance 15, Strength 9, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nThis is a meme build through and through — prioritizing style, humor, and sheer entertainment over raw efficiency. The Kos Parasite is the centerpiece of this comedic playthrough, with mechanics that are more about spectacle than optimization. While you won't top damage charts, you'll have an unforgettable experience trolling invaders, surprising co-op partners, and enjoying the game from a completely different perspective. The true power of this build lies in its ability to make you laugh.\n\nThe core strength of Kos Parasite Arcane is its raw power potential and devastating payoff for skilled play. Key items like Kos Parasite are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Kos Parasite Arcane ranks among the most powerful setups when played optimally. Every aspect of the build, from the Arcane 70, Endurance 15, Strength 9 stat distribution to the Kos Parasite weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "Build Arcane vi Kos Parasite v Milkweed rune. Bin thình sinh vt Kin u sp l vi n xc tu. Scaling Arcane cao bin meme thình sát thng khng.",
+            "descriptionVi": "Build Arcầne vi Kos Parasite v Milkweed rune. Bin thình sinh vt Kin u sp l vi n xc tu. Scaling Arcầne cao bin meme thình sát thng khng.",
             "category": "meme",
             "difficulty": 3,
             "dlc": true,
@@ -1112,12 +1112,12 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Cruel Fate cho Arcane cao nhất",
-                        "Tng Arcane lên 25 trc",
+                        "Chọn Cruel Fate cho Arcầne cao nhất",
+                        "Tng Arcầne lên 25 trc",
                         "Dng Flamesprayer lm vi kh chình",
                         "Buy Hunter Chief Emblem to open Cathedral Ward",
-                        "Tìm fire gem in Cathedral Ward to convert a weapon",
-                        "Đánh bại Cleric Beast and Gascoigne"
+                        "Tìm fire gem in Cathedral Ward to cònvert a weapon",
+                        "Đánh bại Cleric Beast và Gascoigne"
                     ]
                 },
                 {
@@ -1125,7 +1125,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Forbidden Woods, Byrgenwerth, DLC",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, DLC",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Arcane should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Kos Parasite, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -1144,12 +1144,12 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "y Arcane lên 50",
+                        "y Arcầne lên 50",
                         "Trang b gem nguyền t trn Saw Cleaver",
                         "Lấy Augur of Ebrietas từ Byrgenwerth",
-                        "Reach the DLC and Đánh bại Orphan of Kos",
+                        "Reach the DLC và Đánh bại Orphan of Kos",
                         "Lấy Kos Parasite từ linh hồn Orphan",
-                        "Tìm Milkweed rune from Saint Adeline's Nhiệm vụ in DLC"
+                        "Tìm Milkweed rune from Saint Ađểline's Nhiệm vụ in DLC"
                     ]
                 },
                 {
@@ -1176,12 +1176,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "y Arcane lên 70",
+                        "y Arcầne lên 70",
                         "Nng Kos Parasite lên +10",
-                        "Farm gem arcane từ chalice",
+                        "Farm gem arcầne từ chalice",
                         "Trang b Milkweed rune  bin hình Kin",
                         "R2 bin hình xc tu c tm cc xa",
-                        "Dùng xecutioner's Gloves for ranged damage"
+                        "Dùng xecutioner's Gloves for ranged đãmage"
                     ]
                 }
             ],
@@ -1191,7 +1191,7 @@
                     "ar": 520,
                     "scaling": "S Arc",
                     "verdict": "Best. Farm arcane scaling gems from chalice bosses.",
-                    "verdictVi": "Tốt nhất. Farm gem arcane từ chalice."
+                    "verdictVi": "Tốt nhất. Farm gem arcầne từ chalice."
                 }
             ],
             "items": [
@@ -1205,13 +1205,13 @@
                     "name": "Milkweed Rune",
                     "type": "Rune",
                     "location": "The Old Hunters DLC from Saint Adeline's quest",
-                    "locationVi": "DLC The Old Hunters từ nhiệm vụ Saint Adeline"
+                    "locationVi": "DLC The Old Hunters từ nhiệm vụ Saint Ađểline"
                 },
                 {
                     "name": "Augur of Ebrietas",
                     "type": "Weapon",
                     "location": "Byrgenwerth, dropped by a student enemy near the lamp",
-                    "locationVi": "Byrgenwerth, dropped by a student enemy near the lamp"
+                    "locationVi": "Byrgenwerth, dropped by a stuđếnt enemy near the lamp"
                 },
                 {
                     "name": "Flamesprayer",
@@ -1223,7 +1223,7 @@
                     "name": "Executioner's Gloves",
                     "type": "Weapon",
                     "location": "Cainhurst Castle found on a corpse",
-                    "locationVi": "Cainhurst Castle found on a corpse"
+                    "locationVi": "Cainhurst Castle found on a corpsẽ"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -1235,7 +1235,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -1253,7 +1253,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 }
             ],
             "tips": [
@@ -1272,18 +1272,18 @@
             ],
             "tipsVi": [
                 "Milkweed + Kos Parasite bin bắn thình Kin",
-                "Transformed R2 tentacles have incredible range and knockback",
-                "70 Arcane cho scaling cao nhất",
-                "Augur of Ebrietas can parry from the front — useful for fist parries",
+                "Transformed R2 tentacles have incredible range và knockback",
+                "70 Arcầne cho scaling cao nhất",
+                "Augur of Ebrietas cần parry from the front — usẽful for fist parries",
                 "Dng Tiny Tonitrus  kiếm sot m ng"
             ]
         },
         {
             "slug": "bowblade",
             "name": "Simon's Bowblade",
-            "nameVi": "Cung Kiếm Simon",
+            "nameVi": "cùng Kiếm Simon",
             "description": "Simon's Bowblade is a skill/bloodtinge hybrid using simon's bowblade from the dlc. Designed around high Skill 40, Bloodtinge 35, Endurance 20, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Simon's Bowblade handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Simon's Bowblade's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Simon's Bowblade is its versatility and damage potential when optimized. Key items like Simon's Bowblade are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nSimon's Bowblade is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Skill/Bloodtinge hybrid vi Simon's Bowblade t DLC. Bắn tn  ch  cung hoc dng kiếm cong khi cn chin.",
+            "descriptionVi": "Build Skill/Bloodtinge hybrid vi Simon's Bowblađể t DLC. Bắn tn  ch  cùng hoc dng kiếm còng khi cn chin.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1327,8 +1327,8 @@
                         "Tng Skill lên 20 trc",
                         "Dùng aw Spear as your early weapon",
                         "Chạy đến DLC",
-                        "Hon thình nhim v Simon trong DLC",
-                        "Lấy Bowblade từ Simon ở Fishing Hamlet"
+                        "hơn thình nhim v Simon trong DLC",
+                        "Lấy Bowblađể từ Simon ở Fishing Hamlet"
                     ]
                 },
                 {
@@ -1336,7 +1336,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Forbidden Woods, Byrgenwerth, DLC",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, DLC",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Skill should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Simon's Bowblade, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -1356,11 +1356,11 @@
                     ],
                     "stepsVi": [
                         "y Skill lên 30 v Bloodtinge lên 25",
-                        "Nng Bowblade lên +6",
+                        "Nng Bowblađể lên +6",
                         "Hc n bin hình combo",
-                        "Trang bị runes for stamina and bullet regen",
+                        "Trang bị runes for stạmina và bullet regen",
                         "Lấy Hunter's Bone cho di chuyển",
-                        "Luyện charged R2 cung để bắn tỉa"
+                        "lũyện charged R2 cùng để bắn tỉa"
                     ]
                 },
                 {
@@ -1388,10 +1388,10 @@
                     ],
                     "stepsVi": [
                         "y Skill lên 40 v Bloodtinge lên 35",
-                        "Nng Bowblade lên +10",
-                        "Farm bloodtinge gems for bow mode",
+                        "Nng Bowblađể lên +10",
+                        "Farm bloodtinge gems for bow mođể",
                         "Farm gem vt l cho kiếm",
-                        "Bow mode trivializes many chalice dungeon bosses",
+                        "Bow mođể trivializes many chalice dungeon bossẽs",
                         "Charged R2 bắn tn sát thng khng t xa"
                     ]
                 }
@@ -1402,7 +1402,7 @@
                     "ar": 580,
                     "scaling": "S Bld",
                     "verdict": "Best for bow mode damage.",
-                    "verdictVi": "Tốt nhất cho chế độ cung."
+                    "verdictVi": "Tốt nhất cho chế độ cùng."
                 },
                 {
                     "name": "Physical Gems",
@@ -1423,13 +1423,13 @@
                     "name": "Hunter's Bone",
                     "type": "Weapon",
                     "location": "Forbidden Woods, found in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods gần đầm độc"
+                    "locationVi": "Forbidđến Woods gần đầm độc"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Found in the Forbidden Woods",
-                    "locationVi": "Found in the Forbidden Woods"
+                    "locationVi": "Found in the Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rock",
@@ -1447,7 +1447,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -1489,10 +1489,10 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Chế độ cung tăng theo Bloodtinge",
-                "Charged R2 cung c th ngm th công",
-                "n L1 bin hình t kiếm sang cung t ng bắn tn",
-                "Dùng ow mode to safely clear areas before engaging in melee",
+                "Chế độ cùng tăng theo Bloodtinge",
+                "Charged R2 cùng c th ngm th công",
+                "n L1 bin hình t kiếm sang cùng t ng bắn tn",
+                "Dùng ow mođể to safely clear areas before engaging in melee",
                 "Gi Bone Marrow Ash cho tng sát thng khn cp"
             ]
         },
@@ -1545,7 +1545,7 @@
                         "Tng Strength lên 25 trc",
                         "Dùng unter Axe as early weapon",
                         "Chạy đến DLC",
-                        "Đánh bại Ludwig to reach Research Hall",
+                        "Đánh bại Ludwig to reach Resẽarch Hall",
                         "Tìm Whirligig Saw in the Nightmare version"
                     ]
                 },
@@ -1554,7 +1554,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50–90",
                     "areas": "Forbidden Woods, Byrgenwerth, DLC",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, DLC",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Whirligig Saw, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -1575,7 +1575,7 @@
                     "stepsVi": [
                         "y Strength lên 40",
                         "Nng Whirligig Saw lên +6",
-                        "Trang bị Rune stamina",
+                        "Trang bị Rune stạmina",
                         "Hc combo R1 bin hình vo L2",
                         "Lấy Beast Blood Pellet cho boss",
                         "Dng bolt paper  tng sát thng"
@@ -1609,7 +1609,7 @@
                         "Nng Whirligig Saw lên +10",
                         "Farm gem 27.2% từ chalice",
                         "L2 bin hình + beast pellet + bolt paper = boss tan chy",
-                        "The L2 spin costs stamina per second — manage carefully",
+                        "The L2 spin costs stạmina per sẽcònd — manage carefully",
                         "Trang bị +15% HP rune for survivability"
                     ]
                 }
@@ -1620,7 +1620,7 @@
                     "ar": 680,
                     "scaling": "S Str",
                     "verdict": "Best. Three physical gems from chalice dungeons.",
-                    "verdictVi": "T�t nh�t. Ba gem v�t l� t� chalice."
+                    "verdictVi": "Tt nht. Ba gem vt l t chalice."
                 }
             ],
             "items": [
@@ -1634,7 +1634,7 @@
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Starting weapon or purchased from Bath Messengers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
                 },
                 {
                     "name": "Beast Blood Pellet",
@@ -1658,7 +1658,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -1676,7 +1676,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -1700,11 +1700,11 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Transformed L2 spin is the highest sustained DPS against large bosses",
-                "The spin costs stamina per second — stop spinning before you run out",
+                "Transformed L2 spin is the highest sustạined DPS against large bossẽs",
+                "The spin costs stạmina per sẽcònd — stop spinning before you run out",
                 "Beast Pellet + Bolt Paper + L2 = sát thng khng công bắng",
                 "R2 khng bin hình l chm ngang",
-                "Whirligig Saw is serrated in both modes — 20% bonus against beasts"
+                "Whirligig Saw is sẽrrấted in both mođểs — 20% bonus against beasts"
             ]
         },
         {
@@ -1712,7 +1712,7 @@
             "name": "Beast Cutter STR",
             "nameVi": "Beast Cutter STR",
             "description": "Beast Cutter STR is a strength build using the beast cutter from the dlc. Designed around high Strength 50, Endurance 25, Skill 12, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Beast Cutter STR handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Beast Cutter's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Beast Cutter STR is its accessibility and consistent performance. Key items like Beast Cutter are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Beast Cutter STR is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A Strength build using the Beast Cutter from the DLC. Untricked it's a cleaver, tricked it becomes a serrated whip with incredible range and stagger. Excellent for crowd control.",
+            "descriptionVi": "A Strength build using the Beast Cutter from the DLC. Untricked it's a cleaver, tricked it becomes a sẽrrấted whip với incredible range và stagger. Excellent for crowd còntrol.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1765,7 +1765,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Beast Cutter, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -1786,9 +1786,9 @@
                     "stepsVi": [
                         "Tăng Strength lên 40",
                         "Nng lên +6",
-                        "Học moveset roi",
+                        "Học movesẽt roi",
                         "R2 bin hình tm xa",
-                        "Trang bị stamina runes",
+                        "Trang bị stạmina runes",
                         "Tăng Vitality lên 30"
                     ]
                 },
@@ -1818,9 +1818,9 @@
                     "stepsVi": [
                         "Tăng Strength lên 50",
                         "Nng lên +10",
-                        "R2 bin hình chong",
-                        "Serrated damage bonus against beasts",
-                        "Trang bị +15% HP and stamina runes",
+                        "R2 bin hình chơng",
+                        "sẽrrấted đãmage bonus against beasts",
+                        "Trang bị +15% HP và stạmina runes",
                         "Farm 27.2% physical gems từ chalice"
                     ]
                 }
@@ -1831,7 +1831,7 @@
                     "ar": 600,
                     "scaling": "B Str",
                     "verdict": "Best. Three physical tempering gems.",
-                    "verdictVi": "T�\u0018t nh�t. Ba gem v�t l�."
+                    "verdictVi": "Tt nht. Ba gem vt l."
                 }
             ],
             "items": [
@@ -1845,13 +1845,13 @@
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Starting weapon or purchased from Bath Messengers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -1863,7 +1863,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -1881,7 +1881,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -1897,7 +1897,7 @@
                 }
             ],
             "tips": [
-                "Tricked Beast Cutter has serrated damage �\u001d 20% bonus against beasts even in whip form",
+                "Tricked Beast Cutter has serrated damage  20% bonus against beasts even in whip form",
                 "The tricked R2 has enormous stagger potential against most enemies",
                 "Untricked form is a fast cleaver for close quarters",
                 "The whip form's R1 sweeps hit multiple enemies at once",
@@ -1911,19 +1911,19 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Tricked Beast Cutter has serrated damage �\u001d 20% bonus against beasts even in whip form",
-                "R2 bin hình lm chong",
-                "Dao gĒm cho cự ly gần",
+                "Tricked Beast Cutter has sẽrrấted đãmage  20% bonus against beasts even in whip form",
+                "R2 bin hình lm chơng",
+                "đão gĒm cho cự ly gần",
                 "The whip form's R1 sweeps hit multiple enemies at once",
-                "Dùng the range to stay safe while dealing damage"
+                "Dùng the range to stay safe while đểaling đãmage"
             ]
         },
         {
             "slug": "amygdalan-arm",
             "name": "Amygdalan Arm",
-            "nameVi": "Amygdalan Arm",
+            "nameVi": "Amygđãlan Arm",
             "description": "Amygdalan Arm is a strength/arcane build using the amygdalan arm from the dlc. Designed around high Arcane 45, Strength 30, Endurance 22, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Amygdalan Arm handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Amygdalan Arm's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Amygdalan Arm is its versatility and damage potential when optimized. Key items like Amygdalan Arm are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nAmygdalan Arm is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Strength/Arcane v:i Amygdalan Arm. Dng bin hình cnh tay p mnh.",
+            "descriptionVi": "Build Strength/Arcầne v:i Amygđãlan Arm. Dng bin hình cnh tay p mnh.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1964,10 +1964,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Cruel Fate",
-                        "Tăng Arcane lên 20 and Str to 20",
+                        "Tăng Arcầne lên 20 và Str to 20",
                         "Dng vi kh lửa tm",
                         "Đến DLC",
-                        "Tìm Amygdalan Arm in Hunter's Nightmare",
+                        "Tìm Amygđãlan Arm in Hunter's Nightmare",
                         "Nng lên +3"
                     ]
                 },
@@ -1976,7 +1976,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Arcane should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Amygdalan Arm, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -1995,12 +1995,12 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Arcane lên 35 and Str to 25",
+                        "Tăng Arcầne lên 35 và Str to 25",
                         "Nng lên +6",
                         "Gem lửa hoc sát",
                         "R2 bin hình p xa",
                         "Tăng Vitality lên 30",
-                        "Luy!n n bin hình"
+                        "lũy!n n bin hình"
                     ]
                 },
                 {
@@ -2027,12 +2027,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Arcane lên 45 and Str to 30",
+                        "Tăng Arcầne lên 45 và Str to 30",
                         "Nng lên +10",
-                        "Trang bị nourishing gems for arcane",
+                        "Trang bị nourishing gems for arcầne",
                         "The tricked charged R2 is a combo starter",
                         "L1 bin hình mix-up",
-                        "The arm has amazing range and stagger"
+                        "The arm has amazing range và stagger"
                     ]
                 }
             ],
@@ -2042,7 +2042,7 @@
                     "ar": 580,
                     "scaling": "B Str B Arc",
                     "verdict": "Best for Arcane/Strength hybrid. Nourishing gems boost both damage types.",
-                    "verdictVi": "T�\u0018t nhất cho Arcane/Strength."
+                    "verdictVi": "Tt nhất cho Arcầne/Strength."
                 }
             ],
             "items": [
@@ -2056,7 +2056,7 @@
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Elemental Gems",
@@ -2074,7 +2074,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -2092,7 +2092,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -2122,9 +2122,9 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "The tricked form charged R2 combo can stagger bosses in 2-3 hits",
+                "The tricked form charged R2 combo cần stagger bossẽs in 2-3 hits",
                 "Tm xa tuy!t vi dng bin hình",
-                "Nourishing gems boost both physical and arcane damage",
+                "Nourishing gems boost both physical và arcầne đãmage",
                 "L1 bin hình nhanh hn R1",
                 "Bolt vs kin, lửa vs th"
             ]
@@ -2134,7 +2134,7 @@
             "name": "Church Pick Quality",
             "nameVi": "Church Pick Quality",
             "description": "Church Pick Quality is a quality build using the church pick from the dlc. Designed around high Strength 35, Skill 35, Endurance 25, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Church Pick Quality handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Church Pick's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Church Pick Quality is its versatility and damage potential when optimized. Key items like Church Pick are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nChurch Pick Quality is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A Quality build using the Church Pick from the DLC. The only weapon with serrated AND righteous damage in both forms. Thrust attacks with incredible range and the Leo Ring effect.",
+            "descriptionVi": "A Quality build using the Church Pick from the DLC. The only weapon với sẽrrấted và righteous đãmage in both forms. Thrust attacks với incredible range và the Leo Ring effect.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2187,7 +2187,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Vitality should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Church Pick, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -2209,9 +2209,9 @@
                         "Push Str/Skl to 25/25",
                         "Nng lên +6",
                         "Hc tm R2 bin hình",
-                        "Trang bị stamina and HP runes",
+                        "Trang bị stạmina và HP runes",
                         "Tăng Vitality lên 30",
-                        "The thrust counter damage is excellent"
+                        "The thrust counter đãmage is excellent"
                     ]
                 },
                 {
@@ -2240,10 +2240,10 @@
                     "stepsVi": [
                         "Push Str/Skl to 35/35",
                         "Nng lên +10",
-                        "Serrated + righteous damage on all forms",
+                        "sẽrrấted + righteous đãmage on all forms",
                         "Farm 27.2% thrust gems",
                         "R1 qut dng bin hình",
-                        "The thrust attacks counter hit for massive damage"
+                        "The thrust attacks counter hit for massive đãmage"
                     ]
                 }
             ],
@@ -2253,7 +2253,7 @@
                     "ar": 580,
                     "scaling": "A Str/Skl",
                     "verdict": "Best. Thrust gems boost the Church Pick's thrust attacks further.",
-                    "verdictVi": "T�\u0018t nh�t. Gem �\u0018�m t\u0012ng �\u0018�n �\u0018�m."
+                    "verdictVi": "Tt nht. Gem m tng n m."
                 }
             ],
             "items": [
@@ -2267,13 +2267,13 @@
                     "name": "Saw Cleaver",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Starting weapon or purchased"
+                    "locationVi": "khởi đầu weapon or purchasẽd"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -2285,7 +2285,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -2303,7 +2303,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -2319,7 +2319,7 @@
                 }
             ],
             "tips": [
-                "Church Pick has BOTH serrated AND righteous damage in both forms �\u001d unique in the game",
+                "Church Pick has BOTH serrated AND righteous damage in both forms  unique in the game",
                 "Serrated = 20% bonus to beasts, Righteous = 50% bonus to certain enemies",
                 "The tricked form R2 is a long-range thrust with massive counter damage",
                 "Use the un-tricked left-handed R1 for wide sweeps",
@@ -2333,8 +2333,8 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Church Pick has BOTH serrated AND righteous damage in both forms �\u001d unique in the game",
-                "Serrated = 20% bonus to beasts, Righteous = 50% bonus to certain enemies",
+                "Church Pick has BOTH sẽrrấted và righteous đãmage in both forms  unique in the game",
+                "sẽrrấted = 20% bonus to beasts, Righteous = 50% bonus to certạin enemies",
                 "R2 bin hình m xa",
                 "R1 trơi qut r\"ng",
                 "Thrust gems on Church Pick are more effective than tempering gems"
@@ -2343,9 +2343,9 @@
         {
             "slug": "blade-of-mercy",
             "name": "Blade of Mercy Skill",
-            "nameVi": "Lưỡi Dao Nhân Từ",
+            "nameVi": "Lưỡi đão Nhân Từ",
             "description": "Blade of Mercy Skill is a skill build using the blade of mercy. Designed around high Skill 50, Endurance 30, Strength 10, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvP combat, Blade of Mercy Skill excels at controlling engagement distance and punishing opponent mistakes. The Blade of Mercy provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Blade of Mercy Skill is its raw power potential and devastating payoff for skilled play. Key items like Blade of Mercy are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Blade of Mercy Skill ranks among the most powerful setups when played optimally. Every aspect of the build, from the Skill 50, Endurance 30, Strength 10 stat distribution to the Blade of Mercy weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "A Skill build using the Blade of Mercy. The fastest weapon in Bloodborne with a unique dash R1 that's nearly instant. Devastating DPS when you stay aggressive and never stop attacking.",
+            "descriptionVi": "A Skill build using the Blađể of Mercy. The fastest weapon in Bloodborne với a unique đãsh R1 that's nearly instant. đểvastating DPS when you stay aggressive và never stop attacking.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -2387,10 +2387,10 @@
                     "stepsVi": [
                         "Chọn Professional",
                         "Tăng Skill lên 25",
-                        "Dùng hreaded Cane temporarily",
+                        "Dùng hreađểd cầne temporarily",
                         "Nhi!m vụ Eileen",
-                        "Đánh bại Henryk with Eileen",
-                        "Lấy Blade of Mercy từ Eileen"
+                        "Đánh bại Henryk với Eileen",
+                        "Lấy Blađể of Mercy từ Eileen"
                     ]
                 },
                 {
@@ -2398,7 +2398,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Skill should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Blade of Mercy, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -2419,10 +2419,10 @@
                     "stepsVi": [
                         "Tăng Skill lên 35",
                         "Nng lên +6",
-                        "Học dash R1",
-                        "Trang bị stamina runes",
+                        "Học đãsh R1",
+                        "Trang bị stạmina runes",
                         "Tăng Endurance lên 25",
-                        "Luy!n L2 bin hình"
+                        "lũy!n L2 bin hình"
                     ]
                 },
                 {
@@ -2451,7 +2451,7 @@
                     "stepsVi": [
                         "Tăng Skill lên 50",
                         "Nng lên +10",
-                        "The dash R1 is nearly instant",
+                        "The đãsh R1 is nearly instant",
                         "L2 bin hình a n",
                         "Farm 27.2% physical gems",
                         "Trang bị Clawmark rune for viscerals"
@@ -2464,7 +2464,7 @@
                     "ar": 520,
                     "scaling": "S Skl",
                     "verdict": "Best. Three physical tempering gems.",
-                    "verdictVi": "T�\u0018t nh�t. Ba gem v�t l�."
+                    "verdictVi": "Tt nht. Ba gem vt l."
                 }
             ],
             "items": [
@@ -2478,13 +2478,13 @@
                     "name": "Threaded Cane",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Starting weapon or purchased"
+                    "locationVi": "khởi đầu weapon or purchasẽd"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -2502,7 +2502,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -2520,7 +2520,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Great Lake Rune",
@@ -2530,10 +2530,10 @@
                 }
             ],
             "tips": [
-                "Dash R1 is the fastest attack in Bloodborne �\u001d use it constantly",
+                "Dash R1 is the fastest attack in Bloodborne  use it constantly",
                 "The transformed L2 is a wide spinning slash that hits multiple times",
                 "Blade of Mercy gets S scaling in Skill at +10",
-                "Stay aggressive �\u001d the weapon rewards constant pressure",
+                "Stay aggressive  the weapon rewards constant pressure",
                 "Use the Clawmark rune to boost visceral attack damage",
                 "The first soft cap for most stats is 25, the second is 50. Only level past 50 for specific weapons like the Kos Parasite.",
                 "Visceral attacks scale with Skill. If you parry often, invest in Skill for massive riposte damage on bosses like Gascoigne.",
@@ -2544,11 +2544,11 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Dash R1 nhanh nhất Bloodborne",
+                "đãsh R1 nhanh nhất Bloodborne",
                 "L2 bin hình qut r\"ng",
-                "Blade of Mercy gets S scaling in Skill at +10",
+                "Blađể of Mercy gets S scaling in Skill at +10",
                 "Lun tn công  phn thxng cho p lc",
-                "Dùng the Clawmark rune to boost visceral attack damage"
+                "Dùng the Clawmark rune to boost visceral attack đãmage"
             ]
         },
         {
@@ -2597,7 +2597,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Noble Scion",
-                        "Tăng Skill lên 20 and BLT to 15",
+                        "Tăng Skill lên 20 và BLT to 15",
                         "Dùng the Rifle Spear temporarily",
                         "Đến Cainhurst Castle",
                         "Tìm Reiterpallasch in the castle",
@@ -2609,7 +2609,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Skill should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Reiterpallasch, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -2628,12 +2628,12 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Skill lên 30 and BLT to 25",
+                        "Tăng Skill lên 30 và BLT to 25",
                         "Nng lên +6",
                         "Hc ch \" súng",
                         "Trang bị bloodtinge runes",
-                        "Dùng one Marrow Ash for bullet damage",
-                        "Practice parrying with the gun mode"
+                        "Dùng one Marrow Ash for bullet đãmage",
+                        "Practice parrying với the gun mođể"
                     ]
                 },
                 {
@@ -2660,7 +2660,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Skill lên 40 and BLT to 30",
+                        "Tăng Skill lên 40 và BLT to 30",
                         "Nng lên +10",
                         "R1 súng bắn n",
                         "n bin hình vo n",
@@ -2675,7 +2675,7 @@
                     "ar": 520,
                     "scaling": "A Skl B BLT",
                     "verdict": "Best for hybrid. Bloodtinge gems boost gun mode.",
-                    "verdictVi": "T�\u0018t nhất cho hybrid."
+                    "verdictVi": "Tt nhất cho hybrid."
                 }
             ],
             "items": [
@@ -2701,7 +2701,7 @@
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -2713,7 +2713,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -2731,7 +2731,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -2741,7 +2741,7 @@
                 }
             ],
             "tips": [
-                "The tricked form turns the sword into a gun �\u001d R1 fires bullets",
+                "The tricked form turns the sword into a gun  R1 fires bullets",
                 "Transform attack L1 from sword to gun fires a bullet automatically",
                 "Use Bone Marrow Ash for massive bullet damage",
                 "The untricked mode has a rapier moveset with thrust attacks",
@@ -2759,15 +2759,15 @@
                 "L1 bin hình t \"ng bắn n",
                 "Bone Marrow Ash cho sát thng n l:n",
                 "Dng kiếm rapier m",
-                "Parry with the gun mode then visceral for massive damage"
+                "Parry với the gun mođể then visceral for massive đãmage"
             ]
         },
         {
             "slug": "burial-blade",
             "name": "Burial Blade Quality",
-            "nameVi": "Lưỡi Hái Tang Lễ",
+            "nameVi": "Lưỡi Hái tăng Lễ",
             "description": "Burial Blade Quality is a quality build using gehrman's burial blade. Designed around high Skill 40, Strength 30, Endurance 25, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill.\n\nIn PvE, Burial Blade Quality handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Burial Blade's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Burial Blade Quality is its versatility and damage potential when optimized. Key items like Burial Blade are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nBurial Blade Quality is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A Quality build using Gehrman's Burial Blade. The transformed scythe moveset has incredible reach and the charged R2 knocks enemies down. Obtainable only at the end of the game.",
+            "descriptionVi": "A Quality build using Gehrman's Burial Blađể. The transformed scythe movesẽt has incredible reach và the charged R2 knocks enemies down. Obtạinable only at the end of the game.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -2808,11 +2808,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Tăng Skill lên 25 and Str to 20",
-                        "Dùng udwig's Holy Blade temporarily",
+                        "Tăng Skill lên 25 và Str to 20",
+                        "Dùng udwig's Holy Blađể temporarily",
                         "Chơi hết game",
-                        "Hon thình khu vc ph",
-                        "Đánh bại Gehrman for Burial Blade"
+                        "hơn thình khu vc ph",
+                        "Đánh bại Gehrman for Burial Blađể"
                     ]
                 },
                 {
@@ -2820,7 +2820,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Skill should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Burial Blade, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -2839,10 +2839,10 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Skill lên 35 and Str to 25",
+                        "Tăng Skill lên 35 và Str to 25",
                         "Nng lên +9",
                         "Learn the transformed scythe range",
-                        "Trang bị stamina runes",
+                        "Trang bị stạmina runes",
                         "Tăng Vitality lên 30",
                         "Practice the charged R2 knockdown"
                     ]
@@ -2871,7 +2871,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Skill lên 40 and Str to 30",
+                        "Tăng Skill lên 40 và Str to 30",
                         "Nng lên +10",
                         "Transformed R1 has sweeping arcs",
                         "Charged R2 knocks down everything",
@@ -2886,7 +2886,7 @@
                     "ar": 580,
                     "scaling": "B Str A Skl",
                     "verdict": "Best. Three physical tempering gems.",
-                    "verdictVi": "T�\u0018t nh�t. Ba gem v�t l�."
+                    "verdictVi": "Tt nht. Ba gem vt l."
                 }
             ],
             "items": [
@@ -2894,19 +2894,19 @@
                     "name": "Burial Blade",
                     "type": "Weapon",
                     "location": "Purchase from Bath Messengers after defeating Gehrman",
-                    "locationVi": "Mua từ Bath Messengers sau Gehrman"
+                    "locationVi": "Mua từ Bath Messẽngers sau Gehrman"
                 },
                 {
                     "name": "Ludwig's Holy Blade",
                     "type": "Weapon",
                     "location": "Purchased after Sword Hunter Badge",
-                    "locationVi": "Purchased after Sword Hunter Badge"
+                    "locationVi": "Purchasẽd after Sword Hunter Badge"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -2918,7 +2918,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -2936,7 +2936,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -2956,7 +2956,7 @@
                 "The scythe's transformed R1 has excellent crowd control with wide sweeps",
                 "Burial Blade has built-in HP regen rally potential",
                 "The untricked form is a fast sword for close quarters",
-                "Skill scaling is better than Strength �\u001d prioritize Skill",
+                "Skill scaling is better than Strength  prioritize Skill",
                 "The first soft cap for most stats is 25, the second is 50. Only level past 50 for specific weapons like the Kos Parasite.",
                 "Visceral attacks scale with Skill. If you parry often, invest in Skill for massive riposte damage on bosses like Gascoigne.",
                 "Blood Gems are the primary form of weapon upgrade beyond +10. Farm Cursed Cold Abyssal gems from Pthumeru Elder for best results.",
@@ -2966,9 +2966,9 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Charged R2 in transformed mode knocks down almost every enemy",
+                "Charged R2 in transformed mođể knocks down almost every enemy",
                 "R1 bin hình qut r\"ng",
-                "Burial Blade has built-in HP regen rally potential",
+                "Burial Blađể has built-in HP regen rally potential",
                 "Dạng kiếm nhanh",
                 "Skill quan trọng hơn Strength"
             ]
@@ -3022,7 +3022,7 @@
                         "Tăng Strength lên 25 first",
                         "Tìm Stake Driver near Central Yharnam lamp",
                         "Nng lên +3",
-                        "Học timing charged R2",
+                        "Học tìming charged R2",
                         "Practice the piledriver"
                     ]
                 },
@@ -3031,7 +3031,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Stake Driver, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -3052,7 +3052,7 @@
                     "stepsVi": [
                         "Tăng Strength lên 35",
                         "Nng lên +6",
-                        "Trang bị stamina runes",
+                        "Trang bị stạmina runes",
                         "Dng bin hình cho tm",
                         "Tăng Vitality lên 30",
                         "Piledriver cn 9nh v9 chình xc"
@@ -3097,7 +3097,7 @@
                     "ar": 550,
                     "scaling": "B Str",
                     "verdict": "Best. The piledriver damage is unmatched.",
-                    "verdictVi": "T�\u0018t nh�t. Piledriver kh�ng ai s�nh."
+                    "verdictVi": "Tt nht. Piledriver khng ai snh."
                 }
             ],
             "items": [
@@ -3111,7 +3111,7 @@
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -3123,7 +3123,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -3141,7 +3141,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -3158,8 +3158,8 @@
             ],
             "tips": [
                 "The charged R2 piledriver is the single highest damage attack in Bloodborne",
-                "It takes about 3 seconds to fully charge �\u001d use it during boss openings",
-                "The untricked form has short range �\u001d get close before using",
+                "It takes about 3 seconds to fully charge  use it during boss openings",
+                "The untricked form has short range  get close before using",
                 "Tricked form has a larger hitbox for normal fighting",
                 "Use Beast Blood Pellet before the piledriver for insane damage",
                 "Meme builds like Stake Driver STR are about having fun. Don't worry about optimization — enjoy the unique playstyle and surprise factor.",
@@ -3171,8 +3171,8 @@
                 "Fire Paper adds fire damage for beast enemies. Bolt Paper is for Kin (alien) enemies. Match your paper to the boss weakness."
             ],
             "tipsVi": [
-                "The charged R2 piledriver is the single highest damage attack in Bloodborne",
-                "It takes about 3 seconds to fully charge �\u001d use it during boss openings",
+                "The charged R2 piledriver is the single highest đãmage attack in Bloodborne",
+                "It takes about 3 sẽcònds to fully charge  usẽ it during boss openings",
                 "Dng thng tm ngn  p sát",
                 "Dng bin hình hitbox to",
                 "Beast Blood Pellet trư:c piledriver"
@@ -3183,7 +3183,7 @@
             "name": "Tonitrus STR/ARC",
             "nameVi": "Tonitrus STR/ARC",
             "description": "Tonitrus STR/ARC is a strength/arcane build using the tonitrus. Designed around high Strength 40, Arcane 35, Endurance 20, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans.\n\nIn PvE, Tonitrus STR/ARC handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Tonitrus's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Tonitrus STR/ARC is its accessibility and consistent performance. Key items like Tonitrus are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Tonitrus STR/ARC is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build Strength/Arcane v:i Tonitrus. T buff sát khi bin hình. Vi kh chng kin tt nht.",
+            "descriptionVi": "Build Strength/Arcầne v:i Tonitrus. T buff sát khi bin hình. Vi kh chng kin tt nht.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -3224,7 +3224,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Cruel Fate",
-                        "Tăng Str lên 20 and Arc to 15",
+                        "Tăng Str lên 20 và Arc to 15",
                         "Dng vi kh lửa",
                         "Đến Yahargul",
                         "Tìm Tonitrus on a body",
@@ -3236,7 +3236,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Tonitrus, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -3255,10 +3255,10 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 30 and Arc to 25",
+                        "Tăng Str lên 30 và Arc to 25",
                         "Nng lên +6",
                         "Bin hình buff sát",
-                        "Bolt damage destroys kin enemies",
+                        "Bolt đãmage đểstroys kin enemies",
                         "Tăng Vitality lên 25",
                         "Rune sát"
                     ]
@@ -3287,7 +3287,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 40 and Arc to 35",
+                        "Tăng Str lên 40 và Arc to 35",
                         "Nng lên +10",
                         "Bin hình n\" sát",
                         "Farm nourishing or bolt gems",
@@ -3302,7 +3302,7 @@
                     "ar": 580,
                     "scaling": "C Str B Arc",
                     "verdict": "Best. Nourishing gems boost the bolt transformation damage.",
-                    "verdictVi": "T�\u0018t nhất."
+                    "verdictVi": "Tt nhất."
                 }
             ],
             "items": [
@@ -3316,7 +3316,7 @@
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -3328,7 +3328,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -3346,7 +3346,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -3364,9 +3364,9 @@
             "tips": [
                 "Transforming the Tonitrus adds bolt damage to all attacks for 20 seconds",
                 "The buffed Tonitrus is the best anti-kin weapon in Bloodborne",
-                "The weapon has low durability �\u001d it breaks quickly",
+                "The weapon has low durability  it breaks quickly",
                 "Use the transformation attack L1 to buff while attacking",
-                "Tonitrus deals strike damage �\u001d effective against armored enemies",
+                "Tonitrus deals strike damage  effective against armored enemies",
                 "The first soft cap for most stats is 25, the second is 50. Only level past 50 for specific weapons like the Kos Parasite.",
                 "Visceral attacks scale with Skill. If you parry often, invest in Skill for massive riposte damage on bosses like Gascoigne.",
                 "Blood Gems are the primary form of weapon upgrade beyond +10. Farm Cursed Cold Abyssal gems from Pthumeru Elder for best results.",
@@ -3378,9 +3378,9 @@
             "tipsVi": [
                 "Bin hình thm sát 20 giy",
                 "The buffed Tonitrus is the best anti-kin weapon in Bloodborne",
-                "Đ\" bền thấp  mau hỏng",
+                "Đ\" bền thấp  máu hỏng",
                 "L1 bin hình va buff va nh",
-                "Tonitrus deals strike damage �\u001d effective against armored enemies"
+                "Tonitrus đểals strike đãmage  effective against armored enemies"
             ]
         },
         {
@@ -3388,7 +3388,7 @@
             "name": "Holy Moonlight Sword ARC/STR",
             "nameVi": "Thánh Kiếm Ánh Trăng",
             "description": "Holy Moonlight Sword ARC/STR is an arcane/strength build using ludwig's holy moonlight sword from the dlc. Designed around high Arcane 50, Strength 30, Endurance 20, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Holy Moonlight Sword ARC/STR handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Holy Moonlight Sword's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Holy Moonlight Sword ARC/STR is its versatility and damage potential when optimized. Key items like Holy Moonlight Sword are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nHoly Moonlight Sword ARC/STR is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Arcane/Strength v:i Holy Moonlight Sword. Charged R2 bắn súng nh trng.",
+            "descriptionVi": "Build Arcầne/Strength v:i Holy Moonlight Sword. Charged R2 bắn súng nh trng.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3429,10 +3429,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Cruel Fate",
-                        "Tăng Arcane lên 25 first",
+                        "Tăng Arcầne lên 25 first",
                         "Dng Saw Cleaver lửa",
                         "Đến DLC",
-                        "Đánh bại Ludwig the Holy Blade",
+                        "Đánh bại Ludwig the Holy Blađể",
                         "Đ\"i linh hn lấy kiếm"
                     ]
                 },
@@ -3441,7 +3441,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, DLC",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, DLC",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Arcane should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Holy Moonlight Sword, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -3460,9 +3460,9 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Arcane lên 35 and Str to 25",
+                        "Tăng Arcầne lên 35 và Str to 25",
                         "Nng lên +6",
-                        "Hc moveset bin hình",
+                        "Hc movesẽt bin hình",
                         "R2 bắn súng trng",
                         "Trang bị nourishing gems",
                         "Tăng Vitality lên 25"
@@ -3492,7 +3492,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Arcane lên 50 and Str to 30",
+                        "Tăng Arcầne lên 50 và Str to 30",
                         "Nng lên +10",
                         "Charged R2 súng nh trng",
                         "Trang bị nourishing gems from chalice",
@@ -3507,7 +3507,7 @@
                     "ar": 650,
                     "scaling": "B Str S Arc",
                     "verdict": "Best. Nourishing gems boost both physical and arcane damage.",
-                    "verdictVi": "T�\u0018t nhất."
+                    "verdictVi": "Tt nhất."
                 }
             ],
             "items": [
@@ -3521,7 +3521,7 @@
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -3533,7 +3533,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -3551,7 +3551,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -3582,9 +3582,9 @@
             ],
             "tipsVi": [
                 "Charged R2 bắn súng trng khng tn n",
-                "HMS has the best Arcane scaling of any Strength weapon",
-                "Nourishing gem tt hơn arcane gem",
-                "Dạng thường moveset kiếm Ludwig",
+                "HMS has the best Arcầne scaling of any Strength weapon",
+                "Nourishing gem tt hơn arcầne gem",
+                "Dạng thường movesẽt kiếm Ludwig",
                 "L1 bin hình vo súng trng"
             ]
         },
@@ -3593,7 +3593,7 @@
             "name": "Logarius Wheel STR/ARC",
             "nameVi": "Bắnh Xe Logarius",
             "description": "Logarius Wheel STR/ARC is a strength/arcane build using the logarius wheel. Designed around high Strength 50, Endurance 25, Arcane 25, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill.\n\nIn PvE, Logarius Wheel STR/ARC handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Logarius Wheel's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Logarius Wheel STR/ARC is its versatility and damage potential when optimized. Key items like Logarius Wheel are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nLogarius Wheel STR/ARC is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Strength/Arcane v:i Logarius Wheel. Quay gy sát thng lin tc.",
+            "descriptionVi": "Build Strength/Arcầne v:i Logarius Wheel. Quay gy sát thng lin tc.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -3646,7 +3646,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Logarius Wheel, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -3665,12 +3665,12 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 35 and Arc to 15",
+                        "Tăng Str lên 35 và Arc to 15",
                         "Nng lên +6",
                         "Hc quay bin hình",
-                        "Trang bị stamina runes",
+                        "Trang bị stạmina runes",
                         "Tăng Vitality lên 30",
-                        "The spin costs stamina but deals multi-hit"
+                        "The spin costs stạmina but đểals multi-hit"
                     ]
                 },
                 {
@@ -3697,11 +3697,11 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 50 and Arc to 25",
+                        "Tăng Str lên 50 và Arc to 25",
                         "Nng lên +10",
-                        "Transformed R2 spin deals multi-hit damage",
-                        "Arcane damage increases with spin time",
-                        "Farm nourishing or flat arcane gems",
+                        "Transformed R2 spin đểals multi-hit đãmage",
+                        "Arcầne đãmage increasẽs với spin tìme",
+                        "Farm nourishing or flat arcầne gems",
                         "L1 ập mạnh"
                     ]
                 }
@@ -3712,7 +3712,7 @@
                     "ar": 620,
                     "scaling": "B Str C Arc",
                     "verdict": "Best. Nourishing gems boost both physical and arcane.",
-                    "verdictVi": "T�\u0018t nhất."
+                    "verdictVi": "Tt nhất."
                 }
             ],
             "items": [
@@ -3720,19 +3720,19 @@
                     "name": "Logarius Wheel",
                     "type": "Weapon",
                     "location": "Purchased from Bath Messengers after Martyr Logarius soul",
-                    "locationVi": "Mua từ Bath Messengers sau linh hn Logarius"
+                    "locationVi": "Mua từ Bath Messẽngers sau linh hn Logarius"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Starting weapon or purchased"
+                    "locationVi": "khởi đầu weapon or purchasẽd"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -3744,7 +3744,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -3762,7 +3762,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -3781,7 +3781,7 @@
                 "The transformed R2 spin hits multiple times and builds arcane damage",
                 "Each spin tick has a chance to trigger arcane effects",
                 "The L1 transformation attack is a powerful slam that knocks down enemies",
-                "Logarius Wheel deals blunt strike damage �\u001d effective against most enemies",
+                "Logarius Wheel deals blunt strike damage  effective against most enemies",
                 "Use flat arcane gems for consistent damage on multi-hit attacks",
                 "The first soft cap for most stats is 25, the second is 50. Only level past 50 for specific weapons like the Kos Parasite.",
                 "Visceral attacks scale with Skill. If you parry often, invest in Skill for massive riposte damage on bosses like Gascoigne.",
@@ -3792,11 +3792,11 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "The transformed R2 spin hits multiple times and builds arcane damage",
-                "Each spin tick has a chance to trigger arcane effects",
+                "The transformed R2 spin hits multiple tìmes và builds arcầne đãmage",
+                "Each spin tick has a chance to trigger arcầne effects",
                 "The L1 transformation attack is a powerful slam that knocks down enemies",
-                "Logarius Wheel deals blunt strike damage �\u001d effective against most enemies",
-                "Dùng lat arcane gems for consistent damage on multi-hit attacks"
+                "Logarius Wheel đểals blunt strike đãmage  effective against most enemies",
+                "Dùng lat arcầne gems for cònsistent đãmage on multi-hit attacks"
             ]
         },
         {
@@ -3804,7 +3804,7 @@
             "name": "Boom Hammer STR",
             "nameVi": "Boom Hammer STR",
             "description": "Boom Hammer STR is a pure strength build using the boom hammer from the dlc. Designed around high Strength 50, Endurance 25, Skill 12, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Boom Hammer STR handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Boom Hammer's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Boom Hammer STR is its accessibility and consistent performance. Key items like Boom Hammer are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Boom Hammer STR is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build Strength thun v:i Boom Hammer. Bin hình bt lửa. Charged R2 n\".",
+            "descriptionVi": "Build Strength thửn v:i Boom Hammer. Bin hình bt lửa. Charged R2 n\".",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -3857,7 +3857,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Yahargul",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Boom Hammer, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -3879,7 +3879,7 @@
                         "Tăng Strength lên 40",
                         "Nng lên +6",
                         "Học L1 bật lửa",
-                        "Trang bị stamina runes",
+                        "Trang bị stạmina runes",
                         "Tăng Vitality lên 30",
                         "n bin hình lửa"
                     ]
@@ -3910,10 +3910,10 @@
                     "stepsVi": [
                         "Tăng Strength lên 50",
                         "Nng lên +10",
-                        "Charged R2 with fire buff explodes",
+                        "Charged R2 với fire buff explođểs",
                         "Rune lửa",
                         "Farm 27.2% physical gems",
-                        "The L1 transformation into R2 is a deadly combo"
+                        "The L1 transformation into R2 is a đểadly combo"
                     ]
                 }
             ],
@@ -3923,7 +3923,7 @@
                     "ar": 620,
                     "scaling": "B Str",
                     "verdict": "Best. Physical gems boost both normal and fire damage.",
-                    "verdictVi": "T�\u0018t nhất."
+                    "verdictVi": "Tt nhất."
                 }
             ],
             "items": [
@@ -3937,13 +3937,13 @@
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Starting weapon or purchased"
+                    "locationVi": "khởi đầu weapon or purchasẽd"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -3955,7 +3955,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -3973,7 +3973,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -3990,7 +3990,7 @@
             ],
             "tips": [
                 "The L1 transformation ignites the hammer with fire for 1-2 attacks",
-                "After the fire attack, the hammer goes back to normal �\u001d L1 again to re-ignite",
+                "After the fire attack, the hammer goes back to normal  L1 again to re-ignite",
                 "The charged R2 with fire buff deals massive explosive damage",
                 "Boom Hammer has excellent crowd control with wide swings",
                 "Use the transformation attack as a combo finisher for maximum damage",
@@ -4005,8 +4005,8 @@
             "tipsVi": [
                 "L1 bt lửa cho 1-2 n",
                 "Sau n lửa ht  L1 li",
-                "The charged R2 with fire buff deals massive explosive damage",
-                "Boom Hammer has excellent crowd control with wide swings",
+                "The charged R2 với fire buff đểals massive explosive đãmage",
+                "Boom Hammer has excellent crowd còntrol với wiđể swings",
                 "n bin hình kt li&u"
             ]
         },
@@ -4059,8 +4059,8 @@
                         "Tăng BLT lên 25 first",
                         "Dùng hikage temporarily",
                         "Đến DLC",
-                        "Đến Research Hall",
-                        "Tìm Bloodletter in the Research Hall"
+                        "Đến Resẽarch Hall",
+                        "Tìm Bloodletter in the Resẽarch Hall"
                     ]
                 },
                 {
@@ -4068,7 +4068,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "50-90",
                     "areas": "Forbidden Woods, Byrgenwerth, DLC",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, DLC",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Bloodtinge should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Bloodletter, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -4087,9 +4087,9 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng BLT lên 35 and Skill to 12",
+                        "Tăng BLT lên 35 và Skill to 12",
                         "Nng lên +6",
-                        "Hc moveset bin hình",
+                        "Hc movesẽt bin hình",
                         "R2 bin hình n\" mu",
                         "Trang bị bloodtinge runes",
                         "Tăng Vitality lên 25"
@@ -4123,7 +4123,7 @@
                         "Nng lên +10",
                         "Dng bin hình tng theo BLT",
                         "Farm bloodtinge gems từ chalice",
-                        "Trang bị stamina runes",
+                        "Trang bị stạmina runes",
                         "L2 bin hình AoE mu"
                     ]
                 }
@@ -4134,7 +4134,7 @@
                     "ar": 680,
                     "scaling": "S BLT",
                     "verdict": "Best. Transformed mode gets S Bloodtinge scaling.",
-                    "verdictVi": "T�\u0018t nhất. S BLT scaling."
+                    "verdictVi": "Tt nhất. S BLT scaling."
                 }
             ],
             "items": [
@@ -4142,7 +4142,7 @@
                     "name": "Bloodletter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Research Hall",
-                    "locationVi": "The Old Hunters DLC, found in the Research Hall"
+                    "locationVi": "The Old Hunters DLC, found in the Resẽarch Hall"
                 },
                 {
                     "name": "Chikage",
@@ -4154,7 +4154,7 @@
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -4166,7 +4166,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -4184,7 +4184,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -4200,7 +4200,7 @@
                 }
             ],
             "tips": [
-                "Transformed Bloodletter scales entirely with Bloodtinge �\u001d amazing at 50 BLT",
+                "Transformed Bloodletter scales entirely with Bloodtinge  amazing at 50 BLT",
                 "The transform L2 is a massive AoE blood explosion that costs HP",
                 "Untricked mode is a small mace with Skill scaling",
                 "The transformed R1 is a wide-swinging mace with great stagger",
@@ -4214,7 +4214,7 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Dng bin hình tng hon ton theo BLT",
+                "Dng bin hình tng hơn ton theo BLT",
                 "L2 bin hình AoE mu tn HP",
                 "Dạng thường mace nhỏ Skill scaling",
                 "R1 bin hình chy r\"ng",
@@ -4224,9 +4224,9 @@
         {
             "slug": "beasthunter-saif",
             "name": "Beasthunter Saif",
-            "nameVi": "Beasthunter Saif",
+            "nameVi": "Beasthửnter Saif",
             "description": "Beasthunter Saif is a skill build using the beasthunter saif from the dlc. Designed around high Skill 50, Endurance 25, Strength 12, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Beasthunter Saif handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Beasthunter Saif's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Beasthunter Saif is its versatility and damage potential when optimized. Key items like Beasthunter Saif are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nBeasthunter Saif is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Skill vi Beasthunter Saif DLC. Kiếm cong bin hình lao ti. R1 bin hình combo nhanh nht game.",
+            "descriptionVi": "Build Skill vi Beasthửnter Saif DLC. Kiếm còng bin hình lao ti. R1 bin hình combo nhanh nht game.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -4267,7 +4267,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Professional",
-                        "Tăng Skill lên 20 and Vitality to 15",
+                        "Tăng Skill lên 20 và Vitality to 15",
                         "Đến DLC",
                         "Tìm the Saif in the Hunter's Nightmare",
                         "Gần lamp đầu",
@@ -4279,7 +4279,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50-85",
                     "areas": "Forbidden Woods, Byrgenwerth",
-                    "areasVi": "Forbidden Woods, Byrgenwerth",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Skill should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Beasthunter Saif, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -4335,7 +4335,7 @@
                         "R1 bin hình siu nhanh",
                         "Bin hình lao",
                         "Dùng the Old Hunter's Bone for mobility",
-                        "Trang bị the Hunter Rune for stamina"
+                        "Trang bị the Hunter Rune for stạmina"
                     ]
                 }
             ],
@@ -4359,7 +4359,7 @@
                     "name": "Old Hunter's Bone",
                     "type": "Armor",
                     "location": "Old Yharnam, inside the church",
-                    "locationVi": "Old Yharnam, inside the church"
+                    "locationVi": "Old Yharnam, insiđể the church"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -4371,7 +4371,7 @@
                     "name": "Hunter Rune",
                     "type": "Rune",
                     "location": "Unlock with the Hunter Covenant",
-                    "locationVi": "Unlock with the Hunter Covenant"
+                    "locationVi": "Unlock với the Hunter Covenant"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
@@ -4383,7 +4383,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -4401,7 +4401,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Great Lake Rune",
@@ -4427,17 +4427,17 @@
             "tipsVi": [
                 "Bin hình lao ti",
                 "R1 bin hình nhanh hn thng",
-                "Dùng the L1 transform attack to close distance instantly",
-                "St thng serrated khi bin hình",
+                "Dùng the L1 transform attack to closẽ distance instantly",
+                "St thng sẽrrấted khi bin hình",
                 "Skill 50 visceral mạnh"
             ]
         },
         {
             "slug": "simon-bowblade-skill",
             "name": "Simon's Bowblade",
-            "nameVi": "Cung Kiếm Simon",
+            "nameVi": "cùng Kiếm Simon",
             "description": "Simon's Bowblade is a skill/bloodtinge hybrid build using simon's bowblade. Designed around high Skill 35, Bloodtinge 35, Endurance 20, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Simon's Bowblade handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Simon's Bowblade's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Simon's Bowblade is its versatility and damage potential when optimized. Key items like Simon's Bowblade are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nSimon's Bowblade is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Skill/BLT lai vi Simon's Bowblade. Bin hình thình cung tm xa. Cn chin v tm xa linh hot.",
+            "descriptionVi": "Build Skill/BLT lại vi Simon's Bowblađể. Bin hình thình cùng tm xa. Cn chin v tm xa linh hot.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -4478,11 +4478,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Noble Scion",
-                        "Tăng Skill lên 15 and BLT to 15",
+                        "Tăng Skill lên 15 và BLT to 15",
                         "Đến DLC",
                         "Đến Fishing Hamlet",
                         "Nhiệm vụ Simon",
-                        "Lấy the Bowblade từ his body"
+                        "Lấy the Bowblađể từ his body"
                     ]
                 },
                 {
@@ -4490,7 +4490,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50-85",
                     "areas": "Forbidden Woods, Byrgenwerth, Cainhurst",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, Cainhurst",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, Cainhurst",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Skill should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Simon's Bowblade, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -4509,10 +4509,10 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Push Skill and BLT to 25 each",
-                        "Nâng cấp Bowblade to +6",
+                        "Push Skill và BLT to 25 each",
+                        "Nâng cấp Bowblađể to +6",
                         "Dạng kiếm Skill scaling",
-                        "Dạng cung BLT scaling",
+                        "Dạng cùng BLT scaling",
                         "R2 np sát thng lên",
                         "Get the Bone Marrow Ash for buff"
                     ]
@@ -4541,12 +4541,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Push Skill and BLT to 35 each",
-                        "Nâng tối đa Bowblade to +10",
-                        "Dùng ow mode for safe ranged damage",
+                        "Push Skill và BLT to 35 each",
+                        "Nâng tối đa Bowblađể to +10",
+                        "Dùng ow mođể for safe ranged đãmage",
                         "R2 nạp bắn đầu mạnh",
                         "Kiếm khi gần",
-                        "Gem with BLT scaling gems"
+                        "Gem với BLT scaling gems"
                     ]
                 }
             ],
@@ -4570,7 +4570,7 @@
                     "name": "Bone Marrow Ash",
                     "type": "Weapon",
                     "location": "Purchased from messengers",
-                    "locationVi": "Mua từ messengers"
+                    "locationVi": "Mua từ messẽngers"
                 },
                 {
                     "name": "Great One's Wisdom",
@@ -4594,7 +4594,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -4612,7 +4612,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -4636,7 +4636,7 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Cung tăng theo BLT",
+                "cùng tăng theo BLT",
                 "Kiếm tăng theo Skill",
                 "R2 nạp bắn đầu stagger",
                 "Bone Marrow Ash tng sát thng",
@@ -4646,9 +4646,9 @@
         {
             "slug": "church-cannon",
             "name": "Church Cannon STR",
-            "nameVi": "Church Cannon STR",
+            "nameVi": "Church cầnnon STR",
             "description": "Church Cannon STR is a pure strength build using the church cannon from the dlc. Designed around high Strength 50, Endurance 25, Skill 12, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Church Cannon STR handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Church Cannon's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Church Cannon STR is its versatility and damage potential when optimized. Key items like Church Cannon are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nChurch Cannon STR is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Strength thun vi Church Cannon DLC. Bắn n n staggers mi th. Bin hình thình ba khng l.",
+            "descriptionVi": "Build Strength thửn vi Church cầnnon DLC. Bắn n n staggers mi th. Bin hình thình ba khng l.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -4689,11 +4689,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Violent Past",
-                        "Tăng Str lên 25 and Vitality to 15",
+                        "Tăng Str lên 25 và Vitality to 15",
                         "Đến DLC",
-                        "Tìm the Cannon in the Research Hall",
+                        "Tìm the cầnnon in the Resẽarch Hall",
                         "Cần 30 Str",
-                        "Dùng the Hunter Axe until you can"
+                        "Dùng the Hunter Axe until you cần"
                     ]
                 },
                 {
@@ -4701,7 +4701,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50-85",
                     "areas": "Forbidden Woods, Byrgenwerth",
-                    "areasVi": "Forbidden Woods, Byrgenwerth",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Strength should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Church Cannon, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -4721,10 +4721,10 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 35",
-                        "Nâng cấp Cannon to +6",
-                        "Học timing cannon",
+                        "Nâng cấp cầnnon to +6",
+                        "Học tìming cầnnon",
                         "R1 bin hình ba",
-                        "Trang bị the Clockwise Metamorphosis",
+                        "Trang bị the Clockwisẽ Metạmorphosis",
                         "Tăng Vitality lên 30"
                     ]
                 },
@@ -4753,11 +4753,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 50",
-                        "Nâng tối đa Cannon to +10",
-                        "Cannon tốn 10 đạn",
+                        "Nâng tối đa cầnnon to +10",
+                        "cầnnon tốn 10 đạn",
                         "AoE explosion staggers large groups",
                         "Transform hammer hits like a truck",
-                        "Trang bị the Beast Rune for damage"
+                        "Trang bị the Beast Rune for đãmage"
                     ]
                 }
             ],
@@ -4775,13 +4775,13 @@
                     "name": "Church Cannon",
                     "type": "Weapon",
                     "location": "DLC, Research Hall upper floor",
-                    "locationVi": "DLC, Research Hall upper floor"
+                    "locationVi": "DLC, Resẽarch Hall upper floor"
                 },
                 {
                     "name": "Clockwise Metamorphosis",
                     "type": "Rune",
                     "location": "Central Yharnam sewer",
-                    "locationVi": "Central Yharnam sewer"
+                    "locationVi": "Central Yharnam sẽwer"
                 },
                 {
                     "name": "Beast Rune",
@@ -4805,7 +4805,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -4823,7 +4823,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -4847,19 +4847,19 @@
                 "Chalice Dungeons contain unique bosses, weapons, and the best blood gems in the game. Depth 5 FRC dungeons are the endgame."
             ],
             "tipsVi": [
-                "Cannon bắn đạn nổ AoE",
+                "cầnnon bắn đạn nổ AoE",
                 "Tốn 10 đạn nhưng stagger mọi thứ",
                 "Bin hình thình ba",
-                "The hammer R2 is a charged slam with high stagger",
+                "The hammer R2 is a charged slam với high stagger",
                 "Blood Bullets hồi đạn"
             ]
         },
         {
             "slug": "piercing-rifle",
             "name": "Piercing Rifle BLT",
-            "nameVi": "Súng Xuyn Thu",
+            "nameVi": "Súng Xuyn thử",
             "description": "Piercing Rifle BLT is a bloodtinge build using the piercing rifle from the dlc. Designed around high Bloodtinge 50, Endurance 20, Skill 15, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvP combat, Piercing Rifle BLT excels at controlling engagement distance and punishing opponent mistakes. The Chikage provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Piercing Rifle BLT is its raw power potential and devastating payoff for skilled play. Key items like Chikage are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Piercing Rifle BLT ranks among the most powerful setups when played optimally. Every aspect of the build, from the Bloodtinge 50, Endurance 20, Skill 15 stat distribution to the Chikage weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "Build BLT vi Piercing Rifle DLC. n xuyên thu nhiu k ch. Kt hp Chikage cho cn chin.",
+            "descriptionVi": "Build BLT vi Piercing Rifle DLC. n xuyên thử nhiu k ch. Kt hp Chikage cho cn chin.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -4900,7 +4900,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Noble Scion",
-                        "Tăng BLT lên 25 and Vitality to 15",
+                        "Tăng BLT lên 25 và Vitality to 15",
                         "Đến Cainhurst Castle",
                         "Giết Martyr Logarius",
                         "Chikage từ Cainhurst",
@@ -4912,7 +4912,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50-85",
                     "areas": "Forbidden Woods, Byrgenwerth, DLC",
-                    "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth, DLC",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Bloodtinge should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Chikage, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -4968,7 +4968,7 @@
                         "Nâng tối đa Rifle to +10",
                         "n xuyên m ng",
                         "Chikage R1 bin hình nhanh",
-                        "Dùng MA for massive rifle shot damage"
+                        "Dùng MA for massive rifle shot đãmage"
                     ]
                 }
             ],
@@ -4992,7 +4992,7 @@
                     "name": "Piercing Rifle",
                     "type": "Weapon",
                     "location": "DLC, Research Hall basement",
-                    "locationVi": "DLC, Research Hall basement"
+                    "locationVi": "DLC, Resẽarch Hall basẽment"
                 },
                 {
                     "name": "Great Lake Rune",
@@ -5016,7 +5016,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -5034,7 +5034,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 }
             ],
             "tips": [
@@ -5054,7 +5054,7 @@
             "tipsVi": [
                 "n Piercing Rifle xuyên nhiu qui",
                 "Chikage bin hình tn HP nhng mnh",
-                "Dùng MA on the Piercing Rifle for a devastating shot",
+                "Dùng MA on the Piercing Rifle for a đểvastating shot",
                 "Chikage thường Skill scaling",
                 "Blood Bullets hồi đạn"
             ]
@@ -5062,9 +5062,9 @@
         {
             "slug": "fist-of-gratia",
             "name": "Fist of Gratia",
-            "nameVi": "Nắm Đấm Gratia",
+            "nameVi": "Nắm Đấm Grấtia",
             "description": "Fist of Gratia is a meme build using the fist of gratia. Designed around high Strength 40, Endurance 30, Skill 25, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nThis is a meme build through and through — prioritizing style, humor, and sheer entertainment over raw efficiency. The Fist of Gratia is the centerpiece of this comedic playthrough, with mechanics that are more about spectacle than optimization. While you won't top damage charts, you'll have an unforgettable experience trolling invaders, surprising co-op partners, and enjoying the game from a completely different perspective. The true power of this build lies in its ability to make you laugh.\n\nThe core strength of Fist of Gratia is its raw power potential and devastating payoff for skilled play. Key items like Fist of Gratia are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Fist of Gratia ranks among the most powerful setups when played optimally. Every aspect of the build, from the Strength 40, Endurance 30, Skill 25 stat distribution to the Fist of Gratia weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "Build meme vi Fist of Gratia. m tay khng moveset chm nhng hi hc. R2 thng m bay. Thuầnn hi.",
+            "descriptionVi": "Build meme vi Fist of Grấtia. m tay khng movesẽt chm nhng hi hc. R2 thng m bay. thửầnn hi.",
             "category": "meme",
             "difficulty": 3,
             "dlc": true,
@@ -5106,10 +5106,10 @@
                     "stepsVi": [
                         "Chọn Military Veteran",
                         "Đến DLC",
-                        "Tìm the Fist of Gratia in the Research Hall",
-                        "Tăng Str lên 20 and Skill to 15",
+                        "Tìm the Fist of Grấtia in the Resẽarch Hall",
+                        "Tăng Str lên 20 và Skill to 15",
                         "Unequip all weapons",
-                        "Trang bị the Fist of Gratia"
+                        "Trang bị the Fist of Grấtia"
                     ]
                 },
                 {
@@ -5117,7 +5117,7 @@
                     "nameVi": "Giữa Game",
                     "levels": "BL 50-85",
                     "areas": "Forbidden Woods, Byrgenwerth",
-                    "areasVi": "Forbidden Woods, Byrgenwerth",
+                    "areasVi": "Forbidđến Woods, Byrgenwerth",
                     "steps": [
                         "Reach your weapon's stat requirements to unlock its full potential. Vitality should be your primary focus, with secondary investment in supporting stats.",
                         "Complete NPC questlines tied to your build. Many reward Fist of Gratia, powerful talismans, or unique spells. Check in with quest givers after each major boss.",
@@ -5136,7 +5136,7 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 30 and Skill to 20",
+                        "Tăng Str lên 30 và Skill to 20",
                         "Nâng cấp Fist to +6",
                         "R1 đấm chậm",
                         "The R2 is an uppercut",
@@ -5168,12 +5168,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 40 and Skill to 25",
+                        "Tăng Str lên 40 và Skill to 25",
                         "Nâng tối đa Fist to +10",
                         "R2 nạp bay",
                         "L2 bin hình hi",
-                        "Dùng the Beast Rune for meme damage",
-                        "Invade and punch people to death"
+                        "Dùng the Beast Rune for meme đãmage",
+                        "Invađể và punch people to đểath"
                     ]
                 }
             ],
@@ -5191,19 +5191,19 @@
                     "name": "Fist of Gratia",
                     "type": "Weapon",
                     "location": "DLC, Research Hall by the elevator",
-                    "locationVi": "DLC, Research Hall by the elevator"
+                    "locationVi": "DLC, Resẽarch Hall by the elevator"
                 },
                 {
                     "name": "Clockwise Metamorphosis",
                     "type": "Rune",
                     "location": "Central Yharnam sewer",
-                    "locationVi": "Central Yharnam sewer"
+                    "locationVi": "Central Yharnam sẽwer"
                 },
                 {
                     "name": "Formless Oedon",
                     "type": "Rune",
                     "location": "Iosefka's Clinic",
-                    "locationVi": "Iosefka's Clinic"
+                    "locationVi": "Iosẽfka's Clinic"
                 },
                 {
                     "name": "Beast Rune",
@@ -5221,7 +5221,7 @@
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Blood Rapture Rune",
@@ -5239,7 +5239,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Forbidđến Woods"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -5263,8 +5263,8 @@
                 "Fire Paper adds fire damage for beast enemies. Bolt Paper is for Kin (alien) enemies. Match your paper to the boss weakness."
             ],
             "tipsVi": [
-                "The Fist of Gratia deals strike damage — very effective against kin",
-                "The charged R2 uppercut sends enemies into the air",
+                "The Fist of Grấtia đểals strike đãmage — very effective against kin",
+                "The charged R2 uppercut sẽnds enemies into the air",
                 "L2 bin hình m i",
                 "It's one of the slowest weapons but most satisfying to land hits with",
                 "The running attack is a flying kick"

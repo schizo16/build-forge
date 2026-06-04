@@ -1,27 +1,30 @@
 {
-  "nav": { "home": "Trang chủ", "random": "Build Ngẫu Nhiên" },
-  "landing": {
-    "hero": "TÌM KIẾM\nLỐI CHƠI",
-    "subtitle": "Build chất lượng cho Elden Ring, Dark Souls, Bloodborne & Cyberpunk 2077. Hướng dẫn chi tiết từ đầu game đến DLC.",
-    "random": "BUILD NGẪU NHIÊN",
-    "builds": "Build",
-    "games": "Game",
-    "dlc": "Hỗ trợ DLC"
-  },
-  "game": {
-    "builds": "build",
-    "all": "Tất cả",
-    "random": "NGẪU NHIÊN"
-  },
-  "build": {
-    "guide": "Hướng dẫn",
-    "stats": "Chỉ số",
-    "affinity": "Ngọc",
-    "items": "Trang bị",
-    "early": "Đầu Game",
-    "mid": "Giữa Game",
-    "late": "Cuối Game + DLC",
-    "tips": "Mẹo & Thủ thuật",
-    "difficulty": "Độ khó"
-  }
+    "nav": {
+        "home": "Trang chủ",
+        "random": "Build Ngẫu Nhiên"
+    },
+    "landing": {
+        "hero": "TÌM KIẾM\nLỐI CHƠI",
+        "subtitle": "Build chất lượng cho Elden Ring, Dark Souls, Bloodborne & Cyberpunk 2077. Hướng dẫn chi tiết từ đầu game đến DLC.",
+        "random": "BUILD NGẪU NHIÊN",
+        "builds": "Build",
+        "games": "Game",
+        "dlc": "Hỗ trợ DLC"
+    },
+    "game": {
+        "builds": "build",
+        "all": "Tất cả",
+        "random": "NGẪU NHIÊN"
+    },
+    "build": {
+        "guide": "Hướng dẫn",
+        "stats": "Chỉ số",
+        "affinity": "Ngọc",
+        "items": "Trang bị",
+        "early": "Đầu Game",
+        "mid": "Giữa Game",
+        "late": "Cuối Game + DLC",
+        "tips": "Mẹo & Thủ thuật",
+        "difficulty": "Độ khó"
+    }
 }

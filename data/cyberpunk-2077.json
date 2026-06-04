@@ -10,7 +10,7 @@
             "name": "Netrunner",
             "nameVi": "Netrunner",
             "description": "Netrunner is a legendary netrunner build that hacks everything from the shadows. Designed around high Intelligence 20, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Netrunner handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Netwatch Cyberdeck's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Netrunner is its versatility and damage potential when optimized. Key items like Netwatch Cyberdeck are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nNetrunner is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build netrunner huyn thoi hack mi th t bắng ti. Quickhack huyn thoi ly lan qua ton b mng li k ch, git c tỉa nh m khng cn bắn pht no.",
+            "descriptionVi": "Build netrunner huyn thời hack mi th t bắng ti. Quickhack huyn thời ly lan qua ton b mng li k ch, git c tỉa nh m khng cn bắn pht no.",
             "category": "meta",
             "difficulty": 2,
             "dlc": true,
@@ -51,9 +51,9 @@
                     "stepsVi": [
                         "Chọn Netrunner cho quickhack khởi đầu",
                         "Tng Intelligence lên 10",
-                        "Mua cyberdeck từ ripperdoc",
-                        "Invest perk points into Breach Protocol and Quickhacking",
-                        "Hon thình Braindance quest",
+                        "Mua cyberđểck từ ripperdoc",
+                        "Invest perk points into Breach Protocol và Quickhacking",
+                        "hơn thình Brainđãnce quest",
                         "Farm access point để lấy linh kiện"
                     ]
                 },
@@ -84,9 +84,9 @@
                         "y Intelligence lên 16",
                         "Tng Technical lên 12",
                         "Lấy Tetraviral quickhack",
-                        "Trang bị Raven cyberdeck",
+                        "Trang bị Raven cyberđểck",
                         "Đầu tư Critical Error perk",
-                        "Chế tạo legendary quickhack"
+                        "Chế tạo legenđãry quickhack"
                     ]
                 },
                 {
@@ -113,11 +113,11 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Intelligence at 20 for legendary quickhacks",
+                        "Nâng tối đa Intelligence at 20 for legenđãry quickhacks",
                         "y Technical lên 20",
-                        "Lấy Netwatch cyberdeck",
-                        "Chế tạo Legendary Short Circuit",
-                        "Dùng egendary Contagion to spread through entire buildings",
+                        "Lấy Netwatch cyberđểck",
+                        "Chế tạo Legenđãry Short Circuit",
+                        "Dùng egenđãry còntagion to spread through entire buildings",
                         "Upload Breach Protocol trước mỗi trận"
                     ]
                 }
@@ -128,21 +128,21 @@
                     "ar": 0,
                     "scaling": "Int",
                     "verdict": "Best damage quickhack. Triggers on crit for passive damage.",
-                    "verdictVi": "Quickhack s�t th��ng t�t nh�t."
+                    "verdictVi": "Quickhack st thng tt nht."
                 },
                 {
                     "name": "Legendary Contagion",
                     "ar": 0,
                     "scaling": "Int",
                     "verdict": "Best crowd control. Spreads to every enemy in range.",
-                    "verdictVi": "Ki�m so�t \u0011�m \u0011�ng t�t nh�t."
+                    "verdictVi": "Kim sot m ng tt nht."
                 },
                 {
                     "name": "Legendary Synapse Burnout",
                     "ar": 0,
                     "scaling": "Int",
                     "verdict": "Highest single-target damage. Good for bosses.",
-                    "verdictVi": "S�t th��ng \u0011�n m�c ti�u cao nh�t."
+                    "verdictVi": "St thng n mc tiu cao nht."
                 }
             ],
             "items": [
@@ -223,10 +223,10 @@
             ],
             "tipsVi": [
                 "Always upload Breach Protocol before combat to reduce enemy quickhack resistance",
-                "Ping + Contagion clear c tỉa nh",
-                "Legendary Short Circuit procs on any crit including weapon crits",
+                "Ping + còntagion clear c tỉa nh",
+                "Legenđãry Short Circuit procs on any crit including weapon crits",
                 "Xếp chồng mod Intelligence để tối đa RAM",
-                "Suicide quickhack is hilarious but expensive on RAM"
+                "Suiciđể quickhack is hilarious but expensive on RAM"
             ]
         },
         {
@@ -234,7 +234,7 @@
             "name": "Sandy Katana",
             "nameVi": "Katana Tăng Tốc",
             "description": "Sandy Katana is a the iconic sandevistan katana build. Designed around high Intelligence 3, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Sandy Katana handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Apogee Sandevistan's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Sandy Katana is its versatility and damage potential when optimized. Key items like Apogee Sandevistan are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nSandy Katana is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "The iconic Sandevistan katana build. Activate slow time, dash through enemies, and dismember everyone before the first body hits the ground. Highest style-to-damage ratio in Night City.",
+            "descriptionVi": "The icònic Sanđểvistan katana build. Activate slow tìme, đãsh through enemies, và dismember everyone before the first body hits the ground. Highest style-to-đãmage rấtio in Night City.",
             "category": "meta",
             "difficulty": 2,
             "dlc": true,
@@ -276,9 +276,9 @@
                         "Chọn Street Kid",
                         "Tng Reflexes lên 12",
                         "Mua katana cơ bản",
-                        "Hon thình Heist",
-                        "Get the Satori katana during the Heist (secret)",
-                        "Invest in Blade and Reflex perks"
+                        "hơn thình Heist",
+                        "Get the Satori katana during the Heist (sẽcret)",
+                        "Invest in Blađể và Reflex perks"
                     ]
                 },
                 {
@@ -306,9 +306,9 @@
                     ],
                     "stepsVi": [
                         "y Reflexes lên 16",
-                        "Mua Sandevistan Mk.3 hoặc 4",
+                        "Mua Sanđểvistan Mk.3 hoặc 4",
                         "Tng Technical lên 12",
-                        "Tìm Byakko or Jinchu-Maru legendary katana",
+                        "Tìm Byakko or Jinchu-Maru legenđãry katana",
                         "Đầu tư Attack Mitigation",
                         "Trang bị cyberware tăng crit"
                     ]
@@ -338,10 +338,10 @@
                     ],
                     "stepsVi": [
                         "Nâng tối đa Reflexes at 20",
-                        "Lấy Apogee Sandevistan từ Dogtown DLC",
+                        "Lấy Apogee Sanđểvistan từ Dogtown DLC",
                         "y Technical lên 18",
                         "Trang bị Scalpel katana 100% crit",
-                        "Dùng the QianT Warp Dancer Sandevistan for 2 slow-time charges",
+                        "Dùng the QianT Warp đãncer Sanđểvistan for 2 slow-tìme charges",
                         "Tn công trong Sandy = mi k ch cht"
                     ]
                 }
@@ -359,14 +359,14 @@
                     "ar": 620,
                     "scaling": "Reflexes",
                     "verdict": "Iconic DLC katana with 100% crit during Sandevistan.",
-                    "verdictVi": "Katana DLC 100% crit khi Sandevistan."
+                    "verdictVi": "Katana DLC 100% crit khi Sanđểvistan."
                 },
                 {
                     "name": "Byakko",
                     "ar": 540,
                     "scaling": "Reflexes",
                     "verdict": "Lunge attack gap closer. Good for chasing enemies.",
-                    "verdictVi": "\u0010�n lao ti�p c�n k� \u0011�ch."
+                    "verdictVi": "n lao tip cn k ch."
                 }
             ],
             "items": [
@@ -386,7 +386,7 @@
                     "name": "Satori Katana",
                     "type": "Weapon",
                     "location": "The Heist mission, in Yorinobu's penthouse behind the bar",
-                    "locationVi": "Nhiệm vụ Heist, penthouse của Yorinobu"
+                    "locationVi": "Nhiệm vụ Heist, penthousẽ của Yorinobu"
                 },
                 {
                     "name": "Byakko",
@@ -446,11 +446,11 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Sandevistan + Optical Camo = tàng hình khi chm thi gian",
-                "Apogee Sandevistan gives the most slow time with the lowest cooldown",
-                "Scalpel katana guarantees crits during Sandevistan — mandatory for min-max",
-                "Dùng the 'Defencest' perk to block bullets while sprinting at enemies",
-                "Air dashes and double jump are essential mobility for this build"
+                "Sanđểvistan + Optical Camo = tàng hình khi chm thi gian",
+                "Apogee Sanđểvistan gives the most slow tìme với the lowest cooldown",
+                "Scalpel katana guarantees crits during Sanđểvistan — manđãtory for min-max",
+                "Dùng the 'đểfencest' perk to block bullets while sprinting at enemies",
+                "Air đãshes và double jump are essẽntial mobility for this build"
             ]
         },
         {
@@ -458,7 +458,7 @@
             "name": "Berserk Shotgun",
             "nameVi": "Shotgun Cuồng Nộ",
             "description": "Berserk Shotgun is a body build using berserk cyberware and a devastating shotgun. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Berserk Shotgun handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Militech Berserk Mk.5's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Berserk Shotgun is its accessibility and consistent performance. Key items like Militech Berserk Mk.5 are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Berserk Shotgun is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build Body vi Berserk v shotgun hy dit. Kch hot Berserk, b qua sát thng, v bắn n mi th vi stamina v hn. Build xe tng bit i.",
+            "descriptionVi": "Build Body vi Bersẽrk v shotgun hy dit. Kch hot Bersẽrk, b qua sát thng, v bắn n mi th vi stạmina v hn. Build xe tng bit i.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -500,8 +500,8 @@
                         "Chọn Nomad cho Body cao",
                         "Tng Body lên 10",
                         "Dùng  double-barrel shotgun as your primary",
-                        "Invest in Shotgun and Athletics perks",
-                        "Hon thình Heist",
+                        "Invest in Shotgun và Athletics perks",
+                        "hơn thình Heist",
                         "Tìm the Mox shotgun from Lizzie's Bar"
                     ]
                 },
@@ -530,11 +530,11 @@
                     ],
                     "stepsVi": [
                         "y Body lên 16",
-                        "Mua Berserk Mk.3 hoặc 4",
+                        "Mua Bersẽrk Mk.3 hoặc 4",
                         "Tìm the Guts shotgun — a powerful unique",
                         "Tng Technical lên 10",
                         "Invest in Bio-Monitor for auto-heal",
-                        "Trang bị cyberware for armor and health"
+                        "Trang bị cyberware for armor và health"
                     ]
                 },
                 {
@@ -561,12 +561,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Body at 20 for best Berserk and health",
-                        "Lấy Militech Berserk Mk.5 từ Dogtown",
+                        "Nâng tối đa Body at 20 for best Bersẽrk và health",
+                        "Lấy Militech Bersẽrk Mk.5 từ Dogtown",
                         "y Technical lên 15",
-                        "Tìm the iconic 'Order' shotgun from DLC",
-                        "Dùng erserk + shotty blast = unstoppable",
-                        "Mi pht bắn lm chong"
+                        "Tìm the icònic 'Orđểr' shotgun from DLC",
+                        "Dùng ersẽrk + shotty blast = unstoppable",
+                        "Mi pht bắn lm chơng"
                     ]
                 }
             ],
@@ -583,14 +583,14 @@
                     "ar": 750,
                     "scaling": "Body",
                     "verdict": "Extremely high damage but slow reload. Best for Berserk.",
-                    "verdictVi": "S�t th��ng c�c cao. T�t nh�t v�i Berserk."
+                    "verdictVi": "St thng cc cao. Tt nht vi Bersẽrk."
                 },
                 {
                     "name": "Order",
                     "ar": 820,
                     "scaling": "Body",
                     "verdict": "DLC iconic. Tech shotgun with charge mechanic.",
-                    "verdictVi": "Shotgun DLC c� c� ch� t�ch."
+                    "verdictVi": "Shotgun DLC c c ch tch."
                 }
             ],
             "items": [
@@ -670,11 +670,11 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Berserk cho min nhim sát thng v stamina v hn",
-                "Shotguns stagger enemies on hit — Berserk + shotgun = perma-stun",
-                "Dùng the 'Spontaneous Obliteration' perk for explosions on kill",
-                "The Order tech shotgun can be charged for a devastating 8-pellet blast",
-                "Bio-Monitor auto-heals at 30% HP - essential for Berserk uptime"
+                "Bersẽrk cho min nhim sát thng v stạmina v hn",
+                "Shotguns stagger enemies on hit — Bersẽrk + shotgun = perma-stun",
+                "Dùng the 'Spontaneous Obliterấtion' perk for explosions on kill",
+                "The Orđểr tech shotgun cần be charged for a đểvastating 8-pellet blast",
+                "Bio-Monitor auto-heals at 30% HP - essẽntial for Bersẽrk uptìme"
             ]
         },
         {
@@ -756,7 +756,7 @@
                         "y Technical lên 16",
                         "Tng Cool lên 14",
                         "Lấy Breakthrough sniper",
-                        "Nng Breakthrough lên legendary",
+                        "Nng Breakthrough lên legenđãry",
                         "Đầu tư Sniper tree",
                         "Trang bị Ping quickhack"
                     ]
@@ -785,12 +785,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Technical at 20 for legendary crafting",
+                        "Nâng tối đa Technical at 20 for legenđãry crafting",
                         "y Cool lên 18",
                         "Dng Breakthrough xuyên tường",
                         "Ping + Breakthrough = giết qua tường",
-                        "Lấy Rasetsu sniper từ DLC",
-                        "Xếp mod crit damage"
+                        "Lấy Rasẽtsu sniper từ DLC",
+                        "Xếp mod crit đãmage"
                     ]
                 }
             ],
@@ -800,14 +800,14 @@
                     "ar": 850,
                     "scaling": "Technical",
                     "verdict": "Best wall-penetrating sniper. Shoots through everything.",
-                    "verdictVi": "S�ng b�n t�a xuy�n t��ng t�t nh�t."
+                    "verdictVi": "Sng bn ta xuyn tng tt nht."
                 },
                 {
                     "name": "Rasetsu",
                     "ar": 920,
                     "scaling": "Technical",
                     "verdict": "DLC sniper with explosive rounds. Better for open fights.",
-                    "verdictVi": "S�ng DLC \u0011�n n�. T�t cho \u0011�nh tr�c di�n."
+                    "verdictVi": "Sng DLC n n. Tt cho nh trc din."
                 }
             ],
             "items": [
@@ -890,8 +890,8 @@
                 "Ping + Breakthrough = thy v git qua tường",
                 "Tech weapons ignore armor when fully charged",
                 "Lun bắn t tàng hình cho headshot x2",
-                "Perk Silent and Deadly giữ bạn ẩn",
-                "Xếp crit damage cho one-shot headshot"
+                "Perk Silent và đểadly giữ bạn ẩn",
+                "Xếp crit đãmage cho one-shot headshot"
             ]
         },
         {
@@ -899,7 +899,7 @@
             "name": "Smart Gun",
             "nameVi": "Súng Thông Minh",
             "description": "Smart Gun is a smart weapon build using the iconic skippy and other homing weapons. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans.\n\nIn PvE, Smart Gun handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Skippy's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Smart Gun is its accessibility and consistent performance. Key items like Skippy are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Smart Gun is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A Smart Weapon build using the iconic Skippy and other homing weapons. Bullets curve around corners and track enemies. Point vaguely in the direction of enemies and watch them fall.",
+            "descriptionVi": "A Smart Weapon build using the icònic Skippy và other homing weapons. Bullets curve around corners và track enemies. Point vaguely in the direction of enemies và watch them fall.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -972,10 +972,10 @@
                     "stepsVi": [
                         "y Reflexes lên 12",
                         "Tng Technical lên 12",
-                        "Trang bị smart link legendary",
+                        "Trang bị smart link legenđãry",
                         "Tìm the Prototype: Shingen Mark V",
                         "Đầu tư Engineering",
-                        "Chế tạo smart weapon legendary"
+                        "Chế tạo smart weapon legenđãry"
                     ]
                 },
                 {
@@ -1017,21 +1017,21 @@
                     "ar": 550,
                     "scaling": "Reflexes",
                     "verdict": "Auto-aims for headshots. Most forgiving weapon in the game.",
-                    "verdictVi": "T� \u0011�ng ng�m \u0011�u. Vi kh� d� nh�t game."
+                    "verdictVi": "T ng ngm u. Vi kh d nht game."
                 },
                 {
                     "name": "Shingen Mark V",
                     "ar": 480,
                     "scaling": "Reflexes",
                     "verdict": "Homing SMG with high fire rate. Melts groups.",
-                    "verdictVi": "SMG t� t�m \u0011��ng t�c \u0011� cao."
+                    "verdictVi": "SMG t tm ng tc  cao."
                 },
                 {
                     "name": "Ashura Smart Sniper",
                     "ar": 720,
                     "scaling": "Reflexes",
                     "verdict": "Smart sniper rifle. Tracks headshots from any range.",
-                    "verdictVi": "S�ng b�n t�a th�ng minh."
+                    "verdictVi": "Sng bn ta thng minh."
                 }
             ],
             "items": [
@@ -1111,9 +1111,9 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Skippy in headshot mode is the easiest weapon in the game — point and click kills",
+                "Skippy in headshot mođể is the easiest weapon in the game — point và click kills",
                 "Smart weapon bỏ qua độ rơi đạn",
-                "Dùng the Hand-Launched Smart Bomb for crowd control",
+                "Dùng the Hand-Launched Smart Bomb for crowd còntrol",
                 "Prototype Shingen Mark V has the best bullet tracking of any smart weapon",
                 "Giữ Skippy chế độ headshot"
             ]
@@ -1121,9 +1121,9 @@
         {
             "slug": "blade-runner",
             "name": "Blade Runner",
-            "nameVi": "Blade Runner",
+            "nameVi": "Blađể Runner",
             "description": "Blade Runner is a trend-setting build inspired by the blade runner aesthetic. Designed around high Intelligence 3, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Blade Runner handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Legendary Monowire's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Blade Runner is its versatility and damage potential when optimized. Key items like Legendary Monowire are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nBlade Runner is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build theo phong cch Blade Runner. Tp trung vo monowire v mantis blades vi v ngoi dystopian. Phong cch cao, sát thng cao, y thi .",
+            "descriptionVi": "Build theo phơng cch Blađể Runner. Tp trung vo monowire v mantis blađểs vi v ngoi dystopian. Phơng cch cao, sát thng cao, y thi .",
             "category": "trend",
             "difficulty": 2,
             "dlc": true,
@@ -1164,10 +1164,10 @@
                     "stepsVi": [
                         "Chọn Corpo",
                         "Tng Reflexes lên 12",
-                        "Lấy Mantis Blades từ any ripperdoc",
+                        "Lấy Mantis Blađểs từ any ripperdoc",
                         "Dùng  katana as backup weapon",
-                        "Đầu tư Blade skill tree",
-                        "Gn sát thng nhit cho mantis blades"
+                        "Đầu tư Blađể skill tree",
+                        "Gn sát thng nhit cho mantis blađểs"
                     ]
                 },
                 {
@@ -1229,8 +1229,8 @@
                         "Nâng tối đa Reflexes at 20",
                         "Lấy Arasaka cyberarms",
                         "Trang bị Monowire huyền thoại",
-                        "Dùng antis Blade lunge attacks for gap closing",
-                        "Stay in Optical Camo for full Blade Runner fantasy",
+                        "Dùng antis Blađể lunge attacks for gap closing",
+                        "Stay in Optical Camo for full Blađể Runner fantasy",
                         "Dùng old Blood perks for speed boost after kills"
                     ]
                 }
@@ -1241,14 +1241,14 @@
                     "ar": 620,
                     "scaling": "Reflexes",
                     "verdict": "Best crowd control. Chains electrical damage between enemies.",
-                    "verdictVi": "Ki�m so�t \u0011�m \u0011�ng t�t nh�t."
+                    "verdictVi": "Kim sot m ng tt nht."
                 },
                 {
                     "name": "Thermal Mantis Blades",
                     "ar": 580,
                     "scaling": "Reflexes",
                     "verdict": "High single-target damage. Burns enemies over time.",
-                    "verdictVi": "S�t th��ng \u0011�n m�c ti�u cao."
+                    "verdictVi": "St thng n mc tiu cao."
                 }
             ],
             "items": [
@@ -1280,7 +1280,7 @@
                     "name": "The Electric Chair Monowire mod",
                     "type": "Cyberware",
                     "location": "Dogtown, found in a hidden cache",
-                    "locationVi": "Dogtown, found in a hidden cache"
+                    "locationVi": "Dogtown, found in a hidđến cáche"
                 },
                 {
                     "name": "Militech \"Apogee\" Sandevistan",
@@ -1328,19 +1328,19 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Monowire was completely reworked in 2.0 — it now scales with Reflexes and is amazing",
-                "Mantis Blade air dashes and lunges make you nearly untouchable",
+                "Monowire was completely reworked in 2.0 — it now scales với Reflexes và is amazing",
+                "Mantis Blađể air đãshes và lunges make you nearly untouchable",
                 "Dng Optical Camo p sát",
-                "The Relic perk tree adds new Monowire finishers and combos",
-                "Stack 'Dragon Strike' and 'Jugular' perks for bleed on blade attacks"
+                "The Relic perk tree adds new Monowire finishers và combos",
+                "Stack 'Dragon Strike' và 'Jugular' perks for bleed on blađể attacks"
             ]
         },
         {
             "slug": "stealth-knife",
             "name": "Stealth Knife Thrower",
-            "nameVi": "Ném Dao Tàng Hình",
+            "nameVi": "Ném đão Tàng Hình",
             "description": "Stealth Knife Thrower is a stealth build using throwing knives with the cold blood tree. Designed around high Intelligence 3, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill.\n\nIn PvE, Stealth Knife Thrower handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Stinger's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Stealth Knife Thrower is its versatility and damage potential when optimized. Key items like Stinger are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nStealth Knife Thrower is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build tàng hình ném dao vi Cold Blood. Ném dao git lêng t xa, nht li v tng tc vi Cold Blood.",
+            "descriptionVi": "Build tàng hình ném đão vi Cold Blood. Ném đão git lêng t xa, nht li v tng tc vi Cold Blood.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -1381,9 +1381,9 @@
                     "stepsVi": [
                         "Chọn Street Kid",
                         "Tng Cool lên 10",
-                        "Mua dao ném",
-                        "Invest in Ninjutsu and Cold Blood trees",
-                        "Hon thình Heist",
+                        "Mua đão ném",
+                        "Invest in Ninjutsu và Cold Blood trees",
+                        "hơn thình Heist",
                         "Ly súng gim thanh d phng"
                     ]
                 },
@@ -1413,8 +1413,8 @@
                     "stepsVi": [
                         "y Cool lên 16",
                         "Tng Reflexes lên 12",
-                        "Tìm the iconic 'Stinger' throwing knife",
-                        "Lấy dao Nehan từ Heist",
+                        "Tìm the icònic 'Stinger' throwing knife",
+                        "Lấy đão Nehan từ Heist",
                         "Đầu tư Juggler perk",
                         "Trang b cyberware tàng hình"
                     ]
@@ -1446,8 +1446,8 @@
                         "Nâng tối đa Cool at 20 for full Cold Blood",
                         "Ly súng ca Jackie d phng",
                         "Dùng the 'Fatal Throw' perk for guaranteed crit throws",
-                        "Dng optical camo reset tàng hình",
-                        "The knife throw-to-Đánh bại chain with Cold Blood is unmatched speed",
+                        "Dng optical camo resẽt tàng hình",
+                        "The knife throw-to-Đánh bại chain với Cold Blood is unmatched speed",
                         "Juggler perk cho hồi đạn"
                     ]
                 }
@@ -1458,14 +1458,14 @@
                     "ar": 550,
                     "scaling": "Cool",
                     "verdict": "Iconic throwing knife. Returns to your hand on headshot kills.",
-                    "verdictVi": "Dao n�m huy�n tho�i. T� \u0011�ng v� tay khi headshot."
+                    "verdictVi": "đão nm huyn thời. T ng v tay khi headshot."
                 },
                 {
                     "name": "Nehan",
                     "ar": 510,
                     "scaling": "Cool",
                     "verdict": "Second throwing knife. Poison damage over time.",
-                    "verdictVi": "Dao n�m th� hai. S�t th��ng \u0011�c."
+                    "verdictVi": "đão nm th hai. St thng c."
                 }
             ],
             "items": [
@@ -1473,13 +1473,13 @@
                     "name": "Stinger",
                     "type": "Weapon",
                     "location": "Badlands, found during the 'Beat on the Brat' quest chain",
-                    "locationVi": "Badlands trong chuỗi nhiệm vụ Beat on the Brat"
+                    "locationVi": "Badlands trong chuỗi nhiệm vụ Beat on the Brất"
                 },
                 {
                     "name": "Nehan",
                     "type": "Weapon",
                     "location": "The Heist mission, found in Yorinobu's penthouse",
-                    "locationVi": "Nhiệm vụ Heist, penthouse Yorinobu"
+                    "locationVi": "Nhiệm vụ Heist, penthousẽ Yorinobu"
                 },
                 {
                     "name": "Optical Camo",
@@ -1545,9 +1545,9 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Ném hai dao rơi dng optical camo reset",
+                "Ném hai đão rơi dng optical camo resẽt",
                 "Stinger tự hồi khi headshot",
-                "Cold Blood tăng speed, damage, armor",
+                "Cold Blood tăng speed, đãmage, armor",
                 "Nehan độc + Stinger kết liễu",
                 "Juggler perk refunds knives on hit not just Đánh bại — keep throwing"
             ]
@@ -1599,9 +1599,9 @@
                         "Chọn Nomad cho Body cao",
                         "Tng Body lên 10",
                         "Lấy Gorilla Arms từ a ripperdoc",
-                        "Invest in Athletics and Street Brawler trees",
-                        "Hon thình Beat on the Brat",
-                        "Trang bị Berserk"
+                        "Invest in Athletics và Street Brawler trees",
+                        "hơn thình Beat on the Brất",
+                        "Trang bị Bersẽrk"
                     ]
                 },
                 {
@@ -1630,9 +1630,9 @@
                     "stepsVi": [
                         "y Body lên 16",
                         "Tng Technical lên 10",
-                        "Mua Gorilla Arms điện legendary",
-                        "Invest in Quake and Air Dash for mobility",
-                        "Trang bị Microgenerator",
+                        "Mua Gorilla Arms điện legenđãry",
+                        "Invest in Quake và Air đãsh for mobility",
+                        "Trang bị Microgenerấtor",
                         "Start stacking armor mods"
                     ]
                 },
@@ -1663,9 +1663,9 @@
                         "Nâng tối đa Body at 20",
                         "Lấy Gorilla Arms Smasher từ DLC",
                         "y Technical lên 15",
-                        "Dùng erserk + Gorilla Arms for super punch mode",
+                        "Dùng ersẽrk + Gorilla Arms for super punch mođể",
                         "Quake đập địch xuống đất",
-                        "m qua Beat on the Brat cui công"
+                        "m qua Beat on the Brất cui công"
                     ]
                 }
             ],
@@ -1675,14 +1675,14 @@
                     "ar": 520,
                     "scaling": "Body",
                     "verdict": "Best for general use. Stuns enemies with electrical damage.",
-                    "verdictVi": "T�t cho \u0011a n\u0003ng. L�m cho�ng."
+                    "verdictVi": "Tt cho a nng. Lm chơng."
                 },
                 {
                     "name": "Gorilla Arms (Thermal)",
                     "ar": 560,
                     "scaling": "Body",
                     "verdict": "Higher damage. Burns enemies over time.",
-                    "verdictVi": "S�t th��ng cao h�n. \u0010�t ch�y."
+                    "verdictVi": "St thng cao hn. t chy."
                 },
                 {
                     "name": "Gorilla Arms (Chem)",
@@ -1769,17 +1769,17 @@
                 "Smart weapons track enemies through walls when you have a smart link. Use Ping quickhack to find hidden enemies before engaging."
             ],
             "tipsVi": [
-                "Gorilla Arms got a massive 2.0 rework — they now scale with Body and have charge attacks",
+                "Gorilla Arms got a massive 2.0 rework — they now scale với Body và have charge attacks",
                 "Dùng the Quake heavy attack to knock down groups of enemies",
-                "Berserk + charge punch = one-shot most regular enemies",
-                "Beat on the Brat cho trải nghiệm đỉnh cao",
+                "Bersẽrk + charge punch = one-shot most regular enemies",
+                "Beat on the Brất cho trải nghiệm đỉnh cao",
                 "Trang bị Heal on Kill"
             ]
         },
         {
             "slug": "body-tech-shotgun",
             "name": "Body Tech Shotgun",
-            "nameVi": "Shotgun Kỹ Thuật",
+            "nameVi": "Shotgun Kỹ thửật",
             "description": "Body Tech Shotgun is a body/technical build using tech shotguns that shoot through walls. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Body Tech Shotgun handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Order's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Body Tech Shotgun is its accessibility and consistent performance. Key items like Order are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Body Tech Shotgun is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
             "descriptionVi": "Build Body/Technical v:i tech shotgun xuyên tường. Tríu b, gip cao.",
             "category": "pve",
@@ -1823,9 +1823,9 @@
                         "Chọn Nomad",
                         "Tăng Body lên 10 for Annihilation perks",
                         "Dùng  double-barrel shotgun",
-                        "Invest in Shotgun and Athletics perks",
+                        "Invest in Shotgun và Athletics perks",
                         "Tìm the Mox shotgun",
-                        "Hon thình Heist"
+                        "hơn thình Heist"
                     ]
                 },
                 {
@@ -1852,10 +1852,10 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Body lên 16 and Tech to 12",
+                        "Tăng Body lên 16 và Tech to 12",
                         "Lấy tech shotgun",
-                        "Order hoặc Guts shotgun",
-                        "Trang bị Berserk cyberware",
+                        "Orđểr hoặc Guts shotgun",
+                        "Trang bị Bersẽrk cyberware",
                         "Invest in Engineering perks",
                         "Technical cho chế tạo"
                     ]
@@ -1884,12 +1884,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Body at 20 and Tech at 18",
-                        "Lấy Order shotgun",
+                        "Nâng tối đa Body at 20 và Tech at 18",
+                        "Lấy Orđểr shotgun",
                         "Tech shotgun xuyên tường",
                         "Bio-Monitor tự hi",
-                        "Dùng erserk for immunity",
-                        "One-shot groups with charged shots"
+                        "Dùng ersẽrk for immunity",
+                        "One-shot groups với charged shots"
                     ]
                 }
             ],
@@ -1899,7 +1899,7 @@
                     "ar": 820,
                     "scaling": "Body",
                     "verdict": "Best. Tech shotgun with charge mechanic.",
-                    "verdictVi": "T�\u0018t nhất."
+                    "verdictVi": "Tt nhất."
                 },
                 {
                     "name": "Guts Shotgun",
@@ -1972,7 +1972,7 @@
                 }
             ],
             "tips": [
-                "Tech shotguns can be charged to shoot through walls �\u001d use Ping to see enemies",
+                "Tech shotguns can be charged to shoot through walls  use Ping to see enemies",
                 "Body 20 gives the most HP and health regen perks",
                 "Berserk + Order charged shot = unstoppable",
                 "Stack armor cyberware for maximum survivability",
@@ -1987,8 +1987,8 @@
             ],
             "tipsVi": [
                 "Tech shotgun tch xuyên tường  dng Ping",
-                "Body 20 gives the most HP and health regen perks",
-                "Berserk + Order charged shot = unstoppable",
+                "Body 20 gives the most HP và health regen perks",
+                "Bersẽrk + Orđểr charged shot = unstoppable",
                 "Stack armor cyberware for maximum survivability",
                 "Lu n kiếm sot m ng"
             ]
@@ -1996,9 +1996,9 @@
         {
             "slug": "reflex-cool-blades",
             "name": "Reflex Cool Blades",
-            "nameVi": "Reflex Cool Blades",
+            "nameVi": "Reflex Cool Blađểs",
             "description": "Reflex Cool Blades is a reflex/cool build focused on bladed weapons with a sandevistan. Designed around high Intelligence 3, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Reflex Cool Blades handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Apogee Sandevistan's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Reflex Cool Blades is its versatility and damage potential when optimized. Key items like Apogee Sandevistan are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nReflex Cool Blades is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Reflex/Cool v:i Sandevistan v kiếm. L:t gia k 9ch v:i tc \" thi gian chm.",
+            "descriptionVi": "Build Reflex/Cool v:i Sanđểvistan v kiếm. L:t gia k 9ch v:i tc \" thi gian chm.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2038,10 +2038,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Street Kid",
-                        "Tăng Reflexes lên 12 for blade perks",
+                        "Tăng Reflexes lên 12 for blađể perks",
                         "Mua katana cơ bản",
-                        "Invest in Blade and Reflex perks",
-                        "Hon thình Heist",
+                        "Invest in Blađể và Reflex perks",
+                        "hơn thình Heist",
                         "Lấy Satori katana"
                     ]
                 },
@@ -2069,8 +2069,8 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Reflexes lên 16 and Cool to 8",
-                        "Sandevistan Mk.3 hoặc 4",
+                        "Tăng Reflexes lên 16 và Cool to 8",
+                        "Sanđểvistan Mk.3 hoặc 4",
                         "Tìm Byakko or Jinchu-Maru",
                         "Tăng Technical lên 10 for crafting",
                         "Trang bị Optical Camo",
@@ -2101,10 +2101,10 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Reflexes at 20 and Cool at 12",
-                        "Get Apogee Sandevistan",
+                        "Nâng tối đa Reflexes at 20 và Cool at 12",
+                        "Get Apogee Sanđểvistan",
                         "Get Scalpel katana for 100% crit",
-                        "Dùng ouble jump and air dash",
+                        "Dùng ouble jump và air đãsh",
                         "Cold Blood boosts speed after kills",
                         "Sandy + Camo = sát th ma"
                     ]
@@ -2116,14 +2116,14 @@
                     "ar": 620,
                     "scaling": "Reflexes",
                     "verdict": "Best. 100% crit during Sandevistan.",
-                    "verdictVi": "T�\u0018t nhất. 100% crit khi Sandy."
+                    "verdictVi": "Tt nhất. 100% crit khi Sandy."
                 },
                 {
                     "name": "Jinchu-Maru",
                     "ar": 580,
                     "scaling": "Reflexes",
                     "verdict": "Guaranteed crit while Sandy active.",
-                    "verdictVi": "Crit �\u0018ảm bảo khi Sandy."
+                    "verdictVi": "Crit ảm bảo khi Sandy."
                 }
             ],
             "items": [
@@ -2204,9 +2204,9 @@
             ],
             "tipsVi": [
                 "Sandy + Camo = tàng hình khi chm thi gian",
-                "Cold Blood stacks increase movement speed with each kill",
-                "Air dash p sát tr:c khi Sandy ht",
-                "The Scalpel guarantees crit hits during Sandevistan",
+                "Cold Blood stacks increasẽ movement speed với each kill",
+                "Air đãsh p sát tr:c khi Sandy ht",
+                "The Scalpel guarantees crit hits during Sanđểvistan",
                 "Keep a backup smart weapon for distant enemies"
             ]
         },
@@ -2257,8 +2257,8 @@
                         "Chọn Corpo",
                         "Tăng Cool lên 12 for stealth perks",
                         "Súng gim thanh",
-                        "Invest in Ninjutsu and Cold Blood",
-                        "Hon thình Heist",
+                        "Invest in Ninjutsu và Cold Blood",
+                        "hơn thình Heist",
                         "Súng gim thanh t Heist"
                     ]
                 },
@@ -2287,10 +2287,10 @@
                     ],
                     "stepsVi": [
                         "Tăng Cool lên 16",
-                        "Ly Death and Taxes súng",
+                        "Ly đểath và Taxes súng",
                         "Tăng Reflexes lên 10 for handgun perks",
                         "Trang bị Optical Camo",
-                        "Get the 'Silent and Deadly' perk",
+                        "Get the 'Silent và đểadly' perk",
                         "Mod giảm thanh"
                     ]
                 },
@@ -2323,7 +2323,7 @@
                         "Nâng tối đa Reflexes to 12",
                         "Headshot one-shot mọi thứ",
                         "Cold Blood gives speed after kills",
-                        "Optical Camo reset tàng hình"
+                        "Optical Camo resẽt tàng hình"
                     ]
                 }
             ],
@@ -2333,14 +2333,14 @@
                     "ar": 650,
                     "scaling": "Cool",
                     "verdict": "Best DLC stealth pistol. High crit and headshot damage.",
-                    "verdictVi": "S�ng t�ng h�nh DLC t�\u0018t nh�t."
+                    "verdictVi": "Sng tng hnh DLC tt nht."
                 },
                 {
                     "name": "Death and Taxes",
                     "ar": 580,
                     "scaling": "Cool",
                     "verdict": "Good early stealth pistol.",
-                    "verdictVi": "S�ng t�ng h�nh �\u0018�u game t�\u0018t."
+                    "verdictVi": "Sng tng hnh u game tt."
                 }
             ],
             "items": [
@@ -2421,7 +2421,7 @@
             ],
             "tipsVi": [
                 "Lun bắn t tàng hình 2x headshot",
-                "Her Majesty has built-in silencer and high crit damage",
+                "Her Majesty has built-in silencer và high crit đãmage",
                 "Cold Blood procs after Đánh bại give speed to reposition",
                 "Optical Camo biến mất sau mi kill",
                 "Xp mod sát thng headshot"
@@ -2430,9 +2430,9 @@
         {
             "slug": "body-berserk-lmg",
             "name": "Body Berserk LMG",
-            "nameVi": "Body Berserk LMG",
+            "nameVi": "Body Bersẽrk LMG",
             "description": "Body Berserk LMG is a body build using light machine guns with berserk cyberware. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Body Berserk LMG handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Militech Berserk Mk.5's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Body Berserk LMG is its accessibility and consistent performance. Key items like Militech Berserk Mk.5 are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Body Berserk LMG is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A Body build using light machine guns with Berserk cyberware. Suppressing fire that never stops. Activate Berserk for infinite stamina and spray everything down.",
+            "descriptionVi": "A Body build using light machine guns với Bersẽrk cyberware. Suppressing fire that never stops. Activate Bersẽrk for infinite stạmina và spray everything down.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -2475,8 +2475,8 @@
                         "Tăng Body lên 10",
                         "Dùng ny LMG or assault rifle",
                         "Invest in Annihilation perks",
-                        "Hon thình Heist",
-                        "Lấy Defender LMG"
+                        "hơn thình Heist",
+                        "Lấy đểfenđểr LMG"
                     ]
                 },
                 {
@@ -2504,11 +2504,11 @@
                     ],
                     "stepsVi": [
                         "Tăng Body lên 16",
-                        "Get Berserk Mk.3",
-                        "Tìm the 'Big Honk' LMG",
+                        "Get Bersẽrk Mk.3",
+                        "Tìm the 'Big hơnk' LMG",
                         "Tăng Technical lên 10 for armor",
                         "Trang bị Bio-Monitor",
-                        "Invest in 'Spontaneous Obliteration'"
+                        "Invest in 'Spontaneous Obliterấtion'"
                     ]
                 },
                 {
@@ -2535,12 +2535,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Body at 20 and Tech at 15",
+                        "Nâng tối đa Body at 20 và Tech at 15",
                         "LMG huyền thoại từ DLC",
-                        "Dùng erserk for infinite ammo and stamina",
+                        "Dùng ersẽrk for infinite ammo và stạmina",
                         "Stack armor cyberware",
                         "Bắn t hng khi di chuyn",
-                        "The LMG suppresses enemy groups"
+                        "The LMG suppressẽs enemy groups"
                     ]
                 }
             ],
@@ -2550,7 +2550,7 @@
                     "ar": 580,
                     "scaling": "Body",
                     "verdict": "High capacity LMG with good damage.",
-                    "verdictVi": "LMG dung t�ch cao."
+                    "verdictVi": "LMG dung tch cao."
                 }
             ],
             "items": [
@@ -2616,7 +2616,7 @@
                 }
             ],
             "tips": [
-                "Berserk gives infinite stamina �\u001d sprint while firing your LMG",
+                "Berserk gives infinite stamina  sprint while firing your LMG",
                 "LMGs suppress enemies, forcing them to stay behind cover",
                 "Use the 'Spontaneous Obliteration' perk for explosions on kill",
                 "The LMG's hip fire accuracy is surprisingly good",
@@ -2630,11 +2630,11 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Berserk gives infinite stamina �\u001d sprint while firing your LMG",
+                "Bersẽrk gives infinite stạmina  sprint while firing your LMG",
                 "LMGs suppress enemies, forcing them to stay behind cover",
-                "Dùng the 'Spontaneous Obliteration' perk for explosions on kill",
+                "Dùng the 'Spontaneous Obliterấtion' perk for explosions on kill",
                 "Bắn t hng chình xc",
-                "Trang bị 'Burn This' mod for fire damage on critical hits"
+                "Trang bị 'Burn This' mod for fire đãmage on critical hits"
             ]
         },
         {
@@ -2686,7 +2686,7 @@
                         "Súng trng tech c bắn",
                         "Tăng Cool lên 8 for stealth",
                         "Invest in Engineering tree",
-                        "Hon thình Heist"
+                        "hơn thình Heist"
                     ]
                 },
                 {
@@ -2717,7 +2717,7 @@
                         "Lấy Widow Maker",
                         "Tăng Cool lên 14 for stealth perks",
                         "Trang bị Target Analysis cyberware",
-                        "Learn the charge timing",
+                        "Learn the charge tìming",
                         "Chế tạo mod huyền thoại"
                     ]
                 },
@@ -2745,11 +2745,11 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Technical at 20 and Cool at 18",
+                        "Nâng tối đa Technical at 20 và Cool at 18",
                         "Lấy Hypercritical từ DLC",
                         "Tch y xuyên mi th",
                         "Ping + n tch xuyên tường",
-                        "Stack crit damage mods",
+                        "Stack crit đãmage mods",
                         "One-shot t tàng hình"
                     ]
                 }
@@ -2760,14 +2760,14 @@
                     "ar": 780,
                     "scaling": "Technical",
                     "verdict": "Great tech precision rifle with charge mechanic.",
-                    "verdictVi": "S�ng tr��ng tech t�\u0018t."
+                    "verdictVi": "Sng trng tech tt."
                 },
                 {
                     "name": "Hypercritical",
                     "ar": 880,
                     "scaling": "Technical",
                     "verdict": "DLC iconic. Highest damage tech rifle.",
-                    "verdictVi": "S�ng DLC s�t th��ng cao nh�t."
+                    "verdictVi": "Sng DLC st thng cao nht."
                 }
             ],
             "items": [
@@ -2775,7 +2775,7 @@
                     "name": "Hypercritical",
                     "type": "Weapon",
                     "location": "Dogtown DLC from a hidden cache",
-                    "locationVi": "Dogtown DLC from a hidden cache"
+                    "locationVi": "Dogtown DLC from a hidđến cáche"
                 },
                 {
                     "name": "Widow Maker",
@@ -2850,8 +2850,8 @@
                 "Súng tech b qua gip khi tch y",
                 "Ping + n tch xuyên tường",
                 "Lun tch y cho xuyên",
-                "Crit damage mods stack multiplicatively with headshots",
-                "Dùng Silent and Deadly' perk for staying hidden after kills"
+                "Crit đãmage mods stack multiplicatively với headshots",
+                "Dùng Silent và đểadly' perk for staying hidđến after kills"
             ]
         },
         {
@@ -2859,7 +2859,7 @@
             "name": "Intelligence Monowire",
             "nameVi": "Monowire Trí Tu!",
             "description": "Intelligence Monowire is an intelligence/reflex build using the monowire with quickhacks. Designed around high Intelligence 20, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Intelligence Monowire handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Legendary Monowire's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Intelligence Monowire is its versatility and damage potential when optimized. Key items like Legendary Monowire are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nIntelligence Monowire is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "An Intelligence/Reflex build using the Monowire with quickhacks. The Monowire now scales with Intelligence in 2.0. Hack enemies, then finish them with devastating wire attacks.",
+            "descriptionVi": "An Intelligence/Reflex build using the Monowire với quickhacks. The Monowire now scales với Intelligence in 2.0. Hack enemies, then finish thêm với đểvastating wire attacks.",
             "category": "trend",
             "difficulty": 2,
             "dlc": true,
@@ -2903,7 +2903,7 @@
                         "Quickhack cơ bản",
                         "Monowire từ ripperdoc",
                         "Invest in Quickhacking perks",
-                        "Hon thình Heist"
+                        "hơn thình Heist"
                     ]
                 },
                 {
@@ -2930,10 +2930,10 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Int lên 16 and Reflex to 10",
+                        "Tăng Int lên 16 và Reflex to 10",
                         "Quickhack huyền thoại",
-                        "Nâng cấp Monowire to legendary",
-                        "Trang bị the Raven cyberdeck",
+                        "Nâng cấp Monowire to legenđãry",
+                        "Trang bị the Raven cyberđểck",
                         "Học Monowire combo",
                         "Invest in Relic perks"
                     ]
@@ -2962,8 +2962,8 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Int at 20 and Reflex at 15",
-                        "Get Netwatch cyberdeck",
+                        "Nâng tối đa Int at 20 và Reflex at 15",
+                        "Get Netwatch cyberđểck",
                         "Monowire spreads quickhacks on hit",
                         "Dùng hort Circuit + Monowire combo",
                         "Trang bị Optical Camo for stealth",
@@ -2977,7 +2977,7 @@
                     "ar": 620,
                     "scaling": "Intelligence",
                     "verdict": "Best. Scales with Intelligence in 2.0+.",
-                    "verdictVi": "T�\u0018t nhất. TĒng theo Int trong 2.0."
+                    "verdictVi": "Tt nhất. TĒng theo Int trong 2.0."
                 }
             ],
             "items": [
@@ -3057,11 +3057,11 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Monowire in 2.0+ scales with Intelligence and can spread quickhacks",
+                "Monowire in 2.0+ scales với Intelligence và cần spread quickhacks",
                 "Short Circuit crit từ Monowire",
                 "Dùng ontagion to weaken groups, then Monowire to finish",
                 "The Monowire charged attack has longer range than it looks",
-                "Invest in both Quickhacking and Blades perks for synergy"
+                "Invest in both Quickhacking và Blađểs perks for synergy"
             ]
         },
         {
@@ -3069,7 +3069,7 @@
             "name": "Cool Throwing Weapons",
             "nameVi": "Vi Khí Ném",
             "description": "Cool Throwing Weapons is a cool build focused on throwing knives and axes. Designed around high Intelligence 3, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Cool Throwing Weapons handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Stinger's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Cool Throwing Weapons is its versatility and damage potential when optimized. Key items like Stinger are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nCool Throwing Weapons is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build Cool v:i dao ném v ru ném. Lng, cht ngi, phong cch.",
+            "descriptionVi": "Build Cool v:i đão ném v ru ném. Lng, cht ngi, phơng cch.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3110,10 +3110,10 @@
                     "stepsVi": [
                         "Chọn Street Kid",
                         "Tăng Cool lên 12",
-                        "Mua dao ném",
-                        "Invest in Ninjutsu and Cold Blood",
-                        "Hon thình Heist",
-                        "Ly Nehan dao ném"
+                        "Mua đão ném",
+                        "Invest in Ninjutsu và Cold Blood",
+                        "hơn thình Heist",
+                        "Ly Nehan đão ném"
                     ]
                 },
                 {
@@ -3141,11 +3141,11 @@
                     ],
                     "stepsVi": [
                         "Tăng Cool lên 16",
-                        "Tm Stinger dao ném",
+                        "Tm Stinger đão ném",
                         "Get 'Juggler' perk for refunds",
                         "Tăng Reflexes lên 10",
                         "Trang bị Optical Camo",
-                        "Học quỹ ạo dao"
+                        "Học quỹ ạo đão"
                     ]
                 },
                 {
@@ -3173,11 +3173,11 @@
                     ],
                     "stepsVi": [
                         "Nâng tối đa Cool at 20",
-                        "Bladewolf từ DLC",
+                        "Blađểwolf từ DLC",
                         "Stinger refunds on headshot kill",
-                        "Chain throws with Cold Blood speed",
-                        "Optical Camo resets stealth",
-                        "Dùng oth Stinger and Nehan for double throws"
+                        "Chain throws với Cold Blood speed",
+                        "Optical Camo resẽts stealth",
+                        "Dùng oth Stinger và Nehan for double throws"
                     ]
                 }
             ],
@@ -3187,14 +3187,14 @@
                     "ar": 550,
                     "scaling": "Cool",
                     "verdict": "Best. Returns to hand on headshot kill.",
-                    "verdictVi": "T�\u0018t nhất. Về tay khi headshot."
+                    "verdictVi": "Tt nhất. Về tay khi headshot."
                 },
                 {
                     "name": "Nehan",
                     "ar": 510,
                     "scaling": "Cool",
                     "verdict": "Poison damage over time.",
-                    "verdictVi": "S�t th��ng �\u0018�\"c."
+                    "verdictVi": "St thng \"c."
                 }
             ],
             "items": [
@@ -3202,13 +3202,13 @@
                     "name": "Stinger",
                     "type": "Weapon",
                     "location": "Badlands from Beat on the Brat quest",
-                    "locationVi": "Badlands từ Beat on the Brat"
+                    "locationVi": "Badlands từ Beat on the Brất"
                 },
                 {
                     "name": "Nehan",
                     "type": "Weapon",
                     "location": "The Heist in Yorinobu's penthouse",
-                    "locationVi": "The Heist in Yorinobu's penthouse"
+                    "locationVi": "The Heist in Yorinobu's penthousẽ"
                 },
                 {
                     "name": "Optical Camo Legendary",
@@ -3264,7 +3264,7 @@
                 "The 'Juggler' perk refunds knives on hit, not just kill",
                 "Throw two knives then use Optical Camo to reset and throw again",
                 "Cold Blood speed stacks make you incredibly mobile after each kill",
-                "Practice the knife arc �\u001d it drops significantly at long range",
+                "Practice the knife arc  it drops significantly at long range",
                 "In 2.0+, Cyberware capacity is tied to your level and perk investments. Plan your cyberware loadout carefully around your build.",
                 "The Relic perk tree (from Phantom Liberty) adds powerful new abilities. Max it out in Dogtown by finding Militech terminals.",
                 "Technical Ability 20 gives you Edgerunner perk — 50 more cyberware capacity at the cost of health loss over cap. Worth it for most builds.",
@@ -3276,9 +3276,9 @@
             "tipsVi": [
                 "Stinger về tay khi headshot",
                 "The 'Juggler' perk refunds knives on hit, not just kill",
-                "Throw two knives then use Optical Camo to reset and throw again",
+                "Throw two knives then usẽ Optical Camo to resẽt và throw again",
                 "Cold Blood speed stacks make you incredibly mobile after each kill",
-                "Tập quỹ ạo dao"
+                "Tập quỹ ạo đão"
             ]
         },
         {
@@ -3286,7 +3286,7 @@
             "name": "Body Solo Tank",
             "nameVi": "Xe TĒng Đ\"c Di&n",
             "description": "Body Solo Tank is a body/technical tank build that never dies. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Body Solo Tank handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Subdermal Armor Legendary's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Body Solo Tank is its accessibility and consistent performance. Key items like Subdermal Armor Legendary are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Body Solo Tank is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A Body/Technical tank build that never dies. Max HP, max armor, health regen, and damage mitigation. Walk through enemy fire and punch everyone to death.",
+            "descriptionVi": "A Body/Technical tank build that never dies. Max HP, max armor, health regen, và đãmage mitigation. Walk through enemy fire và punch everyone to đểath.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -3328,8 +3328,8 @@
                         "Chọn Nomad",
                         "Tăng Body lên 10",
                         "Invest in Athletics perks",
-                        "Get Subdermal Armor",
-                        "Hon thình Heist",
+                        "Get Subđểrmal Armor",
+                        "hơn thình Heist",
                         "Tìm the best armor mods"
                     ]
                 },
@@ -3357,12 +3357,12 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Body lên 16 and Tech to 12",
+                        "Tăng Body lên 16 và Tech to 12",
                         "Bio-Monitor tự hi",
-                        "Trang bị Second Heart for revive",
+                        "Trang bị sẽcònd Heart for revive",
                         "Stack all armor cyberware",
                         "Technical cho chế tạo",
-                        "Get Berserk for emergency immunity"
+                        "Get Bersẽrk for emergency immunity"
                     ]
                 },
                 {
@@ -3389,12 +3389,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Body at 20 and Tech at 18",
-                        "Get all legendary armor cyberware",
+                        "Nâng tối đa Body at 20 và Tech at 18",
+                        "Get all legenđãry armor cyberware",
                         "Dùng the 'Painkiller' perk",
                         "Trang bị \"Heal on Kill\" mods",
                         "Đi qua hỏa lực",
-                        "Dùng erserk as an oh-shit button"
+                        "Dùng ersẽrk as an oh-shit button"
                     ]
                 }
             ],
@@ -3404,7 +3404,7 @@
                     "ar": 560,
                     "scaling": "Body",
                     "verdict": "Best for tank damage. Burn + punch combo.",
-                    "verdictVi": "T�\u0018t nhất cho tank."
+                    "verdictVi": "Tt nhất cho tank."
                 }
             ],
             "items": [
@@ -3470,8 +3470,8 @@
                 }
             ],
             "tips": [
-                "Stack as much armor as possible �\u001d there's no cap in Cyberpunk 2.0",
-                "Bio-Monitor auto-heals at 30% HP �\u001d a life saver",
+                "Stack as much armor as possible  there's no cap in Cyberpunk 2.0",
+                "Bio-Monitor auto-heals at 30% HP  a life saver",
                 "Second Heart revives you once per combat",
                 "Use Berserk for 100% damage immunity in emergencies",
                 "The tank build is unstoppable in close quarters",
@@ -3484,11 +3484,11 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Stack as much armor as possible �\u001d there's no cap in Cyberpunk 2.0",
-                "Bio-Monitor auto-heals at 30% HP �\u001d a life saver",
-                "Second Heart hi sinh m\"t lần",
-                "Dùng erserk for 100% damage immunity in emergencies",
-                "The tank build is unstoppable in close quarters"
+                "Stack as much armor as possible  there's no cap in Cyberpunk 2.0",
+                "Bio-Monitor auto-heals at 30% HP  a life saver",
+                "sẽcònd Heart hi sinh m\"t lần",
+                "Dùng ersẽrk for 100% đãmage immunity in emergencies",
+                "The tank build is unstoppable in closẽ quarters"
             ]
         },
         {
@@ -3539,7 +3539,7 @@
                         "Tăng Reflexes lên 12",
                         "Súng lc c bắn",
                         "Invest in Handgun perks",
-                        "Hon thình Heist",
+                        "hơn thình Heist",
                         "Kongou súng lc"
                     ]
                 },
@@ -3571,7 +3571,7 @@
                         "Dying Night súng",
                         "Tăng Cool lên 10",
                         "Perk nảy ạn",
-                        "Trang bị Kerenzikov for slow time",
+                        "Trang bị Kerenzikov for slow tìme",
                         "Học ngắm nảy"
                     ]
                 },
@@ -3599,10 +3599,10 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Reflexes at 20 and Cool at 12",
+                        "Nâng tối đa Reflexes at 20 và Cool at 12",
                         "Amnesty từ DLC",
                         "Ricochet headshots around corners",
-                        "Sandevistan ngắm chậm",
+                        "Sanđểvistan ngắm chậm",
                         "Trang bị handgun crit mods",
                         "Nảy ạn PvP"
                     ]
@@ -3614,14 +3614,14 @@
                     "ar": 680,
                     "scaling": "Reflexes",
                     "verdict": "Best DLC power pistol. High ricochet damage.",
-                    "verdictVi": "S�ng DLC t�\u0018t nh�t."
+                    "verdictVi": "Sng DLC tt nht."
                 },
                 {
                     "name": "Dying Night",
                     "ar": 620,
                     "scaling": "Reflexes",
                     "verdict": "Good base power pistol with high fire rate.",
-                    "verdictVi": "S�ng l�c c� b�n t�\u0018t."
+                    "verdictVi": "Sng lc c bn tt."
                 }
             ],
             "items": [
@@ -3691,7 +3691,7 @@
                 "The ricochet indicator shows the bounce trajectory",
                 "Headshot ricochets deal full damage",
                 "Use Sandevistan to line up perfect ricochet shots",
-                "Stack crit damage �\u001d each ricochet headshot can one-shot",
+                "Stack crit damage  each ricochet headshot can one-shot",
                 "In 2.0+, Cyberware capacity is tied to your level and perk investments. Plan your cyberware loadout carefully around your build.",
                 "The Relic perk tree (from Phantom Liberty) adds powerful new abilities. Max it out in Dogtown by finding Militech terminals.",
                 "Technical Ability 20 gives you Edgerunner perk — 50 more cyberware capacity at the cost of health loss over cap. Worth it for most builds.",
@@ -3701,17 +3701,17 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Ricochet shots can hit enemies behind full cover",
+                "Ricochet shots cần hit enemies behind full cover",
                 "The ricochet indicator shows the bounce trajectory",
                 "Headshot ny full sát thng",
-                "Dùng andevistan to line up perfect ricochet shots",
-                "Stack crit damage �\u001d each ricochet headshot can one-shot"
+                "Dùng anđểvistan to line up perfect ricochet shots",
+                "Stack crit đãmage  each ricochet headshot cần one-shot"
             ]
         },
         {
             "slug": "tech-smg-runner",
             "name": "Tech SMG Runner",
-            "nameVi": "SMG Kỹ Thuật",
+            "nameVi": "SMG Kỹ thửật",
             "description": "Tech SMG Runner is a technical/reflex build using tech smgs. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Tech SMG Runner handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Fenrir's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Tech SMG Runner is its accessibility and consistent performance. Key items like Fenrir are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Tech SMG Runner is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
             "descriptionVi": "Build Technical/Reflex v:i tech SMG. Tc \" bắn cao xuyên tường.",
             "category": "pve",
@@ -3756,7 +3756,7 @@
                         "Tăng Technical lên 10",
                         "SMG cơ bản",
                         "Invest in Engineering perks",
-                        "Hon thình Heist",
+                        "hơn thình Heist",
                         "Tìm the first tech SMG"
                     ]
                 },
@@ -3784,9 +3784,9 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Tech lên 16 and Reflex to 10",
-                        "Get the iconic 'Fenrir' SMG",
-                        "Nâng cấp to legendary",
+                        "Tăng Tech lên 16 và Reflex to 10",
+                        "Get the icònic 'Fenrir' SMG",
+                        "Nâng cấp to legenđãry",
                         "Level Reflex for SMG perks",
                         "Mod SMG sát thng",
                         "Learn the charge mechanic"
@@ -3816,11 +3816,11 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Tech at 20 and Reflex at 15",
+                        "Nâng tối đa Tech at 20 và Reflex at 15",
                         "Nehan SMG từ DLC",
                         "Tech SMG xuyên tường",
                         "Ping + bắn qua tường",
-                        "High fire rate melts groups",
+                        "High fire rấte melts groups",
                         "Kerenzikov di chuyỒn"
                     ]
                 }
@@ -3831,7 +3831,7 @@
                     "ar": 520,
                     "scaling": "Technical",
                     "verdict": "Best tech SMG with high fire rate.",
-                    "verdictVi": "Tech SMG t�\u0018t nhất."
+                    "verdictVi": "Tech SMG tt nhất."
                 }
             ],
             "items": [
@@ -3839,7 +3839,7 @@
                     "name": "Fenrir",
                     "type": "Weapon",
                     "location": "Found during main quest in a container",
-                    "locationVi": "Nhi!m v chình trong container"
+                    "locationVi": "Nhi!m v chình trong còntạiner"
                 },
                 {
                     "name": "Ping Quickhack",
@@ -3913,7 +3913,7 @@
             "tipsVi": [
                 "Tech SMG xuyên mi b mt khi tch",
                 "Ping trư:c, bắn qua tường",
-                "The high fire rate melts groups quickly",
+                "The high fire rấte melts groups quickly",
                 "SMG tiết kiế!m ạn nhất",
                 "Chy v bắn"
             ]
@@ -3967,7 +3967,7 @@
                         "Get Gorilla Arms early",
                         "Gy bắng chy",
                         "Invest in Street Brawler perks",
-                        "Hoàn thành Đánh bại on the Brat quests"
+                        "Hoàn thành Đánh bại on the Brất quests"
                     ]
                 },
                 {
@@ -3995,11 +3995,11 @@
                     ],
                     "stepsVi": [
                         "Tăng Body lên 16",
-                        "Get Berserk cyberware",
+                        "Get Bersẽrk cyberware",
                         "Tìm the 'Sasquatch's Hammer'",
                         "Tăng Technical lên 10 for armor",
                         "Trang bị Bio-Monitor",
-                        "Learn the dodge timing"
+                        "Learn the dodge tìming"
                     ]
                 },
                 {
@@ -4026,9 +4026,9 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Body at 20 and Tech at 15",
+                        "Nâng tối đa Body at 20 và Tech at 15",
                         "Sasquatch's Hammer one-shots most enemies",
-                        "Berserk bất khả chiến bại",
+                        "Bersẽrk bất khả chiến bại",
                         "Fully charged Gorilla Arms punch",
                         "Dùng round slam (Quake) for AoE",
                         "Stack armor for survivability"
@@ -4041,7 +4041,7 @@
                     "ar": 520,
                     "scaling": "Body",
                     "verdict": "Poisons enemies for dot damage.",
-                    "verdictVi": "Đầu �\u0018�\"c."
+                    "verdictVi": "Đầu \"c."
                 },
                 {
                     "name": "Sasquatch's Hammer",
@@ -4130,9 +4130,9 @@
             "tipsVi": [
                 "Sasquatch's Hammer sát thng cao nht",
                 "Dùng the Quake ground slam to knock down groups",
-                "Berserk + cận chiến",
-                "Gorilla Arms tch sát thng poise",
-                "Beat on the Brat bắt bu\"c"
+                "Bersẽrk + cận chiến",
+                "Gorilla Arms tch sát thng poisẽ",
+                "Beat on the Brất bắt bu\"c"
             ]
         },
         {
@@ -4182,9 +4182,9 @@
                         "Chọn Corpo",
                         "Tăng Int lên 12 for quickhacks",
                         "Tăng Cool lên 10 for stealth",
-                        "Lấy a cyberdeck từ ripperdoc",
+                        "Lấy a cyberđểck từ ripperdoc",
                         "Invest in Breach Protocol",
-                        "Hon thình Heist"
+                        "hơn thình Heist"
                     ]
                 },
                 {
@@ -4211,10 +4211,10 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Int lên 16 and Cool to 14",
+                        "Tăng Int lên 16 và Cool to 14",
                         "Quickhack huyền thoại",
-                        "Learn Suicide and System Collapse",
-                        "Trang bị the Netwatch cyberdeck",
+                        "Learn Suiciđể và System Collapsẽ",
+                        "Trang bị the Netwatch cyberđểck",
                         "Invest in Ninjutsu for stealth",
                         "Ping xuyên tường"
                     ]
@@ -4243,9 +4243,9 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Nâng tối đa Int at 20 and Cool at 18",
-                        "Lấy the Biotech Σ cyberdeck từ DLC",
-                        "Dùng ystem Collapse for instant knockouts",
+                        "Nâng tối đa Int at 20 và Cool at 18",
+                        "Lấy the Biotech Σ cyberđểck từ DLC",
+                        "Dùng ystem Collapsẽ for instant knockouts",
                         "Cool 18 tc \" tàng hình",
                         "Khíng bao gi b9 pht hi!n",
                         "Optical Camo as emergency escape"
@@ -4258,14 +4258,14 @@
                     "ar": 0,
                     "scaling": "Intelligence",
                     "verdict": "Best. Instantly knocks out any enemy from stealth.",
-                    "verdictVi": "T�\u0018t nh�t. H� g�c t�c th�."
+                    "verdictVi": "Tt nht. H gc tc th."
                 },
                 {
                     "name": "Suicide Quickhack",
                     "ar": 0,
                     "scaling": "Intelligence",
                     "verdict": "Makes enemies kill themselves. Hilarious.",
-                    "verdictVi": "\u0010�9ch t� s�t. H�i h��:c."
+                    "verdictVi": "9ch t st. Hi h:c."
                 }
             ],
             "items": [
@@ -4331,7 +4331,7 @@
                 }
             ],
             "tips": [
-                "System Collapse is silent and kills instantly �\u001d the ultimate stealth quickhack",
+                "System Collapse is silent and kills instantly  the ultimate stealth quickhack",
                 "Cool 18 gives the fastest movement speed while crouched",
                 "Use Breach Protocol first to reduce enemy RAM costs",
                 "Suicide quickhack causes chaos without revealing your position",
@@ -4345,19 +4345,19 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "System Collapse lêng v cht ngay",
+                "System Collapsẽ lêng v cht ngay",
                 "Cool 18 tc \" ngi nhanh nhất",
                 "Breach Protocol trư:c",
-                "Suicide quickhack causes chaos without revealing your position",
-                "Optical Camo is an emergency escape if detected"
+                "Suiciđể quickhack causẽs chaos without revealing your position",
+                "Optical Camo is an emergency escape if đểtected"
             ]
         },
         {
             "slug": "pure-cool-pistol",
             "name": "Pure Cool Pistol",
-            "nameVi": "Súng Lục Thuầnn Cool",
+            "nameVi": "Súng Lục thửầnn Cool",
             "description": "Pure Cool Pistol is a stealth pistol build focusing entirely on cool and handguns. Designed around high Intelligence 4, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Pure Cool Pistol handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Pride's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Pure Cool Pistol is its versatility and damage potential when optimized. Key items like Pride are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nPure Cool Pistol is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build súng lc tàng hình vi Cool v Handguns. Bắn u t tàng hình x3 sát thng. Pride t DLC.",
+            "descriptionVi": "Build súng lc tàng hình vi Cool v Handguns. Bắn u t tàng hình x3 sát thng. Priđể t DLC.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -4398,7 +4398,7 @@
                     "stepsVi": [
                         "Chọn Solo",
                         "Tăng Cool lên 12 first",
-                        "Focus on Handgun and Headshot perks",
+                        "Focus on Handgun và Headshot perks",
                         "Mua súng lc",
                         "Tng hình bắn u",
                         "Gắn silencer"
@@ -4430,7 +4430,7 @@
                     "stepsVi": [
                         "Tăng Cool lên 16",
                         "Tăng Reflexes lên 10 for handling",
-                        "Pride từ DLC",
+                        "Priđể từ DLC",
                         "Nâng cấp it to Tier 4",
                         "Invest in Cold Blood perks",
                         "Dùng ptical Camo for emergency stealth"
@@ -4461,7 +4461,7 @@
                     ],
                     "stepsVi": [
                         "Nâng tối đa Cool at 20",
-                        "Nâng tối đa Pride to Tier 5++",
+                        "Nâng tối đa Priđể to Tier 5++",
                         "Bắn u x3 sát thng",
                         "Cold Blood tốc độ",
                         "One-shot almost every enemy",
@@ -4475,7 +4475,7 @@
                     "ar": 800,
                     "scaling": "Cool",
                     "verdict": "One-shot stealth kills. Best for Cool.",
-                    "verdictVi": "M�t ph�t m�t m�ng."
+                    "verdictVi": "Mt pht mt mng."
                 }
             ],
             "items": [
@@ -4556,7 +4556,7 @@
             ],
             "tipsVi": [
                 "Bắn u t tàng hình x3",
-                "Pride súng lc silencer tt nht",
+                "Priđể súng lc silencer tt nht",
                 "Cold Blood tăng tốc độ",
                 "Optical Camo tàng hình khn cp",
                 "Ping xuyên tường"
@@ -4565,9 +4565,9 @@
         {
             "slug": "body-shotgun-sandy",
             "name": "Body Shotgun Sandevistan",
-            "nameVi": "Body Shotgun Sandevistan",
+            "nameVi": "Body Shotgun Sanđểvistan",
             "description": "Body Shotgun Sandevistan is a high-body shotgun build using the sandevistan. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Body Shotgun Sandevistan handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Guts's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Body Shotgun Sandevistan is its accessibility and consistent performance. Key items like Guts are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Body Shotgun Sandevistan is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A high-Body shotgun build using the Sandevistan. Slow time, rush in, and blast everything with a shotgun. The Guts shotgun from the DLC is a monster.",
+            "descriptionVi": "A high-Body shotgun build using the Sanđểvistan. Slow tìme, rush in, và blast everything với a shotgun. The Guts shotgun from the DLC is a monster.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -4610,7 +4610,7 @@
                         "Tăng Body lên 12 first",
                         "Mua a Power Shotgun từ a store",
                         "Invest in Annihilation perks",
-                        "Tìm a good Sandevistan",
+                        "Tìm a good Sanđểvistan",
                         "Shotgun chình"
                     ]
                 },
@@ -4643,7 +4643,7 @@
                         "Guts từ DLC",
                         "Nâng cấp to Tier 4",
                         "Sandy tốt",
-                        "Shotgun xuyên thu"
+                        "Shotgun xuyên thử"
                     ]
                 },
                 {
@@ -4672,10 +4672,10 @@
                     "stepsVi": [
                         "Nâng tối đa Body at 20",
                         "Nâng tối đa Guts to Tier 5++",
-                        "Activate Sandy and rush enemies",
-                        "Shotgun blast in slow motion",
+                        "Activate Sandy và rush enemies",
+                        "Shotgun blast in slow mộtion",
                         "Mi vin y sát thng",
-                        "Dùng ealth items and heal on kill"
+                        "Dùng ealth items và heal on kill"
                     ]
                 }
             ],
@@ -4765,11 +4765,11 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Sandevistan slows time by 85% at max quality",
+                "Sanđểvistan slows tìme by 85% at max quality",
                 "Guts fires 12 pellets per shot — each hits hard",
                 "Body 20 gives you the highest health pool",
-                "Shotgun xuyên thu",
-                "Health on Đánh bại keeps you alive in extended fights"
+                "Shotgun xuyên thử",
+                "Health on Đánh bại keeps you alive in extenđểd fights"
             ]
         },
         {
@@ -4884,7 +4884,7 @@
                         "Nâng tối đa Her Majesty to Tier 5++",
                         "n np xuyên mi np",
                         "Bắn u xuyên tường",
-                        "Silenced tech shot is undetectable",
+                        "Silenced tech shot is unđểtectable",
                         "One-tap entire rooms through walls"
                     ]
                 }
@@ -4976,7 +4976,7 @@
             ],
             "tipsVi": [
                 "Her Majesty xuyên tường c silencer",
-                "Charged tech shots ignore armor and cover",
+                "Charged tech shots ignore armor và cover",
                 "Reflexes 20 cm súng tt nht",
                 "Bắn t sau np khng l",
                 "Bắn u xuyên tường im lêng"
@@ -4987,7 +4987,7 @@
             "name": "Cool Netrunner Hybrid",
             "nameVi": "Cool Netrunner Hybrid",
             "description": "Cool Netrunner Hybrid is a hybrid build combining stealth (cool) with hacking (intelligence). Designed around high Intelligence 18, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Cool Netrunner Hybrid handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Biotech Σ Cyberdeck's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Cool Netrunner Hybrid is its versatility and damage potential when optimized. Key items like Biotech Σ Cyberdeck are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nCool Netrunner Hybrid is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "Build lai tàng hình (Cool) v hack (Int). Quickhack lm yu t xa, súng lc kt liu.",
+            "descriptionVi": "Build lại tàng hình (Cool) v hack (Int). Quickhack lm yu t xa, súng lc kt liu.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -5027,9 +5027,9 @@
                     ],
                     "stepsVi": [
                         "Chọn Netrunner",
-                        "Tăng Int lên 12 and Cool to 10",
-                        "Cyberdeck tốt",
-                        "Get Ping and Short Circuit quickhacks",
+                        "Tăng Int lên 12 và Cool to 10",
+                        "Cyberđểck tốt",
+                        "Get Ping và Short Circuit quickhacks",
                         "Súng lc silencer",
                         "Breach Protocol mỗi điểm"
                     ]
@@ -5058,11 +5058,11 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Int lên 15 and Cool to 12",
+                        "Tăng Int lên 15 và Cool to 12",
                         "Quickhack huyền thoại",
                         "Short Circuit spreads through networks",
                         "Tăng Reflexes lên 6 for handling",
-                        "Nâng cấp cyberdeck to Netwatch",
+                        "Nâng cấp cyberđểck to Netwatch",
                         "Trang bị Memory Boost cyberware"
                     ]
                 },
@@ -5090,12 +5090,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Int lên 18 and Cool to 15",
-                        "Lấy the Biotech Σ cyberdeck từ DLC",
+                        "Tăng Int lên 18 và Cool to 15",
+                        "Lấy the Biotech Σ cyberđểck từ DLC",
                         "Dùng ing + Short Circuit to clear rooms",
                         "Súng lc kt liu",
                         "Optical Camo for emergency stealth",
-                        "Synapse Burnout for heavy targets"
+                        "Synapsẽ Burnout for heavy targets"
                     ]
                 }
             ],
@@ -5105,7 +5105,7 @@
                     "ar": 600,
                     "scaling": "Intelligence",
                     "verdict": "Best hybrid combo.",
-                    "verdictVi": "Combo lai tốt nhất."
+                    "verdictVi": "Combo lại tốt nhất."
                 }
             ],
             "items": [
@@ -5185,11 +5185,11 @@
                 "Cyberpsycho encounters in 2.0+ scale to your level. Don't leave them for too late — they reward iconic cyberware and weapons."
             ],
             "tipsVi": [
-                "Short Circuit spreads to nearby enemies when killing with it",
+                "Short Circuit spreads to nearby enemies when killing với it",
                 "Ping thấy hết trong mạng",
                 "Súng lc + quickhack hiu qu",
                 "Cool 15 tàng hình, Int 18 hack mnh",
-                "Optical Camo reset tàng hình"
+                "Optical Camo resẽt tàng hình"
             ]
         },
         {
@@ -5197,7 +5197,7 @@
             "name": "Full Body Brawler",
             "nameVi": "m Bc Toàn Thn",
             "description": "Full Body Brawler is a pure body melee build using gorilla arms and the berserk os. Designed around high Intelligence 3, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nThis is a meme build through and through — prioritizing style, humor, and sheer entertainment over raw efficiency. The Gorilla Arms Legendary is the centerpiece of this comedic playthrough, with mechanics that are more about spectacle than optimization. While you won't top damage charts, you'll have an unforgettable experience trolling invaders, surprising co-op partners, and enjoying the game from a completely different perspective. The true power of this build lies in its ability to make you laugh.\n\nThe core strength of Full Body Brawler is its accessibility and consistent performance. Key items like Gorilla Arms Legendary are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is its comedic focus — some encounters will be harder than necessary due to the weapon choice. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Full Body Brawler is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "Build Body thun vi Gorilla Arms v Berserk. Khíng súng, khng tàng hình  ch m. m cht mi th.",
+            "descriptionVi": "Build Body thửn vi Gorilla Arms v Bersẽrk. Khíng súng, khng tàng hình  ch m. m cht mi th.",
             "category": "meme",
             "difficulty": 1,
             "dlc": true,
@@ -5241,7 +5241,7 @@
                         "Mua Gorilla Arms từ a ripperdoc",
                         "Invest in Street Brawler perks",
                         "Ném m l vi kh",
-                        "Chọn up the Berserk OS"
+                        "Chọn up the Bersẽrk OS"
                     ]
                 },
                 {
@@ -5271,7 +5271,7 @@
                         "Đẩy Body 16",
                         "Tăng Technical lên 10 for armor",
                         "Nâng cấp Gorilla Arms to Tier 4",
-                        "Install the Berserk OS properly",
+                        "Install the Bersẽrk OS properly",
                         "Get the Heal-on-Đánh bại cyberware",
                         "Perk súng xung kch"
                     ]
@@ -5302,7 +5302,7 @@
                     "stepsVi": [
                         "Nâng tối đa Body at 20",
                         "Nâng tối đa Gorilla Arms to Tier 5++",
-                        "Berserk miễn nhiễm",
+                        "Bersẽrk miễn nhiễm",
                         "Heavy attacks stagger everyone",
                         "Súng xung kch",
                         "Xe tăng đấm"
@@ -5395,11 +5395,11 @@
                 "Smart weapons track enemies through walls when you have a smart link. Use Ping quickhack to find hidden enemies before engaging."
             ],
             "tipsVi": [
-                "Gorilla Arms heavy attacks deal massive stagger",
-                "Berserk makes you immune to damage for 10 seconds",
+                "Gorilla Arms heavy attacks đểal massive stagger",
+                "Bersẽrk makes you immune to đãmage for 10 sẽcònds",
                 "Body 20 + Gorilla Arms DPS cao nhất",
                 "Súng xung kch nhiu mc tiu",
-                "Hi mu khi git súng dai"
+                "Hi mu khi git súng đãi"
             ]
         }
     ]

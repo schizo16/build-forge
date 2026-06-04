@@ -1,155 +1,155 @@
 {
-  "name": "Dark Souls I Walkthrough",
-  "nameVi": "Hướng Dẫn Dark Souls I",
-  "sections": [
-    {
-      "title": "Undead Asylum",
-      "order": 1,
-      "content": [
-        "Bắt đầu ở Undead Asylum. Chạy thẳng lên cầu thang, nhặt kiếm và khiên (hoặc chọn class weapon).",
-        "Đi qua bên trái, lên lầu, nhảy xuống để gặp Oscar - hắn cho Estus Flask và Asylum Demon key.",
-        "Boss: Asylum Demon. Tips: đánh sau lưng, dùng firebombs (có thể nhặt trên đường). Nếu khó quá, quay lại sau khi lấy kiếm.",
-        "Sau boss, đi tiếp, nhặt Estus, lên trên gặp crow demon - để nó bắt bạn đến Firelink Shrine.",
-        "Class suggestion: Warrior (beginner), Pyromancer (easy early), Thief (master key).",
-        "Master Key: Chọn Thief class hoặc chọn làm gift. Rất hữu ích cho sequence breaking."
-      ]
-    },
-    {
-      "title": "Firelink Shrine & Undead Burg",
-      "order": 2,
-      "content": [
-        "Firelink Shrine là hub chính. NPC: Crestfallen Warrior (tips), Frampt (sau khi đặt Lordvessel).",
-        "Đi lên qua aqueduct đến Undead Burg. Cẩn thận với firebomb thrower và shield soldiers.",
-        "Boss: Taurus Demon. Tips: Leo lên thang, dùng plunging attack. Gold pine resin giúp tăng damage.",
-        "Mở shortcut bằng cách mua key từ merchant (Undead Burg) hoặc dùng Master Key.",
-        "Vào Lower Undead Burg, gặp Capra Demon. Tips: Chạy lên cầu thang, heal, plunging attack.",
-        "NPC: Solaire (sunbro - summon cho nhiều boss), Lautrec (cẩn thận - hắn sẽ giết firekeeper)."
-      ]
-    },
-    {
-      "title": "Undead Parish & The Depths",
-      "order": 3,
-      "content": [
-        "Qua Lower Burg, đến Undead Parish. Andre the Blacksmith ở đây - rất quan trọng (upgrade weapons, buy smithing boxes).",
-        "Boss: Bell Gargoyles. Tips: Summon Solaire, dùng gold pine resin. Tập trung kill 1 con trước.",
-        "Rung bell thứ nhất. Đi qua Darkroot Garden (optional) hoặc đến The Depths.",
-        "The Depths: Đầy rats và frogs (cursed - cẩn thận). Mua purging stones. Boss: Gaping Dragon.",
-        "Gaping Dragon tips: Dễ nếu giữ khoảng cách, chờ nó smash xuống đất, đánh đầu. Tail cut cho Dragon King Greataxe.",
-        "Key items: Large Ember (Depths - cần cho Andre), Spider Shield, Soul of Gaping Dragon."
-      ]
-    },
-    {
-      "title": "Blighttown & Quelaag",
-      "order": 4,
-      "content": [
-        "Sau Depths, đến Blighttown. Đây là khu vực khó nhất early game. Tối + poison + narrow walkways.",
-        "Route 1: Đi qua Depths (đường chính). Route 2: Dùng Master Key qua Valley of Drakes (nhanh hơn).",
-        "Tips: Dùng spider shield (100% poison resist), moss clumps, blooming moss. Equip rusted iron ring (nếu có).",
-        "Boss: Chaos Witch Quelaag. Level recommend: 30-40. Tips: Đánh vào human body, không đánh vào spider. Mildred summon sign ở ngoài.",
-        "Rung bell thứ 2. Gặp Daughter of Chaos covenant (Fair Lady).",
-        "Key items: Power Within (pyromancy - cực mạnh), Iaito (katana), Eagle Shield (Blightsown), Chaos Flame Ember."
-      ]
-    },
-    {
-      "title": "Sen's Fortress",
-      "order": 5,
-      "content": [
-        "Sau 2 bells, đi qua gate gần Firelink (cần 2 bells). Đến Sen's Fortress - 'funhouse' của Dark Souls.",
-        "Bẫy: blade pendulums, boulders, floor traps, Man-eater Serpents. Đi chậm, quan sát.",
-        "Tips: Equip Rusted Iron Ring cho boulder section. Dùng bow để kích hoạt traps từ xa.",
-        "NPC: Logan (cứu bằng cách mở door bên trong), Big Hat Logan's student (bán spells).",
-        "Boss: Iron Golem. Dễ nếu summon Tarkus (dấu summon trước boss). Tips: Đá nó xuống vực.",
-        "Key items: Lightning Spear (very good early weapon), Covetous Gold Serpent Ring, Soul of Iron Golem."
-      ]
-    },
-    {
-      "title": "Anor Londo",
-      "order": 6,
-      "content": [
-        "Sau Iron Golem, batwing demons đưa bạn đến Anor Londo. Đây là khu vực đẹp nhất game.",
-        "Khu vực: Cathedral, Painting Guardians, Giant Blacksmith, Darkmoon Tomb.",
-        "Boss: Ornstein & Smough. Level recommend: 45-55. Đây là boss khó nhất early-mid game.",
-        "O&S tips: Dùng pillars để kéo khoảng cách. Summon Solaire. Kill Ornstein trước (dễ hơn Smough second). Hoặc ngược lại nếu muốn Ornstein's soul.",
-        "Super Smough: dùng pillars để tránh butt slam. Super Ornstein: stay close để tránh lightning.",
-        "Giant Blacksmith: upgrade boss weapons. Dùng souls để mua twinkling titanite.",
-        "Key items: Havel's Ring (rất quan trọng - tăng equip load), Silver Knight weapons, Soul of Ornstein/Smough."
-      ]
-    },
-    {
-      "title": "Darkroot Garden & Sif",
-      "order": 7,
-      "content": [
-        "Darkroot Garden: khu vực optional giữa Undead Parish và Darkroot Basin. Có thể vào sớm.",
-        "Phần 1: Forest Hunter covenant - gặp Alvina. Cẩn thận với forest protectors.",
-        "Phần 2: Moonlight Butterfly. Boss dễ - dùng ranged attacks. Soul dùng cho crystal weapons hoặc moonlight spells.",
-        "Phần 3: Darkroot Basin. Boss: Hydra. Tips: dùng shield, đánh từng đầu.",
-        "Boss chính: Great Grey Wolf Sif. Level recommend: 35-45. Tips: roll dưới chân, đánh vào chân. Cảm động nhất game.",
-        "Sau khi đánh Sif, nhận Covenant of Artorias (cần cho 4 Kings fight ở Abyss).",
-        "Key items: Grass Crest Shield (tăng stamina regen), Wolf Ring (tăng poise), Enchanted Ember."
-      ]
-    },
-    {
-      "title": "Catacombs & Tomb of the Giants",
-      "order": 8,
-      "content": [
-        "Catacombs: vào từ Firelink Shrine. Divine weapon rất hữu ích (kill skeletons vĩnh viễn). Necromancers revive skeletons - kill necromancer trước.",
-        "Boss: Pinwheel. Dễ nhất game. Tips: kill nhanh trước khi nó clone.",
-        "Tomb of the Giants: tối om. Cần Skull Lantern hoặc Sunlight Maggot. Cast Light spell cũng hiệu quả.",
-        "Khu vực: skeleton beasts, giant skeletons, narrow ledges. Đi chậm, dùng bow.",
-        "Boss: Gravelord Nito. Level recommend: 50-65. Tips: Kill các skeletons nhỏ trước (dùng divine weapon). Nito sẽ tự tới.",
-        "Key items: Rite of Kindling (Pinwheel - tăng Estus tối đa), Eyes of Death, Great Lord Greatsword."
-      ]
-    },
-    {
-      "title": "Demon Ruins & Lost Izalith",
-      "order": 9,
-      "content": [
-        "Sau Quelaag, vào Demon Ruins qua Blighttown. Đầy Taurus và Capra demons. Boss: Firesage Demon (clone of Asylum Demon).",
-        "Centipede Demon: boss ở lava. Tips: dùng ring để walk on lava (Orange Charred Ring). Ranged nếu không có ring.",
-        "Lost Izalith: khu vực tệ nhất game (được biết đến với unfinished design). Chạy qua dragon legs section.",
-        "Boss: Bed of Chaos. Đây là 'boss' tệ nhất. Phá 2 bên trái phải (dùng bow), sau đó nhảy xuống lõi. Cực kỳ annoying - cần nhiều tries.",
-        "Tips cho Bed of Chaos: Equip high poise armor, dùng greatshield. Sau khi phá 1 bên, quit game và reload - checkpoint reset.",
-        "Key items: Sunlight Maggot (tomb of giants replacement), Chaos Ember, Soul of Bed of Chaos."
-      ]
-    },
-    {
-      "title": "Duke's Archives & Crystal Cave",
-      "order": 10,
-      "content": [
-        "Sau O&S, đi qua Darkmoon Tomb (Anor Londo) đến Duke's Archives. Seath the Scaleless sẽ kill và imprison bạn.",
-        "Từ prison: tìm cách escape (open gate, đi xuống), nhặt key, lên lầu, đánh Crystal Golems.",
-        "Khu vực: rotating staircases, wax pools (slow movement), Crystal Golems, Channelers (buff enemies).",
-        "Boss: Seath the Scaleless. Level recommend: 55-70. Cắt tail cho Moonlight Greatsword.",
-        "Seath tips: Phá crystal trước (làm nguồn damage). Primordial crystal ở cuối room. Dùng curse resist.",
-        "Crystal Cave: invisible paths. Dùng prism stones để test đường. Chậm rãi.",
-        "Key items: Moonlight Greatsword (tail cut - cho int builds), Tin Crystallization Catalyst, White Breath (dragon spell)."
-      ]
-    },
-    {
-      "title": "New Londo Ruins & The Abyss",
-      "order": 11,
-      "content": [
-        "New Londo Ruins: dưới Firelink Shrine. Cần Covenant of Artorias (từ Sif) để vào Abyss.",
-        "Khu vực đầy ghosts - cần transient curses hoặc cursed weapon để đánh. Ghosts xuyên tường.",
-        "Lower New Londo: drain water (pull lever), đi xuống. Darkwraiths - nguy hiểm nhưng drop titanite chunks.",
-        "Boss: Four Kings. Level recommend: 55-75. Tips: DPS race - kill kings nhanh trước khi king mới spawn.",
-        "Four Kings tips: Equip Havel's set (tăng poise), dùng shield, stay close. Kill từng king một.",
-        "Key items: Very Large Ember, Red Titanite Chunks and Slabs (Darkwraiths), Soul of Four Kings."
-      ]
-    },
-    {
-      "title": "Kiln of the First Flame & Final Boss",
-      "order": 12,
-      "content": [
-        "Sau khi đặt Lordvessel (sau O&S), đi đến Frampt và đặt tất cả Lord Souls: Nito, Bed of Chaos, Seath, Four Kings.",
-        "Kiln of the First Flame: đường thẳng đến Gwyn. Black Knights trên đường - cẩn thận.",
-        "Final Boss: Gwyn, Lord of Cinder. Level recommend: 70-90.",
-        "Gwyn tips: Parry - đây là cách dễ nhất. Hầu hết các attacks đều parry được. Dùng Hornet Ring cho critical damage.",
-        "Nếu không parry: dùng greatshield (tower), estus timing, roll avoid grab attack.",
-        "Sau khi đánh bại Gwyn, chọn ending: Link the Fire (light) hoặc Dark Lord ending. NG+ bắt đầu ngay.",
-        "Tips: Làm tất cả questlines và thu thập items trước khi đánh Gwyn. NG+ sẽ reset mọi thứ.",
-        "NPC questlines: Solaire (cứu khỏi Sunlight Maggot), Siegmeyer (xuyên suốt game), Logan (điên ở Duke's)."
-      ]
-    }
-  ]
+    "name": "Dark Souls I Walkthrough",
+    "nameVi": "Hướng Dẫn Dark Souls I",
+    "sections": [
+        {
+            "title": "Undead Asylum",
+            "order": 1,
+            "content": [
+                "Bắt đầu ở Undead Asylum. Chạy thẳng lên cầu thang, nhặt kiếm và khiên (hoặc chọn class weapon).",
+                "Đi qua bên trái, lên lầu, nhảy xuống để gặp Oscar - hắn cho Estus Flask và Asylum Demon key.",
+                "Boss: Asylum Demon. Tips: đánh sau lưng, dùng firebombs (có thể nhặt trên đường). Nếu khó quá, quay lại sau khi lấy kiếm.",
+                "Sau boss, đi tiếp, nhặt Estus, lên trên gặp crow demon - để nó bắt bạn đến Firelink Shrine.",
+                "Class suggestion: Warrior (beginner), Pyromancer (easy early), Thief (master key).",
+                "Master Key: Chọn Thief class hoặc chọn làm gift. Rất hữu ích cho sequence breaking."
+            ]
+        },
+        {
+            "title": "Firelink Shrine & Undead Burg",
+            "order": 2,
+            "content": [
+                "Firelink Shrine là hub chính. NPC: Crestfallen Warrior (tips), Frampt (sau khi đặt Lordvessel).",
+                "Đi lên qua aqueduct đến Undead Burg. Cẩn thận với firebomb thrower và shield soldiers.",
+                "Boss: Taurus Demon. Tips: Leo lên thang, dùng plunging attack. Gold pine resin giúp tăng damage.",
+                "Mở shortcut bằng cách mua key từ merchant (Undead Burg) hoặc dùng Master Key.",
+                "Vào Lower Undead Burg, gặp Capra Demon. Tips: Chạy lên cầu thang, heal, plunging attack.",
+                "NPC: Solaire (sunbro - summon cho nhiều boss), Lautrec (cẩn thận - hắn sẽ giết firekeeper)."
+            ]
+        },
+        {
+            "title": "Undead Parish & The Depths",
+            "order": 3,
+            "content": [
+                "Qua Lower Burg, đến Undead Parish. Andre the Blacksmith ở đây - rất quan trọng (upgrade weapons, buy smithing boxes).",
+                "Boss: Bell Gargoyles. Tips: Summon Solaire, dùng gold pine resin. Tập trung kill 1 con trước.",
+                "Rung bell thứ nhất. Đi qua Darkroot Garden (optional) hoặc đến The Depths.",
+                "The Depths: Đầy rats và frogs (cursed - cẩn thận). Mua purging stones. Boss: Gaping Dragon.",
+                "Gaping Dragon tips: Dễ nếu giữ khoảng cách, chờ nó smash xuống đất, đánh đầu. Tail cut cho Dragon King Greataxe.",
+                "Key items: Large Ember (Depths - cần cho Andre), Spider Shield, Soul of Gaping Dragon."
+            ]
+        },
+        {
+            "title": "Blighttown & Quelaag",
+            "order": 4,
+            "content": [
+                "Sau Depths, đến Blighttown. Đây là khu vực khó nhất early game. Tối + poison + narrow walkways.",
+                "Route 1: Đi qua Depths (đường chính). Route 2: Dùng Master Key qua Valley of Drakes (nhanh hơn).",
+                "Tips: Dùng spider shield (100% poison resist), moss clumps, blooming moss. Equip rusted iron ring (nếu có).",
+                "Boss: Chaos Witch Quelaag. Level recommend: 30-40. Tips: Đánh vào human body, không đánh vào spider. Mildred summon sign ở ngoài.",
+                "Rung bell thứ 2. Gặp Daughter of Chaos covenant (Fair Lady).",
+                "Key items: Power Within (pyromancy - cực mạnh), Iaito (katana), Eagle Shield (Blightsown), Chaos Flame Ember."
+            ]
+        },
+        {
+            "title": "Sen's Fortress",
+            "order": 5,
+            "content": [
+                "Sau 2 bells, đi qua gate gần Firelink (cần 2 bells). Đến Sen's Fortress - 'funhouse' của Dark Souls.",
+                "Bẫy: blade pendulums, boulders, floor traps, Man-eater Serpents. Đi chậm, quan sát.",
+                "Tips: Equip Rusted Iron Ring cho boulder section. Dùng bow để kích hoạt traps từ xa.",
+                "NPC: Logan (cứu bằng cách mở door bên trong), Big Hat Logan's student (bán spells).",
+                "Boss: Iron Golem. Dễ nếu summon Tarkus (dấu summon trước boss). Tips: Đá nó xuống vực.",
+                "Key items: Lightning Spear (very good early weapon), Covetous Gold Serpent Ring, Soul of Iron Golem."
+            ]
+        },
+        {
+            "title": "Anor Londo",
+            "order": 6,
+            "content": [
+                "Sau Iron Golem, batwing demons đưa bạn đến Anor Londo. Đây là khu vực đẹp nhất game.",
+                "Khu vực: Cathedral, Painting Guardians, Giant Blacksmith, Darkmoon Tomb.",
+                "Boss: Ornstein & Smough. Level recommend: 45-55. Đây là boss khó nhất early-mid game.",
+                "O&S tips: Dùng pillars để kéo khoảng cách. Summon Solaire. Kill Ornstein trước (dễ hơn Smough second). Hoặc ngược lại nếu muốn Ornstein's soul.",
+                "Super Smough: dùng pillars để tránh butt slam. Super Ornstein: stay close để tránh lightning.",
+                "Giant Blacksmith: upgrade boss weapons. Dùng souls để mua twinkling titanite.",
+                "Key items: Havel's Ring (rất quan trọng - tăng equip load), Silver Knight weapons, Soul of Ornstein/Smough."
+            ]
+        },
+        {
+            "title": "Darkroot Garden & Sif",
+            "order": 7,
+            "content": [
+                "Darkroot Garden: khu vực optional giữa Undead Parish và Darkroot Basin. Có thể vào sớm.",
+                "Phần 1: Forest Hunter covenant - gặp Alvina. Cẩn thận với forest protectors.",
+                "Phần 2: Moonlight Butterfly. Boss dễ - dùng ranged attacks. Soul dùng cho crystal weapons hoặc moonlight spells.",
+                "Phần 3: Darkroot Basin. Boss: Hydra. Tips: dùng shield, đánh từng đầu.",
+                "Boss chính: Great Grey Wolf Sif. Level recommend: 35-45. Tips: roll dưới chân, đánh vào chân. Cảm động nhất game.",
+                "Sau khi đánh Sif, nhận Covenant of Artorias (cần cho 4 Kings fight ở Abyss).",
+                "Key items: Grass Crest Shield (tăng stamina regen), Wolf Ring (tăng poise), Enchanted Ember."
+            ]
+        },
+        {
+            "title": "Catacombs & Tomb of the Giants",
+            "order": 8,
+            "content": [
+                "Catacombs: vào từ Firelink Shrine. Divine weapon rất hữu ích (kill skeletons vĩnh viễn). Necromancers revive skeletons - kill necromancer trước.",
+                "Boss: Pinwheel. Dễ nhất game. Tips: kill nhanh trước khi nó clone.",
+                "Tomb of the Giants: tối om. Cần Skull Lantern hoặc Sunlight Maggot. Cast Light spell cũng hiệu quả.",
+                "Khu vực: skeleton beasts, giant skeletons, narrow ledges. Đi chậm, dùng bow.",
+                "Boss: Gravelord Nito. Level recommend: 50-65. Tips: Kill các skeletons nhỏ trước (dùng divine weapon). Nito sẽ tự tới.",
+                "Key items: Rite of Kindling (Pinwheel - tăng Estus tối đa), Eyes of Death, Great Lord Greatsword."
+            ]
+        },
+        {
+            "title": "Demon Ruins & Lost Izalith",
+            "order": 9,
+            "content": [
+                "Sau Quelaag, vào Demon Ruins qua Blighttown. Đầy Taurus và Capra demons. Boss: Firesage Demon (clone of Asylum Demon).",
+                "Centipede Demon: boss ở lava. Tips: dùng ring để walk on lava (Orange Charred Ring). Ranged nếu không có ring.",
+                "Lost Izalith: khu vực tệ nhất game (được biết đến với unfinished design). Chạy qua dragon legs section.",
+                "Boss: Bed of Chaos. Đây là 'boss' tệ nhất. Phá 2 bên trái phải (dùng bow), sau đó nhảy xuống lõi. Cực kỳ annoying - cần nhiều tries.",
+                "Tips cho Bed of Chaos: Equip high poise armor, dùng greatshield. Sau khi phá 1 bên, quit game và reload - checkpoint reset.",
+                "Key items: Sunlight Maggot (tomb of giants replacement), Chaos Ember, Soul of Bed of Chaos."
+            ]
+        },
+        {
+            "title": "Duke's Archives & Crystal Cave",
+            "order": 10,
+            "content": [
+                "Sau O&S, đi qua Darkmoon Tomb (Anor Londo) đến Duke's Archives. Seath the Scaleless sẽ kill và imprison bạn.",
+                "Từ prison: tìm cách escape (open gate, đi xuống), nhặt key, lên lầu, đánh Crystal Golems.",
+                "Khu vực: rotating staircases, wax pools (slow movement), Crystal Golems, Channelers (buff enemies).",
+                "Boss: Seath the Scaleless. Level recommend: 55-70. Cắt tail cho Moonlight Greatsword.",
+                "Seath tips: Phá crystal trước (làm nguồn damage). Primordial crystal ở cuối room. Dùng curse resist.",
+                "Crystal Cave: invisible paths. Dùng prism stones để test đường. Chậm rãi.",
+                "Key items: Moonlight Greatsword (tail cut - cho int builds), Tin Crystallization Catalyst, White Breath (dragon spell)."
+            ]
+        },
+        {
+            "title": "New Londo Ruins & The Abyss",
+            "order": 11,
+            "content": [
+                "New Londo Ruins: dưới Firelink Shrine. Cần Covenant of Artorias (từ Sif) để vào Abyss.",
+                "Khu vực đầy ghosts - cần transient curses hoặc cursed weapon để đánh. Ghosts xuyên tường.",
+                "Lower New Londo: drain water (pull lever), đi xuống. Darkwraiths - nguy hiểm nhưng drop titanite chunks.",
+                "Boss: Four Kings. Level recommend: 55-75. Tips: DPS race - kill kings nhanh trước khi king mới spawn.",
+                "Four Kings tips: Equip Havel's set (tăng poise), dùng shield, stay close. Kill từng king một.",
+                "Key items: Very Large Ember, Red Titanite Chunks and Slabs (Darkwraiths), Soul of Four Kings."
+            ]
+        },
+        {
+            "title": "Kiln of the First Flame & Final Boss",
+            "order": 12,
+            "content": [
+                "Sau khi đặt Lordvessel (sau O&S), đi đến Frampt và đặt tất cả Lord Souls: Nito, Bed of Chaos, Seath, Four Kings.",
+                "Kiln of the First Flame: đường thẳng đến Gwyn. Black Knights trên đường - cẩn thận.",
+                "Final Boss: Gwyn, Lord of Cinder. Level recommend: 70-90.",
+                "Gwyn tips: Parry - đây là cách dễ nhất. Hầu hết các attacks đều parry được. Dùng Hornet Ring cho critical damage.",
+                "Nếu không parry: dùng greatshield (tower), estus timing, roll avoid grab attack.",
+                "Sau khi đánh bại Gwyn, chọn ending: Link the Fire (light) hoặc Dark Lord ending. NG+ bắt đầu ngay.",
+                "Tips: Làm tất cả questlines và thu thập items trước khi đánh Gwyn. NG+ sẽ reset mọi thứ.",
+                "NPC questlines: Solaire (cứu khỏi Sunlight Maggot), Siegmeyer (xuyên suốt game), Logan (điên ở Duke's)."
+            ]
+        }
+    ]
 }

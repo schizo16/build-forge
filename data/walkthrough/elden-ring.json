@@ -1,162 +1,162 @@
 {
-  "name": "Elden Ring Walkthrough",
-  "nameVi": "Hướng Dẫn Elden Ring",
-  "sections": [
-    {
-      "title": "Khởi Đầu (Limgrave)",
-      "order": 1,
-      "content": [
-        "Sau khi chết với Grafted Scion, bạn sẽ thức dậy ở Cave of Knowledge. Chạy thẳng ra ngoài, nhặt cây gậy, chạm vào Grace đầu tiên.",
-        "Gặp Varre - hắn sẽ cho bạn steed whistle và map. KHÔNG đánh Tree Sentinel ngay - quay lại sau.",
-        "Khu vực: Limgrave → đi theo hướng đông nam tới Gatefront Ruins. Lấy map ở map pillar gần Gatefront.",
-        "Mục tiêu: Đánh bại Margit the Fell Omen để vào Stormveil Castle. Level khuyên dùng: 25-30 cho Stormveil.",
-        "NPC quan trọng: Melina (nhận Torrent, level up), Roderika (spirit tuning), Kale (merchant ở Church of Elleh).",
-        "Key items: Flask of Wondrous Physick (Third Church of Marika), Whetstone Knife (Gatefront Ruins), Spirit Calling Bell (Church of Elleh ban đêm)."
-      ]
-    },
-    {
-      "title": "Stormveil Castle",
-      "order": 2,
-      "content": [
-        "Sau khi đánh bại Margit, vào Stormveil Castle. Có 2 đường: chính diện (qua gate) hoặc đường tắt (qua cliffside bên phải).",
-        "Đường tắt: đi vòng bên phải, nhặt Stonesword Key, mở gate bên cạnh, leo lên rooftops.",
-        "NPC: Gostoc (sẽ đá bạn xuống - cẩn thận), Nepheli Loux (summon sign), Gatekeeper (có thể mở gate chính).",
-        "Boss tiến trình: Godrick the Grafted. Level recommend: 30-35. Weakness: bleed, slashing damage.",
-        "Tips: Summon Nepheli Loux, use Spirit Ash, tấn công vào cánh tay của Godrick. Tránh grab attack.",
-        "Key items: Lordsworn's Greatsword, Godrick's Great Rune (cần activate ở Divine Tower of Limgrave), Arsenal Charm Talisman."
-      ]
-    },
-    {
-      "title": "Liurnia of the Lakes",
-      "order": 3,
-      "content": [
-        "Sau Stormveil, đi về phía bắc qua cổng vào Liurnia of the Lakes. Khu vực rộng lớn với hồ và nhiều điểm tham quan.",
-        "Map piece: ở map pillar gần Lake-Facing Cliffs site of grace.",
-        "Khu vực chính: Academy Gate Town, Raya Lucaria Academy, Caria Manor, Liurnia Highway.",
-        "Boss tiến trình: Red Wolf of Radagon (Academy), Rennala, Queen of the Full Moon (Academy). Level recommend: 40-50.",
-        "Rennala tips: Phase 1 đập những học sinh có aura vàng, phase 2 tránh các summon của bà. Magic resist cao.",
-        "NPC quan trọng: Ranni (Caria Manor - start Ranni questline), Seluvis (quest), Iji (smithing), Blaidd (quest).",
-        "Key items: Meteorite Staff, Rock Sling spell, Carian Filigreed Crest, Academy Glintstone Key."
-      ]
-    },
-    {
-      "title": "Caelid & Dragonbarrow",
-      "order": 4,
-      "content": [
-        "Caelid là vùng đất đỏ với enemy cấp cao. Có thể vào sớm qua teleport trap ở Dragon-Burnt Ruins (Limgrave).",
-        "Map piece: map pillar gần Smoldering Church.",
-        "Boss tùy chọn: Radahn (Redmane Castle) - festival boss, cần activate qua Ranni quest hoặc đến castle. Level recommend: 50-60.",
-        "Radahn fight: Summon các NPC, dùng horse để hit-and-run. Gravity magic và ranged weapons đều hiệu quả.",
-        "Khu vực: Sellia Crystal Tunnel, Dragonbarrow (cực kỳ nguy hiểm - level 80+), Aeonia Swamp, Caelid Highway.",
-        "Key items: Radagon's Soreseal, Starscourge Greatsword (Radahn), Golden Vow (tuyệt vời cho mọi build), Moonveil (Gael Tunnel).",
-        "Dragonbarrow tip: Đi đến Bestial Sanctum sớm để nhận Clawmark Seal và Beast spells từ Gurranq."
-      ]
-    },
-    {
-      "title": "Altus Plateau & Mt. Gelmir",
-      "order": 5,
-      "content": [
-        "Vào Altus Plateau qua 2 cách: Grand Lift of Dectus (cần 2 medallion halves) hoặc đường tắt qua Ruin-Strewn Precipice (cave dungeon).",
-        "Map piece: Altus Plateau map ở map pillar gần Erdtree-Gazing Hill.",
-        "Khu vực chính: Leyndell outskirts, Mt. Gelmir, Shaded Castle, Windmill Village.",
-        "Boss tiến trình: Magma Wyrm Makar (Ruin-Strewn Precipice). Level recommend: 55-65.",
-        "Mt. Gelmir: dẫn đến Volcano Manor. Boss: Godskin Noble (giữa đường), Rykard, Lord of Blasphemy (cuối). Level recommend: 60-70.",
-        "Rykard tips: Dùng Serpent Hunter (spear có sẵn trên arena). Charge attack để stagger. Tăng poise.",
-        "NPC ở Volcano Manor: Tanith, Rya, Bernahl (quest). Hoàn thành các assassination mission để nhận quest rewards.",
-        "Key items: Erdtree Favor, Alexander's Shard (tuyệt vời), Blasphemous Blade, Magma Shot."
-      ]
-    },
-    {
-      "title": "Leyndell, Royal Capital",
-      "order": 6,
-      "content": [
-        "Sau khi có 2 Great Runes (Godrick + Rennala hoặc Radahn), vào Leyndell qua phía bắc Altus Plateau.",
-        "Khu vực: Avenue Balcony, Fortified Manor, Erdtree Sanctuary, Queen's Bedchamber, Underground Sewers.",
-        "Boss tiến trình: Godfrey/Hoarah Loux (ghost), Morgott the Omen King. Level recommend: 70-80.",
-        "Morgott tips: Aggressive boss, dùng holy-proof dried liver. Bleed và strike damage hiệu quả. Phase 2 có thêm holy attacks.",
-        "Underground Sewers: dẫn đến Mohg, the Omen (optional boss). Cực kỳ khó, recommend level: 80+.",
-        "Leyndell có nhiều smithing stone bell bearings (có thể mua infinite upgrade materials).",
-        "Key items: Bolt of Gransax, Erdtree's Favor +2, Gravel Stone Seal, Golden Order Greatsword."
-      ]
-    },
-    {
-      "title": "Mountaintops of the Giants & Consecrated Snowfield",
-      "order": 7,
-      "content": [
-        "Sau Morgott, đi về phía bắc qua Forbidden Lands (sau Leyndell) đến Mountaintops of the Giants.",
-        "Map piece: map pillar gần Grand Lift of Rold.",
-        "Khu vực: Giants' Mountaintop Catacombs, Castle Sol, Freezing Lake, Flame Peak.",
-        "Boss tiến trình: Fire Giant (level recommend: 80-90). Tips: Tấn công chân - phase 2 tấn công tay. Fire resist quan trọng.",
-        "Consecrated Snowfield: vào qua Haligtree Secret Medallion (giấu ở Albinauric Village và Castle Sol).",
-        "Boss tùy chọn (Snowfield): Astel, Stars of Darkness, Night's Cavalry duo, Death Rite Bird.",
-        "Castle Sol: Boss Commander Niall. Tips: summon spirit ash, dùng ranged attacks, kill 2 knights trước.",
-        "Key items: Sacred Relic Sword (Fire Giant), Marika's Soreseal, Lord of Blood's Exultation, Ancient Dragon Smithing Stone."
-      ]
-    },
-    {
-      "title": "Farum Azula",
-      "order": 8,
-      "content": [
-        "Sau khi đánh bại Fire Giant và nghỉ ngơi tại Site of Grace gần Flame Peak, Melina sẽ xuất hiện. Chọn 'Burn the Erdtree' để đến Crumbling Farum Azula.",
-        "Bạn sẽ bị teleport đến Farum Azula. Đây là legacy dungeon cuối trước endgame. Level recommend: 100+.",
-        "Khu vực: Dragon Temple, Beside the Great Bridge, Tempest-Facing Balcony, Dragonlord's arena.",
-        "Boss: Godskin Duo (level recommend: 100-110). Tips: Dùng sleep pots - ngủ 1 thằng để đánh 1 thằng. Bewitching Branch cũng hiệu quả.",
-        "Boss: Maliketh, the Black Blade / Beast Clergyman. Level recommend: 100-120. Tips: Phase 1 (Beast Clergyman) dùng holy resist. Phase 2 (Maliketh) rất nguy hiểm - tránh dùng slow weapons.",
-        "Optional boss: Dragonlord Placidusax (ẩn - đi qua bên dưới arena sau Beside the Great Bridge).",
-        "Key items: Ancient Dragon Smithing Stones (x3), Godskin Stitcher, Dragon King's Cragblade, Malekith's Black Blade."
-      ]
-    },
-    {
-      "title": "Leyndell (Ashen Capital) & Godfrey",
-      "order": 9,
-      "content": [
-        "Sau Farum Azula, bạn sẽ được teleport trở lại Leyndell - giờ đã bị hủy diệt và trở thành Ashen Capital.",
-        "Khu vực thay đổi: Erdtree Sanctuary, Queen's Bedchamber, Elden Throne. Nhiều đường đi bị chặn bởi ashes.",
-        "Boss: Godfrey / Hoarah Loux (Elden Throne). Level recommend: 110-130.",
-        "Godfrey tips: Phase 1 (Godfrey) - dùng physical resist. Tránh stomp attacks và grab. Phase 2 (Hoarah Loux) - cực aggressive, dùng roll đúng timing.",
-        "Sau Godfrey, tiến vào Erdtree để gặp final boss.",
-        "Key items: Godfrey's Icon (tăng charged spell damage), thêm Ancient Dragon Smithing Stone."
-      ]
-    },
-    {
-      "title": "Endgame & Final Boss",
-      "order": 10,
-      "content": [
-        "Final boss: Radagon of the Golden Order + Elden Beast (fight liên tiếp). Level recommend: 120-150.",
-        "Radagon tips: Holy resist rất quan trọng (Haligdrake Talisman +2, Lord's Divine Fortification). Strike damage hiệu quả. Tránh dùng holy damage.",
-        "Elden Beast tips: Chạy tới và tấn công khi nó dùng ranged attacks. Elden Stars rất khó tránh - dùng Crimsonwhorl Bubble Tear trong Physick.",
-        "Recommend setup: High holy resist, strike weapon (hoặc bleed weapon), Crimsonwhorl Bubble Tear, Haligdrake Talisman +2.",
-        "Sau khi đánh bại Elden Beast, bạn có thể chọn Age ending (dựa vào questline đã hoàn thành).",
-        "Không reset NG+ ngay - làm hết những gì còn dang dở trước."
-      ]
-    },
-    {
-      "title": "Shadow of the Erdtree (DLC)",
-      "order": 11,
-      "content": [
-        "Điều kiện vào DLC: Đánh bại Mohg, Lord of Blood và Radahn. Nói chuyện với Miquella's Cocoon ở Mohgwyn Palace.",
-        "DLC map: Realm of Shadow. Cơ chế mới: Scadutree Fragments (tăng damage và defense trong DLC), Revered Spirit Ashes (tăng spirit ash damage).",
-        "Khu vực đầu: Gravesite Plain, Belurat (legacy dungeon). Boss đầu: Divine Beast Dancing Lion. Level recommend: 130+.",
-        "Scadutree Fragments quan trọng: Thu thập càng nhiều càng tốt trước khi đánh major bosses. Chúng ảnh hưởng rất lớn đến damage output của bạn.",
-        "Khu vực chính: Scadu Altus, Cerulean Coast, Rauh Base, Jagged Peak, Abyssal Woods.",
-        "Boss tiến trình: Rellana (Castle Ensis - recommend level 140+), Messmer (Shadow Keep - recommend level 150+), Gaius.",
-        "Messmer tips: Fire resist rất quan trọng. Tránh snake attacks. Phase 2 có thêm fire AOE.",
-        "Khu vực vũ khí mới: Great Katanas, Light Greatswords, Dryleaf Arts (martial arts moveset), Perfume Bottles."
-      ]
-    },
-    {
-      "title": "DLC Endgame & Final Boss",
-      "order": 12,
-      "content": [
-        "Đến Enir-Ilim sau khi hoàn thành các khu vực chính. Đây là legacy dungeon cuối của DLC.",
-        "Boss trước cuối: Romina, Saint of the Bud (recommend level: 150+). Tips: Fire damage làm cô ấy yếu đi, tránh scarlet rot.",
-        "Final boss DLC: Miquella / Promised Consort Radahn. Đây là boss khó nhất trong toàn bộ game. Level recommend: 150-180, Scadutree level 15+.",
-        "Radahn tips: Holy resist là bắt buộc. Dùng fingerprint shield hoặc greatshield cho survivability. Bleed và rot đều hiệu quả.",
-        "Phase 1 (Radahn): Tương tự Radahn gốc nhưng nhanh hơn. Tránh gravity magic. Phase 2 (Miquella + Radahn): Holy damage + grab attack.",
-        "Sau khi đánh bại, nhận Remembrance of a God and a Lord. Có thể đổi lấy vũ khí hoặc spell.",
-        "NPC questlines DLC: Needle Knight Leda (quest gồm nhiều invasion), Hornsent, Thiollier (poison build), Moore, Igon (liên quan Bayle).",
-        "Tips tổng quát: Thu thập tất cả Scadutree Fragments (tối đa 20). Khám phá mọi khu vực trước khi đánh boss chính."
-      ]
-    }
-  ]
+    "name": "Elden Ring Walkthrough",
+    "nameVi": "Hướng Dẫn Elden Ring",
+    "sections": [
+        {
+            "title": "Khởi Đầu (Limgrave)",
+            "order": 1,
+            "content": [
+                "Sau khi chết với Grafted Scion, bạn sẽ thức dậy ở Cave of Knowledge. Chạy thẳng ra ngoài, nhặt cây gậy, chạm vào Grace đầu tiên.",
+                "Gặp Varre - hắn sẽ cho bạn steed whistle và map. KHÔNG đánh Tree Sentinel ngay - quay lại sau.",
+                "Khu vực: Limgrave → đi theo hướng đông nam tới Gatefront Ruins. Lấy map ở map pillar gần Gatefront.",
+                "Mục tiêu: Đánh bại Margit the Fell Omen để vào Stormveil Castle. Level khuyên dùng: 25-30 cho Stormveil.",
+                "NPC quan trọng: Melina (nhận Torrent, level up), Roderika (spirit tuning), Kale (merchant ở Church of Elleh).",
+                "Key items: Flask of Wondrous Physick (Third Church of Marika), Whetstone Knife (Gatefront Ruins), Spirit Calling Bell (Church of Elleh ban đêm)."
+            ]
+        },
+        {
+            "title": "Stormveil Castle",
+            "order": 2,
+            "content": [
+                "Sau khi đánh bại Margit, vào Stormveil Castle. Có 2 đường: chính diện (qua gate) hoặc đường tắt (qua cliffside bên phải).",
+                "Đường tắt: đi vòng bên phải, nhặt Stonesword Key, mở gate bên cạnh, leo lên rooftops.",
+                "NPC: Gostoc (sẽ đá bạn xuống - cẩn thận), Nepheli Loux (summon sign), Gatekeeper (có thể mở gate chính).",
+                "Boss tiến trình: Godrick the Grafted. Level recommend: 30-35. Weakness: bleed, slashing damage.",
+                "Tips: Summon Nepheli Loux, use Spirit Ash, tấn công vào cánh tay của Godrick. Tránh grab attack.",
+                "Key items: Lordsworn's Greatsword, Godrick's Great Rune (cần activate ở Divine Tower of Limgrave), Arsenal Charm Talisman."
+            ]
+        },
+        {
+            "title": "Liurnia of the Lakes",
+            "order": 3,
+            "content": [
+                "Sau Stormveil, đi về phía bắc qua cổng vào Liurnia of the Lakes. Khu vực rộng lớn với hồ và nhiều điểm tham quan.",
+                "Map piece: ở map pillar gần Lake-Facing Cliffs site of grace.",
+                "Khu vực chính: Academy Gate Town, Raya Lucaria Academy, Caria Manor, Liurnia Highway.",
+                "Boss tiến trình: Red Wolf of Radagon (Academy), Rennala, Queen of the Full Moon (Academy). Level recommend: 40-50.",
+                "Rennala tips: Phase 1 đập những học sinh có aura vàng, phase 2 tránh các summon của bà. Magic resist cao.",
+                "NPC quan trọng: Ranni (Caria Manor - start Ranni questline), Seluvis (quest), Iji (smithing), Blaidd (quest).",
+                "Key items: Meteorite Staff, Rock Sling spell, Carian Filigreed Crest, Academy Glintstone Key."
+            ]
+        },
+        {
+            "title": "Caelid & Dragonbarrow",
+            "order": 4,
+            "content": [
+                "Caelid là vùng đất đỏ với enemy cấp cao. Có thể vào sớm qua teleport trap ở Dragon-Burnt Ruins (Limgrave).",
+                "Map piece: map pillar gần Smoldering Church.",
+                "Boss tùy chọn: Radahn (Redmane Castle) - festival boss, cần activate qua Ranni quest hoặc đến castle. Level recommend: 50-60.",
+                "Radahn fight: Summon các NPC, dùng horse để hit-and-run. Gravity magic và ranged weapons đều hiệu quả.",
+                "Khu vực: Sellia Crystal Tunnel, Dragonbarrow (cực kỳ nguy hiểm - level 80+), Aeonia Swamp, Caelid Highway.",
+                "Key items: Radagon's Soreseal, Starscourge Greatsword (Radahn), Golden Vow (tuyệt vời cho mọi build), Moonveil (Gael Tunnel).",
+                "Dragonbarrow tip: Đi đến Bestial Sanctum sớm để nhận Clawmark Seal và Beast spells từ Gurranq."
+            ]
+        },
+        {
+            "title": "Altus Plateau & Mt. Gelmir",
+            "order": 5,
+            "content": [
+                "Vào Altus Plateau qua 2 cách: Grand Lift of Dectus (cần 2 medallion halves) hoặc đường tắt qua Ruin-Strewn Precipice (cave dungeon).",
+                "Map piece: Altus Plateau map ở map pillar gần Erdtree-Gazing Hill.",
+                "Khu vực chính: Leyndell outskirts, Mt. Gelmir, Shaded Castle, Windmill Village.",
+                "Boss tiến trình: Magma Wyrm Makar (Ruin-Strewn Precipice). Level recommend: 55-65.",
+                "Mt. Gelmir: dẫn đến Volcano Manor. Boss: Godskin Noble (giữa đường), Rykard, Lord of Blasphemy (cuối). Level recommend: 60-70.",
+                "Rykard tips: Dùng Serpent Hunter (spear có sẵn trên arena). Charge attack để stagger. Tăng poise.",
+                "NPC ở Volcano Manor: Tanith, Rya, Bernahl (quest). Hoàn thành các assassination mission để nhận quest rewards.",
+                "Key items: Erdtree Favor, Alexander's Shard (tuyệt vời), Blasphemous Blade, Magma Shot."
+            ]
+        },
+        {
+            "title": "Leyndell, Royal Capital",
+            "order": 6,
+            "content": [
+                "Sau khi có 2 Great Runes (Godrick + Rennala hoặc Radahn), vào Leyndell qua phía bắc Altus Plateau.",
+                "Khu vực: Avenue Balcony, Fortified Manor, Erdtree Sanctuary, Queen's Bedchamber, Underground Sewers.",
+                "Boss tiến trình: Godfrey/Hoarah Loux (ghost), Morgott the Omen King. Level recommend: 70-80.",
+                "Morgott tips: Aggressive boss, dùng holy-proof dried liver. Bleed và strike damage hiệu quả. Phase 2 có thêm holy attacks.",
+                "Underground Sewers: dẫn đến Mohg, the Omen (optional boss). Cực kỳ khó, recommend level: 80+.",
+                "Leyndell có nhiều smithing stone bell bearings (có thể mua infinite upgrade materials).",
+                "Key items: Bolt of Gransax, Erdtree's Favor +2, Gravel Stone Seal, Golden Order Greatsword."
+            ]
+        },
+        {
+            "title": "Mountaintops of the Giants & Consecrated Snowfield",
+            "order": 7,
+            "content": [
+                "Sau Morgott, đi về phía bắc qua Forbidden Lands (sau Leyndell) đến Mountaintops of the Giants.",
+                "Map piece: map pillar gần Grand Lift of Rold.",
+                "Khu vực: Giants' Mountaintop Catacombs, Castle Sol, Freezing Lake, Flame Peak.",
+                "Boss tiến trình: Fire Giant (level recommend: 80-90). Tips: Tấn công chân - phase 2 tấn công tay. Fire resist quan trọng.",
+                "Consecrated Snowfield: vào qua Haligtree Secret Medallion (giấu ở Albinauric Village và Castle Sol).",
+                "Boss tùy chọn (Snowfield): Astel, Stars of Darkness, Night's Cavalry duo, Death Rite Bird.",
+                "Castle Sol: Boss Commander Niall. Tips: summon spirit ash, dùng ranged attacks, kill 2 knights trước.",
+                "Key items: Sacred Relic Sword (Fire Giant), Marika's Soreseal, Lord of Blood's Exultation, Ancient Dragon Smithing Stone."
+            ]
+        },
+        {
+            "title": "Farum Azula",
+            "order": 8,
+            "content": [
+                "Sau khi đánh bại Fire Giant và nghỉ ngơi tại Site of Grace gần Flame Peak, Melina sẽ xuất hiện. Chọn 'Burn the Erdtree' để đến Crumbling Farum Azula.",
+                "Bạn sẽ bị teleport đến Farum Azula. Đây là legacy dungeon cuối trước endgame. Level recommend: 100+.",
+                "Khu vực: Dragon Temple, Beside the Great Bridge, Tempest-Facing Balcony, Dragonlord's arena.",
+                "Boss: Godskin Duo (level recommend: 100-110). Tips: Dùng sleep pots - ngủ 1 thằng để đánh 1 thằng. Bewitching Branch cũng hiệu quả.",
+                "Boss: Maliketh, the Black Blade / Beast Clergyman. Level recommend: 100-120. Tips: Phase 1 (Beast Clergyman) dùng holy resist. Phase 2 (Maliketh) rất nguy hiểm - tránh dùng slow weapons.",
+                "Optional boss: Dragonlord Placidusax (ẩn - đi qua bên dưới arena sau Beside the Great Bridge).",
+                "Key items: Ancient Dragon Smithing Stones (x3), Godskin Stitcher, Dragon King's Cragblade, Malekith's Black Blade."
+            ]
+        },
+        {
+            "title": "Leyndell (Ashen Capital) & Godfrey",
+            "order": 9,
+            "content": [
+                "Sau Farum Azula, bạn sẽ được teleport trở lại Leyndell - giờ đã bị hủy diệt và trở thành Ashen Capital.",
+                "Khu vực thay đổi: Erdtree Sanctuary, Queen's Bedchamber, Elden Throne. Nhiều đường đi bị chặn bởi ashes.",
+                "Boss: Godfrey / Hoarah Loux (Elden Throne). Level recommend: 110-130.",
+                "Godfrey tips: Phase 1 (Godfrey) - dùng physical resist. Tránh stomp attacks và grab. Phase 2 (Hoarah Loux) - cực aggressive, dùng roll đúng timing.",
+                "Sau Godfrey, tiến vào Erdtree để gặp final boss.",
+                "Key items: Godfrey's Icon (tăng charged spell damage), thêm Ancient Dragon Smithing Stone."
+            ]
+        },
+        {
+            "title": "Endgame & Final Boss",
+            "order": 10,
+            "content": [
+                "Final boss: Radagon of the Golden Order + Elden Beast (fight liên tiếp). Level recommend: 120-150.",
+                "Radagon tips: Holy resist rất quan trọng (Haligdrake Talisman +2, Lord's Divine Fortification). Strike damage hiệu quả. Tránh dùng holy damage.",
+                "Elden Beast tips: Chạy tới và tấn công khi nó dùng ranged attacks. Elden Stars rất khó tránh - dùng Crimsonwhorl Bubble Tear trong Physick.",
+                "Recommend setup: High holy resist, strike weapon (hoặc bleed weapon), Crimsonwhorl Bubble Tear, Haligdrake Talisman +2.",
+                "Sau khi đánh bại Elden Beast, bạn có thể chọn Age ending (dựa vào questline đã hoàn thành).",
+                "Không reset NG+ ngay - làm hết những gì còn dang dở trước."
+            ]
+        },
+        {
+            "title": "Shadow of the Erdtree (DLC)",
+            "order": 11,
+            "content": [
+                "Điều kiện vào DLC: Đánh bại Mohg, Lord of Blood và Radahn. Nói chuyện với Miquella's Cocoon ở Mohgwyn Palace.",
+                "DLC map: Realm of Shadow. Cơ chế mới: Scadutree Fragments (tăng damage và defense trong DLC), Revered Spirit Ashes (tăng spirit ash damage).",
+                "Khu vực đầu: Gravesite Plain, Belurat (legacy dungeon). Boss đầu: Divine Beast Dancing Lion. Level recommend: 130+.",
+                "Scadutree Fragments quan trọng: Thu thập càng nhiều càng tốt trước khi đánh major bosses. Chúng ảnh hưởng rất lớn đến damage output của bạn.",
+                "Khu vực chính: Scadu Altus, Cerulean Coast, Rauh Base, Jagged Peak, Abyssal Woods.",
+                "Boss tiến trình: Rellana (Castle Ensis - recommend level 140+), Messmer (Shadow Keep - recommend level 150+), Gaius.",
+                "Messmer tips: Fire resist rất quan trọng. Tránh snake attacks. Phase 2 có thêm fire AOE.",
+                "Khu vực vũ khí mới: Great Katanas, Light Greatswords, Dryleaf Arts (martial arts moveset), Perfume Bottles."
+            ]
+        },
+        {
+            "title": "DLC Endgame & Final Boss",
+            "order": 12,
+            "content": [
+                "Đến Enir-Ilim sau khi hoàn thành các khu vực chính. Đây là legacy dungeon cuối của DLC.",
+                "Boss trước cuối: Romina, Saint of the Bud (recommend level: 150+). Tips: Fire damage làm cô ấy yếu đi, tránh scarlet rot.",
+                "Final boss DLC: Miquella / Promised Consort Radahn. Đây là boss khó nhất trong toàn bộ game. Level recommend: 150-180, Scadutree level 15+.",
+                "Radahn tips: Holy resist là bắt buộc. Dùng fingerprint shield hoặc greatshield cho survivability. Bleed và rot đều hiệu quả.",
+                "Phase 1 (Radahn): Tương tự Radahn gốc nhưng nhanh hơn. Tránh gravity magic. Phase 2 (Miquella + Radahn): Holy damage + grab attack.",
+                "Sau khi đánh bại, nhận Remembrance of a God and a Lord. Có thể đổi lấy vũ khí hoặc spell.",
+                "NPC questlines DLC: Needle Knight Leda (quest gồm nhiều invasion), Hornsent, Thiollier (poison build), Moore, Igon (liên quan Bayle).",
+                "Tips tổng quát: Thu thập tất cả Scadutree Fragments (tối đa 20). Khám phá mọi khu vực trước khi đánh boss chính."
+            ]
+        }
+    ]
 }

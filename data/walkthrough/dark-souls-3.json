@@ -1,181 +1,181 @@
 {
-  "name": "Dark Souls III Walkthrough",
-  "nameVi": "Hướng Dẫn Dark Souls III",
-  "sections": [
-    {
-      "title": "Cemetery of Ash & Firelink Shrine",
-      "order": 1,
-      "content": [
-        "Bắt đầu ở Cemetery of Ash. Đi thẳng, học combat cơ bản, gặp Iudex Gundyr (first boss).",
-        "Gundyr tips: Phase 1 dễ - roll attacks, đánh sau lưng. Phase 2 (pus of man) - dùng fire, roll tránh grab.",
-        "Đến Firelink Shrine - hub chính. NPC: Fire Keeper (level up), Andre (blacksmith), Shrine Handmaid (merchant).",
-        "Cơ chế mới: FP bar (dùng cho weapon arts và spells), Ashen Estus (regen FP).",
-        "Chọn class: Knight (beginner friendly), Pyromancer (easy early game), Mercenary (dex/bleed build).",
-        "Gift: Life Ring, Fire Gem (sớm có fire infusion), hoặc Black Firebombs (cho Gundyr)."
-      ]
-    },
-    {
-      "title": "High Wall of Lothric",
-      "order": 2,
-      "content": [
-        "Từ Firelink, đi lên đến High Wall of Lothric. Khu vực đầy hollows, lothric knights, và dogs.",
-        "Tips: Lothric Knights khó - parry hoặc backstab. Dogs dễ stagger.",
-        "Boss: Vordt of the Boreal Valley. Level recommend: 20-30. Tips: Stay dưới bụng, roll attacks. Phase 2 charge - dùng pillars.",
-        "NPC: Greirat (cứu ở Cell - sẽ đi loot cho bạn), Siegward (ở well ở Undead Settlement).",
-        "Key items: Raw Gem (raw infusion tốt cho early game), Claymore (rất tốt cho quality build), Estus Shard.",
-        "Covenant: Way of Blue (auto-summon help khi bị invaded)."
-      ]
-    },
-    {
-      "title": "Undead Settlement & Road of Sacrifices",
-      "order": 3,
-      "content": [
-        "Sau Vordt, đến Undead Settlement. Khu vực rộng với nhiều houses và enemies.",
-        "NPC: Siegward (giếng - cần mua armor từ merchant), Cornyx (pyromancy teacher - trong cage).",
-        "Boss: Curse-rotted Greatwood. Level recommend: 25-35. Tips: Đánh vào cluster mắt và sacs. Fire damage.",
-        "Road of Sacrifices: khu vực nối đến Farron Keep và Cathedral of the Deep.",
-        "NPC: Anri and Horace (quest), Eygon of Carim (Irina's caretaker).",
-        "Key items: Mortician's Ashes (cho Handmaid), Undead Bone Shard (tăng estus heal), Black Knight Sword (graveyard).",
-        "Covenant: Mound-makers (purple - kill invaders hoặc hosts)."
-      ]
-    },
-    {
-      "title": "Cathedral of the Deep",
-      "order": 4,
-      "content": [
-        "Đi từ Road of Sacrifices phải đến Cathedral of the Deep. Khu vực rộng lớn với nhiều đường tắt.",
-        "Tips: Mở 3 shortcut doors. Deacons và grave wardens ở đây.",
-        "Boss: Deacons of the Deep. Level recommend: 35-45. Tips: AOE attacks, all-body weapons. Kill red-eyed deacon.",
-        "NPC: Patches (đá bạn xuống - nhưng bán armor sau), Archbishop (quest).",
-        "Key items: Deep Braille Divine Tome (miracles cho Irina), Saint's Talisman, Hunter's Ring.",
-        "Sau Cathedral, nhận Small Doll (cần để vào Irithyll)."
-      ]
-    },
-    {
-      "title": "Farron Keep",
-      "order": 5,
-      "content": [
-        "Đi từ Road of Sacrifices trái đến Farron Keep. Khu vực poison swamp - rất khó chịu.",
-        "Tips: Equip poison resist gear. Dagger + quickstep weapon arts giúp di chuyển nhanh. Dùng brazier để giảm poison.",
-        "Boss: Abyss Watchers. Level recommend: 35-50. Đây là first 'real' boss của DS3.",
-        "Abyss Watchers tips: Phase 1 - có 3 watchers (1 bạn, 2 thù). Lợi dụng watcher bạn. Phase 2 - aggressive combos, roll timing.",
-        "Covenant: Watchdogs of Farron (auto-summon ở Farron Keep).",
-        "Key items: Farron Coal (cho Andre - heavy, sharp, poison infusions), Soul of Abyss Watchers (Farron Greatsword hoặc Artorias spells)."
-      ]
-    },
-    {
-      "title": "Irithyll of the Boreal Valley",
-      "order": 6,
-      "content": [
-        "Sau Abyss Watchers hoặc Deacons, đến Irithyll qua Central Irithyll (cần Small Doll).",
-        "Khu vực: đẹp nhất game. Pontiff Knights và invisible monsters (dùng torch để thấy).",
-        "NPC: Siegward (ở kitchen - cho toast), Yorshka (Darkmoon covenant leader - cần đi đường tắt).",
-        "Boss: Pontiff Sulyvahn. Level recommend: 50-65. Tips: Parry nếu có thể. Phase 2 spawn clone - kill clone nhanh.",
-        "Sau Pontiff, đến Anor Londo (DS1 reference). Boss: Aldrich, Devourer of Gods.",
-        "Aldrich tips: Fire resist. Đánh khi nó tái xuất - tránh arrow rain. Bow không hiệu quả.",
-        "Key items: Estus Shard + Undead Bone Shard, Ring of Favor, Yorshka's Chime (best for miracles)."
-      ]
-    },
-    {
-      "title": "Profaned Capital & Irithyll Dungeon",
-      "order": 7,
-      "content": [
-        "Từ Irithyll, đi vào Irithyll Dungeon (bên dưới). Đầy jailers (giảm max HP) và rats.",
-        "Tips: Jailers rất nguy hiểm - kill từ xa hoặc rush. Dùng stealth.",
-        "NPC: Karla (dark magic teacher - cần Jailer's Key Ring), Greirat (quest - nếu gửi đi loot).",
-        "Boss: Old Demon King (optional - ở Smoldering Lake, dưới Catacombs). Level recommend: 50-60.",
-        "Profaned Capital: ngắn. Boss: Yhorm the Giant. Level recommend: 55-70.",
-        "Yhorm tips: Dùng Storm Ruler (weapon ở arena). Hold weapon art, charge, release. Siegward summon nếu quest còn.",
-        "Key items: Storm Ruler, Profaned Coal (chaos/dark infusions), Siegbrau (ngồi Siegward toast)."
-      ]
-    },
-    {
-      "title": "Catacombs of Carthus & Smoldering Lake",
-      "order": 8,
-      "content": [
-        "Từ Road of Sacrifices, đi xuống đến Catacombs of Carthus. Skeleton warriors và rolling skeletons.",
-        "Boss: High Lord Wolnir. Level recommend: 40-50. Tips: Phá 3 vòng bracelets. Strike damage. Đừng bị kéo vào sương.",
-        "Smoldering Lake (dưới Catacombs): khu vực lava. Boss: Old Demon King (optional).",
-        "Key items: Carthus Milkring, Carthus Bloodring, Grave Warden Pyromancy Tome, Demon's Scar (weapon cho pyromancers).",
-        "Covenant: Rosaria's Fingers (respec stats - cần Pale Tongues)."
-      ]
-    },
-    {
-      "title": "Lothric Castle & Consumed King's Garden",
-      "order": 9,
-      "content": [
-        "Sau khi có 3 Lord Souls (Aldrich, Yhorm, Abyss Watchers), đi đến Lothric Castle qua Vordt arena.",
-        "Khu vực: Dancer arena, lothric knights, dragon trên bridge.",
-        "Boss: Dancer of the Boreal Valley. Level recommend: 60-75. Tips: Phase 1 slow attacks - roll. Phase 2 fast + spin combo.",
-        "Sau Dancer, đi lên đến Consumed King's Garden (khu vực tùy chọn).",
-        "Boss: Oceiros, the Consumed King. Tips: Stay gần, roll attacks. Phase 2 invisible charge - tránh.",
-        "Sau Oceiros: Untended Graves + Champion Gundyr (tùy chọn boss rất khó).",
-        "Key items: Coiled Sword Fragment (Dancer), Moonlight Greatsword (Oceiros - cho int builds), Hornet Ring."
-      ]
-    },
-    {
-      "title": "Grand Archives & Twin Princes",
-      "order": 10,
-      "content": [
-        "Sau Dancer, đi lên đến Grand Archives. Khu vực với mages, wax pools (đèn), và scholars.",
-        "Tips: Dùng bow để pull từng enemy. Wax cho phép đi qua wax pools không bị slow.",
-        "Boss: Lothric & Lorian (Twin Princes). Level recommend: 65-80.",
-        "Twin Princes tips: Phase 1 - đánh Lorian (teleport attacks). Phase 2 - Lothric heal. Dùng ranged cho Lothric.",
-        "Key items: Estus Shard, Titanite Slab, Soul of Twin Princes (twin prince greatsword hoặc spells).",
-        "Sau boss, lên lầu nhặt cinders."
-      ]
-    },
-    {
-      "title": "Archdragon Peak",
-      "order": 11,
-      "content": [
-        "Khu vực tùy chọn. Từ Irithyll Dungeon, dùng Path of the Dragon gesture ở altar.",
-        "Khu vực: đầy drakeblood knights, serpent men, và dragon. Tips: Chạy qua section đầu.",
-        "Boss: Ancient Wyvern. Dễ nhất - chạy qua enemies, plunging attack từ scaffold.",
-        "Boss: Nameless King. Level recommend: 80-100. Đây là một trong các boss khó nhất series.",
-        "Nameless King tips: Phase 1 (dragon) - dùng lightning spear? Không, lightning resist. Đánh đầu. Phase 2 - roll timing rất quan trọng.",
-        "Phase 2 King: Chậm nhưng hit hard. Don't get greedy. Dùng dark damage.",
-        "Key items: Dragon Chaser's Ashes, Souls of Nameless King (Storm Curse Sword hoặc Greatshield)."
-      ]
-    },
-    {
-      "title": "Kiln of the First Flame & Final Boss",
-      "order": 12,
-      "content": [
-        "Sau khi có tất cả Lord Souls, đi đến Flameless Shrine và Kiln of the First Flame.",
-        "Boss: Soul of Cinder. Level recommend: 75-95.",
-        "Soul of Cinder tips: Phase 1 - random weapon forms (straight sword, spear, magic, pyromancy). Tránh combo. Phase 2 - Gwyn moveset.",
-        "Phase 2 (Gwyn): Parry. Đây là cách dễ nhất. Dùng Hornet Ring. Nếu không parry - dùng greatshield.",
-        "Sau khi đánh bại, chọn Link the Fire (continue age of fire) hoặc End of Fire (dark ending).",
-        "Chú ý: Có thể summon để đánh Soul of Cinder (nếu còn embers)."
-      ]
-    },
-    {
-      "title": "Ashes of Ariandel (DLC 1)",
-      "order": 13,
-      "content": [
-        "Vào DLC: đi đến Cathedral of the Deep, gần Cleansing Chapel bonfire. Nói chuyện với Gael.",
-        "Khu vực tuyết: Painted World of Ariandel. NPC: Vilhelm, Sister Friede, Giant Archer.",
-        "Boss: Champion's Gravetender & Gravetender Greatwolf (optional). Tips: Kill champion trước.",
-        "Boss: Sister Friede & Father Ariandel. Level recommend: 90-110. 3 phases - cực kỳ khó.",
-        "Friede phase 1: Dễ - backstab khi invisible. Phase 2 (Ariandel): Don't hit Friede - hit Ariandel. Phase 3 (Blackflame Friede): Cực khó - dùng high poise, fast roll.",
-        "Key items: Frayed Blade (Friede's soul), Onyx Blade (dark build), Titanite Slab, Rose of Ariandel."
-      ]
-    },
-    {
-      "title": "The Ringed City (DLC 2)",
-      "order": 14,
-      "content": [
-        "Vào DLC: sau Friede hoặc đi đến Kiln of the First Flame. Gael sẽ đưa bạn đến Ringed City.",
-        "Khu vực: Dreg Heap (giữa các thế giới), Earthen Peak ruins (DS2 reference).",
-        "Boss: Demon Prince (Demon in Pain + Demon from Below). Level recommend: 100-120.",
-        "Demon Prince tips: Phase 1 - kill từng demon. Phase 2 - tránh laser + meteor. Black knight weapons hiệu quả.",
-        "Ringed City: Khu vực cuối. Angels (shoot them), Judicator Giants, Ringed Knights.",
-        "Boss: Spears of the Church (PVP boss - có thể co-op). Level recommend: 110-130.",
-        "Boss: Slave Knight Gael. Final boss của series. Level recommend: 120-140.",
-        "Gael tips: Phase 1 - dễ. Phase 2 - crossbow + sword combo. Phase 3 - lightning attacks. Roll correctly.",
-        "Key items: Ringed City armor, Gael's Greatsword, Repeating Crossbow, White Birch Bow."
-      ]
-    }
-  ]
+    "name": "Dark Souls III Walkthrough",
+    "nameVi": "Hướng Dẫn Dark Souls III",
+    "sections": [
+        {
+            "title": "Cemetery of Ash & Firelink Shrine",
+            "order": 1,
+            "content": [
+                "Bắt đầu ở Cemetery of Ash. Đi thẳng, học combat cơ bản, gặp Iudex Gundyr (first boss).",
+                "Gundyr tips: Phase 1 dễ - roll attacks, đánh sau lưng. Phase 2 (pus of man) - dùng fire, roll tránh grab.",
+                "Đến Firelink Shrine - hub chính. NPC: Fire Keeper (level up), Andre (blacksmith), Shrine Handmaid (merchant).",
+                "Cơ chế mới: FP bar (dùng cho weapon arts và spells), Ashen Estus (regen FP).",
+                "Chọn class: Knight (beginner friendly), Pyromancer (easy early game), Mercenary (dex/bleed build).",
+                "Gift: Life Ring, Fire Gem (sớm có fire infusion), hoặc Black Firebombs (cho Gundyr)."
+            ]
+        },
+        {
+            "title": "High Wall of Lothric",
+            "order": 2,
+            "content": [
+                "Từ Firelink, đi lên đến High Wall of Lothric. Khu vực đầy hollows, lothric knights, và dogs.",
+                "Tips: Lothric Knights khó - parry hoặc backstab. Dogs dễ stagger.",
+                "Boss: Vordt of the Boreal Valley. Level recommend: 20-30. Tips: Stay dưới bụng, roll attacks. Phase 2 charge - dùng pillars.",
+                "NPC: Greirat (cứu ở Cell - sẽ đi loot cho bạn), Siegward (ở well ở Undead Settlement).",
+                "Key items: Raw Gem (raw infusion tốt cho early game), Claymore (rất tốt cho quality build), Estus Shard.",
+                "Covenant: Way of Blue (auto-summon help khi bị invaded)."
+            ]
+        },
+        {
+            "title": "Undead Settlement & Road of Sacrifices",
+            "order": 3,
+            "content": [
+                "Sau Vordt, đến Undead Settlement. Khu vực rộng với nhiều houses và enemies.",
+                "NPC: Siegward (giếng - cần mua armor từ merchant), Cornyx (pyromancy teacher - trong cage).",
+                "Boss: Curse-rotted Greatwood. Level recommend: 25-35. Tips: Đánh vào cluster mắt và sacs. Fire damage.",
+                "Road of Sacrifices: khu vực nối đến Farron Keep và Cathedral of the Deep.",
+                "NPC: Anri and Horace (quest), Eygon of Carim (Irina's caretaker).",
+                "Key items: Mortician's Ashes (cho Handmaid), Undead Bone Shard (tăng estus heal), Black Knight Sword (graveyard).",
+                "Covenant: Mound-makers (purple - kill invaders hoặc hosts)."
+            ]
+        },
+        {
+            "title": "Cathedral of the Deep",
+            "order": 4,
+            "content": [
+                "Đi từ Road of Sacrifices phải đến Cathedral of the Deep. Khu vực rộng lớn với nhiều đường tắt.",
+                "Tips: Mở 3 shortcut doors. Deacons và grave wardens ở đây.",
+                "Boss: Deacons of the Deep. Level recommend: 35-45. Tips: AOE attacks, all-body weapons. Kill red-eyed deacon.",
+                "NPC: Patches (đá bạn xuống - nhưng bán armor sau), Archbishop (quest).",
+                "Key items: Deep Braille Divine Tome (miracles cho Irina), Saint's Talisman, Hunter's Ring.",
+                "Sau Cathedral, nhận Small Doll (cần để vào Irithyll)."
+            ]
+        },
+        {
+            "title": "Farron Keep",
+            "order": 5,
+            "content": [
+                "Đi từ Road of Sacrifices trái đến Farron Keep. Khu vực poison swamp - rất khó chịu.",
+                "Tips: Equip poison resist gear. Dagger + quickstep weapon arts giúp di chuyển nhanh. Dùng brazier để giảm poison.",
+                "Boss: Abyss Watchers. Level recommend: 35-50. Đây là first 'real' boss của DS3.",
+                "Abyss Watchers tips: Phase 1 - có 3 watchers (1 bạn, 2 thù). Lợi dụng watcher bạn. Phase 2 - aggressive combos, roll timing.",
+                "Covenant: Watchdogs of Farron (auto-summon ở Farron Keep).",
+                "Key items: Farron Coal (cho Andre - heavy, sharp, poison infusions), Soul of Abyss Watchers (Farron Greatsword hoặc Artorias spells)."
+            ]
+        },
+        {
+            "title": "Irithyll of the Boreal Valley",
+            "order": 6,
+            "content": [
+                "Sau Abyss Watchers hoặc Deacons, đến Irithyll qua Central Irithyll (cần Small Doll).",
+                "Khu vực: đẹp nhất game. Pontiff Knights và invisible monsters (dùng torch để thấy).",
+                "NPC: Siegward (ở kitchen - cho toast), Yorshka (Darkmoon covenant leader - cần đi đường tắt).",
+                "Boss: Pontiff Sulyvahn. Level recommend: 50-65. Tips: Parry nếu có thể. Phase 2 spawn clone - kill clone nhanh.",
+                "Sau Pontiff, đến Anor Londo (DS1 reference). Boss: Aldrich, Devourer of Gods.",
+                "Aldrich tips: Fire resist. Đánh khi nó tái xuất - tránh arrow rain. Bow không hiệu quả.",
+                "Key items: Estus Shard + Undead Bone Shard, Ring of Favor, Yorshka's Chime (best for miracles)."
+            ]
+        },
+        {
+            "title": "Profaned Capital & Irithyll Dungeon",
+            "order": 7,
+            "content": [
+                "Từ Irithyll, đi vào Irithyll Dungeon (bên dưới). Đầy jailers (giảm max HP) và rats.",
+                "Tips: Jailers rất nguy hiểm - kill từ xa hoặc rush. Dùng stealth.",
+                "NPC: Karla (dark magic teacher - cần Jailer's Key Ring), Greirat (quest - nếu gửi đi loot).",
+                "Boss: Old Demon King (optional - ở Smoldering Lake, dưới Catacombs). Level recommend: 50-60.",
+                "Profaned Capital: ngắn. Boss: Yhorm the Giant. Level recommend: 55-70.",
+                "Yhorm tips: Dùng Storm Ruler (weapon ở arena). Hold weapon art, charge, release. Siegward summon nếu quest còn.",
+                "Key items: Storm Ruler, Profaned Coal (chaos/dark infusions), Siegbrau (ngồi Siegward toast)."
+            ]
+        },
+        {
+            "title": "Catacombs of Carthus & Smoldering Lake",
+            "order": 8,
+            "content": [
+                "Từ Road of Sacrifices, đi xuống đến Catacombs of Carthus. Skeleton warriors và rolling skeletons.",
+                "Boss: High Lord Wolnir. Level recommend: 40-50. Tips: Phá 3 vòng bracelets. Strike damage. Đừng bị kéo vào sương.",
+                "Smoldering Lake (dưới Catacombs): khu vực lava. Boss: Old Demon King (optional).",
+                "Key items: Carthus Milkring, Carthus Bloodring, Grave Warden Pyromancy Tome, Demon's Scar (weapon cho pyromancers).",
+                "Covenant: Rosaria's Fingers (respec stats - cần Pale Tongues)."
+            ]
+        },
+        {
+            "title": "Lothric Castle & Consumed King's Garden",
+            "order": 9,
+            "content": [
+                "Sau khi có 3 Lord Souls (Aldrich, Yhorm, Abyss Watchers), đi đến Lothric Castle qua Vordt arena.",
+                "Khu vực: Dancer arena, lothric knights, dragon trên bridge.",
+                "Boss: Dancer of the Boreal Valley. Level recommend: 60-75. Tips: Phase 1 slow attacks - roll. Phase 2 fast + spin combo.",
+                "Sau Dancer, đi lên đến Consumed King's Garden (khu vực tùy chọn).",
+                "Boss: Oceiros, the Consumed King. Tips: Stay gần, roll attacks. Phase 2 invisible charge - tránh.",
+                "Sau Oceiros: Untended Graves + Champion Gundyr (tùy chọn boss rất khó).",
+                "Key items: Coiled Sword Fragment (Dancer), Moonlight Greatsword (Oceiros - cho int builds), Hornet Ring."
+            ]
+        },
+        {
+            "title": "Grand Archives & Twin Princes",
+            "order": 10,
+            "content": [
+                "Sau Dancer, đi lên đến Grand Archives. Khu vực với mages, wax pools (đèn), và scholars.",
+                "Tips: Dùng bow để pull từng enemy. Wax cho phép đi qua wax pools không bị slow.",
+                "Boss: Lothric & Lorian (Twin Princes). Level recommend: 65-80.",
+                "Twin Princes tips: Phase 1 - đánh Lorian (teleport attacks). Phase 2 - Lothric heal. Dùng ranged cho Lothric.",
+                "Key items: Estus Shard, Titanite Slab, Soul of Twin Princes (twin prince greatsword hoặc spells).",
+                "Sau boss, lên lầu nhặt cinders."
+            ]
+        },
+        {
+            "title": "Archdragon Peak",
+            "order": 11,
+            "content": [
+                "Khu vực tùy chọn. Từ Irithyll Dungeon, dùng Path of the Dragon gesture ở altar.",
+                "Khu vực: đầy drakeblood knights, serpent men, và dragon. Tips: Chạy qua section đầu.",
+                "Boss: Ancient Wyvern. Dễ nhất - chạy qua enemies, plunging attack từ scaffold.",
+                "Boss: Nameless King. Level recommend: 80-100. Đây là một trong các boss khó nhất series.",
+                "Nameless King tips: Phase 1 (dragon) - dùng lightning spear? Không, lightning resist. Đánh đầu. Phase 2 - roll timing rất quan trọng.",
+                "Phase 2 King: Chậm nhưng hit hard. Don't get greedy. Dùng dark damage.",
+                "Key items: Dragon Chaser's Ashes, Souls of Nameless King (Storm Curse Sword hoặc Greatshield)."
+            ]
+        },
+        {
+            "title": "Kiln of the First Flame & Final Boss",
+            "order": 12,
+            "content": [
+                "Sau khi có tất cả Lord Souls, đi đến Flameless Shrine và Kiln of the First Flame.",
+                "Boss: Soul of Cinder. Level recommend: 75-95.",
+                "Soul of Cinder tips: Phase 1 - random weapon forms (straight sword, spear, magic, pyromancy). Tránh combo. Phase 2 - Gwyn moveset.",
+                "Phase 2 (Gwyn): Parry. Đây là cách dễ nhất. Dùng Hornet Ring. Nếu không parry - dùng greatshield.",
+                "Sau khi đánh bại, chọn Link the Fire (continue age of fire) hoặc End of Fire (dark ending).",
+                "Chú ý: Có thể summon để đánh Soul of Cinder (nếu còn embers)."
+            ]
+        },
+        {
+            "title": "Ashes of Ariandel (DLC 1)",
+            "order": 13,
+            "content": [
+                "Vào DLC: đi đến Cathedral of the Deep, gần Cleansing Chapel bonfire. Nói chuyện với Gael.",
+                "Khu vực tuyết: Painted World of Ariandel. NPC: Vilhelm, Sister Friede, Giant Archer.",
+                "Boss: Champion's Gravetender & Gravetender Greatwolf (optional). Tips: Kill champion trước.",
+                "Boss: Sister Friede & Father Ariandel. Level recommend: 90-110. 3 phases - cực kỳ khó.",
+                "Friede phase 1: Dễ - backstab khi invisible. Phase 2 (Ariandel): Don't hit Friede - hit Ariandel. Phase 3 (Blackflame Friede): Cực khó - dùng high poise, fast roll.",
+                "Key items: Frayed Blade (Friede's soul), Onyx Blade (dark build), Titanite Slab, Rose of Ariandel."
+            ]
+        },
+        {
+            "title": "The Ringed City (DLC 2)",
+            "order": 14,
+            "content": [
+                "Vào DLC: sau Friede hoặc đi đến Kiln of the First Flame. Gael sẽ đưa bạn đến Ringed City.",
+                "Khu vực: Dreg Heap (giữa các thế giới), Earthen Peak ruins (DS2 reference).",
+                "Boss: Demon Prince (Demon in Pain + Demon from Below). Level recommend: 100-120.",
+                "Demon Prince tips: Phase 1 - kill từng demon. Phase 2 - tránh laser + meteor. Black knight weapons hiệu quả.",
+                "Ringed City: Khu vực cuối. Angels (shoot them), Judicator Giants, Ringed Knights.",
+                "Boss: Spears of the Church (PVP boss - có thể co-op). Level recommend: 110-130.",
+                "Boss: Slave Knight Gael. Final boss của series. Level recommend: 120-140.",
+                "Gael tips: Phase 1 - dễ. Phase 2 - crossbow + sword combo. Phase 3 - lightning attacks. Roll correctly.",
+                "Key items: Ringed City armor, Gael's Greatsword, Repeating Crossbow, White Birch Bow."
+            ]
+        }
+    ]
 }

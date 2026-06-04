@@ -1,165 +1,165 @@
 {
-  "name": "Bloodborne Walkthrough",
-  "nameVi": "Hướng Dẫn Bloodborne",
-  "sections": [
-    {
-      "title": "Iosefka's Clinic & Central Yharnam",
-      "order": 1,
-      "content": [
-        "Bắt đầu ở Iosefka's Clinic. Nhận transfusion, chọn class (weapon). Khuyên dùng: Saw Cleaver (serrated - sát thương beast).",
-        "Chạy ra ngoài, gặp werewolf đầu tiên. Chết = đi đến Hunter's Dream (hub).",
-        "Hunter's Dream: Gehrman (garden), Doll (level up), Workshop (upgrade weapons).",
-        "Central Yharnam: khu vực đầu tiên. Đầy citizens (kẻ thù yếu) và werewolves trên bridge.",
-        "Tips: Học parry (gun - shoot đúng timing). Rally system (đánh lại để heal khi mất máu).",
-        "Mở shortcut: qua sewers đến bridge. Cổng gần Central Yharnam lamp.",
-        "Boss: Cleric Beast (optional - nhưng recommend kill). Tips: Fire paper, serrated weapon, đánh vào chân.",
-        "Boss: Father Gascoigne. Level recommend: 15-25. Tips: Dùng music box (Central Yharnam - nhặt từ girl). Parry human phase.",
-        "Gascoigne phase 2 (beast): - molotov cocktails. Dùng pillars để tránh."
-      ]
-    },
-    {
-      "title": "Cathedral Ward & Old Yharnam",
-      "order": 2,
-      "content": [
-        "Sau Gascoigne, đến Cathedral Ward. Hub với NPC: Gilbert (bên window), Eileen (crow hunter - quest rất quan trọng).",
-        "Mua Hunter Chief Emblem (10000 blood echoes) từ messenger bath để mở gate Cathedral Ward. Hoặc đường tắt qua Healing Church Workshop.",
-        "NPC: Alfred (hunter of Vilebloods - cho Fire Paper), Arianna (prostitute - cho blood).",
-        "Old Yharnam: khu vực optional. Đầy beasts và machine gun. Tips: Chạy qua, leo lên, gặp Djura (talking).",
-        "Boss: Blood-starved Beast. Level recommend: 25-35. Tips: Fire paper + serrated. Dùng blood cocktails để distract. Tránh grab attack.",
-        "Sau BSB: Gascoigne's daughter quest, nhặt Pungent Blood Cocktails.",
-        "Key items: Saw Spear (Old Yharnam), Rifle Spear, Powder Keg armor set."
-      ]
-    },
-    {
-      "title": "Healing Church Workshop & Vicar Amelia",
-      "order": 3,
-      "content": [
-        "Healing Church Workshop: từ Cathedral Ward, mở door bên trái. Khu vực tower + nhiều floors.",
-        "Đi lên đến Old Workshop (Gehrman's original workshop - lore quan trọng). Nhặt One Third Umbilical Cord.",
-        "Đi xuống đến Hypogean Gaol (bị snatcher kill - sẽ đến Yahar'gul sớm).",
-        "Boss: Vicar Amelia. Level recommend: 30-40. Tips: Fire paper, serrated weapon, Numbing Mist (ngăn heal).",
-        "Amelia tips: Đánh vào chân - khi chân bị damage, cô ấy sẽ ngã. Phase 2: tránh grab heal. Dùng Beast Blood Pellet.",
-        "Sau Amelia: nhặt Gold Pendant (cần để vào Forbidden Woods).",
-        "Key items: Radiant Sword Hunter Badge (mua từ messenger), Gold Pendant, One Third Umbilical Cord."
-      ]
-    },
-    {
-      "title": "Forbidden Woods & Byrgenwerth",
-      "order": 4,
-      "content": [
-        "Sau bàn thờ Amelia, đi ra ngoài đến Forbidden Woods. Khu vực rừng rậm - dễ lạc.",
-        "Tips: Đi theo lanterns. Snake enemies - cẩn thận. Dùng thrust damage cho snakes.",
-        "NPC: Valtr (bucket helm - league covenant), surviving NPC (trong nhà - bán bolt paper).",
-        "Boss: Shadow of Yharnam. Level recommend: 40-55. Tips: Kill caster trước, sau đó 2 melee. Shaman Bone Blade hoặc summon.",
-        "Byrgenwerth: tháp nhỏ sau woods. NPC: Willem (old man ngồi). Nhặt tonsil stone.",
-        "Boss: Rom, the Vacuous Spider. Level recommend: 45-60. Tips: Kill spiders nhỏ trước. Bolt paper. Phase 2 và 3 tránh magic.",
-        "Key items: Tonsil Stone (cần cho Amygdala), Lecture Hall key, Beast Rune (Valtr)."
-      ]
-    },
-    {
-      "title": "Hypogean Gaol & Yahar'gul, Unseen Village",
-      "order": 5,
-      "content": [
-        "Hypogean Gaol: bị snatcher đưa đến. Prison area với bag enemies (snatchers) và darkbeasts.",
-        "Boss (optional): Darkbeast Paarl. Level recommend: 50-65. Tips: Fire paper, serrated. Đánh vào chân. Break limbs.",
-        "Sau Rom, Yahar'gul thay đổi hoàn toàn. Bell maidens summon enemies - kill bell maidens trước.",
-        "Khu vực: mới sau Rom. Amygdala grab (đưa đến Lecture Hall 2F).",
-        "Boss: The One Reborn. Level recommend: 60-75. Tips: Kill bell maidens trên balcony trước. Fire paper, bolt not hiệu quả.",
-        "Key items: Tonitrus (weapon - bolt damage), Yahar'gul armor set, Ailing Loran chalice."
-      ]
-    },
-    {
-      "title": "Lecture Hall & Nightmare Frontier",
-      "order": 6,
-      "content": [
-        "Lecture Building: dùng Tonsil Stone. Khu vực với students và slime scholars.",
-        "Tips: AOE attacks cho slimes. Nhặt key items và spells.",
-        "Nightmare Frontier: từ Lecture Hall. Khu vực poison swamp + rock throwers.",
-        "Tips: Equip poison resist. Dùng bow hoặc spells cho rock throwers.",
-        "Boss: Amygdala. Level recommend: 65-80. Tips: Đánh cánh tay. Phase 2 tránh laser. Phase 3 đánh đuôi.",
-        "Key items: Ailing Loran chalice (Amygdala), Great One's Wisdom, Executioner's Gauntlet."
-      ]
-    },
-    {
-      "title": "Castle Cainhurst",
-      "order": 7,
-      "content": [
-        "Khu vực tùy chọn. Cần Cainhurst Summons (ở Iosefka's Clinic - sau khi có clinic key).",
-        "Đến Hemwick Charnel Lane, đi đến gần executioners - summons kích hoạt carriage.",
-        "Castle Cainhurst: khu vực đẹp + vampire theme. Ghosts (dùng sedatives), bloodlickers.",
-        "Boss: Martyr Logarius. Level recommend: 60-80. Tips: Parry human phase. Phase 2 tránh magic. Trên đỉnh castle.",
-        "Logarius tips: Dùng gun để parry sword attacks. Phase 2 - phá sword trên nóc. Backstab khi hắn chuẩn bị buff.",
-        "Sau: nhận Vileblood covenant (Annalise), Executioner's covenant (Alfred).",
-        "Key items: Cainhurst armor, Evelyn (best gun), Knight's armor, Chikage (bloodtinge weapon - best cho tinge build)."
-      ]
-    },
-    {
-      "title": "Upper Cathedral Ward & Celestial Emissary",
-      "order": 8,
-      "content": [
-        "Khu vực tùy chọn. Cần Upper Cathedral Ward key (ở Yahar'gul sau One Reborn).",
-        "Khu vực: thánh đường với choir members (magic) và werewolves.",
-        "Boss: Celestial Emissary. Level recommend: 65-80. Tips: AOE attacks. Kill smaller emissaries trước.",
-        "Boss: Ebrietas, Daughter of the Cosmos. Level recommend: 70-90.",
-        "Ebrietas tips: Đánh vào đầu. Phase 2 tránh charge attack. Bolt paper. Cực khó - optional.",
-        "Key items: Choir armor, Small Hair Ornament, Ebrietas' soul (cho spells hoặc weapon)."
-      ]
-    },
-    {
-      "title": "Nightmare of Mensis",
-      "order": 9,
-      "content": [
-        "Sau Rom và One Reborn, từ Yahar'gul đến Nightmare of Mensis. Khu vực cuối cùng.",
-        "Khu vực: spider room, frenzy brain, micolash's castle.",
-        "Boss: Micolash, Host of the Nightmare. Level recommend: 70-85.",
-        "Micolash tips: Phase 1 - chase. Phase 2 - tránh Call Beyond (AOE arcane). Dùng poison knives. Ranged.",
-        "Boss: Mergo's Wet Nurse. Level recommend: 75-90. Tips: Dễ. Đánh, tránh clone attacks. Tránh dark mist.",
-        "Brain of Mensis: ấn lever để thả. Nhận Living String (cần cho chalice dungeon).",
-        "Key items: Living String, Mensis Cage, Mergo's soul (cho weapons)."
-      ]
-    },
-    {
-      "title": "Hunter's Dream & Final Bosses",
-      "order": 10,
-      "content": [
-        "Sau Mergo, bạn được đưa đến Hunter's Dream (có lửa). Gehrman chờ.",
-        "Boss: Gehrman, the First Hunter. Level recommend: 80-100. Tips: Parry. Phase 1 và 2 - roll timing. Tránh scythe charge.",
-        "Gehrman tips: Dùng Hunter's Bone (quickstep). Parry là hiệu quả nhất. Đánh sau backstab.",
-        "Sau Gehrman, Moon Presence (cần 3 One Third Umbilical Cord). Boss tùy chọn.",
-        "Moon Presence tips: Dùng high rally gear. Phase 2 - tránh grab (lowers HP to 1).",
-        "Endings: Yharnam Sunrise (submit), Honoring Wishes (kill Gehrman), Childhood's Beginning (kill Moon Presence).",
-        "NG+: giữ tất cả items. Bosses có thêm HP và damage. Chalice dungeons không reset."
-      ]
-    },
-    {
-      "title": "Chalice Dungeons",
-      "order": 11,
-      "content": [
-        "Chalice Dungeons: khu vực procedural cho farming và looting. Cần ritual blood và materials.",
-        "Bắt đầu với Pthumeru Chalice (từ Blood-starved Beast). Đi qua Central, Lower, Defiled, và cuối là Great Pthumeru Ihyll.",
-        "Defiled Chalice: HP bị giảm 50%. Cực kỳ khó. Destroy Amygdala ở đây.",
-        "Boss khó: Watchdog of the Old Lords (Defiled - one hit kill), Amygdala (Defiled), Headless Bloodletting Beast (Ihyll).",
-        "Queen Yharnam: Pthumeru Ihyll layer 3. Dễ - nhưng cần qua Defiled trước.",
-        "Key items: Best blood gems (cần cho min-max), Beast Claw (Ailing Loran), Great One Coldblood."
-      ]
-    },
-    {
-      "title": "The Old Hunters (DLC)",
-      "order": 12,
-      "content": [
-        "Vào DLC: từ Cathedral Ward, đi đến bên trái. Amygdala grab (cần Eye of a Blood-drunk Hunter - từ after Amelia).",
-        "Khu vực đầu: Hunter's Nightmare. Đầy weak beasts và hunters. Tips: Chạy qua đến đường hầm.",
-        "Boss: Ludwig, the Holy Blade. Level recommend: 80-100. Một trong những boss hay nhất game.",
-        "Ludwig tips: Phase 1 (beast) - đánh chân, tránh charge. Phase 2 (sword) - dùng bow hoặc parry. Nhặt Holy Moonlight Sword (head).",
-        "Khu vực tiếp: Research Hall. Khu vực vertical - leo lên qua stairs + elevators. Patients và witches.",
-        "Boss: Living Failures. Level recommend: 85-100. Tips: AOE, đánh. Dùng pillars.",
-        "Boss: Lady Maria of the Astral Clocktower. Level recommend: 90-110.",
-        "Maria tips: Parry phase 1. Phase 2 có blood attacks. Phase 3 có fire. Dùng Hunter's Bone. Cực kỳ epic fight.",
-        "Khu vực cuối: Fishing Hamlet. Sharks, fishmen, và well (giếng có 2 shark giants - rất khó).",
-        "Boss: Orphan of Kos. Level recommend: 100-120. Boss khó nhất game.",
-        "Orphan tips: Phase 1 - parry. Phase 2 - tránh lightning. Dùng high rally. Tears of Denial (nếu là arcane build).",
-        "Key items: Holy Moonlight Sword, Rakuyo (Maria's weapon - ở well giếng), Bloodletter, Kos Parasite, Laurence armor."
-      ]
-    }
-  ]
+    "name": "Bloodborne Walkthrough",
+    "nameVi": "Hướng Dẫn Bloodborne",
+    "sections": [
+        {
+            "title": "Iosefka's Clinic & Central Yharnam",
+            "order": 1,
+            "content": [
+                "Bắt đầu ở Iosefka's Clinic. Nhận transfusion, chọn class (weapon). Khuyên dùng: Saw Cleaver (serrated - sát thương beast).",
+                "Chạy ra ngoài, gặp werewolf đầu tiên. Chết = đi đến Hunter's Dream (hub).",
+                "Hunter's Dream: Gehrman (garden), Doll (level up), Workshop (upgrade weapons).",
+                "Central Yharnam: khu vực đầu tiên. Đầy citizens (kẻ thù yếu) và werewolves trên bridge.",
+                "Tips: Học parry (gun - shoot đúng timing). Rally system (đánh lại để heal khi mất máu).",
+                "Mở shortcut: qua sewers đến bridge. Cổng gần Central Yharnam lamp.",
+                "Boss: Cleric Beast (optional - nhưng recommend kill). Tips: Fire paper, serrated weapon, đánh vào chân.",
+                "Boss: Father Gascoigne. Level recommend: 15-25. Tips: Dùng music box (Central Yharnam - nhặt từ girl). Parry human phase.",
+                "Gascoigne phase 2 (beast): - molotov cocktails. Dùng pillars để tránh."
+            ]
+        },
+        {
+            "title": "Cathedral Ward & Old Yharnam",
+            "order": 2,
+            "content": [
+                "Sau Gascoigne, đến Cathedral Ward. Hub với NPC: Gilbert (bên window), Eileen (crow hunter - quest rất quan trọng).",
+                "Mua Hunter Chief Emblem (10000 blood echoes) từ messenger bath để mở gate Cathedral Ward. Hoặc đường tắt qua Healing Church Workshop.",
+                "NPC: Alfred (hunter of Vilebloods - cho Fire Paper), Arianna (prostitute - cho blood).",
+                "Old Yharnam: khu vực optional. Đầy beasts và machine gun. Tips: Chạy qua, leo lên, gặp Djura (talking).",
+                "Boss: Blood-starved Beast. Level recommend: 25-35. Tips: Fire paper + serrated. Dùng blood cocktails để distract. Tránh grab attack.",
+                "Sau BSB: Gascoigne's daughter quest, nhặt Pungent Blood Cocktails.",
+                "Key items: Saw Spear (Old Yharnam), Rifle Spear, Powder Keg armor set."
+            ]
+        },
+        {
+            "title": "Healing Church Workshop & Vicar Amelia",
+            "order": 3,
+            "content": [
+                "Healing Church Workshop: từ Cathedral Ward, mở door bên trái. Khu vực tower + nhiều floors.",
+                "Đi lên đến Old Workshop (Gehrman's original workshop - lore quan trọng). Nhặt One Third Umbilical Cord.",
+                "Đi xuống đến Hypogean Gaol (bị snatcher kill - sẽ đến Yahar'gul sớm).",
+                "Boss: Vicar Amelia. Level recommend: 30-40. Tips: Fire paper, serrated weapon, Numbing Mist (ngăn heal).",
+                "Amelia tips: Đánh vào chân - khi chân bị damage, cô ấy sẽ ngã. Phase 2: tránh grab heal. Dùng Beast Blood Pellet.",
+                "Sau Amelia: nhặt Gold Pendant (cần để vào Forbidden Woods).",
+                "Key items: Radiant Sword Hunter Badge (mua từ messenger), Gold Pendant, One Third Umbilical Cord."
+            ]
+        },
+        {
+            "title": "Forbidden Woods & Byrgenwerth",
+            "order": 4,
+            "content": [
+                "Sau bàn thờ Amelia, đi ra ngoài đến Forbidden Woods. Khu vực rừng rậm - dễ lạc.",
+                "Tips: Đi theo lanterns. Snake enemies - cẩn thận. Dùng thrust damage cho snakes.",
+                "NPC: Valtr (bucket helm - league covenant), surviving NPC (trong nhà - bán bolt paper).",
+                "Boss: Shadow of Yharnam. Level recommend: 40-55. Tips: Kill caster trước, sau đó 2 melee. Shaman Bone Blade hoặc summon.",
+                "Byrgenwerth: tháp nhỏ sau woods. NPC: Willem (old man ngồi). Nhặt tonsil stone.",
+                "Boss: Rom, the Vacuous Spider. Level recommend: 45-60. Tips: Kill spiders nhỏ trước. Bolt paper. Phase 2 và 3 tránh magic.",
+                "Key items: Tonsil Stone (cần cho Amygdala), Lecture Hall key, Beast Rune (Valtr)."
+            ]
+        },
+        {
+            "title": "Hypogean Gaol & Yahar'gul, Unseen Village",
+            "order": 5,
+            "content": [
+                "Hypogean Gaol: bị snatcher đưa đến. Prison area với bag enemies (snatchers) và darkbeasts.",
+                "Boss (optional): Darkbeast Paarl. Level recommend: 50-65. Tips: Fire paper, serrated. Đánh vào chân. Break limbs.",
+                "Sau Rom, Yahar'gul thay đổi hoàn toàn. Bell maidens summon enemies - kill bell maidens trước.",
+                "Khu vực: mới sau Rom. Amygdala grab (đưa đến Lecture Hall 2F).",
+                "Boss: The One Reborn. Level recommend: 60-75. Tips: Kill bell maidens trên balcony trước. Fire paper, bolt not hiệu quả.",
+                "Key items: Tonitrus (weapon - bolt damage), Yahar'gul armor set, Ailing Loran chalice."
+            ]
+        },
+        {
+            "title": "Lecture Hall & Nightmare Frontier",
+            "order": 6,
+            "content": [
+                "Lecture Building: dùng Tonsil Stone. Khu vực với students và slime scholars.",
+                "Tips: AOE attacks cho slimes. Nhặt key items và spells.",
+                "Nightmare Frontier: từ Lecture Hall. Khu vực poison swamp + rock throwers.",
+                "Tips: Equip poison resist. Dùng bow hoặc spells cho rock throwers.",
+                "Boss: Amygdala. Level recommend: 65-80. Tips: Đánh cánh tay. Phase 2 tránh laser. Phase 3 đánh đuôi.",
+                "Key items: Ailing Loran chalice (Amygdala), Great One's Wisdom, Executioner's Gauntlet."
+            ]
+        },
+        {
+            "title": "Castle Cainhurst",
+            "order": 7,
+            "content": [
+                "Khu vực tùy chọn. Cần Cainhurst Summons (ở Iosefka's Clinic - sau khi có clinic key).",
+                "Đến Hemwick Charnel Lane, đi đến gần executioners - summons kích hoạt carriage.",
+                "Castle Cainhurst: khu vực đẹp + vampire theme. Ghosts (dùng sedatives), bloodlickers.",
+                "Boss: Martyr Logarius. Level recommend: 60-80. Tips: Parry human phase. Phase 2 tránh magic. Trên đỉnh castle.",
+                "Logarius tips: Dùng gun để parry sword attacks. Phase 2 - phá sword trên nóc. Backstab khi hắn chuẩn bị buff.",
+                "Sau: nhận Vileblood covenant (Annalise), Executioner's covenant (Alfred).",
+                "Key items: Cainhurst armor, Evelyn (best gun), Knight's armor, Chikage (bloodtinge weapon - best cho tinge build)."
+            ]
+        },
+        {
+            "title": "Upper Cathedral Ward & Celestial Emissary",
+            "order": 8,
+            "content": [
+                "Khu vực tùy chọn. Cần Upper Cathedral Ward key (ở Yahar'gul sau One Reborn).",
+                "Khu vực: thánh đường với choir members (magic) và werewolves.",
+                "Boss: Celestial Emissary. Level recommend: 65-80. Tips: AOE attacks. Kill smaller emissaries trước.",
+                "Boss: Ebrietas, Daughter of the Cosmos. Level recommend: 70-90.",
+                "Ebrietas tips: Đánh vào đầu. Phase 2 tránh charge attack. Bolt paper. Cực khó - optional.",
+                "Key items: Choir armor, Small Hair Ornament, Ebrietas' soul (cho spells hoặc weapon)."
+            ]
+        },
+        {
+            "title": "Nightmare of Mensis",
+            "order": 9,
+            "content": [
+                "Sau Rom và One Reborn, từ Yahar'gul đến Nightmare of Mensis. Khu vực cuối cùng.",
+                "Khu vực: spider room, frenzy brain, micolash's castle.",
+                "Boss: Micolash, Host of the Nightmare. Level recommend: 70-85.",
+                "Micolash tips: Phase 1 - chase. Phase 2 - tránh Call Beyond (AOE arcane). Dùng poison knives. Ranged.",
+                "Boss: Mergo's Wet Nurse. Level recommend: 75-90. Tips: Dễ. Đánh, tránh clone attacks. Tránh dark mist.",
+                "Brain of Mensis: ấn lever để thả. Nhận Living String (cần cho chalice dungeon).",
+                "Key items: Living String, Mensis Cage, Mergo's soul (cho weapons)."
+            ]
+        },
+        {
+            "title": "Hunter's Dream & Final Bosses",
+            "order": 10,
+            "content": [
+                "Sau Mergo, bạn được đưa đến Hunter's Dream (có lửa). Gehrman chờ.",
+                "Boss: Gehrman, the First Hunter. Level recommend: 80-100. Tips: Parry. Phase 1 và 2 - roll timing. Tránh scythe charge.",
+                "Gehrman tips: Dùng Hunter's Bone (quickstep). Parry là hiệu quả nhất. Đánh sau backstab.",
+                "Sau Gehrman, Moon Presence (cần 3 One Third Umbilical Cord). Boss tùy chọn.",
+                "Moon Presence tips: Dùng high rally gear. Phase 2 - tránh grab (lowers HP to 1).",
+                "Endings: Yharnam Sunrise (submit), Honoring Wishes (kill Gehrman), Childhood's Beginning (kill Moon Presence).",
+                "NG+: giữ tất cả items. Bosses có thêm HP và damage. Chalice dungeons không reset."
+            ]
+        },
+        {
+            "title": "Chalice Dungeons",
+            "order": 11,
+            "content": [
+                "Chalice Dungeons: khu vực procedural cho farming và looting. Cần ritual blood và materials.",
+                "Bắt đầu với Pthumeru Chalice (từ Blood-starved Beast). Đi qua Central, Lower, Defiled, và cuối là Great Pthumeru Ihyll.",
+                "Defiled Chalice: HP bị giảm 50%. Cực kỳ khó. Destroy Amygdala ở đây.",
+                "Boss khó: Watchdog of the Old Lords (Defiled - one hit kill), Amygdala (Defiled), Headless Bloodletting Beast (Ihyll).",
+                "Queen Yharnam: Pthumeru Ihyll layer 3. Dễ - nhưng cần qua Defiled trước.",
+                "Key items: Best blood gems (cần cho min-max), Beast Claw (Ailing Loran), Great One Coldblood."
+            ]
+        },
+        {
+            "title": "The Old Hunters (DLC)",
+            "order": 12,
+            "content": [
+                "Vào DLC: từ Cathedral Ward, đi đến bên trái. Amygdala grab (cần Eye of a Blood-drunk Hunter - từ after Amelia).",
+                "Khu vực đầu: Hunter's Nightmare. Đầy weak beasts và hunters. Tips: Chạy qua đến đường hầm.",
+                "Boss: Ludwig, the Holy Blade. Level recommend: 80-100. Một trong những boss hay nhất game.",
+                "Ludwig tips: Phase 1 (beast) - đánh chân, tránh charge. Phase 2 (sword) - dùng bow hoặc parry. Nhặt Holy Moonlight Sword (head).",
+                "Khu vực tiếp: Research Hall. Khu vực vertical - leo lên qua stairs + elevators. Patients và witches.",
+                "Boss: Living Failures. Level recommend: 85-100. Tips: AOE, đánh. Dùng pillars.",
+                "Boss: Lady Maria of the Astral Clocktower. Level recommend: 90-110.",
+                "Maria tips: Parry phase 1. Phase 2 có blood attacks. Phase 3 có fire. Dùng Hunter's Bone. Cực kỳ epic fight.",
+                "Khu vực cuối: Fishing Hamlet. Sharks, fishmen, và well (giếng có 2 shark giants - rất khó).",
+                "Boss: Orphan of Kos. Level recommend: 100-120. Boss khó nhất game.",
+                "Orphan tips: Phase 1 - parry. Phase 2 - tránh lightning. Dùng high rally. Tears of Denial (nếu là arcane build).",
+                "Key items: Holy Moonlight Sword, Rakuyo (Maria's weapon - ở well giếng), Bloodletter, Kos Parasite, Laurence armor."
+            ]
+        }
+    ]
 }

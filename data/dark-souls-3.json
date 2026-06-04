@@ -10,7 +10,7 @@
             "name": "Sellsword Winblades",
             "nameVi": "Sellsword Winblades",
             "description": "Sellsword Winblades is a the infamous sellsword twinblades considered the best pve weapon in dark souls 3. Designed around high Dexterity 60, Vigor 35, Endurance 30, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Sellsword Winblades handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Sellsword Twinblades's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Sellsword Winblades is its accessibility and consistent performance. Key items like Sellsword Twinblades are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Sellsword Winblades is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "The infamous Sellsword Twinblades considered the best PvE weapon in Dark Souls 3. Sharp infusion with Lightning Blade buff and Pontiff rings melts every boss in seconds.",
+            "descriptionVi": "Sellsword Twinblades huyền thoại — vũ khí PvE tốt nhất Dark Souls 3. Sharp infusion kết hợp Lightning Blade buff và Pontiff rings nung chảy mọi boss.",
             "category": "meta",
             "difficulty": 1,
             "dlc": true,
@@ -53,12 +53,12 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Mercenarystarting Sellsword Twinblades",
-                        "Tăng Dexterity lên 20 and Vigor to 15",
+                        "Chọn Mercenarykhởi đầu Sellsword Twinblades",
+                        "Tăng Dexterity lên 20 và Vigor to 15",
                         "Nâng cấp Twinblades to +3",
                         "Đánh bại Vordt",
                         "Tìm Sharp Gem at Road of Sacrifices",
-                        "Infuse Twinblades with Sharp"
+                        "Infuse Twinblades với Sharp"
                     ]
                 },
                 {
@@ -119,7 +119,7 @@
                     "stepsVi": [
                         "Tăng Dexterity lên 60 for S scaling",
                         "Lấy Lightning Blade từ Irithyll Dungeon",
-                        "Attune Lightning Blade with 15 Faith",
+                        "Attune Lightning Blade với 15 Faith",
                         "Trang bị Pontiff's Left Eye",
                         "Dùng risoner's Chain",
                         "L1-L2-L1 weapon art combo melts bosses"
@@ -132,21 +132,21 @@
                     "ar": 438,
                     "scaling": "S Dex",
                     "verdict": "Best infusion. S scaling with 60 Dexterity.",
-                    "verdictVi": "Infusion tot nhat. S scaling voi 60 Dexterity."
+                    "verdictVi": "Infusion tốt nhất. S scaling voi 60 Dexterity."
                 },
                 {
                     "name": "Sharp + Lightning Blade",
                     "ar": 680,
                     "scaling": "S Dex + Fth Buff",
                     "verdict": "Peak damage.",
-                    "verdictVi": "Sat thuong dinh cao."
+                    "verdictVi": "Sát thương đỉnh cao."
                 },
                 {
                     "name": "Sharp + Crystal Magic Weapon",
                     "ar": 660,
                     "scaling": "S Dex + Int Buff",
                     "verdict": "Alternative with Intelligence.",
-                    "verdictVi": "Thay the neu co Intelligence."
+                    "verdictVi": "Thay thế nếu có Intelligence."
                 }
             ],
             "items": [
@@ -154,7 +154,7 @@
                     "name": "Sellsword Twinblades",
                     "type": "Weapon",
                     "location": "Starting weapon for Mercenary class",
-                    "locationVi": "Starting weapon for Mercenary class"
+                    "locationVi": "khởi đầu weapon for Mercenary class"
                 },
                 {
                     "name": "Pontiff's Right Eye",
@@ -226,11 +226,11 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "L1-L2-L1 weapon art combo is highest DPS in the game",
-                "Pontiff's Right Eye + Old Wolf Curved Sword = massive damage bonus after 4 hits",
-                "Lightning Blade adds ~200 AR on Sharp +10 weapon",
-                "Sellsword Twinblades work great with any resin or bundle",
-                "L1 running attack has excellent range for roll catching"
+                "Combo L1-L2-L1 weapon art là DPS cao nhất game",
+                "Pontiff Right Eye + Old Wolf Curved Sword = buff sát thương khủng sau 4 đòn",
+                "Lightning Blade thêm ~200 AR trên vũ khí Sharp +10",
+                "Sellsword Twinblades hoạt động tốt với mọi loại nhựa hoặc bùa",
+                "Đòn chạy L1 có tầm xa tuyệt vời để roll catch"
             ]
         },
         {
@@ -238,7 +238,7 @@
             "name": "Chaos Zweihander",
             "nameVi": "Chaos Zweihander",
             "description": "Chaos Zweihander is a dark/chaos infused zweihander build with minimum stat requirements. Designed around high Vigor 40, Endurance 30, Intelligence 30, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans.\n\nIn PvE, Chaos Zweihander handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Zweihander's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Chaos Zweihander is its accessibility and consistent performance. Key items like Zweihander are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Chaos Zweihander is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A Dark/Chaos infused Zweihander build with minimum stat requirements. Maximum health and stamina with massive elemental damage.",
+            "descriptionVi": "Build Zweihander Chaos/Dark với chỉ số yêu cầu tối thiểu. Máu và stamina tối đa với sát thương nguyên tố khủng.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -315,7 +315,7 @@
                     "stepsVi": [
                         "Level Int/Fth to 25/25",
                         "Tìm Giant's Coal in Catacombs",
-                        "Infuse Zweihander with Chaos or Dark",
+                        "Infuse Zweihander với Chaos or Dark",
                         "Nâng cấp to +7",
                         "Trang bị Ring of Favor",
                         "Get Witch's Ring"
@@ -360,14 +360,14 @@
                     "ar": 650,
                     "scaling": "B Int B Fth",
                     "verdict": "Best for fire-weak enemies.",
-                    "verdictVi": "Tot nhat cho ke yeu lua."
+                    "verdictVi": "Tốt nhất cho ke yeu lua."
                 },
                 {
                     "name": "Dark",
                     "ar": 640,
                     "scaling": "B Int B Fth",
                     "verdict": "More enemies weak to Dark in DS3.",
-                    "verdictVi": "Nhieu ke yeu Dark hon trong DS3."
+                    "verdictVi": "Nhiều kẻ yếu Dark hon trong DS3."
                 }
             ],
             "items": [
@@ -447,11 +447,11 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "Chaos and Dark scale with Int/Fth at 30/30 soft cap",
-                "Zweihander R2 pancakes humanoids for easy wakeups",
-                "Dark is generally better in DS3 due to fewer dark-resistant enemies",
-                "Keep a Simple Caestus offhand for FP regen",
-                "Dùng night's Ring if you need to meet stat requirements"
+                "Chaos và Dark scaling theo Int/Fth ở mốc 30/30",
+                "Zweihander R2 đập dẹp kẻ địch cho wakeup dễ dàng",
+                "Dark thường tốt hơn trong DS3 vì ít kẻ kháng Dark",
+                "Giữ Simple Caestus tay trái để hồi FP",
+                "Dùng Knight Ring nếu cần đủ chỉ số yêu cầu"
             ]
         },
         {
@@ -459,7 +459,7 @@
             "name": "Pure STR Greatsword",
             "nameVi": "Pure STR Greatsword",
             "description": "Pure STR Greatsword is a pure strength build using the greatsword or fume ultra greatsword. Designed around high Strength 66, Vigor 40, Endurance 35, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Pure STR Greatsword handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Greatsword's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Pure STR Greatsword is its accessibility and consistent performance. Key items like Greatsword are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Pure STR Greatsword is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A pure Strength build using the Greatsword or Fume Ultra Greatsword. Max poise, hyper armor, and massive damage per swing.",
+            "descriptionVi": "Build Strength thuần dùng Greatsword hoặc Fume Ultra Greatsword. Poise tối đa, hyper armor, và sát thương khủng mỗi nhát.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -504,9 +504,9 @@
                     "stepsVi": [
                         "Chọn Warriorhigh Strength",
                         "Rush to Greatsword in Farron Keep",
-                        "Two-hand with just 20 Strength",
+                        "Two-hand với just 20 Strength",
                         "Tăng Vigor lên 20, End to 20",
-                        "Infuse with Heavy Gem",
+                        "Infuse với Heavy Gem",
                         "Nâng cấp to +3"
                     ]
                 },
@@ -581,14 +581,14 @@
                     "ar": 625,
                     "scaling": "S Str",
                     "verdict": "Best for pure Strength. S scaling at 66 Str.",
-                    "verdictVi": "Tot nhat cho Strength thuan."
+                    "verdictVi": "Tốt nhất cho Strength thuan."
                 },
                 {
                     "name": "Raw",
                     "ar": 440,
                     "scaling": "None",
                     "verdict": "Only useful at very low levels.",
-                    "verdictVi": "Chi huu ich o cap thap."
+                    "verdictVi": "Chỉ hữu ích o cap thap."
                 }
             ],
             "items": [
@@ -668,11 +668,11 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "66 Strength two-handed equals 99 Strength for weapon scaling",
-                "Greatsword R2 charges and pierces shields",
-                "Stack 40+ poise to poise through straight sword R1 spam",
-                "Fume UGS has blocking R2 attack",
-                "Heavy infusion + Gold Pine Resin is best buff combo"
+                "66 Strength hai tay = 99 Strength cho weapon scaling",
+                "Greatsword R2 nạp và xuyên khiên",
+                "Stack 40+ poise để chịu đòn R1 của straight sword",
+                "Fume UGS có đòn R2 chặn đòn",
+                "Heavy infusion + Gold Pine Resin là combo buff tốt nhất"
             ]
         },
         {
@@ -680,7 +680,7 @@
             "name": "Crystal Sorcerer",
             "nameVi": "Crystal Sorcerer",
             "description": "Crystal Sorcerer is an intelligence sorcery build with court sorcerer's staff and crystal soul spear. Designed around high Intelligence 60, Vigor 27, Endurance 16, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Crystal Sorcerer handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Court Sorcerer's Staff's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Crystal Sorcerer is its versatility and damage potential when optimized. Key items like Court Sorcerer's Staff are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nCrystal Sorcerer is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "An Intelligence sorcery build with Court Sorcerer's Staff and Crystal Soul Spear. One of the highest burst damage casters in DS3.",
+            "descriptionVi": "An Intelligence sorcery build với Court Sorcerer's Staff và Crystal Soul Spear. One of the highest burst damage casters in DS3.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -723,7 +723,7 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Sorcererstarting staff and spells",
+                        "Chọn Sorcererkhởi đầu staff và spells",
                         "Mua Soul Arrow từ Orbeck",
                         "Tìm Heretic's Staff in Undead Settlement",
                         "Tăng Intelligence lên 30",
@@ -890,7 +890,7 @@
             ],
             "tipsVi": [
                 "Steady Chant + Crown of Dusk + Bellowing Dragoncrest = 60% magic damage bonus",
-                "Crystal Soul Spear has huge range and pierces enemies",
+                "Crystal Soul Spear has huge range và pierces enemies",
                 "Dùng ourt Sorcerer's Staff for damage, Heretic's for exploring",
                 "Homing Crystal Soulmass staggers aggressive enemies",
                 "Keep Simple-infused Caestus for passive FP regen"
@@ -901,7 +901,7 @@
             "name": "Faith Lightning Spear",
             "nameVi": "Faith Lightning Spear",
             "description": "Faith Lightning Spear is a faith build using lightning arrow and sunlight spear. Designed around high Faith 60, Vigor 35, Endurance 18, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Faith Lightning Spear handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Yorshka's Chime's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Faith Lightning Spear is its versatility and damage potential when optimized. Key items like Yorshka's Chime are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nFaith Lightning Spear is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A Faith build using Lightning Arrow and Sunlight Spear. Saint's Talisman gives Unfaltering Prayer for poise casting.",
+            "descriptionVi": "A Faith build using Lightning Arrow và Sunlight Spear. Saint's Talisman gives Unfaltering Prayer for poise casting.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -944,7 +944,7 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Clericstarting chime",
+                        "Chọn Clerickhởi đầu chime",
                         "Mua Lightning Spear từ Eygon",
                         "Tăng Faith lên 30",
                         "Dùng aw-infused mace",
@@ -1110,9 +1110,9 @@
             ],
             "tipsVi": [
                 "Saint's Talisman WA gives Unfaltering Prayer hyper armor",
-                "Lightning Arrow is chargeable with massive range",
+                "Lightning Arrow is chargeable với massive range",
                 "Sunlight Spear at point-blank for max damage",
-                "Blessed Weapon buff adds 10% damage and HP regen",
+                "Blessed Weapon buff adds 10% damage và HP regen",
                 "Keep Lightning-infused Longsword for melee"
             ]
         },
@@ -1121,7 +1121,7 @@
             "name": "Pyromancer",
             "nameVi": "Pyromancer",
             "description": "Pyromancer is a dark/pyromancy hybrid build using chaos/dark infusions with high-powered pyromancies. Designed around high Intelligence 35, Faith 35, Vigor 30, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvE, Pyromancer handles every challenge with confidence. Boss fights become a dance of positioning and timing as you leverage the Pyromancy Flame's unique properties. Regular enemies and area traversal feel smooth thanks to the balanced stat investment — you have enough damage to clear trash efficiently and enough Vigor to survive surprises. The build prioritizes sustainable damage output through its primary stat while maintaining the defensive stats needed to learn new boss patterns without frustration.\n\nThe core strength of Pyromancer is its versatility and damage potential when optimized. Key items like Pyromancy Flame are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nPyromancer is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A Dark/Pyromancy hybrid build using Chaos/Dark infusions with high-powered pyromancies. The most versatile caster in DS3.",
+            "descriptionVi": "A Dark/Pyromancy hybrid build using Chaos/Dark infusions với high-powered pyromancies. The most versatile caster in DS3.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1164,7 +1164,7 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Pyromancerstarting flame",
+                        "Chọn Pyromancerkhởi đầu flame",
                         "Mua Fire Orb từ Cornyx",
                         "Level Int/Fth to 15/15",
                         "Dùng aw-infused Longsword",
@@ -1201,7 +1201,7 @@
                         "Nâng cấp Pyromancy Flame to +7",
                         "Lấy Chaos Bed Vestiges từ Old Demon King",
                         "Tăng Attunement lên 20",
-                        "Infuse Longsword with Chaos/Dark"
+                        "Infuse Longsword với Chaos/Dark"
                     ]
                 },
                 {
@@ -1230,10 +1230,10 @@
                     "stepsVi": [
                         "Push Int/Fth to 35/35",
                         "Nâng tối đa Pyromancy Flame to +10",
-                        "Lấy Black Flame and Black Serpent từ DLC",
+                        "Lấy Black Flame và Black Serpent từ DLC",
                         "Trang bị Sage Ring +2",
                         "Dùng arkmoon Ring for more slots",
-                        "Alternate fire and dark spells"
+                        "Alternate fire và dark spells"
                     ]
                 }
             ],
@@ -1389,7 +1389,7 @@
                         "Farm Lothric Knights for LKS",
                         "Tăng Dex lên 25",
                         "Nâng cấp LKS to +3",
-                        "Infuse with Raw until Sharp",
+                        "Infuse với Raw until Sharp",
                         "Get Knight's Ring for 18 Str"
                     ]
                 },
@@ -1551,8 +1551,8 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "LKS has best straight sword moveset with long range thrust R2",
-                "R2 thrust combines with Leo Ring for counter damage",
+                "LKS has best straight sword moveset với long range thrust R2",
+                "R2 thrust combines với Leo Ring for counter damage",
                 "Running R1 is one of the best roll catches in the game",
                 "Keep Sharp Estoc in offhand for quick pokes",
                 "Stay under 30% equip load for best rolls"
@@ -1563,7 +1563,7 @@
             "name": "Lapp Havel",
             "nameVi": "Lapp Havel",
             "description": "Lapp Havel is a meme poise monster wearing the heaviest armor with a greatshield. Designed around high Vigor 45, Endurance 40, Strength 40, this build achieves a easy difficulty level that welcomes newcomers while satisfying veterans. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nThis is a meme build through and through — prioritizing style, humor, and sheer entertainment over raw efficiency. The Greatshield of Glory is the centerpiece of this comedic playthrough, with mechanics that are more about spectacle than optimization. While you won't top damage charts, you'll have an unforgettable experience trolling invaders, surprising co-op partners, and enjoying the game from a completely different perspective. The true power of this build lies in its ability to make you laugh.\n\nThe core strength of Lapp Havel is its accessibility and consistent performance. Key items like Greatshield of Glory are obtained early in the game, allowing the build to come online at a reasonable point. The primary weakness is its comedic focus — some encounters will be harder than necessary due to the weapon choice. Players should experiment with different weapons of the same class to find their preferred moveset.\n\nDesigned with newer players in mind, Lapp Havel is straightforward to assemble and play effectively from the start. Item locations are accessible early, and the playstyle doesn't demand complex input sequences or frame-perfect timing. Veterans will appreciate the raw efficiency — this build deletes content without requiring excessive setup or consumable management. Whether this is your first playthrough or your tenth, you'll find satisfaction in the consistent, reliable performance this build delivers across all content.",
-            "descriptionVi": "A meme poise monster wearing the heaviest armor with a Greatshield. The ultimate tank build.",
+            "descriptionVi": "A meme poise monster wearing the heaviest armor với a Greatshield. The ultimate tank build.",
             "category": "meme",
             "difficulty": 1,
             "dlc": true,
@@ -1606,7 +1606,7 @@
                         "Check the Whetblade / Infusion item availability. Changing weapon affinity early lets you scale with your primary damage stat from the start."
                     ],
                     "stepsVi": [
-                        "Chọn Knightbest starting armor",
+                        "Chọn Knightbest khởi đầu armor",
                         "Build to 20 Str, 15 End",
                         "Dùng eep Battle Axe from Mimic",
                         "Lấy Greatshield từ Cathedral Knight",
@@ -1674,7 +1674,7 @@
                         "Lấy Lapp's Armor từ Ringed City",
                         "Wear full Lapp set for max poise",
                         "Dùng eavy-infused Greatclub",
-                        "Aim for mid roll with Havel's +3",
+                        "Aim for mid roll với Havel's +3",
                         "Shield up + R1 spam"
                     ]
                 }
@@ -1767,7 +1767,7 @@
             "tipsVi": [
                 "Wolf Ring +3 + Lapp's armor = 50+ poise, nothing staggers you",
                 "Greatshield of Glory has 100% physical block",
-                "Mid-roll achievable with Havel's Ring +3 and Ring of Favor +3",
+                "Mid-roll achievable với Havel's Ring +3 và Ring of Favor +3",
                 "Your damage is secondary to not dying",
                 "Dùng reat Club R2 for surprise golf swing"
             ]
@@ -1889,7 +1889,7 @@
                         "Trang bị Prisoner's Chain",
                         "Dùng esin for element buffs",
                         "Ring of Favor +3 từ DLC",
-                        "The R2 thrust with Leo Ring is deadly"
+                        "The R2 thrust với Leo Ring is deadly"
                     ]
                 }
             ],
@@ -1899,14 +1899,14 @@
                     "ar": 450,
                     "scaling": "C Str C Dex",
                     "verdict": "Best for Quality. 40/40 gives the highest AR.",
-                    "verdictVi": "T�\u0018t nhất cho Quality."
+                    "verdictVi": "Tt nhất cho Quality."
                 },
                 {
                     "name": "Sharp",
                     "ar": 420,
                     "scaling": "A Dex",
                     "verdict": "Good if you respec to pure Dex.",
-                    "verdictVi": "T�\u0018t nếu reset sang Dex."
+                    "verdictVi": "Tt nếu reset sang Dex."
                 }
             ],
             "items": [
@@ -1974,9 +1974,9 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "LKSS has the best range and moveset of all straight swords",
-                "The R2 thrust with Leo Ring deals massive counter damage",
-                "Refined +10 with 40/40 is the meta Quality setup",
+                "LKSS has the best range và moveset of all straight swords",
+                "The R2 thrust với Leo Ring deals massive counter damage",
+                "Refined +10 với 40/40 is the meta Quality setup",
                 "Chạy R1 bắt lĒn tt nhất",
                 "Dư:i 30% tải trọng"
             ]
@@ -2108,7 +2108,7 @@
                     "ar": 620,
                     "scaling": "S Str",
                     "verdict": "Best for pure Strength. S scaling at 66 Str.",
-                    "verdictVi": "T�\u0018t nhất cho Strength thuần."
+                    "verdictVi": "Tt nhất cho Strength thuần."
                 }
             ],
             "items": [
@@ -2170,7 +2170,7 @@
             "tips": [
                 "66 Strength two-handed equals 99 Strength for max scaling",
                 "Warcry changes the R2 into a golf swing that launches enemies",
-                "Great Club has innate poise damage �\u001d staggers most enemies in 1-2 hits",
+                "Great Club has innate poise damage  staggers most enemies in 1-2 hits",
                 "Stack 40+ poise for hyper armor through attacks",
                 "Use Gold Pine Resin for extra lightning damage",
                 "The first soft cap for most stats is 40, with a second soft cap at 60. 66 Strength is the two-handing cap (99 effective).",
@@ -2184,7 +2184,7 @@
             "tipsVi": [
                 "66 Strength two-handed equals 99 Strength for max scaling",
                 "Warcry changes the R2 into a golf swing that launches enemies",
-                "Great Club has innate poise damage �\u001d staggers most enemies in 1-2 hits",
+                "Great Club has innate poise damage  staggers most enemies in 1-2 hits",
                 "Stack 40+ poise for hyper armor through attacks",
                 "Dùng old Pine Resin for extra lightning damage"
             ]
@@ -2316,7 +2316,7 @@
                     "ar": 480,
                     "scaling": "B Int B Fth",
                     "verdict": "Unique weapon. Scales with Int/Fth for pyromancy.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t. Int/Fth scaling."
+                    "verdictVi": "Vi kh \"c nht. Int/Fth scaling."
                 }
             ],
             "items": [
@@ -2382,7 +2382,7 @@
                 }
             ],
             "tips": [
-                "Demon's Scar R2 casts your attuned pyromancy �\u001d melee and casting in one weapon",
+                "Demon's Scar R2 casts your attuned pyromancy  melee and casting in one weapon",
                 "Black Flame from R2 has incredible poise damage",
                 "The curved sword R1 can true combo into Black Flame",
                 "Stack Witch's Ring + Great Swamp Ring + Fire Clutch Ring",
@@ -2396,7 +2396,7 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "Demon's Scar R2 casts your attuned pyromancy �\u001d melee and casting in one weapon",
+                "Demon's Scar R2 casts your attuned pyromancy  melee và casting in one weapon",
                 "Black Flame sát thng poise cao",
                 "The curved sword R1 can true combo into Black Flame",
                 "Stack Witch's Ring + Great Swamp Ring + Fire Clutch Ring",
@@ -2408,7 +2408,7 @@
             "name": "Friede's Scythe",
             "nameVi": "Friede's Scythe",
             "description": "Friede's Scythe is a dexterity/intelligence build using friede's great scythe from the dlc. Designed around high Dexterity 40, Intelligence 40, Vigor 35, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvP combat, Friede's Scythe excels at controlling engagement distance and punishing opponent mistakes. The Friede's Great Scythe provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Friede's Scythe is its raw power potential and devastating payoff for skilled play. Key items like Friede's Great Scythe are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Friede's Scythe ranks among the most powerful setups when played optimally. Every aspect of the build, from the Dexterity 40, Intelligence 40, Vigor 35 stat distribution to the Friede's Great Scythe weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "A Dexterity/Intelligence build using Friede's Great Scythe from the DLC. The weapon has a unique three-hit weapon art combo that's devastating in both PvE and PvP.",
+            "descriptionVi": "A Dexterity/Intelligence build using Friede's Great Scythe from the DLC. The weapon has a unique three-hit weapon art combo that's devastating in both PvE và PvP.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -2452,7 +2452,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Mercenary",
-                        "Tăng Dex lên 25 and Int to 20",
+                        "Tăng Dex lên 25 và Int to 20",
                         "Dùng  Sharp Sellsword Twinblades",
                         "Đến DLC",
                         "Giết Sister Friede",
@@ -2483,7 +2483,7 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Dex lên 35 and Int to 30",
+                        "Tăng Dex lên 35 và Int to 30",
                         "Nng Scythe lên +5",
                         "Học weapon art",
                         "Equit Pontiff's Right Eye",
@@ -2515,7 +2515,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Dex lên 40 and Int to 40",
+                        "Tăng Dex lên 40 và Int to 40",
                         "Nng Scythe lên +5",
                         "Weapon art 3 giai oạn",
                         "1: súng bng, 2: nhy, 3: quay",
@@ -2530,7 +2530,7 @@
                     "ar": 480,
                     "scaling": "B Dex C Int",
                     "verdict": "Best for Dex/Int hybrid.",
-                    "verdictVi": "T�\u0018t nhất cho Dex/Int."
+                    "verdictVi": "Tt nhất cho Dex/Int."
                 }
             ],
             "items": [
@@ -2612,9 +2612,9 @@
             "tipsVi": [
                 "Weapon art 3 giai oạn",
                 "Full combo WA sát thng l:n",
-                "The scythe's R2 is a long-range poke with thrust damage",
+                "The scythe's R2 is a long-range poke với thrust damage",
                 "Frozen Weapon adds frostbite on top of the scythe's innate frost",
-                "Pontiff rings stack with multi-hit combos"
+                "Pontiff rings stack với multi-hit combos"
             ]
         },
         {
@@ -2666,7 +2666,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "Tăng Str lên 30 and Dex to 20",
+                        "Tăng Str lên 30 và Dex to 20",
                         "Dùng  Greatsword temporarily",
                         "Đến DLC",
                         "Đến Ringed City",
@@ -2697,7 +2697,7 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 35 and Dex to 25",
+                        "Tăng Str lên 35 và Dex to 25",
                         "Nng lên +5",
                         "Trang bị Ring of Favor",
                         "Get Chloranthy Ring",
@@ -2729,7 +2729,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 40 and Dex to 30",
+                        "Tăng Str lên 40 và Dex to 30",
                         "Nng lên +5",
                         "The weapon art spin is a true combo",
                         "L2-R2 1500+ sát thng",
@@ -2744,7 +2744,7 @@
                     "ar": 650,
                     "scaling": "C Str D Dex",
                     "verdict": "Unique weapon. Cannot be infused.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t."
+                    "verdictVi": "Vi kh \"c nht."
                 }
             ],
             "items": [
@@ -2810,8 +2810,8 @@
                 }
             ],
             "tips": [
-                "L2 then R2 for the full weapon art combo �\u001d it's a true combo that can one-shot",
-                "The weapon art has hyper armor �\u001d trade through attacks",
+                "L2 then R2 for the full weapon art combo  it's a true combo that can one-shot",
+                "The weapon art has hyper armor  trade through attacks",
                 "You cannot be staggered during the spinning weapon art",
                 "The paired greatswords have a unique running L1 attack",
                 "Stack poise above 40 for maximum hyper armor effectiveness",
@@ -2824,8 +2824,8 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "L2 then R2 for the full weapon art combo �\u001d it's a true combo that can one-shot",
-                "The weapon art has hyper armor �\u001d trade through attacks",
+                "L2 then R2 for the full weapon art combo  it's a true combo that can one-shot",
+                "The weapon art has hyper armor  trade through attacks",
                 "Khíng th b9 gin on khi quay",
                 "The paired greatswords have a unique running L1 attack",
                 "Stack poise above 40 for maximum hyper armor effectiveness"
@@ -2836,7 +2836,7 @@
             "name": "Murky Hand Scythe Dark",
             "nameVi": "Lưỡi Hái Bóng Tối",
             "description": "Murky Hand Scythe Dark is a dark build using the murky hand scythe. Designed around high Vigor 35, Endurance 30, Intelligence 30, this build achieves a challenging difficulty level that demands mastery of game mechanics and precise execution. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvP combat, Murky Hand Scythe Dark excels at controlling engagement distance and punishing opponent mistakes. The Murky Hand Scythe provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Murky Hand Scythe Dark is its raw power potential and devastating payoff for skilled play. Key items like Murky Hand Scythe are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is the high skill floor — mistakes are severely punished and stat management is unforgiving. Players should practice the core combos regularly to build muscle memory.\n\nThis build is crafted for veteran players who understand the game's mechanics on a deep level. It demands precise knowledge of stat breakpoints, item locations, and combat timing. The payoff for mastery is immense — Murky Hand Scythe Dark ranks among the most powerful setups when played optimally. Every aspect of the build, from the Vigor 35, Endurance 30, Intelligence 30 stat distribution to the Murky Hand Scythe weapon choice, is optimized for a specific purpose. This is not a build to learn the game with but one to master it with.",
-            "descriptionVi": "A dark build using the Murky Hand Scythe. The fastest dark-infused weapon with a moveset that's perfect for PvP pressure. Running R1 is nearly impossible to react to.",
+            "descriptionVi": "A dark build using the Murky Hand Scythe. The fastest dark-infused weapon với a moveset that's perfect for PvP pressure. Running R1 is nearly impossible to react to.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -2881,7 +2881,7 @@
                     "stepsVi": [
                         "Chọn Pyromancer",
                         "Level Int/Fth to 15/15",
-                        "Dùng  Raw weapon with resins",
+                        "Dùng  Raw weapon với resins",
                         "Đến Dreg Heap",
                         "Tìm Murky Hand Scythe",
                         "Nng lên +3"
@@ -2958,7 +2958,7 @@
                     "ar": 420,
                     "scaling": "B Int B Fth",
                     "verdict": "Best for dark build. Fastest dark weapon.",
-                    "verdictVi": "T�\u0018t nhất cho dark."
+                    "verdictVi": "Tt nhất cho dark."
                 },
                 {
                     "name": "Chaos",
@@ -3164,12 +3164,12 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 35 and Dex to 40",
+                        "Tăng Str lên 35 và Dex to 40",
                         "Nng lên +10 Refined",
                         "L1 lĒn tt nhất game",
                         "Dùng the stance weapon art for mix-ups",
                         "Trang bị Prisoner's Chain",
-                        "Leo Ring works with the thrust attacks"
+                        "Leo Ring works với the thrust attacks"
                     ]
                 }
             ],
@@ -3179,14 +3179,14 @@
                     "ar": 440,
                     "scaling": "C Str C Dex",
                     "verdict": "Best for Quality.",
-                    "verdictVi": "T�\u0018t nhất cho Quality."
+                    "verdictVi": "Tt nhất cho Quality."
                 },
                 {
                     "name": "Sharp",
                     "ar": 420,
                     "scaling": "A Dex",
                     "verdict": "Good for pure Dex.",
-                    "verdictVi": "T�\u0018t cho Dex thuần."
+                    "verdictVi": "Tt cho Dex thuần."
                 }
             ],
             "items": [
@@ -3246,7 +3246,7 @@
                 }
             ],
             "tips": [
-                "The rolling L1 has incredible range and speed �\u001d best roll-catch in the game",
+                "The rolling L1 has incredible range and speed  best roll-catch in the game",
                 "The stance weapon art gives access to a thrust and a slash",
                 "Gotthard Twinswords have the longest paired sword reach",
                 "Use the running L1 for chase-down kills",
@@ -3261,10 +3261,10 @@
             ],
             "tipsVi": [
                 "L1 lĒn tầm xa, tc \" cao  bắt lĒn tt nhất",
-                "The stance weapon art gives access to a thrust and a slash",
+                "The stance weapon art gives access to a thrust và a slash",
                 "Tm di nht h song kiếm",
                 "Chạy L1 u\"i 9ch",
-                "The weapon's 2-handed L1 is a spinslash with wide arc"
+                "The weapon's 2-handed L1 is a spinslash với wide arc"
             ]
         },
         {
@@ -3316,7 +3316,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "Tăng Str lên 30 and Dex to 20",
+                        "Tăng Str lên 30 và Dex to 20",
                         "Dùng  Claymore temporarily",
                         "Giết Abyss Watchers",
                         "Transpose soul for Wolf Knight GS",
@@ -3347,7 +3347,7 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 35 and Dex to 25",
+                        "Tăng Str lên 35 và Dex to 25",
                         "Nng lên +5",
                         "Trang bị Ring of Favor",
                         "Get Chloranthy Ring",
@@ -3379,7 +3379,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 40 and Dex to 30",
+                        "Tăng Str lên 40 và Dex to 30",
                         "Nng lên +5",
                         "20% sát thng cho qui bắng ti",
                         "The flip weapon art has hyper armor",
@@ -3394,7 +3394,7 @@
                     "ar": 570,
                     "scaling": "C Str C Dex",
                     "verdict": "Unique weapon. Cannot be infused. Quality scaling with bonus damage.",
-                    "verdictVi": "Vi kh� �\u0018�\"c nh�t."
+                    "verdictVi": "Vi kh \"c nht."
                 }
             ],
             "items": [
@@ -3462,7 +3462,7 @@
             "tips": [
                 "Wolf Knight GS deals 20% bonus damage against abyssal enemies",
                 "The weapon art is a flip that slams down with massive poise damage",
-                "L2-R1 is a true combo �\u001d the flip into a follow-up R1",
+                "L2-R1 is a true combo  the flip into a follow-up R1",
                 "The weapon has a unique R2 chain attack",
                 "Abyssal enemies include: Darkwraiths, Pus of Man, Midir",
                 "The first soft cap for most stats is 40, with a second soft cap at 60. 66 Strength is the two-handing cap (99 effective).",
@@ -3476,7 +3476,7 @@
             "tipsVi": [
                 "20% sát thng cho qui bắng ti",
                 "Weapon art flip sát thng poise cao",
-                "L2-R1 is a true combo �\u001d the flip into a follow-up R1",
+                "L2-R1 is a true combo  the flip into a follow-up R1",
                 "The weapon has a unique R2 chain attack",
                 "Qui bắng ti: Darkwraiths, Pus of Man, Midir"
             ]
@@ -3530,7 +3530,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Pyromancer",
-                        "Tăng Str lên 20 and Int/Fth to 15/15",
+                        "Tăng Str lên 20 và Int/Fth to 15/15",
                         "Dùng  Dark-infused weapon",
                         "Đến DLC",
                         "Tìm Crucifix in Ringed City",
@@ -3561,7 +3561,7 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 25 and Int/Fth to 20/20",
+                        "Tăng Str lên 25 và Int/Fth to 20/20",
                         "Nng lên +5",
                         "Trang bị Dark Clutch Ring",
                         "Get Ring of Favor",
@@ -3593,7 +3593,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 30 and Int/Fth to 30/30",
+                        "Tăng Str lên 30 và Int/Fth to 30/30",
                         "Nng lên +5",
                         "Weapon art L2: dark weapon buff",
                         "Weapon art R2: AoE dark explosion",
@@ -3608,7 +3608,7 @@
                     "ar": 620,
                     "scaling": "C Str B Dark",
                     "verdict": "Best. Dark damage with Strength scaling.",
-                    "verdictVi": "T�\u0018t nhất."
+                    "verdictVi": "Tt nhất."
                 }
             ],
             "items": [
@@ -3674,9 +3674,9 @@
                 }
             ],
             "tips": [
-                "The weapon art has TWO different attacks �\u001d L2 for buff, R2 for explosion",
+                "The weapon art has TWO different attacks  L2 for buff, R2 for explosion",
                 "The AoE dark explosion has massive hyper armor and staggers everyone",
-                "Crucifix deals Strike + Dark damage �\u001d great against armored enemies",
+                "Crucifix deals Strike + Dark damage  great against armored enemies",
                 "Use Dark Blade miracle to stack with the weapon art buff",
                 "The running R1 has excellent roll-catch potential",
                 "The first soft cap for most stats is 40, with a second soft cap at 60. 66 Strength is the two-handing cap (99 effective).",
@@ -3689,9 +3689,9 @@
             ],
             "tipsVi": [
                 "Weapon art hai dạng: L2 buff, R2 n\"",
-                "The AoE dark explosion has massive hyper armor and staggers everyone",
-                "Crucifix deals Strike + Dark damage �\u001d great against armored enemies",
-                "Dùng ark Blade miracle to stack with the weapon art buff",
+                "The AoE dark explosion has massive hyper armor và staggers everyone",
+                "Crucifix deals Strike + Dark damage  great against armored enemies",
+                "Dùng ark Blade miracle to stack với the weapon art buff",
                 "Chạy R1 bắt lĒn"
             ]
         },
@@ -3822,7 +3822,7 @@
                     "ar": 640,
                     "scaling": "S Str",
                     "verdict": "Best for pure Strength.",
-                    "verdictVi": "T�\u0018t nhất cho Strength thuần."
+                    "verdictVi": "Tt nhất cho Strength thuần."
                 }
             ],
             "items": [
@@ -4036,14 +4036,14 @@
                     "ar": 550,
                     "scaling": "C Str C Dex",
                     "verdict": "Best for Quality build.",
-                    "verdictVi": "T�\u0018t nhất cho Quality."
+                    "verdictVi": "Tt nhất cho Quality."
                 },
                 {
                     "name": "Heavy",
                     "ar": 540,
                     "scaling": "A Str",
                     "verdict": "Good if you prefer pure Strength.",
-                    "verdictVi": "T�\u0018t nếu mu�\u0018n Strength thuần."
+                    "verdictVi": "Tt nếu mun Strength thuần."
                 }
             ],
             "items": [
@@ -4110,7 +4110,7 @@
             ],
             "tips": [
                 "The weapon art combo L2-R1-L2-R2 is a true combo that deals 1200+ damage",
-                "Each spin hit has hyper armor �\u001d trade freely during the animation",
+                "Each spin hit has hyper armor  trade freely during the animation",
                 "The halberd moveset has excellent range for keeping distance",
                 "Pontiff's Right Eye stacks with the multi-hit weapon art",
                 "Use the running R1 for roll-catches into the weapon art",
@@ -4124,9 +4124,9 @@
             ],
             "tipsVi": [
                 "L2-R1-L2-R2 true combo 1200+ sát thng",
-                "Each spin hit has hyper armor �\u001d trade freely during the animation",
+                "Each spin hit has hyper armor  trade freely during the animation",
                 "The halberd moveset has excellent range for keeping distance",
-                "Pontiff's Right Eye stacks with the multi-hit weapon art",
+                "Pontiff's Right Eye stacks với the multi-hit weapon art",
                 "Dùng the running R1 for roll-catches into the weapon art"
             ]
         },
@@ -4257,14 +4257,14 @@
                     "ar": 480,
                     "scaling": "S Int",
                     "verdict": "Best for Intelligence build.",
-                    "verdictVi": "T�\u0018t nhất cho Intelligence."
+                    "verdictVi": "Tt nhất cho Intelligence."
                 },
                 {
                     "name": "Simple",
                     "ar": 380,
                     "scaling": "B Int",
                     "verdict": "Good for FP regen.",
-                    "verdictVi": "T�\u0018t cho h�\u001ci FP."
+                    "verdictVi": "Tt cho hi FP."
                 }
             ],
             "items": [
@@ -4330,9 +4330,9 @@
                 }
             ],
             "tips": [
-                "The weapon art creates a crystal blade extension �\u001d R1 becomes thrust, R2 becomes slash",
+                "The weapon art creates a crystal blade extension  R1 becomes thrust, R2 becomes slash",
                 "The extended mode has a huge hitbox for a dagger",
-                "Use the weapon art sparingly �\u001d it costs FP per second",
+                "Use the weapon art sparingly  it costs FP per second",
                 "Combine with sorceries for ranged pressure",
                 "The dagger's L1 is incredibly fast in extended mode",
                 "The first soft cap for most stats is 40, with a second soft cap at 60. 66 Strength is the two-handing cap (99 effective).",
@@ -4346,7 +4346,7 @@
             "tipsVi": [
                 "Weapon art to kiếm pha l",
                 "The extended mode has a huge hitbox for a dagger",
-                "Dùng the weapon art sparingly �\u001d it costs FP per second",
+                "Dùng the weapon art sparingly  it costs FP per second",
                 "Kết hợp sorcery",
                 "L1 nhanh trong dạng vươn"
             ]
@@ -4400,7 +4400,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Tăng Str lên 25 and Vigor to 15",
+                        "Tăng Str lên 25 và Vigor to 15",
                         "Đến Road of Sacrifices",
                         "Triệu hồi Creighton",
                         "Hon thình nhim v",
@@ -4431,8 +4431,8 @@
                         "Stockpile crafting materials. Resins, spell buffs, and consumables for your damage type provide 15-30% DPS increases that scale with your upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 35 and Faith to 20",
-                        "Nâng cấp Axe to +6 with Lightning",
+                        "Tăng Str lên 35 và Faith to 20",
+                        "Nâng cấp Axe to +6 với Lightning",
                         "Trang bị the Lightning Clutch Ring",
                         "Tìm the Lightning Blade miracle",
                         "Tăng Vigor lên 25",
@@ -4463,9 +4463,9 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Tăng Str lên 40 and Faith to 30",
+                        "Tăng Str lên 40 và Faith to 30",
                         "Nâng tối đa Axe to +10 Lightning",
-                        "Buff with Lightning Blade for extra",
+                        "Buff với Lightning Blade for extra",
                         "The R1 combos stagger everything",
                         "Weapon art is a spinning slash",
                         "Trang bị the Sunlight Straight Sword for Oath"
@@ -4569,7 +4569,7 @@
                 "Lightning Clutch Ring boosts lightning damage by 15%",
                 "The R1 chain is very strong against large enemies",
                 "Weapon art has hyper armor through attacks",
-                "Buff with Lightning Blade for even more lightning damage"
+                "Buff với Lightning Blade for even more lightning damage"
             ]
         },
         {
@@ -4684,7 +4684,7 @@
                         "Record your damage numbers before and after optimization. Understanding the difference between 60% optimization and 95% optimization helps prioritize remaining upgrades."
                     ],
                     "stepsVi": [
-                        "Push Str/Dex to 24 and Int to 40",
+                        "Push Str/Dex to 24 và Int to 40",
                         "Nâng tối đa TPG to +5",
                         "The weapon art fires a beam of light",
                         "Both types of damage are hard to resist",
@@ -4699,7 +4699,7 @@
                     "ar": 650,
                     "scaling": "B Str B Dex B Int",
                     "verdict": "Unique. Triple scaling for hybrid builds.",
-                    "verdictVi": "\u0010�c \u0011�o. Ba scaling."
+                    "verdictVi": "c o. Ba scaling."
                 }
             ],
             "items": [
@@ -4780,7 +4780,7 @@
             ],
             "tipsVi": [
                 "Weapon art bắn laser magic",
-                "The sword deals split physical and magic damage innately",
+                "The sword deals split physical và magic damage innately",
                 "Chỉ cần 24/24 Str/Dex với ring",
                 "Laser tầm xa",
                 "The R2 is a thrust that can be charged"
@@ -4997,7 +4997,7 @@
                 "Valorheart kiếm v khin song kiếm",
                 "L1 vung cả hai",
                 "Attacks have built-in blocking frames from the shield",
-                "The weapon art is a leaping overhead slash with block frames",
+                "The weapon art is a leaping overhead slash với block frames",
                 "PvP hiệu quả"
             ]
         },
@@ -5006,7 +5006,7 @@
             "name": "Onikiri and Ubadachi",
             "nameVi": "Song Kiếm Quỷ",
             "description": "Onikiri and Ubadachi is a dexterity build using the onikiri and ubadachi paired katanas. Designed around high Dexterity 60, Vigor 30, Endurance 30, this build achieves a moderate difficulty level that rewards game knowledge and mechanical skill. The build fully utilizes DLC content, incorporating endgame weapons, spells, and talismans that significantly elevate its performance.\n\nIn PvP combat, Onikiri and Ubadachi excels at controlling engagement distance and punishing opponent mistakes. The Onikiri and Ubadachi provides exceptional pressure tools, while the stat distribution ensures you can survive trades and capitalize on openings. Success requires mastering spacing, roll-catching, and mix-ups — this is not a spam-friendly build but a calculated dueling machine. In invasions, the build's versatility lets you handle multiple opponents through positioning and crowd control.\n\nThe core strength of Onikiri and Ubadachi is its versatility and damage potential when optimized. Key items like Onikiri and Ubadachi are acquired through mid-game progression or specific questlines, allowing the build to come online at a reasonable point. The primary weakness is occasional reliance on specific items or buffs — maintaining uptime requires attention. Players should practice the core combos regularly to build muscle memory.\n\nOnikiri and Ubadachi is ideal for players who have completed at least one playthrough and want to explore a different approach to combat. It rewards game knowledge — knowing where key items are, which bosses to tackle in order, and how to optimize your route makes a significant difference. While the core build functions with basic items, reaching its full potential requires exploring optional areas, completing specific NPC questlines, and understanding soft cap breakpoints for efficient leveling.",
-            "descriptionVi": "A Dexterity build using the Onikiri and Ubadachi paired katanas. The L1 attacks are incredibly fast and the weapon art is a rushing slash that covers distance. Devastating bleed buildup.",
+            "descriptionVi": "A Dexterity build using the Onikiri và Ubadachi paired katanas. The L1 attacks are incredibly fast và the weapon art is a rushing slash that covers distance. Devastating bleed buildup.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -5050,10 +5050,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Mercenary",
-                        "Tăng Dex lên 30 and Vigor to 15",
+                        "Tăng Dex lên 30 và Vigor to 15",
                         "Đến Grand Archives",
                         "Farm the ninja enemies ở Archives",
-                        "Rơi Onikiri and Ubadachi",
+                        "Rơi Onikiri và Ubadachi",
                         "Dùng the Uchigatana until then"
                     ]
                 },
@@ -5086,7 +5086,7 @@
                         "Trang bị the Pontiff's Right Eye",
                         "Get the Carthus Milkring",
                         "The L1 attacks are incredibly fast",
-                        "Buildup bleed quickly with combos"
+                        "Buildup bleed quickly với combos"
                     ]
                 },
                 {
@@ -5135,7 +5135,7 @@
                     "ar": 380,
                     "scaling": "B Dex",
                     "verdict": "Good for bleed-focused PvP.",
-                    "verdictVi": "T�t cho ch�y m�u."
+                    "verdictVi": "Tt cho chy mu."
                 }
             ],
             "items": [
@@ -5215,9 +5215,9 @@
                 "Champion Gundyr's Soul transposes into the Prisoner's Chain — rush this early for significant stat savings."
             ],
             "tipsVi": [
-                "Onikiri and Ubadachi are paired katanas with unique L1 combos",
-                "The weapon art is a lunging slash with hyper armor",
-                "Bleed builds up very fast with the multi-hit L1 combos",
+                "Onikiri và Ubadachi are paired katanas với unique L1 combos",
+                "The weapon art is a lunging slash với hyper armor",
+                "Bleed builds up very fast với the multi-hit L1 combos",
                 "Chạy L1 trượt xa",
                 "Pontiff's Right Eye tăng dồn"
             ]
@@ -5271,7 +5271,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Thief",
-                        "Tăng Dex lên 30 and Vigor to 15",
+                        "Tăng Dex lên 30 và Vigor to 15",
                         "Uchigatana ở Settlement",
                         "Chạy đến Ringed City",
                         "Giết Darkeater Midir",
@@ -5306,7 +5306,7 @@
                         "Nâng cấp Frayed Blade to +3 (Scale)",
                         "The R1 attacks are standard katana",
                         "Weapon art chm bắng ti",
-                        "Follow weapon art with R2 for combo",
+                        "Follow weapon art với R2 for combo",
                         "Trang bị the Chloranthy Ring +3"
                     ]
                 },
@@ -5521,7 +5521,7 @@
                         "Trang bị Lloyd's Sword Ring và Lloyd's Shield Ring",
                         "Lấy Prisoner's Chain càng sớm càng tốt",
                         "Broken Sword gây sát thương ít hơn cái hắt hơi. Hãy kiên trì.",
-                        "Bạn sẽ chết hàng trăm lần. Đây là con đường."
+                        "Bạn sẽ chết hàng trăm lần. Đây là còn đường."
                     ]
                 },
                 {
@@ -5651,7 +5651,7 @@
             ],
             "tipsVi": [
                 "Broken Sword có combo R1 4 đòn nhưng sát thương thấp hơn một đòn của vũ khí thường",
-                "Raw infusion + resins là con đường duy nhất",
+                "Raw infusion + resins là còn đường duy nhất",
                 "Học parry — riposte là phần lớn sát thương boss",
                 "Pontiff's Right Eye kích hoạt sau 4 đòn liên tiếp",
                 "Nếu bạn đánh bại được Midir với vũ khí này, bạn đã thành thần"
