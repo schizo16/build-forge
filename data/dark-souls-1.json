@@ -1,0 +1,1291 @@
+{
+  "name": "Dark Souls",
+  "nameVi": "Dark Souls",
+  "accent": "#F59E0B",
+  "itemType": "Ring",
+  "itemTypeVi": "Nhẫn",
+  "builds": [
+    {
+      "slug": "giant-dad",
+      "name": "Giant Dad",
+      "nameVi": "Giant Dad",
+      "description": "The legendary Giant Dad — a poise-heavy meme build that became an icon of the Dark Souls PvP scene. Uses the Zweihander with Chaos infusion, Giant's Armor, and the Mask of the Father for maximum poise and the infamous 'well, what is it?' gesture.",
+      "descriptionVi": "Build huyền thoại Giant Dad — biểu tượng PvP của Dark Souls. Sử dụng Zweihander Chaos, giáp Giant và Mask of the Father để tối đa poise và cử chỉ 'well, what is it?' nổi tiếng.",
+      "category": "meme",
+      "difficulty": 1,
+      "dlc": false,
+      "gameClass": "Pyromancer",
+      "gameClassVi": "Pyromancer",
+      "sl": 99,
+      "stats": {
+        "Vitality": 66,
+        "Attunement": 10,
+        "Endurance": 12,
+        "Strength": 16,
+        "Dexterity": 10,
+        "Resistance": 11,
+        "Intelligence": 10,
+        "Faith": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–40",
+          "areas": "Undead Burg, Parish, Depths",
+          "areasVi": "Undead Burg, Parish, Depths",
+          "steps": [
+            "Choose Pyromancer for the low starting Soul Level",
+            "Run to the Zweihander in Firelink Shrine graveyard",
+            "Two-hand the Zweihander — you only need 16 Strength",
+            "Level Vitality to 30 and Endurance to 20",
+            "Farm the Balder Knights for the Balder Side Sword backup",
+            "Kill the Gaping Dragon and proceed to Blighttown"
+          ],
+          "stepsVi": [
+            "Chọn Pyromancer vì Soul Level khởi đầu thấp",
+            "Chạy đến Zweihander ở nghĩa trang Firelink Shrine",
+            "Cầm hai tay Zweihander — chỉ cần 16 Strength",
+            "Tăng Vitality lên 30 và Endurance lên 20",
+            "Farm Balder Knights để lấy Balder Side Sword dự phòng",
+            "Giết Gaping Dragon và đến Blighttown"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "40–70",
+          "areas": "Sen's Fortress, Anor Londo, Demon Ruins",
+          "areasVi": "Sen's Fortress, Anor Londo, Demon Ruins",
+          "steps": [
+            "Get the Very Large Ember from New Londo Ruins",
+            "Farm Titanite Chunks from the Darkwraiths in New Londo",
+            "Ascend Zweihander to Chaos +5 using red titanite chunks",
+            "Kill Ornstein and Smough for the Lordvessel",
+            "Equip Havel's Ring and Ring of Favor and Protection",
+            "Collect the Giant's Armor from Anor Londo's giant blacksmith"
+          ],
+          "stepsVi": [
+            "Lấy Very Large Ember từ New Londo Ruins",
+            "Farm Titanite Chunks từ Darkwraiths ở New Londo",
+            "Nâng Zweihander lên Chaos +5 bằng đá đỏ",
+            "Giết Ornstein và Smough để lấy Lordvessel",
+            "Trang bị Havel's Ring và Ring of Favor and Protection",
+            "Thu thập Giant's Armor từ thợ rèn khổng lồ ở Anor Londo"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "70–99",
+          "areas": "Kiln of the First Flame, DLC areas",
+          "areasVi": "Kiln of the First Flame, khu vực DLC",
+          "steps": [
+            "Push Vitality to 66 for maximum Giant Dad meme",
+            "Wear full Giant's Armor + Mask of the Father",
+            "Two-hand Chaos Zweihander +5 with 10 humanity for max damage",
+            "Use the 'Well, What Is It?' gesture to assert dominance",
+            "Invade in the Township for infinite Giant Dad battles"
+          ],
+          "stepsVi": [
+            "Đẩy Vitality lên 66 để meme Giant Dad đỉnh cao",
+            "Mặc full Giant's Armor + Mask of the Father",
+            "Cầm hai tay Chaos Zweihander +5 với 10 humanity",
+            "Dùng cử chỉ 'Well, What Is It?' để khẳng định ưu thế",
+            "Xâm lăng ở Township cho những trận Giant Dad bất tận"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Chaos",
+          "ar": 704,
+          "scaling": "A Fire",
+          "verdict": "The only choice. Chaos with 10 humanity is what makes Giant Dad a legend.",
+          "verdictVi": "Lựa chọn duy nhất. Chaos với 10 humanity là thứ làm nên huyền thoại Giant Dad."
+        },
+        {
+          "name": "Fire",
+          "ar": 612,
+          "scaling": "B Fire",
+          "verdict": "Decent early alternative before you have red chunks and humanity.",
+          "verdictVi": "Lựa chọn thay thế đầu game ổn trước khi có đá đỏ và humanity."
+        }
+      ],
+      "items": [
+        {
+          "name": "Zweihander",
+          "type": "Weapon",
+          "location": "Firelink Shrine graveyard, found on a corpse",
+          "locationVi": "Nghĩa trang Firelink Shrine, trên xác chết"
+        },
+        {
+          "name": "Mask of the Father",
+          "type": "Armor",
+          "location": "Dropped by Pinwheel in the Catacombs",
+          "locationVi": "Rơi từ Pinwheel ở Catacombs"
+        },
+        {
+          "name": "Giant's Armor Set",
+          "type": "Armor",
+          "location": "Anor Londo, purchased from the giant blacksmith",
+          "locationVi": "Anor Londo, mua từ thợ rèn khổng lồ"
+        },
+        {
+          "name": "Havel's Ring",
+          "type": "Ring",
+          "location": "Anor Londo, behind a locked door in a tower",
+          "locationVi": "Anor Londo, sau cánh cửa khóa trong tháp"
+        },
+        {
+          "name": "Ring of Favor and Protection",
+          "type": "Ring",
+          "location": "Undead Parish, ring found behind the giant rat in the aqueduct",
+          "locationVi": "Undead Parish, sau con chuột khổng lồ trong cống"
+        },
+        {
+          "name": "Chaos Ember",
+          "type": "Weapon",
+          "location": "Demon Ruins, found near the Centipede Demon boss fog",
+          "locationVi": "Demon Ruins, gần Centipede Demon boss fog"
+        }
+      ],
+      "tips": [
+        "Mask of the Father increases max equip load — essential for mid-rolling in Giant armor",
+        "Chaos infusion does not scale with stats — only with humanity (caps at 10)",
+        "The Zweihander's R2 attack pancakes enemies for easy punishes",
+        "Giant Dad's real strength is the psychological impact on opponents",
+        "Keep a backup Lightning weapon for enemies immune to fire"
+      ],
+      "tipsVi": [
+        "Mask of the Father tăng tải trọng — thiết yếu cho mid-roll trong giáp Giant",
+        "Chaos infusion không tăng theo chỉ số — chỉ phụ thuộc vào humanity (tối đa 10)",
+        "Đòn R2 của Zweihander đè bẹp kẻ địch",
+        "Sức mạnh thật sự của Giant Dad là tác động tâm lý lên đối thủ",
+        "Giữ vũ khí Lightning dự phòng cho kẻ địch miễn nhiễm lửa"
+      ]
+    },
+    {
+      "slug": "sorcerer",
+      "name": "Crystal Sorcerer",
+      "nameVi": "Pháp Sư Pha Lê",
+      "description": "An intelligence-based glass cannon that annihilates everything with Crystal Soul Spear and Dark Bead. The highest DPS PvE build in Dark Souls 1 when properly set up.",
+      "descriptionVi": "Pháp sư chỉ số Int dạng glass cannon, hủy diệt mọi thứ với Crystal Soul Spear và Dark Bead. Build DPS PvE cao nhất trong Dark Souls 1.",
+      "category": "pve",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Sorcerer",
+      "gameClassVi": "Sorcerer",
+      "sl": 125,
+      "stats": {
+        "Vitality": 30,
+        "Attunement": 23,
+        "Endurance": 8,
+        "Strength": 16,
+        "Dexterity": 8,
+        "Resistance": 11,
+        "Intelligence": 50,
+        "Faith": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–40",
+          "areas": "Undead Burg, Lower Burg, Depths",
+          "areasVi": "Undead Burg, Lower Burg, Depths",
+          "steps": [
+            "Choose Sorcerer for starting spells and catalyst",
+            "Buy more Soul Arrows from Rickert in New Londo Ruins",
+            "Save Griggs of Vinheim from Lower Burg to unlock more spells",
+            "Equip the Bellowing Dragoncrest Ring from Griggs",
+            "Level Intelligence to 30 and Attunement to 14",
+            "Rush through the Depths to reach the large ember"
+          ],
+          "stepsVi": [
+            "Chọn Sorcerer cho spell và catalyst khởi đầu",
+            "Mua thêm Soul Arrow từ Rickert ở New Londo Ruins",
+            "Cứu Griggs of Vinheim từ Lower Burg để mở thêm spell",
+            "Trang bị Bellowing Dragoncrest Ring từ Griggs",
+            "Tăng Intelligence lên 30 và Attunement lên 14",
+            "Chạy qua Depths để đến large ember"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "40–80",
+          "areas": "Sen's Fortress, Anor Londo, Duke's Archives",
+          "areasVi": "Sen's Fortress, Anor Londo, Duke's Archives",
+          "steps": [
+            "Free Logan from Sen's Fortress prison to unlock Soul Spear",
+            "Kill Ornstein and Smough to access Duke's Archives",
+            "Buy Crystal Soul Spear from Logan in Duke's Archives",
+            "Find the Tin Crystalization Catalyst in Duke's Archives",
+            "Get the Crown of Dusk for magic damage boost",
+            "Level Intelligence to 44 for Crystal Soul Spear"
+          ],
+          "stepsVi": [
+            "Giải thoát Logan khỏi nhà tù Sen's Fortress để mở Soul Spear",
+            "Giết Ornstein và Smough để vào Duke's Archives",
+            "Mua Crystal Soul Spear từ Logan ở Duke's Archives",
+            "Tìm Tin Crystalization Catalyst trong Duke's Archives",
+            "Lấy Crown of Dusk để tăng sát thương phép",
+            "Tăng Intelligence lên 44 cho Crystal Soul Spear"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "80–125",
+          "areas": "DLC, Kiln of the First Flame",
+          "areasVi": "DLC, Kiln of the First Flame",
+          "steps": [
+            "Get Dark Bead from the DLC — obtained from Manus's soul",
+            "Acquire the Manus Catalyst for massive Dark damage",
+            "Equip the Dusk Crown Ring for doubled spell casts",
+            "Push Intelligence to 50 and Attunement to 23",
+            "Equip the Dark Wood Grain Ring for fast rolls",
+            "One-shot most invaders with Dark Bead at close range"
+          ],
+          "stepsVi": [
+            "Lấy Dark Bead từ DLC — nhận từ linh hồn Manus",
+            "Nhận Manus Catalyst để tăng sát thương Dark",
+            "Trang bị Dusk Crown Ring để nhân đôi số lần niệm phép",
+            "Đẩy Intelligence lên 50 và Attunement lên 23",
+            "Trang bị Dark Wood Grain Ring để lăn nhanh",
+            "One-shot hầu hết kẻ xâm lăng với Dark Bead ở cự ly gần"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Magic Weapon",
+          "ar": 0,
+          "scaling": "B Int",
+          "verdict": "Buff your weapon with Magic Weapon for melee backup when FP runs low.",
+          "verdictVi": "Buff vũ khí với Magic Weapon khi hết FP."
+        },
+        {
+          "name": "Crystal Magic Weapon",
+          "ar": 0,
+          "scaling": "S Int",
+          "verdict": "Best buff in the game. Use with a fast weapon like a dagger or Balder Side Sword.",
+          "verdictVi": "Buff mạnh nhất game. Dùng với vũ khí nhanh như dao găm."
+        }
+      ],
+      "items": [
+        {
+          "name": "Tin Crystalization Catalyst",
+          "type": "Weapon",
+          "location": "Duke's Archives, found in a cell near the bonfire",
+          "locationVi": "Duke's Archives, trong phòng gần bonfire"
+        },
+        {
+          "name": "Manus Catalyst",
+          "type": "Weapon",
+          "location": "DLC, crafted from Manus's soul at the blacksmith",
+          "locationVi": "DLC, chế tạo từ linh hồn Manus"
+        },
+        {
+          "name": "Logan's Catalyst",
+          "type": "Weapon",
+          "location": "Duke's Archives, acquired after Logan goes hollow",
+          "locationVi": "Duke's Archives, nhận sau khi Logan hóa hollow"
+        },
+        {
+          "name": "Bellowing Dragoncrest Ring",
+          "type": "Ring",
+          "location": "Purchased from Griggs of Vinheim after rescuing him",
+          "locationVi": "Mua từ Griggs of Vinheim sau khi giải cứu"
+        },
+        {
+          "name": "Dusk Crown Ring",
+          "type": "Ring",
+          "location": "Darkroot Basin, in a golem near the Hydra",
+          "locationVi": "Darkroot Basin, trong golem gần Hydra"
+        },
+        {
+          "name": "Crown of Dusk",
+          "type": "Armor",
+          "location": "Darkroot Basin, after killing the golden golem near the Hydra",
+          "locationVi": "Darkroot Basin, sau khi giết golden golem gần Hydra"
+        },
+        {
+          "name": "Dark Wood Grain Ring",
+          "type": "Ring",
+          "location": "DLC, found in the Royal Wood",
+          "locationVi": "DLC, trong Royal Wood"
+        }
+      ],
+      "tips": [
+        "Dark Bead does insane damage at point-blank range — use it like a shotgun",
+        "Power Within pyromancy stacks with Bellowing Dragoncrest and Crown of Dusk",
+        "Tin Crystalization Catalyst has the highest magic adjust but halves casts",
+        "Always carry a backup normal catalyst for exploring",
+        "Crystal Soul Spear pierces through multiple enemies"
+      ],
+      "tipsVi": [
+        "Dark Bead gây sát thương khủng ở cự ly gần — dùng như shotgun",
+        "Power Within cộng dồn với Bellowing Dragoncrest và Crown of Dusk",
+        "Tin Crystalization Catalyst có magic adjust cao nhất nhưng giảm một nửa số lần niệm",
+        "Luôn mang catalyst thường dự phòng khi khám phá",
+        "Crystal Soul Spear xuyên qua nhiều kẻ địch"
+      ]
+    },
+    {
+      "slug": "claymore-quality",
+      "name": "Claymore Quality",
+      "nameVi": "Chất Lượng Claymore",
+      "description": "A versatile Quality build using the iconic Claymore. The quintessential Dark Souls experience — reliable damage, great moveset, and access to nearly every weapon in the game.",
+      "descriptionVi": "Build Quality đa năng với Claymore huyền thoại. Trải nghiệm Dark Souls tinh túy — sát thương ổn định, moveset tuyệt vời, và dùng được gần như mọi vũ khí.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": false,
+      "gameClass": "Warrior",
+      "gameClassVi": "Warrior",
+      "sl": 125,
+      "stats": {
+        "Vitality": 40,
+        "Attunement": 19,
+        "Endurance": 40,
+        "Strength": 27,
+        "Dexterity": 40,
+        "Resistance": 11,
+        "Intelligence": 9,
+        "Faith": 9
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–45",
+          "areas": "Undead Burg, Parish, Lower Burg",
+          "areasVi": "Undead Burg, Parish, Lower Burg",
+          "steps": [
+            "Pick Warrior for the balanced starting stats",
+            "Pick up the Claymore from the Hellkite Dragon bridge",
+            "Level Strength to 20 and Dexterity to 16 to one-hand the Claymore",
+            "Reinforce the Claymore to +5 using Andre",
+            "Kill the Taurus Demon and proceed to the Parish",
+            "Get the Dragon Crest Shield from the Undead Parish"
+          ],
+          "stepsVi": [
+            "Chọn Warrior vì chỉ số cân bằng",
+            "Nhặt Claymore từ cầu Hellkite Dragon",
+            "Tăng Strength lên 20 và Dexterity lên 16",
+            "Nâng Claymore lên +5 tại Andre",
+            "Giết Taurus Demon và đến Parish",
+            "Lấy Dragon Crest Shield từ Undead Parish"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "45–85",
+          "areas": "Sen's Fortress, Anor Londo, Catacombs",
+          "areasVi": "Sen's Fortress, Anor Londo, Catacombs",
+          "steps": [
+            "Take the Claymore to +10 using the Large Ember",
+            "Level Endurance to 30 for better stamina management",
+            "Find the Very Large Ember in New Londo Ruins",
+            "Kill Ornstein and Smough for the Lordvessel",
+            "Ascend Claymore to +15 with the Very Large Ember",
+            "Equip the Ring of Favor and Protection"
+          ],
+          "stepsVi": [
+            "Nâng Claymore lên +10 bằng Large Ember",
+            "Tăng Endurance lên 30 để quản lý stamina tốt hơn",
+            "Tìm Very Large Ember ở New Londo Ruins",
+            "Giết Ornstein và Smough cho Lordvessel",
+            "Nâng Claymore lên +15 với Very Large Ember",
+            "Trang bị Ring of Favor and Protection"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "85–125",
+          "areas": "Duke's Archives, Tomb of the Giants, Kiln",
+          "areasVi": "Duke's Archives, Tomb of the Giants, Kiln",
+          "steps": [
+            "Push Dexterity to 40 for the Quality soft cap",
+            "Pump Endurance to 40 and Vitality to 40",
+            "Use the 27/40 two-handing breakpoint (27 Str = 40 when two-handing)",
+            "Attune Power Within and Great Magic Weapon for boss fights",
+            "Equip the Hornet Ring for critical damage with the Leo Ring",
+            "Farm the Darkwraiths for Slabs to finalize your gear"
+          ],
+          "stepsVi": [
+            "Đẩy Dexterity lên 40 — soft cap của Quality",
+            "Tăng Endurance lên 40 và Vitality lên 40",
+            "Dùng breakpoint 27/40 (27 Str = 40 khi cầm hai tay)",
+            "Trang bị Power Within và Great Magic Weapon cho boss",
+            "Trang bị Hornet Ring cho sát thương critical",
+            "Farm Darkwraiths để lấy Slab hoàn thiện đồ"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Standard +15",
+          "ar": 523,
+          "scaling": "C Str, C Dex",
+          "verdict": "Best for Quality. +15 with 27/40 gives the highest physical AR.",
+          "verdictVi": "Tốt nhất cho Quality. +15 với 27/40 cho AR vật lý cao nhất."
+        },
+        {
+          "name": "Enchanted",
+          "ar": 440,
+          "scaling": "D Str, D Dex, B Int",
+          "verdict": "Only if you invest in Intelligence. Not for pure Quality.",
+          "verdictVi": "Chỉ khi đầu tư vào Intelligence. Không dành cho Quality thuần."
+        }
+      ],
+      "items": [
+        {
+          "name": "Claymore",
+          "type": "Weapon",
+          "location": "Undead Burg, on the Hellkite Dragon bridge",
+          "locationVi": "Undead Burg, trên cầu Hellkite Dragon"
+        },
+        {
+          "name": "Dragon Crest Shield",
+          "type": "Armor",
+          "location": "Undead Parish, found behind the locked gate near the Hellkite bridge",
+          "locationVi": "Undead Parish, sau cổng khóa gần cầu Hellkite"
+        },
+        {
+          "name": "Ring of Favor and Protection",
+          "type": "Ring",
+          "location": "Undead Parish, behind a giant rat in the aqueduct",
+          "locationVi": "Undead Parish, sau chuột khổng lồ trong cống"
+        },
+        {
+          "name": "Hornet Ring",
+          "type": "Ring",
+          "location": "Darkroot Garden, behind the hidden wall near the Artorias door",
+          "locationVi": "Darkroot Garden, sau tường ẩn gần cửa Artorias"
+        },
+        {
+          "name": "Leo Ring",
+          "type": "Ring",
+          "location": "Anor Londo, dropped by the Ornstein sentinel",
+          "locationVi": "Anor Londo, rơi từ Ornstein sentinel"
+        }
+      ],
+      "tips": [
+        "The Claymore's R2 thrust benefits massively from the Leo Ring counter damage bonus",
+        "Two-handing at 27 Strength gives you the effective equivalent of 40 Strength",
+        "The Claymore has both slash and thrust attacks — use the right one for each enemy",
+        "Great Magic Weapon adds significant damage to the +15 Claymore",
+        "Never go above 50% equip load for the medium roll"
+      ],
+      "tipsVi": [
+        "Đòn R2 của Claymore được hưởng lợi từ Leo Ring",
+        "Cầm hai tay ở 27 Strength tương đương 40 Strength",
+        "Claymore có cả đòn chém và đâm — dùng đúng loại cho từng kẻ địch",
+        "Great Magic Weapon thêm sát thương đáng kể",
+        "Không vượt quá 50% tải trọng để giữ mid-roll"
+      ]
+    },
+    {
+      "slug": "zweihander-chaos",
+      "name": "Zweihander Chaos",
+      "nameVi": "Zweihander Hỗn Mang",
+      "description": "A Chaos-infused Zweihander build that deals devastating fire damage. Accessible at low stat investment, freeing up levels for health and endurance. Devastating in both PvE and PvP.",
+      "descriptionVi": "Build Zweihander Chaos gây sát thương lửa hủy diệt. Chỉ cần chỉ số thấp, dư điểm để tăng máu và stamina. Mạnh cả PvE lẫn PvP.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": false,
+      "gameClass": "Pyromancer",
+      "gameClassVi": "Pyromancer",
+      "sl": 120,
+      "stats": {
+        "Vitality": 50,
+        "Attunement": 10,
+        "Endurance": 40,
+        "Strength": 16,
+        "Dexterity": 10,
+        "Resistance": 11,
+        "Intelligence": 10,
+        "Faith": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–40",
+          "areas": "Firelink, Undead Burg, Parish",
+          "areasVi": "Firelink, Undead Burg, Parish",
+          "steps": [
+            "Pick Pyromancer and grab the Zweihander from the graveyard",
+            "Two-hand the Zweihander with just 16 Strength",
+            "Level Vitality to 30 first for survival",
+            "Find the Fire Keeper Soul in Undead Parish",
+            "Ascend the Zweihander to Fire +5 using the Large Ember and green titanite",
+            "Kill the Capra Demon for access to the Depths"
+          ],
+          "stepsVi": [
+            "Chọn Pyromancer và lấy Zweihander từ nghĩa trang",
+            "Cầm hai tay Zweihander chỉ với 16 Strength",
+            "Tăng Vitality lên 30 trước để sống sót",
+            "Tìm Fire Keeper Soul ở Undead Parish",
+            "Nâng Zweihander lên Fire +5 bằng Large Ember",
+            "Giết Capra Demon để vào Depths"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "40–80",
+          "areas": "Blighttown, Sen's Fortress, Anor Londo",
+          "areasVi": "Blighttown, Sen's Fortress, Anor Londo",
+          "steps": [
+            "Get the Chaos Ember from the Demon Ruins",
+            "Farm red chunks from the chaos eaters in Demon Ruins",
+            "Convert the Zweihander from Fire to Chaos +5",
+            "Keep 10 soft humanity for maximum Chaos damage",
+            "Level Endurance to 30 for more swings",
+            "Kill Ornstein and Smough wearing your best fire-resistant gear"
+          ],
+          "stepsVi": [
+            "Lấy Chaos Ember từ Demon Ruins",
+            "Farm đá đỏ từ quái ở Demon Ruins",
+            "Chuyển Zweihander từ Fire sang Chaos +5",
+            "Giữ 10 humanity để tối đa sát thương Chaos",
+            "Tăng Endurance lên 30 để vung nhiều hơn",
+            "Giết Ornstein và Smough với đồ chống lửa"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "80–120",
+          "areas": "Lost Izalith, Tomb of Giants, Kiln",
+          "areasVi": "Lost Izalith, Tomb of Giants, Kiln",
+          "steps": [
+            "Push Vitality to 50 for massive health pool",
+            "Max Endurance at 40 for stamina",
+            "Equip Havel's Ring and Ring of Favor",
+            "Wear the heaviest armor you can mid-roll in",
+            "Power Within pyromancy for 40% damage boost on bosses",
+            "The R2 pancake + R2 wakeup is a true combo"
+          ],
+          "stepsVi": [
+            "Đẩy Vitality lên 50 cho lượng máu khổng lồ",
+            "Max Endurance ở 40 cho stamina",
+            "Trang bị Havel's Ring và Ring of Favor",
+            "Mặc giáp nặng nhất có thể mid-roll",
+            "Power Within tăng 40% sát thương cho boss",
+            "R2 pancake + R2 wakeup là combo thật"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Chaos",
+          "ar": 704,
+          "scaling": "A Fire",
+          "verdict": "Best damage with 10 humanity. Devastating fire damage.",
+          "verdictVi": "Sát thương tốt nhất với 10 humanity. Hủy diệt."
+        },
+        {
+          "name": "Fire",
+          "ar": 612,
+          "scaling": "B Fire",
+          "verdict": "Good early option before Chaos is available.",
+          "verdictVi": "Lựa chọn đầu game tốt trước khi có Chaos."
+        }
+      ],
+      "items": [
+        {
+          "name": "Zweihander",
+          "type": "Weapon",
+          "location": "Firelink Shrine graveyard",
+          "locationVi": "Nghĩa trang Firelink Shrine"
+        },
+        {
+          "name": "Chaos Ember",
+          "type": "Weapon",
+          "location": "Demon Ruins, near the Centipede Demon boss fog",
+          "locationVi": "Demon Ruins, gần Centipede Demon"
+        },
+        {
+          "name": "Power Within",
+          "type": "Weapon",
+          "location": "Blighttown, on a corpse near the giant leech swamp",
+          "locationVi": "Blighttown, trên xác gần đầm đỉa"
+        },
+        {
+          "name": "Havel's Ring",
+          "type": "Ring",
+          "location": "Anor Londo, behind a locked tower door",
+          "locationVi": "Anor Londo, sau cửa tháp khóa"
+        },
+        {
+          "name": "Ring of Favor and Protection",
+          "type": "Ring",
+          "location": "Undead Parish, behind the giant rat",
+          "locationVi": "Undead Parish, sau chuột khổng lồ"
+        }
+      ],
+      "tips": [
+        "The Zweihander R2 heavy attack pancakes humanoid enemies — chain it for infinite stunlock",
+        "Chaos weapons scale with humanity up to 10 — never go below 10 for max damage",
+        "Power Within stacks with your fire damage — melts fire-weak bosses like Nito",
+        "Use the DWGR (Dark Wood Grain Ring) for fast rolls in heavy armor",
+        "Keep a Lightning backup weapon for Quelana and other fire-resistant enemies"
+      ],
+      "tipsVi": [
+        "Đòn R2 Zweihander đè bẹp quái người — xích lại thành stunlock vô hạn",
+        "Chaos tăng theo humanity lên đến 10 — không xuống dưới 10",
+        "Power Within cộng dồn với sát thương lửa",
+        "Dùng DWGR để lăn nhanh trong giáp nặng",
+        "Giữ vũ khí Lightning dự phòng cho quái kháng lửa"
+      ]
+    },
+    {
+      "slug": "dex-falchion",
+      "name": "Dex Falchion",
+      "nameVi": "Falchion Nhanh Nhẹn",
+      "description": "A lightning-fast Dexterity build using the Falchion with buffs. The Falchion's R1 combo with Crystal Magic Weapon deletes health bars in seconds. Top-tier PvP duelist build.",
+      "descriptionVi": "Build Dexterity cực nhanh với Falchion và buff. Combo R1 của Falchion với Crystal Magic Weapon xóa sổ thanh máu trong tích tắc. Build PvP đỉnh cao.",
+      "category": "pvp",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Thief",
+      "gameClassVi": "Thief",
+      "sl": 125,
+      "stats": {
+        "Vitality": 40,
+        "Attunement": 16,
+        "Endurance": 40,
+        "Strength": 14,
+        "Dexterity": 45,
+        "Resistance": 11,
+        "Intelligence": 15,
+        "Faith": 9
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–40",
+          "areas": "Undead Burg, Parish, Darkroot",
+          "areasVi": "Undead Burg, Parish, Darkroot",
+          "steps": [
+            "Pick Thief for the starting Bandit's Knife and Master Key",
+            "Grab the Falchion from Blighttown or buy from Shiva of the East",
+            "Level Dexterity to 25 and Endurance to 20",
+            "Reinforce the Falchion to +5 with Andre",
+            "Get the Grass Crest Shield from Darkroot Basin for stamina regen",
+            "Kill the Moonlight Butterfly for the Divine Ember"
+          ],
+          "stepsVi": [
+            "Chọn Thief để có Bandit's Knife và Master Key",
+            "Lấy Falchion từ Blighttown hoặc mua từ Shiva of the East",
+            "Tăng Dexterity lên 25 và Endurance lên 20",
+            "Nâng Falchion lên +5 tại Andre",
+            "Lấy Grass Crest Shield từ Darkroot Basin",
+            "Giết Moonlight Butterfly cho Divine Ember"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "40–80",
+          "areas": "Sen's Fortress, Anor Londo, Duke's Archives",
+          "areasVi": "Sen's Fortress, Anor Londo, Duke's Archives",
+          "steps": [
+            "Take the Falchion to +15 for maximum physical damage",
+            "Level Dexterity to 40 for the soft cap",
+            "Buy Crystal Magic Weapon from Big Hat Logan",
+            "Equip the Bellowing Dragoncrest Ring for buff damage",
+            "Get the Dark Wood Grain Ring for the ninja flip",
+            "Farm Painting Guardians for upgrade materials"
+          ],
+          "stepsVi": [
+            "Nâng Falchion lên +15 cho sát thương vật lý tối đa",
+            "Đẩy Dexterity lên 40 — soft cap",
+            "Mua Crystal Magic Weapon từ Big Hat Logan",
+            "Trang bị Bellowing Dragoncrest Ring",
+            "Lấy Dark Wood Grain Ring cho ninja flip",
+            "Farm Painting Guardians để lấy nguyên liệu"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "80–125",
+          "areas": "DLC areas, Township, Kiln",
+          "areasVi": "DLC areas, Township, Kiln",
+          "steps": [
+            "Push Dexterity to 45 for maximum cast speed",
+            "Get 16 Attunement for Crystal Magic Weapon + Power Within",
+            "Add the Hornet Ring for devastating riposte damage",
+            "Practice the Falchion R1 stunlock into roll catch",
+            "Invade in Oolacile Township for duels",
+            "The 3-hit R1 combo into a roll-catching R1 is bread and butter"
+          ],
+          "stepsVi": [
+            "Đẩy Dexterity lên 45 cho tốc độ niệm phép tối đa",
+            "Lấy 16 Attunement cho Crystal Magic Weapon + Power Within",
+            "Trang bị Hornet Ring cho sát thương riposte",
+            "Luyện tập R1 stunlock và roll catch",
+            "Xâm lăng ở Oolacile Township",
+            "Combo 3 đòn R1 và roll catch là kỹ năng cơ bản"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Standard +15",
+          "ar": 415,
+          "scaling": "A Dex",
+          "verdict": "Best base. Buff with Crystal Magic Weapon for insane combo damage.",
+          "verdictVi": "Nền tảng tốt nhất. Buff với Crystal Magic Weapon."
+        },
+        {
+          "name": "Sharp",
+          "ar": 398,
+          "scaling": "S Dex",
+          "verdict": "Good raw damage but +15 with buffs outperforms.",
+          "verdictVi": "Sát thương tốt nhưng +15 với buff mạnh hơn."
+        }
+      ],
+      "items": [
+        {
+          "name": "Falchion",
+          "type": "Weapon",
+          "location": "Blighttown or purchased from Shiva of the East",
+          "locationVi": "Blighttown hoặc mua từ Shiva of the East"
+        },
+        {
+          "name": "Grass Crest Shield",
+          "type": "Armor",
+          "location": "Darkroot Basin, behind the Black Knight",
+          "locationVi": "Darkroot Basin, sau Black Knight"
+        },
+        {
+          "name": "Bellowing Dragoncrest Ring",
+          "type": "Ring",
+          "location": "Purchased from Griggs of Vinheim",
+          "locationVi": "Mua từ Griggs of Vinheim"
+        },
+        {
+          "name": "Dark Wood Grain Ring",
+          "type": "Ring",
+          "location": "DLC, found in the Royal Wood",
+          "locationVi": "DLC, trong Royal Wood"
+        },
+        {
+          "name": "Hornet Ring",
+          "type": "Ring",
+          "location": "Darkroot Garden, hidden behind a tree",
+          "locationVi": "Darkroot Garden, sau cây ẩn"
+        },
+        {
+          "name": "Crystal Magic Weapon",
+          "type": "Weapon",
+          "location": "Purchased from Big Hat Logan in Duke's Archives",
+          "locationVi": "Mua từ Big Hat Logan ở Duke's Archives"
+        }
+      ],
+      "tips": [
+        "The Falchion's 2-handed R1 is the fastest swing in the game — abuse it",
+        "Crystal Magic Weapon adds ~350 AR to a +15 Falchion",
+        "Never trade hits — you're a hit-and-run build",
+        "Use the Leo Ring with the Falchion's running attack for counter damage",
+        "Fast roll is mandatory — stay under 25% equip load"
+      ],
+      "tipsVi": [
+        "R1 hai tay của Falchion là đòn nhanh nhất game — tận dụng nó",
+        "Crystal Magic Weapon thêm ~350 AR",
+        "Không bao giờ đấu sức — bạn là build đánh rồi chạy",
+        "Dùng Leo Ring với đòn chạy của Falchion",
+        "Fast roll bắt buộc — dưới 25% tải trọng"
+      ]
+    },
+    {
+      "slug": "faith-paladin",
+      "name": "Faith Paladin",
+      "nameVi": "Hiệp Sĩ Đức Tin",
+      "description": "A durable Faith build wielding a Divine or Occult weapon with powerful healing and damage miracles. Perfect for co-op and PvE survivability with Wrath of the Gods for crowd control.",
+      "descriptionVi": "Build Faith bền bỉ với vũ khí Divine hoặc Occult cùng phép hồi máu và sát thương. Hoàn hảo cho co-op và PvE với Wrath of the Gods để kiểm soát đám đông.",
+      "category": "pve",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Cleric",
+      "gameClassVi": "Cleric",
+      "sl": 125,
+      "stats": {
+        "Vitality": 45,
+        "Attunement": 19,
+        "Endurance": 30,
+        "Strength": 27,
+        "Dexterity": 10,
+        "Resistance": 11,
+        "Intelligence": 8,
+        "Faith": 50
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–40",
+          "areas": "Undead Burg, Parish, Catacombs",
+          "areasVi": "Undead Burg, Parish, Catacombs",
+          "steps": [
+            "Choose Cleric for the starting mace and heal",
+            "Buy more miracles from Petrus in Firelink",
+            "Get the Astora Straight Sword from the Valley of Drakes",
+            "Level Faith to 25 for Lightning Spear",
+            "Join the Sunlight Warriors covenant for Sunlight Spear",
+            "Kill Pinwheel for the Rite of Kindling"
+          ],
+          "stepsVi": [
+            "Chọn Cleric cho mace khởi đầu và heal",
+            "Mua thêm miracle từ Petrus ở Firelink",
+            "Lấy Astora Straight Sword từ Valley of Drakes",
+            "Tăng Faith lên 25 cho Lightning Spear",
+            "Gia nhập Sunlight Warriors để lấy Sunlight Spear",
+            "Giết Pinwheel cho Rite of Kindling"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "40–80",
+          "areas": "Sen's Fortress, Anor Londo, Catacombs",
+          "areasVi": "Sen's Fortress, Anor Londo, Catacombs",
+          "steps": [
+            "Find the Divine Ember in the Darkroot Garden",
+            "Ascend a Mace to Divine +10 for the Catacombs skeletons",
+            "Get Wrath of the Gods from Reah of Thorolund",
+            "Level Attunement to 16 for more miracle slots",
+            "Kill Ornstein and Smough to unlock the DLC",
+            "Equip the Ring of the Sun's Firstborn for miracle damage"
+          ],
+          "stepsVi": [
+            "Tìm Divine Ember trong Darkroot Garden",
+            "Nâng Mace lên Divine +10 để giết skeleton",
+            "Lấy Wrath of the Gods từ Reah of Thorolund",
+            "Tăng Attunement lên 16 thêm slot miracle",
+            "Giết Ornstein và Smough",
+            "Trang bị Ring of the Sun's Firstborn"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "80–125",
+          "areas": "Duke's Archives, DLC, Kiln",
+          "areasVi": "Duke's Archives, DLC, Kiln",
+          "steps": [
+            "Push Faith to 50 for maximum spell buff and weapon scaling",
+            "Two-hand your Divine weapon with 27 Strength",
+            "Get Sunlight Spear from Gwyn's Soul in NG+ or covenant",
+            "Equip Canvas Talisman for best miracle adjustment",
+            "Wrath of the Gods one-shots invaders and staggers bosses",
+            "Great Heal provides immense survivability"
+          ],
+          "stepsVi": [
+            "Đẩy Faith lên 50 cho spell buff và scaling tối đa",
+            "Cầm hai tay vũ khí Divine với 27 Strength",
+            "Lấy Sunlight Spear từ linh hồn Gwyn ở NG+",
+            "Trang bị Canvas Talisman cho miracle adjustment tốt nhất",
+            "Wrath of the Gods one-shot kẻ xâm lăng",
+            "Great Heal cho khả năng sống sót tuyệt vời"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Divine",
+          "ar": 480,
+          "scaling": "C Str, C Fth",
+          "verdict": "Best for PvE. Kills skeletons permanently and scales with Faith.",
+          "verdictVi": "Tốt nhất cho PvE. Giết skeleton vĩnh viễn và tăng theo Faith."
+        },
+        {
+          "name": "Occult",
+          "ar": 502,
+          "scaling": "C Str, B Fth",
+          "verdict": "Higher AR but no skeleton kill. Better for PvP and boss damage.",
+          "verdictVi": "AR cao hơn. Tốt hơn cho PvP và boss."
+        }
+      ],
+      "items": [
+        {
+          "name": "Canvas Talisman",
+          "type": "Weapon",
+          "location": "Purchased from Petrus of Thorolund in Firelink Shrine",
+          "locationVi": "Mua từ Petrus of Thorolund ở Firelink Shrine"
+        },
+        {
+          "name": "Divine Ember",
+          "type": "Weapon",
+          "location": "Darkroot Garden, in a chest in the tower behind the Moonlight Butterfly",
+          "locationVi": "Darkroot Garden, trong rương sau Moonlight Butterfly"
+        },
+        {
+          "name": "Ring of the Sun's Firstborn",
+          "type": "Ring",
+          "location": "Found in the Tomb of the Giants, on a corpse near the second bonfire",
+          "locationVi": "Tomb of the Giants, trên xác gần bonfire thứ hai"
+        },
+        {
+          "name": "Wrath of the Gods",
+          "type": "Weapon",
+          "location": "Purchased from Reah of Thorolund after rescuing her from Tomb of the Giants",
+          "locationVi": "Mua từ Reah of Thorolund sau khi cứu cô ấy"
+        },
+        {
+          "name": "Great Heal",
+          "type": "Weapon",
+          "location": "Purchased from Petrus of Thorolund",
+          "locationVi": "Mua từ Petrus of Thorolund"
+        }
+      ],
+      "tips": [
+        "Divine weapons prevent skeleton resurrection in the Catacombs — essential for the area",
+        "Canvas Talisman has the best spell buff-to-weight ratio in the game",
+        "Sunlight Spear is the highest damaging miracle — save it for bosses",
+        "Wrath of the Gods has a small delay — use it to catch rolls",
+        "Use Great Magic Barrier for magic-resistant bosses"
+      ],
+      "tipsVi": [
+        "Vũ khí Divine ngăn skeleton hồi sinh ở Catacombs",
+        "Canvas Talisman có tỷ lệ spell buff/trọng lượng tốt nhất",
+        "Sunlight Spear là miracle sát thương cao nhất — để dành cho boss",
+        "Wrath of the Gods có độ trễ — dùng để bắt lăn",
+        "Great Magic Barrier cho boss kháng phép"
+      ]
+    },
+    {
+      "slug": "great-club-strength",
+      "name": "Great Club STR",
+      "nameVi": "Chùy Lớn Sức Mạnh",
+      "description": "A pure Strength build using the Great Club — one of the best Strength weapons in Dark Souls 1. The running R2 golf swing launches enemies into the air for hilarious and effective crowd control.",
+      "descriptionVi": "Build Strength thuần với Great Club — một trong những vũ khí Strength mạnh nhất DS1. Đòn chạy R2 đánh golf hất tung kẻ địch lên không.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": false,
+      "gameClass": "Bandit",
+      "gameClassVi": "Bandit",
+      "sl": 120,
+      "stats": {
+        "Vitality": 50,
+        "Attunement": 8,
+        "Endurance": 40,
+        "Strength": 50,
+        "Dexterity": 10,
+        "Resistance": 11,
+        "Intelligence": 8,
+        "Faith": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–40",
+          "areas": "Undead Burg, Parish, Blighttown",
+          "areasVi": "Undead Burg, Parish, Blighttown",
+          "steps": [
+            "Pick Bandit for highest starting Strength",
+            "Rush to the Great Club in Blighttown (behind the giant ogre near the swamp bonfire)",
+            "Two-hand it with the 28 Strength requirement",
+            "Reinforce to +5 with standard titanite",
+            "Level Strength to 30 and Vitality to 25",
+            "Get the Heavy Crossbow from the Parish for ranged pulls"
+          ],
+          "stepsVi": [
+            "Chọn Bandit cho Strength khởi đầu cao nhất",
+            "Chạy đến Great Club ở Blighttown",
+            "Cầm hai tay với 28 Strength",
+            "Nâng lên +5",
+            "Tăng Strength lên 30 và Vitality lên 25",
+            "Lấy Heavy Crossbow từ Parish"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "40–80",
+          "areas": "Sen's Fortress, Anor Londo, Demon Ruins",
+          "areasVi": "Sen's Fortress, Anor Londo, Demon Ruins",
+          "steps": [
+            "Take the Great Club to +10 with the Large Ember",
+            "Find the Very Large Ember in New Londo",
+            "Ascend to +15 for maximum damage",
+            "Level Endurance to 30 and push Strength to 40",
+            "Equip Havel's Ring and Ring of Favor",
+            "Wear the heaviest poise armor you can mid-roll in"
+          ],
+          "stepsVi": [
+            "Nâng Great Club lên +10 với Large Ember",
+            "Tìm Very Large Ember ở New Londo",
+            "Nâng lên +15 cho sát thương tối đa",
+            "Tăng Endurance lên 30 và Strength lên 40",
+            "Trang bị Havel's Ring và Ring of Favor",
+            "Mặc giáp poise nặng nhất có thể mid-roll"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "80–120",
+          "areas": "Lost Izalith, Tomb of Giants, Kiln",
+          "areasVi": "Lost Izalith, Tomb of Giants, Kiln",
+          "steps": [
+            "Push Strength to 50 for maximum damage",
+            "Max Endurance at 40 and Vitality at 50",
+            "Use the Dragon Tooth as a backup weapon",
+            "The golf swing R2 launches enemies off cliffs — abuse gravity",
+            "Equip Wolf Ring for 40 poise if you need it",
+            "The R2 golf swing into R2 wakeup is a true combo on players"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 50",
+            "Max Endurance và Vitality",
+            "Dùng Dragon Tooth làm vũ khí dự phòng",
+            "Đòn R2 đánh golf hất địch xuống vực",
+            "Trang bị Wolf Ring nếu cần 40 poise",
+            "R2 golf swing + R2 wakeup là combo thật"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Standard +15",
+          "ar": 638,
+          "scaling": "A Str",
+          "verdict": "Best option. 50 Strength with +15 gives massive AR.",
+          "verdictVi": "Lựa chọn tốt nhất. 50 Strength +15 cho AR khổng lồ."
+        },
+        {
+          "name": "Crystal",
+          "ar": 720,
+          "scaling": "A Str",
+          "verdict": "Highest AR in the game but unrepairable. Save for bosses.",
+          "verdictVi": "AR cao nhất game nhưng không sửa được. Để dành cho boss."
+        }
+      ],
+      "items": [
+        {
+          "name": "Great Club",
+          "type": "Weapon",
+          "location": "Blighttown, behind the ogre near the swamp bonfire",
+          "locationVi": "Blighttown, sau ogre gần bonfire đầm lầy"
+        },
+        {
+          "name": "Dragon Tooth",
+          "type": "Weapon",
+          "location": "Anor Londo, in a chest behind the giant sentinels",
+          "locationVi": "Anor Londo, trong rương sau giant sentinels"
+        },
+        {
+          "name": "Havel's Ring",
+          "type": "Ring",
+          "location": "Anor Londo, locked tower behind the mimic",
+          "locationVi": "Anor Londo, tháp khóa sau mimic"
+        },
+        {
+          "name": "Wolf Ring",
+          "type": "Ring",
+          "location": "Darkroot Garden, behind the sealed door (requires Crest of Artorias)",
+          "locationVi": "Darkroot Garden, sau cửa niêm phong"
+        },
+        {
+          "name": "Ring of Favor and Protection",
+          "type": "Ring",
+          "location": "Undead Parish, behind the giant rat",
+          "locationVi": "Undead Parish, sau chuột khổng lồ"
+        },
+        {
+          "name": "Large Club",
+          "type": "Weapon",
+          "location": "Blighttown, dropped by the ogres",
+          "locationVi": "Blighttown, rơi từ ogre"
+        }
+      ],
+      "tips": [
+        "The Great Club running R2 is a golf swing that launches enemies — hilarious and effective",
+        "Poise is your best friend — stack as much as you can while mid-rolling",
+        "Two-handing at 27 Strength is equivalent to 40 Strength (use this for extra health)",
+        "The Great Club's R1 has massive horizontal swings — great for crowds",
+        "Crystal infusion gives the highest AR but breaks permanently — use for boss fights only"
+      ],
+      "tipsVi": [
+        "Đòn chạy R2 của Great Club là đánh golf hất tung kẻ địch",
+        "Poise là bạn thân — xếp chồng càng nhiều càng tốt",
+        "Cầm hai tay ở 27 Strength tương đương 40",
+        "R1 có đòn ngang rộng — tốt cho đám đông",
+        "Crystal infusion cho AR cao nhất nhưng vỡ vĩnh viễn"
+      ]
+    },
+    {
+      "slug": "dark-bead",
+      "name": "Dark Bead Mage",
+      "nameVi": "Pháp Sư Hạt Bóng Tối",
+      "description": "A DLC-powered mage build centered around Dark Bead — the single most devastating PvP spell in Dark Souls 1. Fires a fan of dark projectiles that one-shot most players at close range.",
+      "descriptionVi": "Build pháp sư DLC tập trung vào Dark Bead — spell PvP hủy diệt nhất DS1. Bắn ra chùm đạn bóng tối one-shot hầu hết người chơi.",
+      "category": "pvp",
+      "difficulty": 3,
+      "dlc": true,
+      "gameClass": "Sorcerer",
+      "gameClassVi": "Sorcerer",
+      "sl": 125,
+      "stats": {
+        "Vitality": 35,
+        "Attunement": 23,
+        "Endurance": 10,
+        "Strength": 16,
+        "Dexterity": 8,
+        "Resistance": 11,
+        "Intelligence": 50,
+        "Faith": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–45",
+          "areas": "Undead Burg, Parish, Lower Burg",
+          "areasVi": "Undead Burg, Parish, Lower Burg",
+          "steps": [
+            "Choose Sorcerer for starting intelligence",
+            "Grab the catalyst and Soul Arrows from Rickert",
+            "Rescue Griggs for the Bellowing Dragoncrest Ring",
+            "Level Intelligence to 30 early",
+            "Kill the Gaping Dragon for access to Blighttown",
+            "Get the Crown of Dusk for the magic damage boost"
+          ],
+          "stepsVi": [
+            "Chọn Sorcerer cho Intelligence khởi đầu",
+            "Lấy catalyst và Soul Arrow từ Rickert",
+            "Cứu Griggs để lấy Bellowing Dragoncrest Ring",
+            "Tăng Intelligence lên 30 sớm",
+            "Giết Gaping Dragon để vào Blighttown",
+            "Lấy Crown of Dusk để tăng sát thương phép"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "45–85",
+          "areas": "Sen's Fortress, Anor Londo, Duke's Archives",
+          "areasVi": "Sen's Fortress, Anor Londo, Duke's Archives",
+          "steps": [
+            "Free Big Hat Logan from Sen's Fortress",
+            "Buy Soul Spear and Homing Soulmass from Logan",
+            "Kill Ornstein and Smough to reach the Archives",
+            "Buy Crystal Soul Spear from Logan in the Archives",
+            "Find the Tin Crystalization Catalyst for maximum magic adjust",
+            "Level Intelligence to 44 and Attunement to 19"
+          ],
+          "stepsVi": [
+            "Giải thoát Big Hat Logan khỏi Sen's Fortress",
+            "Mua Soul Spear và Homing Soulmass từ Logan",
+            "Giết Ornstein và Smough",
+            "Mua Crystal Soul Spear từ Logan trong Archives",
+            "Tìm Tin Crystalization Catalyst",
+            "Tăng Intelligence lên 44 và Attunement lên 19"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "85–125",
+          "areas": "DLC, Township, Kiln",
+          "areasVi": "DLC, Township, Kiln",
+          "steps": [
+            "Get the Dark Bead spell from Manus's soul (crafted at the blacksmith)",
+            "Acquire the Manus Catalyst for 50% dark damage bonus",
+            "Equip both the Bellowing Dragoncrest Ring and Dusk Crown Ring",
+            "Push Intelligence to 50",
+            "Use Dark Bead at close range for maximum projectile density",
+            "Invade in the Township and one-shot gank squads"
+          ],
+          "stepsVi": [
+            "Lấy Dark Bead từ linh hồn Manus",
+            "Nhận Manus Catalyst tăng 50% sát thương dark",
+            "Trang bị Bellowing Dragoncrest Ring và Dusk Crown Ring",
+            "Đẩy Intelligence lên 50",
+            "Dùng Dark Bead ở cự ly gần cho mật độ đạn tối đa",
+            "Xâm lăng Township và one-shot cả nhóm"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Pursuers",
+          "ar": 0,
+          "scaling": "S Int",
+          "verdict": "Good pressure tool. Cast before engaging to force panic rolls.",
+          "verdictVi": "Công cụ gây áp lực tốt. Niệm trước khi tấn công."
+        },
+        {
+          "name": "Dark Bead",
+          "ar": 0,
+          "scaling": "S Int",
+          "verdict": "The main event. Point-blank one-shot machine.",
+          "verdictVi": "Vũ khí chính. Máy one-shot ở cự ly gần."
+        }
+      ],
+      "items": [
+        {
+          "name": "Manus Catalyst",
+          "type": "Weapon",
+          "location": "DLC, crafted from Manus's soul at the giant blacksmith",
+          "locationVi": "DLC, chế tạo từ linh hồn Manus"
+        },
+        {
+          "name": "Tin Crystalization Catalyst",
+          "type": "Weapon",
+          "location": "Duke's Archives, in a cell near the bonfire",
+          "locationVi": "Duke's Archives, gần bonfire"
+        },
+        {
+          "name": "Bellowing Dragoncrest Ring",
+          "type": "Ring",
+          "location": "Purchased from Griggs of Vinheim",
+          "locationVi": "Mua từ Griggs of Vinheim"
+        },
+        {
+          "name": "Dusk Crown Ring",
+          "type": "Ring",
+          "location": "Darkroot Basin, from the golden golem",
+          "locationVi": "Darkroot Basin, từ golden golem"
+        },
+        {
+          "name": "Crown of Dusk",
+          "type": "Armor",
+          "location": "Darkroot Basin, after killing the golden golem",
+          "locationVi": "Darkroot Basin, sau khi giết golden golem"
+        },
+        {
+          "name": "Dark Bead",
+          "type": "Weapon",
+          "location": "DLC, crafted from Manus's soul at the blacksmith",
+          "locationVi": "DLC, chế tạo từ linh hồn Manus tại thợ rèn"
+        }
+      ],
+      "tips": [
+        "Dark Bead fires 7 projectiles — at point blank all 7 hit for instant death",
+        "Manus Catalyst gives +50% dark damage but halves spell casts",
+        "Stack Dusk Crown Ring + Bellowing Dragoncrest for 50% total magic damage",
+        "Cast Homing Soulmass/Pursuers first, then Dark Bead for a deadly mix-up",
+        "Always stay mobile — you have very little health and poise"
+      ],
+      "tipsVi": [
+        "Dark Bead bắn 7 đạn — ở cự ly gần cả 7 trúng là chết ngay",
+        "Manus Catalyst tăng 50% sát thương dark nhưng giảm một nửa số lần niệm",
+        "Dusk Crown Ring + Bellowing Dragoncrest tăng tổng 50% sát thương phép",
+        "Niệm Homing Soulmass/Pursuers trước, rồi Dark Bead sau",
+        "Luôn di chuyển — bạn có rất ít máu và poise"
+      ]
+    }
+  ]
+}

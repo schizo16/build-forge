@@ -1,0 +1,1175 @@
+{
+  "name": "Bloodborne",
+  "nameVi": "Bloodborne",
+  "accent": "#EAB308",
+  "itemType": "Rune",
+  "itemTypeVi": "Rune",
+  "builds": [
+    {
+      "slug": "saw-cleaver-quality",
+      "name": "Saw Cleaver Quality",
+      "nameVi": "Chất Lượng Saw Cleaver",
+      "description": "The quintessential Bloodborne quality build using the Saw Cleaver. Serrated damage for beasts, transformation attacks for style, and the highest sustained DPS in the game. The weapon that speedrunners trust.",
+      "descriptionVi": "Build chất lượng của Bloodborne với Saw Cleaver. Sát thương serrated cho quái vật, đòn biến hình đẹp mắt và DPS bền vững cao nhất game.",
+      "category": "meta",
+      "difficulty": 1,
+      "dlc": true,
+      "gameClass": "Military Veteran",
+      "gameClassVi": "Military Veteran",
+      "sl": 120,
+      "stats": {
+        "Vitality": 40,
+        "Endurance": 25,
+        "Strength": 35,
+        "Skill": 35,
+        "Bloodtinge": 6,
+        "Arcane": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward, Old Yharnam",
+          "areasVi": "Central Yharnam, Cathedral Ward, Old Yharnam",
+          "steps": [
+            "Choose Military Veteran for balanced starting stats",
+            "Pick the Saw Cleaver as your starting weapon",
+            "Level Vitality to 20 and Endurance to 15",
+            "Upgrade Saw Cleaver to +3 using Blood Stone Shards",
+            "Kill Cleric Beast and Father Gascoigne",
+            "Equip the Hunter's Set from the Bath Messengers"
+          ],
+          "stepsVi": [
+            "Chọn Military Veteran cho chỉ số cân bằng",
+            "Chọn Saw Cleaver làm vũ khí khởi đầu",
+            "Tăng Vitality lên 20 và Endurance lên 15",
+            "Nâng Saw Cleaver lên +3",
+            "Giết Cleric Beast và Father Gascoigne",
+            "Trang bị Hunter's Set"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Hemwick, Forbidden Woods, Byrgenwerth",
+          "areasVi": "Hemwick, Forbidden Woods, Byrgenwerth",
+          "steps": [
+            "Push Strength and Skill evenly to 25/25",
+            "Upgrade Saw Cleaver to +6 with Twin Blood Stone Shards",
+            "Kill Vicar Amelia for the password",
+            "Complete Hemwick Charnel Lane for the Rune Workshop Tool",
+            "Get the Threaded Cane as a backup for crowds",
+            "Find Runes for extra stamina or HP"
+          ],
+          "stepsVi": [
+            "Tăng đều Strength và Skill lên 25/25",
+            "Nâng Saw Cleaver lên +6",
+            "Giết Vicar Amelia",
+            "Hoàn thành Hemwick Charnel Lane",
+            "Lấy Threaded Cane dự phòng",
+            "Tìm Rune tăng stamina hoặc máu"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "BL 90–120",
+          "areas": "Yahargul, Nightmare of Mensis, DLC",
+          "areasVi": "Yahargul, Nightmare of Mensis, DLC",
+          "steps": [
+            "Push Str/Skl to 35/35 for the soft caps",
+            "Max Saw Cleaver to +10 with a Blood Rock",
+            "Get the Beast Blood Pellet for boss melting",
+            "Equip 15%+ HP and stamina runes",
+            "Farm Winter Lanterns for best physical droplet gems",
+            "The L1 transformation attack combo is your highest DPS"
+          ],
+          "stepsVi": [
+            "Đẩy Str/Skl lên 35/35",
+            "Nâng Saw Cleaver lên +10",
+            "Lấy Beast Blood Pellet cho boss",
+            "Trang bị Rune máu và stamina 15%+",
+            "Farm Winter Lanterns cho gem vật lý",
+            "Combo L1 biến hình là DPS cao nhất"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Physical Gems 27.2%",
+          "ar": 650,
+          "scaling": "S Str/Skl",
+          "verdict": "Best. Farm cursed tempering gems from chalice dungeons.",
+          "verdictVi": "Tốt nhất. Farm gem từ chalice dungeon."
+        },
+        {
+          "name": "Fire Gems",
+          "ar": 520,
+          "scaling": "B Str/Skl",
+          "verdict": "Good for enemies weak to fire but loses serrated bonus.",
+          "verdictVi": "Tốt cho kẻ yếu lửa nhưng mất serrated."
+        }
+      ],
+      "items": [
+        {
+          "name": "Saw Cleaver",
+          "type": "Weapon",
+          "location": "Starting weapon or purchased from Bath Messengers",
+          "locationVi": "Vũ khí khởi đầu hoặc mua từ Bath Messengers"
+        },
+        {
+          "name": "Hunter Set",
+          "type": "Armor",
+          "location": "Purchased from Bath Messengers in Hunter's Dream",
+          "locationVi": "Mua từ Bath Messengers"
+        },
+        {
+          "name": "Beast Blood Pellet",
+          "type": "Weapon",
+          "location": "Found throughout Yharnam, commonly in Forbidden Woods",
+          "locationVi": "Tìm thấy khắp Yharnam"
+        },
+        {
+          "name": "Rune Workshop Tool",
+          "type": "Rune",
+          "location": "Hemwick Charnel Lane after Witch of Hemwick",
+          "locationVi": "Hemwick Charnel Lane sau Witch of Hemwick"
+        },
+        {
+          "name": "Blood Rock",
+          "type": "Weapon",
+          "location": "Nightmare of Mensis near Mergo's Loft Middle",
+          "locationVi": "Nightmare of Mensis gần Mergo's Loft Middle"
+        }
+      ],
+      "tips": [
+        "The Saw Cleaver's transformed R1 has serrated damage bonus — 20% more to beasts",
+        "L1 transformation attacks chain into each other for massive DPS",
+        "Beast Blood Pellet + Bolt Paper = insane damage output",
+        "The untricked R2 is a thrust — use it for counter damage on Kin",
+        "Always repair your weapon at the workshop"
+      ],
+      "tipsVi": [
+        "R1 biến hình của Saw Cleaver có serrated — 20% sát thương thêm cho quái",
+        "Đòn L1 biến hình nối tiếp cho DPS khổng lồ",
+        "Beast Blood Pellet + Bolt Paper = sát thương điên cuồng",
+        "R2 không biến hình là đâm — dùng cho Kin",
+        "Luôn sửa vũ khí ở workshop"
+      ]
+    },
+    {
+      "slug": "holy-blade",
+      "name": "Ludwig's Holy Blade",
+      "nameVi": "Thánh Kiếm Ludwig",
+      "description": "The legendary Ludwig's Holy Blade — the 'easy mode' weapon of Bloodborne. A quality greatsword with incredible reach, S scaling at +10, and the best charged R2 in the game.",
+      "descriptionVi": "Thanh kiếm huyền thoại Ludwig's Holy Blade — 'chế độ dễ' của Bloodborne. Đại kiếm chất lượng với tầm đánh tuyệt vời và charged R2 mạnh nhất game.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": true,
+      "gameClass": "Military Veteran",
+      "gameClassVi": "Military Veteran",
+      "sl": 120,
+      "stats": {
+        "Vitality": 40,
+        "Endurance": 25,
+        "Strength": 40,
+        "Skill": 25,
+        "Bloodtinge": 6,
+        "Arcane": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward, Old Yharnam",
+          "areasVi": "Central Yharnam, Cathedral Ward, Old Yharnam",
+          "steps": [
+            "Pick Military Veteran for balanced stats",
+            "Buy Sword Hunter Badge after killing Cleric Beast",
+            "Purchase Ludwig's Holy Blade from messengers",
+            "Level Strength to 20 and Skill to 15",
+            "Upgrade to +3",
+            "Use untricked moveset for tight spaces"
+          ],
+          "stepsVi": [
+            "Chọn Military Veteran",
+            "Mua Sword Hunter Badge sau Cleric Beast",
+            "Mua Ludwig's Holy Blade",
+            "Tăng Strength lên 20 và Skill lên 15",
+            "Nâng lên +3",
+            "Dùng moveset không biến hình"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
+          "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+          "steps": [
+            "Push Strength to 30 and Skill to 20",
+            "Upgrade LHB to +6",
+            "Equip best stamina and HP runes",
+            "Learn transformed moveset — charged R2 pancake",
+            "Get Executioner Set from Cainhurst",
+            "Kill Rom"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 30 và Skill lên 20",
+            "Nâng LHB lên +6",
+            "Trang bị Rune stamina và máu",
+            "Học moveset biến hình",
+            "Lấy Executioner Set",
+            "Giết Rom"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "BL 90–120",
+          "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "steps": [
+            "Push Strength to 40 and Skill to 25",
+            "Max LHB to +10",
+            "Farm 27.2% cursed physical gems from chalice dungeons",
+            "Charged R2 knocks down everything including bosses",
+            "Equip +15% HP rune and two stamina runes",
+            "Use bolt paper for beasts and fire paper for kin"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 40 và Skill lên 25",
+            "Nâng LHB lên +10",
+            "Farm gem 27.2% từ chalice",
+            "Charged R2 đánh ngã mọi thứ",
+            "Trang bị Rune +15% máu và hai Rune stamina",
+            "Dùng bolt cho quái, fire cho kin"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Physical 27.2%",
+          "ar": 700,
+          "scaling": "S Str/Skl",
+          "verdict": "Best. Three physical gems from chalice dungeons.",
+          "verdictVi": "Tốt nhất. Ba gem vật lý từ chalice."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ludwig's Holy Blade",
+          "type": "Weapon",
+          "location": "Purchased from Bath Messengers after Sword Hunter Badge",
+          "locationVi": "Mua từ Bath Messengers sau Sword Hunter Badge"
+        },
+        {
+          "name": "Sword Hunter Badge",
+          "type": "Weapon",
+          "location": "Dropped by Cleric Beast in Central Yharnam",
+          "locationVi": "Rơi từ Cleric Beast"
+        },
+        {
+          "name": "Executioner Set",
+          "type": "Armor",
+          "location": "Cainhurst Castle in a chest near throne room",
+          "locationVi": "Cainhurst Castle trong rương gần phòng ngai"
+        },
+        {
+          "name": "Blood Rock",
+          "type": "Weapon",
+          "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
+          "locationVi": "Nightmare of Mensis hoặc Chalice Dungeon"
+        }
+      ],
+      "tips": [
+        "Transformed charged R2 has highest single-hit damage in base game",
+        "Ludwig's Holy Blade has S scaling in both Strength and Skill at +10",
+        "Use untricked R1 for fast swipes against quick enemies",
+        "Tricked R2 can be charged for two-hit combo on wake-up",
+        "This build trivializes most chalice dungeon bosses"
+      ],
+      "tipsVi": [
+        "Charged R2 biến hình có sát thương một đòn cao nhất",
+        "LHB có S scaling cả Strength và Skill ở +10",
+        "R1 không biến hình cho đòn nhanh",
+        "R2 biến hình có thể tích thành combo hai đòn",
+        "Build này làm chalice dungeon dễ hơn nhiều"
+      ]
+    },
+    {
+      "slug": "chikage-bloodtinge",
+      "name": "Chikage Bloodtinge",
+      "nameVi": "Chikage Máu",
+      "description": "A Bloodtinge build around the Chikage katana. The transformed mode drains HP but melts everything with blood damage. Devastating in PvP with the Evelyn pistol.",
+      "descriptionVi": "Build Bloodtinge với katana Chikage. Chế độ biến hình hao máu nhưng hủy diệt mọi thứ bằng sát thương máu. Mạnh trong PvP với súng Evelyn.",
+      "category": "pvp",
+      "difficulty": 3,
+      "dlc": true,
+      "gameClass": "Noble Scion",
+      "gameClassVi": "Noble Scion",
+      "sl": 120,
+      "stats": {
+        "Vitality": 35,
+        "Endurance": 20,
+        "Strength": 10,
+        "Skill": 25,
+        "Bloodtinge": 50,
+        "Arcane": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward, Cainhurst",
+          "areasVi": "Central Yharnam, Cathedral Ward, Cainhurst",
+          "steps": [
+            "Pick Noble Scion for highest starting Bloodtinge",
+            "Rush to Cainhurst Castle via Cainhurst Summons",
+            "Defeat Martyr Logarius for Chikage",
+            "Level Bloodtinge to 25 first",
+            "Use Repeating Pistol as firearm",
+            "Upgrade Chikage to +3"
+          ],
+          "stepsVi": [
+            "Chọn Noble Scion cho Bloodtinge cao nhất",
+            "Chạy đến Cainhurst Castle",
+            "Đánh bại Martyr Logarius cho Chikage",
+            "Tăng Bloodtinge lên 25 trước",
+            "Dùng Repeating Pistol",
+            "Nâng Chikage lên +3"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
+          "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+          "steps": [
+            "Push Bloodtinge to 40",
+            "Upgrade Chikage to +6",
+            "Get Evelyn pistol from Cainhurst Castle",
+            "Level Skill to 20 for untricked mode",
+            "Equip Blood Rapture and Oedon Writhe runes",
+            "Learn L1 transform attack into R1"
+          ],
+          "stepsVi": [
+            "Đẩy Bloodtinge lên 40",
+            "Nâng Chikage lên +6",
+            "Lấy Evelyn từ Cainhurst Castle",
+            "Tăng Skill lên 20",
+            "Trang bị Rune Blood Rapture và Oedon Writhe",
+            "Học đòn biến hình L1 vào R1"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "BL 90–120",
+          "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "steps": [
+            "Push Bloodtinge to 50 for soft cap",
+            "Max Chikage to +10",
+            "Farm cursed bloodtinge gems from chalice dungeons",
+            "Get Bloodletter from DLC as alternative",
+            "Equip 2 stamina runes for transformed mode",
+            "Transformed L1 R1 true combo is your bread and butter"
+          ],
+          "stepsVi": [
+            "Đẩy Bloodtinge lên 50",
+            "Nâng Chikage lên +10",
+            "Farm gem bloodtinge từ chalice",
+            "Lấy Bloodletter từ DLC",
+            "Trang bị 2 Rune stamina",
+            "Combo L1 R1 thật là kỹ năng chính"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Bloodtinge Gems 31.5%",
+          "ar": 780,
+          "scaling": "S Bld",
+          "verdict": "Best for transformed mode. Farm from shotgun watchers in chalice.",
+          "verdictVi": "Tốt nhất cho chế độ biến hình. Farm từ watchers."
+        }
+      ],
+      "items": [
+        {
+          "name": "Chikage",
+          "type": "Weapon",
+          "location": "Cainhurst Castle after killing Martyr Logarius",
+          "locationVi": "Cainhurst Castle sau Martyr Logarius"
+        },
+        {
+          "name": "Evelyn",
+          "type": "Weapon",
+          "location": "Cainhurst Castle near the entrance",
+          "locationVi": "Cainhurst Castle gần lối vào"
+        },
+        {
+          "name": "Repeating Pistol",
+          "type": "Weapon",
+          "location": "Central Yharnam from Bath Messengers",
+          "locationVi": "Central Yharnam từ Bath Messengers"
+        },
+        {
+          "name": "Bloodletter",
+          "type": "Weapon",
+          "location": "The Old Hunters DLC in Research Hall",
+          "locationVi": "DLC The Old Hunters Research Hall"
+        },
+        {
+          "name": "Cainhurst Set",
+          "type": "Armor",
+          "location": "Cainhurst Castle in floating chairs area",
+          "locationVi": "Cainhurst Castle"
+        },
+        {
+          "name": "Bone Marrow Ash",
+          "type": "Weapon",
+          "location": "Found throughout game, purchased from Messengers",
+          "locationVi": "Tìm thấy khắp game"
+        }
+      ],
+      "tips": [
+        "Transformed Chikage drains HP — don't idle in transformed mode",
+        "Transformed R1 costs HP per swing but has incredible damage",
+        "Use Bone Marrow Ash with Evelyn for devastating gun damage",
+        "L1 transform attack counts as blood attack",
+        "Transformed charged R2 is a horizontal slash with massive range"
+      ],
+      "tipsVi": [
+        "Chikage biến hình hao máu — không idle khi biến hình",
+        "R1 biến hình tốn máu nhưng sát thương khủng",
+        "Bone Marrow Ash + Evelyn cho sát thương súng hủy diệt",
+        "Đòn L1 biến hình được tính là đòn máu",
+        "Charged R2 biến hình là chém ngang tầm rộng"
+      ]
+    },
+    {
+      "slug": "rakuyo-skill",
+      "name": "Rakuyo Skill",
+      "nameVi": "Rakuyo Kỹ Năng",
+      "description": "A Skill build wielding the Rakuyo from the DLC. The most complex and rewarding moveset in Bloodborne with incredible damage potential. Dual-wield mode transforms you into a blender.",
+      "descriptionVi": "Build Skill với Rakuyo từ DLC. Moveset phức tạp và bổ ích nhất Bloodborne với tiềm năng sát thương khủng. Chế độ song kiếm biến bạn thành máy xay.",
+      "category": "pvp",
+      "difficulty": 3,
+      "dlc": true,
+      "gameClass": "Professional",
+      "gameClassVi": "Professional",
+      "sl": 120,
+      "stats": {
+        "Vitality": 35,
+        "Endurance": 25,
+        "Strength": 10,
+        "Skill": 50,
+        "Bloodtinge": 8,
+        "Arcane": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward",
+          "areasVi": "Central Yharnam, Cathedral Ward",
+          "steps": [
+            "Pick Professional for highest starting Skill",
+            "Use Threaded Cane as early weapon",
+            "Level Skill to 25 and Vitality to 20",
+            "Upgrade Threaded Cane to +4",
+            "Kill Cleric Beast and Father Gascoigne",
+            "Get Hunter's Set from messengers"
+          ],
+          "stepsVi": [
+            "Chọn Professional cho Skill khởi đầu cao nhất",
+            "Dùng Threaded Cane tạm thời",
+            "Tăng Skill lên 25 và Vitality lên 20",
+            "Nâng Threaded Cane lên +4",
+            "Giết Cleric Beast và Father Gascoigne",
+            "Lấy Hunter's Set"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Forbidden Woods, Byrgenwerth, Yahargul",
+          "areasVi": "Forbidden Woods, Byrgenwerth, Yahargul",
+          "steps": [
+            "Push Skill to 35",
+            "Progress through DLC to reach Fishing Hamlet",
+            "Defeat the two Shark Giants for Rakuyo",
+            "Upgrade Rakuyo to +6",
+            "Equip Clawmark and Blood Rapture runes",
+            "Learn the transformed L2 spin-to-win"
+          ],
+          "stepsVi": [
+            "Đẩy Skill lên 35",
+            "Đến Fishing Hamlet trong DLC",
+            "Đánh bại Shark Giants cho Rakuyo",
+            "Nâng Rakuyo lên +6",
+            "Trang bị Rune Clawmark và Blood Rapture",
+            "Học L2 biến hình quay chết chóc"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "BL 90–120",
+          "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "steps": [
+            "Push Skill to 50 for soft cap",
+            "Max Rakuyo to +10",
+            "Farm 27.2% physical gems from chalice",
+            "Transformed L2 true combos into R1 for massive damage",
+            "Equip +15% HP and stamina runes",
+            "Practice the Rakuyo backstep R1 for PvP spacing"
+          ],
+          "stepsVi": [
+            "Đẩy Skill lên 50",
+            "Nâng Rakuyo lên +10",
+            "Farm gem 27.2% từ chalice",
+            "L2 biến hình true combo vào R1",
+            "Trang bị Rune +15% máu và stamina",
+            "Luyện backstep R1 để spacing PvP"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Physical 27.2%",
+          "ar": 620,
+          "scaling": "S Skl",
+          "verdict": "Best. Three cursed tempering gems from chalice.",
+          "verdictVi": "Tốt nhất. Ba gem từ chalice."
+        }
+      ],
+      "items": [
+        {
+          "name": "Rakuyo",
+          "type": "Weapon",
+          "location": "Fishing Hamlet DLC after defeating Shark Giants",
+          "locationVi": "Fishing Hamlet DLC sau Shark Giants"
+        },
+        {
+          "name": "Threaded Cane",
+          "type": "Weapon",
+          "location": "Starting weapon or purchased from Bath Messengers",
+          "locationVi": "Vũ khí khởi đầu hoặc mua từ Bath Messengers"
+        },
+        {
+          "name": "Hunter Set",
+          "type": "Armor",
+          "location": "Purchased from Bath Messengers",
+          "locationVi": "Mua từ Bath Messengers"
+        },
+        {
+          "name": "Blood Rock",
+          "type": "Weapon",
+          "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
+          "locationVi": "Nightmare of Mensis hoặc Chalice Dungeon"
+        }
+      ],
+      "tips": [
+        "Rakuyo transformed L2 is a multi-hit spin that stunlocks enemies",
+        "Backstep R1 is one of the best spacing tools in the game",
+        "Untricked mode has a fast thrust R2 for counter damage",
+        "The transformed running R1 has incredible range for roll catches",
+        "Skill weapons benefit most from high stat investment — 50 Skill minimum"
+      ],
+      "tipsVi": [
+        "L2 biến hình Rakuyo là đòn quay stunlock",
+        "Backstep R1 là spacing tool tốt nhất game",
+        "R2 không biến hình là đâm nhanh",
+        "Chạy R1 biến hình có tầm xa tuyệt vời",
+        "Skill cần tối thiểu 50 để tối đa sát thương"
+      ]
+    },
+    {
+      "slug": "beast-claw",
+      "name": "Beast Claw",
+      "nameVi": "Vuốt Thú",
+      "description": "A meme build using the Beast Claw with the Beast's Embrace rune. Transforms you into a beast-human hybrid with a unique moveset. Build beasthood meter for insane damage potential.",
+      "descriptionVi": "Build meme với Beast Claw và Beast's Embrace rune. Biến bạn thành quái thú lai người với moveset độc đáo. Tích beasthood meter cho sát thương điên cuồng.",
+      "category": "meme",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Military Veteran",
+      "gameClassVi": "Military Veteran",
+      "sl": 120,
+      "stats": {
+        "Vitality": 35,
+        "Endurance": 30,
+        "Strength": 40,
+        "Skill": 25,
+        "Bloodtinge": 6,
+        "Arcane": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward",
+          "areasVi": "Central Yharnam, Cathedral Ward",
+          "steps": [
+            "Pick Military Veteran for balanced stats",
+            "Beat the game to reach the DLC or trade for Beast Claw",
+            "Level Strength to 25 and Skill to 15",
+            "Use Saw Cleaver until you get Beast Claw",
+            "Build basic stamina and HP",
+            "Kill Cleric Beast and Gascoigne"
+          ],
+          "stepsVi": [
+            "Chọn Military Veteran",
+            "Đánh game đến DLC để lấy Beast Claw",
+            "Tăng Strength lên 25 và Skill lên 15",
+            "Dùng Saw Cleaver tạm thời",
+            "Tăng stamina và máu",
+            "Giết Cleric Beast và Gascoigne"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Forbidden Woods, Byrgenwerth, DLC",
+          "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+          "steps": [
+            "Push Strength to 35",
+            "Get Beast Claw from The Old Hunters DLC",
+            "Find Beast's Embrace rune in the DLC",
+            "Equip the rune to unlock beast mode moveset",
+            "Upgrade Beast Claw to +6",
+            "Equip runes for stamina and beasthood"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 35",
+            "Lấy Beast Claw từ DLC",
+            "Tìm Beast's Embrace rune trong DLC",
+            "Trang bị rune để mở moveset thú",
+            "Nâng Beast Claw lên +6",
+            "Trang bị Rune stamina và beasthood"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "BL 90–120",
+          "areas": "Nightmare of Mensis, Chalice Dungeons",
+          "areasVi": "Nightmare of Mensis, Chalice Dungeons",
+          "steps": [
+            "Push Strength to 40 and Skill to 25",
+            "Max Beast Claw to +10",
+            "Equip physical gems from chalice",
+            "Build beasthood meter before boss fog",
+            "Use Beast Blood Pellet for even more damage",
+            "The beast mode L2 leap attack is your best gap closer"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 40 và Skill lên 25",
+            "Nâng Beast Claw lên +10",
+            "Trang bị gem vật lý từ chalice",
+            "Tích beasthood trước boss",
+            "Dùng Beast Blood Pellet để tăng sát thương",
+            "Đòn L2 nhảy là gap closer tốt nhất"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Physical 27.2%",
+          "ar": 550,
+          "scaling": "B Str",
+          "verdict": "Beast Claw has lower AR but the playstyle makes up for it.",
+          "verdictVi": "AR thấp nhưng lối chơi bù lại."
+        }
+      ],
+      "items": [
+        {
+          "name": "Beast Claw",
+          "type": "Weapon",
+          "location": "The Old Hunters DLC, near the Ludwig boss arena",
+          "locationVi": "DLC The Old Hunters gần Ludwig"
+        },
+        {
+          "name": "Beast's Embrace Rune",
+          "type": "Rune",
+          "location": "The Old Hunters DLC, dropped by Laurence the First Vicar",
+          "locationVi": "DLC The Old Hunters từ Laurence"
+        },
+        {
+          "name": "Beast Blood Pellet",
+          "type": "Weapon",
+          "location": "Found throughout Yharnam",
+          "locationVi": "Tìm thấy khắp Yharnam"
+        },
+        {
+          "name": "Hunter Set",
+          "type": "Armor",
+          "location": "Purchased from Bath Messengers",
+          "locationVi": "Mua từ Bath Messengers"
+        }
+      ],
+      "tips": [
+        "Beast's Embrace rune changes your entire moveset — more aggressive, lower defense",
+        "Build beasthood meter by attacking rapidly without getting hit",
+        "Beast Claw attacks are incredibly fast — you can chain 6+ hits easily",
+        "The transformed L2 is a flying leap attack with great closing power",
+        "Beast mode reduces your defense by 30% — be aggressive or die"
+      ],
+      "tipsVi": [
+        "Beast's Embrace rune thay đổi toàn bộ moveset",
+        "Tích beasthood bằng cách tấn công liên tục",
+        "Beast Claw cực nhanh — có thể đánh 6+ đòn",
+        "L2 biến hình là đòn nhảy tiếp cận tốt",
+        "Chế độ thú giảm 30% phòng thủ"
+      ]
+    },
+    {
+      "slug": "kos-parasite-arcane",
+      "name": "Kos Parasite Arcane",
+      "nameVi": "Ký Sinh Trùng Kos",
+      "description": "An Arcane build using the Kos Parasite with the Milkweed rune. Transform into a broccoli-headed Kin being with tentacle attacks. High Arcane scaling makes this a meme powerhouse.",
+      "descriptionVi": "Build Arcane với Kos Parasite và Milkweed rune. Biến thành sinh vật Kin đầu súp lơ với đòn xúc tu. Scaling Arcane cao biến meme thành sát thương khủng.",
+      "category": "meme",
+      "difficulty": 3,
+      "dlc": true,
+      "gameClass": "Cruel Fate",
+      "gameClassVi": "Cruel Fate",
+      "sl": 120,
+      "stats": {
+        "Vitality": 30,
+        "Endurance": 15,
+        "Strength": 9,
+        "Skill": 9,
+        "Bloodtinge": 5,
+        "Arcane": 70
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward",
+          "areasVi": "Central Yharnam, Cathedral Ward",
+          "steps": [
+            "Pick Cruel Fate for highest starting Arcane",
+            "Level Arcane to 25 first",
+            "Use Flamesprayer as main weapon",
+            "Buy Hunter Chief Emblem to open Cathedral Ward",
+            "Find fire gem in Cathedral Ward to convert a weapon",
+            "Kill Cleric Beast and Gascoigne"
+          ],
+          "stepsVi": [
+            "Chọn Cruel Fate cho Arcane cao nhất",
+            "Tăng Arcane lên 25 trước",
+            "Dùng Flamesprayer làm vũ khí chính",
+            "Mua Hunter Chief Emblem",
+            "Tìm fire gem trong Cathedral Ward",
+            "Giết Cleric Beast và Gascoigne"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Forbidden Woods, Byrgenwerth, DLC",
+          "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+          "steps": [
+            "Push Arcane to 50",
+            "Equip elemental gems on a Saw Cleaver or Threaded Cane",
+            "Get the Augur of Ebrietas from Byrgenwerth",
+            "Reach the DLC and kill Orphan of Kos",
+            "Get Kos Parasite from Orphan's soul",
+            "Find Milkweed rune from Saint Adeline's quest in DLC"
+          ],
+          "stepsVi": [
+            "Đẩy Arcane lên 50",
+            "Trang bị gem nguyên tố trên Saw Cleaver",
+            "Lấy Augur of Ebrietas từ Byrgenwerth",
+            "Đến DLC và giết Orphan of Kos",
+            "Lấy Kos Parasite từ linh hồn Orphan",
+            "Tìm Milkweed rune từ nhiệm vụ Saint Adeline"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "BL 90–120",
+          "areas": "Nightmare of Mensis, Chalice Dungeons",
+          "areasVi": "Nightmare of Mensis, Chalice Dungeons",
+          "steps": [
+            "Push Arcane to 70 for maximum parasite damage",
+            "Max Kos Parasite to +10",
+            "Farm arcane gems from chalice dungeons",
+            "Equip Milkweed rune to transform into Kin form",
+            "The transformed R2 tentacle attack has enormous range",
+            "Use Executioner's Gloves for ranged damage"
+          ],
+          "stepsVi": [
+            "Đẩy Arcane lên 70",
+            "Nâng Kos Parasite lên +10",
+            "Farm gem arcane từ chalice",
+            "Trang bị Milkweed rune để biến hình Kin",
+            "R2 biến hình xúc tu có tầm cực xa",
+            "Dùng Executioner's Gloves cho đòn xa"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Arcane Gems",
+          "ar": 520,
+          "scaling": "S Arc",
+          "verdict": "Best. Farm arcane scaling gems from chalice bosses.",
+          "verdictVi": "Tốt nhất. Farm gem arcane từ chalice."
+        }
+      ],
+      "items": [
+        {
+          "name": "Kos Parasite",
+          "type": "Weapon",
+          "location": "The Old Hunters DLC, traded from Orphan of Kos soul",
+          "locationVi": "DLC The Old Hunters từ linh hồn Orphan of Kos"
+        },
+        {
+          "name": "Milkweed Rune",
+          "type": "Rune",
+          "location": "The Old Hunters DLC from Saint Adeline's quest",
+          "locationVi": "DLC The Old Hunters từ nhiệm vụ Saint Adeline"
+        },
+        {
+          "name": "Augur of Ebrietas",
+          "type": "Weapon",
+          "location": "Byrgenwerth, dropped by a student enemy near the lamp",
+          "locationVi": "Byrgenwerth từ quái student"
+        },
+        {
+          "name": "Flamesprayer",
+          "type": "Weapon",
+          "location": "Central Yharnam, rescued from Gilbert NPC",
+          "locationVi": "Central Yharnam từ Gilbert"
+        },
+        {
+          "name": "Executioner's Gloves",
+          "type": "Weapon",
+          "location": "Cainhurst Castle found on a corpse",
+          "locationVi": "Cainhurst Castle trên xác chết"
+        }
+      ],
+      "tips": [
+        "Milkweed rune + Kos Parasite transforms you into a Kin — unique L2 and R2 attacks",
+        "Transformed R2 tentacles have incredible range and knockback",
+        "Arcane 70 gives you the highest possible scaling on elemental weapons",
+        "Augur of Ebrietas can parry from the front — useful for fist parries",
+        "Use Tiny Tonitrus for AoE crowd control"
+      ],
+      "tipsVi": [
+        "Milkweed + Kos Parasite biến bạn thành Kin",
+        "R2 xúc tu có tầm đánh xa và đẩy lùi",
+        "70 Arcane cho scaling cao nhất",
+        "Augur of Ebrietas có thể parry từ phía trước",
+        "Dùng Tiny Tonitrus để kiểm soát đám đông"
+      ]
+    },
+    {
+      "slug": "bowblade",
+      "name": "Simon's Bowblade",
+      "nameVi": "Cung Kiếm Simon",
+      "description": "A Skill/Bloodtinge hybrid using Simon's Bowblade from the DLC. Fires arrows in transformed mode for safe ranged damage or uses curved sword melee when enemies close in.",
+      "descriptionVi": "Build Skill/Bloodtinge hybrid với Simon's Bowblade từ DLC. Bắn tên ở chế độ cung hoặc dùng kiếm cong khi cận chiến.",
+      "category": "pve",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Military Veteran",
+      "gameClassVi": "Military Veteran",
+      "sl": 120,
+      "stats": {
+        "Vitality": 35,
+        "Endurance": 20,
+        "Strength": 10,
+        "Skill": 40,
+        "Bloodtinge": 35,
+        "Arcane": 6
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward",
+          "areasVi": "Central Yharnam, Cathedral Ward",
+          "steps": [
+            "Pick Military Veteran for balanced stats",
+            "Level Skill to 20 first for physical damage",
+            "Use Saw Spear as your early weapon",
+            "Rush through the game to reach the DLC",
+            "Complete Simon's questline in the DLC",
+            "Get Bowblade from Simon at the Fishing Hamlet"
+          ],
+          "stepsVi": [
+            "Chọn Military Veteran",
+            "Tăng Skill lên 20 trước",
+            "Dùng Saw Spear tạm thời",
+            "Chạy đến DLC",
+            "Hoàn thành nhiệm vụ Simon trong DLC",
+            "Lấy Bowblade từ Simon ở Fishing Hamlet"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Forbidden Woods, Byrgenwerth, DLC",
+          "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+          "steps": [
+            "Push Skill to 30 and Bloodtinge to 25",
+            "Upgrade Bowblade to +6",
+            "Learn the transform attack combo",
+            "Equip runes for stamina and bullet regen",
+            "Get the Hunter's Bone for mobility",
+            "Practice bow mode charged R2 for max range sniping"
+          ],
+          "stepsVi": [
+            "Đẩy Skill lên 30 và Bloodtinge lên 25",
+            "Nâng Bowblade lên +6",
+            "Học đòn biến hình combo",
+            "Trang bị Rune stamina và hồi đạn",
+            "Lấy Hunter's Bone cho di chuyển",
+            "Luyện charged R2 cung để bắn tỉa"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "BL 90–120",
+          "areas": "Nightmare of Mensis, Chalice Dungeons",
+          "areasVi": "Nightmare of Mensis, Chalice Dungeons",
+          "steps": [
+            "Push Skill to 40 and Bloodtinge to 35",
+            "Max Bowblade to +10",
+            "Farm bloodtinge gems for bow mode",
+            "Farm physical gems for blade mode",
+            "Bow mode trivializes many chalice dungeon bosses",
+            "The charged R2 arrow does immense damage from safe distance"
+          ],
+          "stepsVi": [
+            "Đẩy Skill lên 40 và Bloodtinge lên 35",
+            "Nâng Bowblade lên +10",
+            "Farm gem bloodtinge cho cung",
+            "Farm gem vật lý cho kiếm",
+            "Chế độ cung làm nhiều boss dễ hơn",
+            "Charged R2 bắn tên sát thương khủng từ xa"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Bloodtinge Gems",
+          "ar": 580,
+          "scaling": "S Bld",
+          "verdict": "Best for bow mode damage.",
+          "verdictVi": "Tốt nhất cho chế độ cung."
+        },
+        {
+          "name": "Physical Gems",
+          "ar": 470,
+          "scaling": "A Skl",
+          "verdict": "Best for blade mode damage.",
+          "verdictVi": "Tốt nhất cho chế độ kiếm."
+        }
+      ],
+      "items": [
+        {
+          "name": "Simon's Bowblade",
+          "type": "Weapon",
+          "location": "The Old Hunters DLC from Simon's questline",
+          "locationVi": "DLC The Old Hunters từ nhiệm vụ Simon"
+        },
+        {
+          "name": "Hunter's Bone",
+          "type": "Weapon",
+          "location": "Forbidden Woods, found in a cave near the poison swamp",
+          "locationVi": "Forbidden Woods gần đầm độc"
+        },
+        {
+          "name": "Formless Oedon Rune",
+          "type": "Rune",
+          "location": "Found in the Forbidden Woods",
+          "locationVi": "Forbidden Woods"
+        },
+        {
+          "name": "Blood Rock",
+          "type": "Weapon",
+          "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
+          "locationVi": "Nightmare of Mensis hoặc Chalice"
+        }
+      ],
+      "tips": [
+        "Bow mode scales with Bloodtinge — invest heavily if you want ranged damage",
+        "Charged bow R2 arrows can be aimed manually for precision shots",
+        "Transform attack L1 from blade to bow fires an arrow automatically",
+        "Use bow mode to safely clear areas before engaging in melee",
+        "Keep Bone Marrow Ash for emergency bow mode damage boost"
+      ],
+      "tipsVi": [
+        "Chế độ cung tăng theo Bloodtinge",
+        "Charged R2 cung có thể ngắm thủ công",
+        "Đòn L1 biến hình từ kiếm sang cung tự động bắn tên",
+        "Dùng cung để clear khu vực từ xa",
+        "Giữ Bone Marrow Ash cho tăng sát thương khẩn cấp"
+      ]
+    },
+    {
+      "slug": "whirligig-saw",
+      "name": "Whirligig Saw STR",
+      "nameVi": "Cưa Máy Sức Mạnh",
+      "description": "A Strength build using the Whirligig Saw (pizza cutter) from the DLC. The transformed L2 spins the saw blade for continuous damage. Absolutely melts large bosses and beasts.",
+      "descriptionVi": "Build Strength với Whirligig Saw (máy cắt pizza) từ DLC. L2 biến hình quay lưỡi cưa liên tục. Hủy diệt boss to và quái vật.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": true,
+      "gameClass": "Military Veteran",
+      "gameClassVi": "Military Veteran",
+      "sl": 120,
+      "stats": {
+        "Vitality": 40,
+        "Endurance": 25,
+        "Strength": 50,
+        "Skill": 12,
+        "Bloodtinge": 6,
+        "Arcane": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "BL 10–50",
+          "areas": "Central Yharnam, Cathedral Ward",
+          "areasVi": "Central Yharnam, Cathedral Ward",
+          "steps": [
+            "Pick Military Veteran for balanced stats",
+            "Level Strength to 25 first",
+            "Use Hunter Axe as early weapon",
+            "Rush through game to reach DLC",
+            "Kill Ludwig to reach Research Hall",
+            "Find Whirligig Saw in the Nightmare version"
+          ],
+          "stepsVi": [
+            "Chọn Military Veteran",
+            "Tăng Strength lên 25 trước",
+            "Dùng Hunter Axe tạm thời",
+            "Chạy đến DLC",
+            "Giết Ludwig để vào Research Hall",
+            "Tìm Whirligig Saw"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "BL 50–90",
+          "areas": "Forbidden Woods, Byrgenwerth, DLC",
+          "areasVi": "Forbidden Woods, Byrgenwerth, DLC",
+          "steps": [
+            "Push Strength to 40",
+            "Upgrade Whirligig Saw to +6",
+            "Equip stamina runes for longer L2 spins",
+            "Learn the transformed R1 into L2 combo",
+            "Get Beast Blood Pellets for boss fights",
+            "Use bolt paper for extra beast slaying power"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 40",
+            "Nâng Whirligig Saw lên +6",
+            "Trang bị Rune stamina",
+            "Học combo R1 biến hình vào L2",
+            "Lấy Beast Blood Pellet cho boss",
+            "Dùng bolt paper để tăng sát thương"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "BL 90–120",
+          "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
+          "steps": [
+            "Push Strength to 50",
+            "Max Whirligig Saw to +10",
+            "Farm 27.2% physical gems from chalice",
+            "Transformed L2 with beast pellet and bolt paper = boss melter",
+            "The L2 spin costs stamina per second — manage carefully",
+            "Equip +15% HP rune for survivability"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 50",
+            "Nâng Whirligig Saw lên +10",
+            "Farm gem 27.2% từ chalice",
+            "L2 biến hình + beast pellet + bolt paper = boss tan chảy",
+            "L2 quay tốn stamina mỗi giây",
+            "Trang bị Rune +15% máu"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Physical 27.2%",
+          "ar": 680,
+          "scaling": "S Str",
+          "verdict": "Best. Three physical gems from chalice dungeons.",
+          "verdictVi": "Tốt nhất. Ba gem vật lý từ chalice."
+        }
+      ],
+      "items": [
+        {
+          "name": "Whirligig Saw",
+          "type": "Weapon",
+          "location": "The Old Hunters DLC, found in the Nightmare version near the first lamp",
+          "locationVi": "DLC The Old Hunters gần đèn đầu tiên"
+        },
+        {
+          "name": "Hunter Axe",
+          "type": "Weapon",
+          "location": "Starting weapon or purchased from Bath Messengers",
+          "locationVi": "Vũ khí khởi đầu hoặc mua từ Bath Messengers"
+        },
+        {
+          "name": "Beast Blood Pellet",
+          "type": "Weapon",
+          "location": "Found throughout Yharnam",
+          "locationVi": "Tìm thấy khắp Yharnam"
+        },
+        {
+          "name": "Blood Rock",
+          "type": "Weapon",
+          "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
+          "locationVi": "Nightmare of Mensis hoặc Chalice"
+        }
+      ],
+      "tips": [
+        "Transformed L2 spin is the highest sustained DPS against large bosses",
+        "The spin costs stamina per second — stop spinning before you run out",
+        "Beast Blood Pellet + Bolt Paper + L2 spin = absolutely unfair damage",
+        "The untricked R2 is a horizontal sweep with great crowd control",
+        "Whirligig Saw is serrated in both modes — 20% bonus against beasts"
+      ],
+      "tipsVi": [
+        "L2 quay là DPS cao nhất cho boss to",
+        "Quay tốn stamina mỗi giây",
+        "Beast Pellet + Bolt Paper + L2 = sát thương không công bằng",
+        "R2 không biến hình là chém ngang",
+        "Whirligig Saw có serrated ở cả hai chế độ"
+      ]
+    }
+  ]
+}

@@ -114,7 +114,10 @@
           "name": "Blood",
           "ar": 412,
           "scaling": "B Arcane",
-          "statusEffect": { "type": "Bleed", "value": 112 },
+          "statusEffect": {
+            "type": "Bleed",
+            "value": 112
+          },
           "verdict": "Insane bleed buildup, but lower AR. Best for pure bleed procs.",
           "verdictVi": "Tích lũy chảy máu khủng khiếp, nhưng AR thấp hơn. Tốt nhất để gây chảy máu nhanh."
         },
@@ -122,7 +125,10 @@
           "name": "Occult",
           "ar": 501,
           "scaling": "A Arcane",
-          "statusEffect": { "type": "Bleed", "value": 72 },
+          "statusEffect": {
+            "type": "Bleed",
+            "value": 72
+          },
           "verdict": "Best overall. Highest AR with solid bleed. One-hand powers stance moveset.",
           "verdictVi": "Tốt nhất tổng thể. AR cao nhất với chảy máu ổn định."
         }
@@ -309,7 +315,10 @@
           "name": "Cold",
           "ar": 385,
           "scaling": "B Int",
-          "statusEffect": { "type": "Frostbite", "value": 85 },
+          "statusEffect": {
+            "type": "Frostbite",
+            "value": 85
+          },
           "verdict": "Good for frost buildup but lowers AR. Only if you want frostbite utility.",
           "verdictVi": "Tốt cho tích lũy băng nhưng giảm AR. Chỉ dùng nếu muốn hiệu ứng băng."
         },
@@ -396,6 +405,1289 @@
         "Terra Magicus + Comet Azur + Cerulean Hidden Tear hủy diệt boss trong giây lát",
         "Carian Slicer là lựa chọn DPS cao nhất cho cận chiến",
         "Giữ Loretta's Greatbow để bắn tỉa kẻ địch từ xa mà không kéo aggro"
+      ]
+    },
+    {
+      "slug": "str-fth-paladin",
+      "name": "Blasphemous Paladin",
+      "nameVi": "Hiệp Sĩ Blasphemous",
+      "description": "A Strength/Faith paladin build using the Blasphemous Blade. The weapon skill restores HP while dealing massive fire damage. Sustain is unmatched in PvE.",
+      "descriptionVi": "Build Strength/Faith hiệp sĩ với Blasphemous Blade. Kỹ năng vũ khí hồi HP trong khi gây sát thương lửa.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": true,
+      "gameClass": "Hero",
+      "gameClassVi": "Hero",
+      "sl": 150,
+      "stats": {
+        "Vigor": 50,
+        "Mind": 25,
+        "Endurance": 25,
+        "Strength": 40,
+        "Dexterity": 15,
+        "Intelligence": 7,
+        "Faith": 50,
+        "Arcane": 11
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Weeping Peninsula",
+          "areasVi": "Limgrave, Weeping Peninsula",
+          "steps": [
+            "Choose Hero for high Strength and Faith",
+            "Level Strength to 22 and Faith to 12",
+            "Use Sacred Blade ash of war",
+            "Level Vigor to 25 first",
+            "Find Flask of Wondrous Physick",
+            "Kill Tree Sentinel"
+          ],
+          "stepsVi": [
+            "Chọn Hero cho Strength và Faith cao",
+            "Tăng Strength lên 22 và Faith lên 12",
+            "Dùng Sacred Blade ash of war",
+            "Tăng Vigor lên 25 trước",
+            "Tìm Flask of Wondrous Physick",
+            "Giết Tree Sentinel"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "Altus Plateau, Mt Gelmir",
+          "areasVi": "Altus Plateau, Mt Gelmir",
+          "steps": [
+            "Defeat Rykard for Blasphemous Blade",
+            "Push Faith to 35, Strength to 30",
+            "Equip Golden Vow on a dagger",
+            "Get Flame Grant Me Strength from Caelid",
+            "Level Mind to 20 for FP",
+            "Equip Shard of Alexander"
+          ],
+          "stepsVi": [
+            "Đánh bại Rykard lấy Blasphemous Blade",
+            "Đẩy Faith lên 35, Strength lên 30",
+            "Trang bị Golden Vow trên dao găm",
+            "Lấy Flame Grant Me Strength từ Caelid",
+            "Tăng Mind lên 20",
+            "Trang bị Shard of Alexander"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, DLC",
+          "areasVi": "Mountaintops, Farum Azula, DLC",
+          "steps": [
+            "Push Strength to 40 and Faith to 50",
+            "Equip Fire Scorpion Charm",
+            "Get Erdtree Seal from DLC",
+            "Use Pest Threads from DLC for ranged",
+            "Taker's Flames heals 10% damage dealt",
+            "Stack fire damage talismans"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 40 và Faith lên 50",
+            "Trang bị Fire Scorpion Charm",
+            "Lấy Erdtree Seal từ DLC",
+            "Dùng Pest Threads từ DLC",
+            "Taker's Flames hồi 10% sát thương",
+            "Xếp talisman lửa"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Heavy",
+          "ar": 580,
+          "scaling": "A Str",
+          "verdict": "Good for pure STR but loses Faith scaling.",
+          "verdictVi": "Tốt cho STR thuần nhưng mất Faith scaling."
+        },
+        {
+          "name": "Fire",
+          "ar": 550,
+          "scaling": "B Str B Fth",
+          "verdict": "Better at low levels but not as good as default.",
+          "verdictVi": "Tốt hơn ở cấp thấp nhưng không bằng mặc định."
+        }
+      ],
+      "items": [
+        {
+          "name": "Blasphemous Blade",
+          "type": "Weapon",
+          "location": "Traded from Enia using Rykard's Remembrance",
+          "locationVi": "Đổi từ Enia bằng Remembrance của Rykard"
+        },
+        {
+          "name": "Shard of Alexander",
+          "type": "Talisman",
+          "location": "Alexander the Iron Fist quest reward",
+          "locationVi": "Phần thưởng nhiệm vụ Alexander"
+        },
+        {
+          "name": "Fire Scorpion Charm",
+          "type": "Talisman",
+          "location": "Mt Gelmir sub-boss arena",
+          "locationVi": "Mt Gelmir đấu trường sub-boss"
+        },
+        {
+          "name": "Golden Vow",
+          "type": "Weapon",
+          "location": "Corpse Stench in Mountaintops",
+          "locationVi": "Mountaintops of the Giants"
+        },
+        {
+          "name": "Erdtree Seal",
+          "type": "Weapon",
+          "location": "DLC near first site of grace",
+          "locationVi": "Khu vực DLC gần site of grace"
+        }
+      ],
+      "tips": [
+        "Taker's Flames heals you for a percentage of damage dealt",
+        "Stack Golden Vow + FGMS + Fire Scorpion Charm for 60%+ fire damage",
+        "Blasphemous Blade is one of the best weapons in the game",
+        "Pest Threads from DLC is amazing against large bosses",
+        "The weapon skill stance damage breaks bosses quickly"
+      ],
+      "tipsVi": [
+        "Taker's Flames hồi máu phần trăm sát thương",
+        "Golden Vow + FGMS + Fire Scorpion Charm = 60%+ sát thương lửa",
+        "Blasphemous Blade là vũ khí tốt nhất game",
+        "Pest Threads từ DLC rất mạnh với boss to",
+        "Kỹ năng vũ khí phá stance nhanh"
+      ]
+    },
+    {
+      "slug": "pure-strength-colossal",
+      "name": "Colossal Knight",
+      "nameVi": "Colossal Knight",
+      "description": "A pure Strength build with the Greatsword or Giant-Crusher. Heavy armor, Heavy infusion, jump attack spam. The ultimate unga bunga experience.",
+      "descriptionVi": "Build Strength thuần với Greatsword hoặc Giant-Crusher. Giáp nặng, Heavy infusion, jump attack spam.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": true,
+      "gameClass": "Vagabond",
+      "gameClassVi": "Vagabond",
+      "sl": 150,
+      "stats": {
+        "Vigor": 60,
+        "Mind": 11,
+        "Endurance": 40,
+        "Strength": 80,
+        "Dexterity": 13,
+        "Intelligence": 7,
+        "Faith": 8,
+        "Arcane": 11
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Caelid",
+          "areasVi": "Limgrave, Caelid",
+          "steps": [
+            "Pick Vagabond for high Vigor and Strength",
+            "Rush to Caelid for Greatsword",
+            "Two-hand with 20 Strength",
+            "Level Vigor to 30 first",
+            "Heavy affinity asap",
+            "Get Claw Talisman from Stormveil"
+          ],
+          "stepsVi": [
+            "Chọn Vagabond cho Vigor và Strength cao",
+            "Chạy đến Caelid lấy Greatsword",
+            "Cầm hai tay với 20 Strength",
+            "Tăng Vigor lên 30 trước",
+            "Gắn Heavy affinity ngay",
+            "Lấy Claw Talisman từ Stormveil"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "Altus Plateau, Mt Gelmir",
+          "areasVi": "Altus Plateau, Mt Gelmir",
+          "steps": [
+            "Push Strength to 50, Vigor to 40",
+            "Upgrade Greatsword to +15",
+            "Find Giant-Crusher at Outer Wall",
+            "Level Endurance to 30",
+            "Get Bull-Goat Talisman",
+            "Equip Green Turtle Talisman"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 50, Vigor lên 40",
+            "Nâng Greatsword lên +15",
+            "Tìm Giant-Crusher ở Outer Wall",
+            "Tăng Endurance lên 30",
+            "Lấy Bull-Goat Talisman",
+            "Trang bị Green Turtle Talisman"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, DLC",
+          "areasVi": "Mountaintops, Farum Azula, DLC",
+          "steps": [
+            "Push Strength to 80 for soft cap",
+            "Max Greatsword to +25 Heavy",
+            "Equip Two-Handed Sword Talisman from DLC",
+            "Wear heaviest mid-roll armor",
+            "Jumping R2 spam is max DPS",
+            "Cragblade for extra poise damage"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 80",
+            "Nâng Greatsword lên +25 Heavy",
+            "Trang bị Two-Handed Sword Talisman từ DLC",
+            "Mặc giáp nặng nhất mid-roll",
+            "Jumping R2 spam là DPS cao nhất",
+            "Cragblade cho thêm sát thương poise"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Heavy",
+          "ar": 820,
+          "scaling": "S Str",
+          "verdict": "Best for pure Strength. S scaling at 80 Str.",
+          "verdictVi": "Tốt nhất cho Strength thuần."
+        },
+        {
+          "name": "Keen",
+          "ar": 580,
+          "scaling": "C Str D Dex",
+          "verdict": "Wasted on this build. You have minimal Dex.",
+          "verdictVi": "Lãng phí cho build này."
+        }
+      ],
+      "items": [
+        {
+          "name": "Greatsword",
+          "type": "Weapon",
+          "location": "Caelid on a carriage near Rotview Balcony",
+          "locationVi": "Caelid trên xe gần Rotview Balcony"
+        },
+        {
+          "name": "Giant-Crusher",
+          "type": "Weapon",
+          "location": "Outer Wall Phantom Tree in Altus",
+          "locationVi": "Outer Wall Phantom Tree"
+        },
+        {
+          "name": "Claw Talisman",
+          "type": "Talisman",
+          "location": "Stormveil Castle from Lion Guardian",
+          "locationVi": "Stormveil Castle"
+        },
+        {
+          "name": "Two-Handed Sword Talisman",
+          "type": "Talisman",
+          "location": "DLC Gravesite Plain",
+          "locationVi": "DLC Gravesite Plain"
+        },
+        {
+          "name": "Bull-Goat Talisman",
+          "type": "Talisman",
+          "location": "Dragonbarrow tower",
+          "locationVi": "Dragonbarrow"
+        },
+        {
+          "name": "Green Turtle Talisman",
+          "type": "Talisman",
+          "location": "Limgrave Summonwater Village",
+          "locationVi": "Limgrave Summonwater Village"
+        }
+      ],
+      "tips": [
+        "Jumping R2 deals massive stance damage with colossal weapons",
+        "Two-Handed Sword Talisman boosts charged attacks by 20%",
+        "Cragblade adds 15% poise damage on top of natural high poise damage",
+        "Stack 101 poise to poise through almost any attack",
+        "Use Dried Lobster Delicacy for 20% physical damage buff"
+      ],
+      "tipsVi": [
+        "Jumping R2 gây sát thương stance lớn",
+        "Two-Handed Sword Talisman tăng 20% charged attack",
+        "Cragblade thêm 15% sát thương poise",
+        "101 poise để trán qua mọi đòn",
+        "Dùng Dried Lobster Delicacy cho 20% buff vật lý"
+      ]
+    },
+    {
+      "slug": "dex-ice-spear",
+      "name": "Ice Spear DEX",
+      "nameVi": "Giáo Băng Dex",
+      "description": "A Dexterity build using Dragon Halberd or Frozen Needle with Ice Spear. Frostbite procs with lightning-fast thrust attacks.",
+      "descriptionVi": "Build Dexterity với Dragon Halberd hoặc Frozen Needle với Ice Spear. Tốc độ nhanh và hiệu ứng băng giá.",
+      "category": "pve",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Samurai",
+      "gameClassVi": "Samurai",
+      "sl": 150,
+      "stats": {
+        "Vigor": 50,
+        "Mind": 17,
+        "Endurance": 30,
+        "Strength": 16,
+        "Dexterity": 70,
+        "Intelligence": 7,
+        "Faith": 8,
+        "Arcane": 11
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Liurnia",
+          "areasVi": "Limgrave, Liurnia",
+          "steps": [
+            "Pick Samurai for high Dex",
+            "Level Dex to 25, Vigor to 20",
+            "Get Ice Spear from Liurnia scarab",
+            "Get Frozen Needle from Kingsrealm Ruins",
+            "Use Unsheathe until Ice Spear",
+            "Kill Godrick for Great Rune"
+          ],
+          "stepsVi": [
+            "Chọn Samurai cho Dexterity cao",
+            "Tăng Dex lên 25, Vigor lên 20",
+            "Lấy Ice Spear từ bọ ở Liurnia",
+            "Lấy Frozen Needle từ Kingsrealm Ruins",
+            "Dùng Unsheathe tạm thời",
+            "Giết Godrick"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "Altus Plateau, Caelid",
+          "areasVi": "Altus Plateau, Caelid",
+          "steps": [
+            "Push Dex to 40, Vigor to 35",
+            "Upgrade Frozen Needle to +9",
+            "Get Dragon Halberd from Dragonkin Soldier",
+            "Equip Rotten Winged Sword Insignia",
+            "Level Mind to 15",
+            "Use frost pots for faster frostbite"
+          ],
+          "stepsVi": [
+            "Đẩy Dex lên 40, Vigor lên 35",
+            "Nâng Frozen Needle lên +9",
+            "Lấy Dragon Halberd từ Dragonkin Soldier",
+            "Trang bị Rotten Winged Sword Insignia",
+            "Tăng Mind lên 15",
+            "Dùng frost pots để gây băng nhanh hơn"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, DLC",
+          "areasVi": "Mountaintops, Farum Azula, DLC",
+          "steps": [
+            "Push Dex to 70 for max damage",
+            "Equip Spear Talisman for counter-hits",
+            "Get Smithscript Dagger from DLC",
+            "Equip Godskin Swaddling Cloth for healing",
+            "Ice Spear stance damage breaks bosses",
+            "Frostbite reset with fire damage for re-proc"
+          ],
+          "stepsVi": [
+            "Đẩy Dex lên 70",
+            "Trang bị Spear Talisman",
+            "Lấy Smithscript Dagger từ DLC",
+            "Trang bị Godskin Swaddling Cloth",
+            "Ice Spear phá stance nhanh",
+            "Reset frostbite bằng sát thương lửa"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Keen",
+          "ar": 560,
+          "scaling": "S Dex",
+          "verdict": "Best for pure Dex with Ice Spear.",
+          "verdictVi": "Tốt nhất cho Dex thuần với Ice Spear."
+        },
+        {
+          "name": "Cold",
+          "ar": 520,
+          "scaling": "A Dex",
+          "verdict": "Adds frost buildup but lowers AR.",
+          "verdictVi": "Thêm băng nhưng giảm AR."
+        }
+      ],
+      "items": [
+        {
+          "name": "Dragon Halberd",
+          "type": "Weapon",
+          "location": "Siofra River from Dragonkin Soldier",
+          "locationVi": "Siofra River rơi từ Dragonkin Soldier"
+        },
+        {
+          "name": "Frozen Needle",
+          "type": "Weapon",
+          "location": "Kingsrealm Ruins in Liurnia",
+          "locationVi": "Kingsrealm Ruins ở Liurnia"
+        },
+        {
+          "name": "Ice Spear",
+          "type": "Weapon",
+          "location": "Liurnia scarab near Gate Town Bridge",
+          "locationVi": "Liurnia bọ gần Gate Town Bridge"
+        },
+        {
+          "name": "Rotten Winged Sword Insignia",
+          "type": "Talisman",
+          "location": "Millicent questline reward",
+          "locationVi": "Phần thưởng nhiệm vụ Millicent"
+        },
+        {
+          "name": "Spear Talisman",
+          "type": "Talisman",
+          "location": "Wandering Mausoleum in Limgrave",
+          "locationVi": "Wandering Mausoleum ở Limgrave"
+        },
+        {
+          "name": "Godskin Swaddling Cloth",
+          "type": "Talisman",
+          "location": "Windmill Village in Altus",
+          "locationVi": "Windmill Village ở Altus"
+        }
+      ],
+      "tips": [
+        "Ice Spear deals massive stance damage - 3-4 casts break most bosses",
+        "Dragon Halberd has unique spinning weapon skill that applies frost",
+        "Frostbite takes 20% of the target's max HP when it procs",
+        "Throw Frost Pots to proc frostbite, then hit with Ice Spear while debuffed",
+        "Reset frostbite by hitting with fire damage to re-proc immediately"
+      ],
+      "tipsVi": [
+        "Ice Spear gây sát thương stance lớn",
+        "Dragon Halberd có kỹ năng xoay gây băng",
+        "Frostbite lấy 20% HP tối đa",
+        "Ném Frost Pots trước khi dùng Ice Spear",
+        "Reset frostbite bằng lửa để gây lại ngay"
+      ]
+    },
+    {
+      "slug": "int-fth-pyromancer",
+      "name": "Pyromancer",
+      "nameVi": "Pháp Sư Lửa",
+      "description": "An Intelligence/Faith hybrid using the Prince of Death's Staff and Golden Order Seal. Access to the entire sorcery and incantation catalog with devastating fire damage.",
+      "descriptionVi": "Build Intelligence/Faith hybrid với Prince of Death's Staff và Golden Order Seal. Tiếp cận toàn bộ sorcery và incantation với sát thương lửa.",
+      "category": "pve",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Astrologer",
+      "gameClassVi": "Astrologer",
+      "sl": 150,
+      "stats": {
+        "Vigor": 40,
+        "Mind": 40,
+        "Endurance": 20,
+        "Strength": 12,
+        "Dexterity": 12,
+        "Intelligence": 45,
+        "Faith": 45,
+        "Arcane": 11
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Liurnia",
+          "areasVi": "Limgrave, Liurnia",
+          "steps": [
+            "Pick Astrologer for high Int start",
+            "Level Int and Faith to 15/15",
+            "Use Meteorite Staff with Rock Sling",
+            "Get Flame Sling from Godrick Soldier camp",
+            "Level Mind to 20",
+            "Kill Rennala to respec later"
+          ],
+          "stepsVi": [
+            "Chọn Astrologer cho Int cao",
+            "Tăng Int và Faith lên 15/15",
+            "Dùng Meteorite Staff với Rock Sling",
+            "Lấy Flame Sling từ trại Godrick Soldier",
+            "Tăng Mind lên 20",
+            "Giết Rennala để reset về sau"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "Altus Plateau, Caelid",
+          "areasVi": "Altus Plateau, Caelid",
+          "steps": [
+            "Push Int/Fth to 30/30",
+            "Get Golden Order Seal from Auriza Side Tomb",
+            "Find Prince of Death's Staff from Deeproot Depths",
+            "Learn Giantsflame Take Thee from Mountaintops",
+            "Equip Flock's Canvas Talisman",
+            "Level Mind to 30"
+          ],
+          "stepsVi": [
+            "Đẩy Int/Fth lên 30/30",
+            "Lấy Golden Order Seal từ Auriza Side Tomb",
+            "Tìm Prince of Death's Staff từ Deeproot Depths",
+            "Học Giantsflame Take Thee",
+            "Trang bị Flock's Canvas Talisman",
+            "Tăng Mind lên 30"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, DLC",
+          "areasVi": "Mountaintops, Farum Azula, DLC",
+          "steps": [
+            "Push Int/Fth to 45/45 for soft cap",
+            "Max both catalysts to +25",
+            "Get Rellana's Twin Blades from DLC",
+            "Use Messmer's Orb for insane fire damage",
+            "Equip Fire Scorpion Charm",
+            "Stack any sorcery or incantation you want"
+          ],
+          "stepsVi": [
+            "Đẩy Int/Fth lên 45/45",
+            "Nâng cả hai catalyst lên +25",
+            "Lấy Rellana's Twin Blades từ DLC",
+            "Dùng Messmer's Orb cho sát thương lửa",
+            "Trang bị Fire Scorpion Charm",
+            "Stack bất kỳ sorcery hoặc incantation"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Fire Knight",
+          "ar": 650,
+          "scaling": "B Int B Fth",
+          "verdict": "Best for fire spells with 45/45 split.",
+          "verdictVi": "Tốt nhất cho phép lửa."
+        },
+        {
+          "name": "Golden Order",
+          "ar": 680,
+          "scaling": "B Int B Fth",
+          "verdict": "Best for Golden Order seal with 45/45.",
+          "verdictVi": "Tốt nhất cho Golden Order seal."
+        }
+      ],
+      "items": [
+        {
+          "name": "Prince of Death's Staff",
+          "type": "Weapon",
+          "location": "Deeproot Depths on a corpse",
+          "locationVi": "Deeproot Depths trên xác chết"
+        },
+        {
+          "name": "Golden Order Seal",
+          "type": "Weapon",
+          "location": "Auriza Side Tomb in Altus Plateau",
+          "locationVi": "Auriza Side Tomb ở Altus"
+        },
+        {
+          "name": "Giantsflame Take Thee",
+          "type": "Weapon",
+          "location": "Mountaintops of the Giants near the Fire Giant",
+          "locationVi": "Mountaintops gần Fire Giant"
+        },
+        {
+          "name": "Flock's Canvas Talisman",
+          "type": "Talisman",
+          "location": "Mountaintops of the Giants",
+          "locationVi": "Mountaintops of the Giants"
+        },
+        {
+          "name": "Rellana's Twin Blades",
+          "type": "Weapon",
+          "location": "DLC from Rellana's Remembrance",
+          "locationVi": "DLC từ Remembrance của Rellana"
+        },
+        {
+          "name": "Messmer's Orb",
+          "type": "Weapon",
+          "location": "DLC from Messmer's Remembrance",
+          "locationVi": "DLC từ Remembrance của Messmer"
+        }
+      ],
+      "tips": [
+        "45/45 Int/Fth gives the best scaling on both Prince of Death's Staff and Golden Order Seal",
+        "You can use any sorcery or incantation in the game - infinite versatility",
+        "Giantsflame Take Thee is your highest single-target fire damage",
+        "Use Rellana's Twin Blades for a melee option that scales with both stats",
+        "Stack Fire Scorpion Charm + Flock's Canvas + Shard of Alexander for max fire damage"
+      ],
+      "tipsVi": [
+        "45/45 Int/Fth cho scaling tốt nhất",
+        "Dùng được mọi sorcery hoặc incantation",
+        "Giantsflame Take Thee là sát thương lửa cao nhất",
+        "Rellana's Twin Blades cho cận chiến",
+        "Xếp Fire Scorpion Charm + Flock's Canvas + Shard of Alexander"
+      ]
+    },
+    {
+      "slug": "arc-dragon-incantation",
+      "name": "Dragon Communion",
+      "nameVi": "Long Giao",
+      "description": "An Arcane build using the Dragon Communion Seal for devastating dragon incantations. Breathe fire, summon dragon claws, and melt everything with pure draconic power.",
+      "descriptionVi": "Build Arcane với Dragon Communion Seal cho long incantation hủy diệt. Phun lửa, triệu móng rồng và làm tan chảy mọi thứ.",
+      "category": "pve",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Prophet",
+      "gameClassVi": "Prophet",
+      "sl": 150,
+      "stats": {
+        "Vigor": 45,
+        "Mind": 30,
+        "Endurance": 20,
+        "Strength": 12,
+        "Dexterity": 12,
+        "Intelligence": 7,
+        "Faith": 30,
+        "Arcane": 60
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Caelid",
+          "areasVi": "Limgrave, Caelid",
+          "steps": [
+            "Pick Prophet for high Faith start",
+            "Level Arcane to 20 first",
+            "Rush to the Dragon Communion Church in Limgrave",
+            "Buy Dragonfire incantation",
+            "Level Faith to 12 for Dragon Communion Seal",
+            "Kill Agheel for Dragon Heart"
+          ],
+          "stepsVi": [
+            "Chọn Prophet cho Faith cao",
+            "Tăng Arcane lên 20 trước",
+            "Chạy đến Dragon Communion Church",
+            "Mua Dragonfire incantation",
+            "Tăng Faith lên 12",
+            "Giết Agheel cho Dragon Heart"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "Altus Plateau, Caelid",
+          "areasVi": "Altus Plateau, Caelid",
+          "steps": [
+            "Push Arcane to 40 and Faith to 20",
+            "Find Dragon Communion Seal in Fringefolk Hero's Grave",
+            "Farm Dragon Hearts from named dragons",
+            "Get Dragonmaw and Dragonclaw incantations",
+            "Level Mind to 25",
+            "Equip Flock's Canvas Talisman"
+          ],
+          "stepsVi": [
+            "Đẩy Arcane lên 40 và Faith lên 20",
+            "Tìm Dragon Communion Seal ở Fringefolk Hero's Grave",
+            "Farm Dragon Hearts từ rồng",
+            "Lấy Dragonmaw và Dragonclaw",
+            "Tăng Mind lên 25",
+            "Trang bị Flock's Canvas Talisman"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, DLC",
+          "areasVi": "Mountaintops, Farum Azula, DLC",
+          "steps": [
+            "Push Arcane to 60 and Faith to 30",
+            "Max Dragon Communion Seal to +10",
+            "Get Bayle's Tyranny from DLC dragon boss",
+            "Equil Roar Medallion for breath attacks",
+            "Dragonmaw does incredible poise damage",
+            "Use Greyoll's Roar for AoE knockdown"
+          ],
+          "stepsVi": [
+            "Đẩy Arcane lên 60 và Faith lên 30",
+            "Nâng Dragon Communion Seal lên +10",
+            "Lấy Bayle's Tyranny từ DLC",
+            "Trang bị Roar Medallion",
+            "Dragonmaw gây sát thương poise lớn",
+            "Greyoll's Roar cho AoE knockdown"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Dragon Communion",
+          "ar": 0,
+          "scaling": "S Arc",
+          "verdict": "Best seal. Scales almost purely with Arcane.",
+          "verdictVi": "Seal tốt nhất. Tăng gần như hoàn toàn theo Arcane."
+        }
+      ],
+      "items": [
+        {
+          "name": "Dragon Communion Seal",
+          "type": "Weapon",
+          "location": "Fringefolk Hero's Grave behind imp seal",
+          "locationVi": "Fringefolk Hero's Grave sau tượng imp"
+        },
+        {
+          "name": "Dragonfire",
+          "type": "Weapon",
+          "location": "Dragon Communion Church in Limgrave",
+          "locationVi": "Dragon Communion Church Limgrave"
+        },
+        {
+          "name": "Dragonmaw",
+          "type": "Weapon",
+          "location": "Cathedral of Dragon Communion in Caelid",
+          "locationVi": "Cathedral of Dragon Communion Caelid"
+        },
+        {
+          "name": "Bayle's Tyranny",
+          "type": "Weapon",
+          "location": "DLC from Bayle the Dread",
+          "locationVi": "DLC từ Bayle the Dread"
+        },
+        {
+          "name": "Flock's Canvas Talisman",
+          "type": "Talisman",
+          "location": "Mountaintops of the Giants",
+          "locationVi": "Mountaintops of the Giants"
+        },
+        {
+          "name": "Roar Medallion",
+          "type": "Talisman",
+          "location": "Limgrave coastal cave",
+          "locationVi": "Limgrave hang động ven biển"
+        }
+      ],
+      "tips": [
+        "Dragon Communion Seal scales almost entirely with Arcane - pump Arcane hard",
+        "Dragonmaw does massive poise damage and knocks down most enemies",
+        "Use the Roar Medallion to boost all dragon breath attack damage by 15%",
+        "Stack Fire Scorpion Charm + Roar Medallion + Flock's Canvas for max damage",
+        "Dragon incantations can be charged for extra damage"
+      ],
+      "tipsVi": [
+        "Dragon Communion Seal tăng theo Arcane - tập trung Arcane",
+        "Dragonmaw gây sát thương poise lớn",
+        "Roar Medallion tăng 15% sát thương rồng",
+        "Fire Scorpion Charm + Roar Medallion + Flock's Canvas",
+        "Long incantation có thể tích để tăng sát thương"
+      ]
+    },
+    {
+      "slug": "quality-build",
+      "name": "Quality Warrior",
+      "nameVi": "Chiến Binh Chất Lượng",
+      "description": "A Quality build with 55/55 Strength and Dexterity. Use any weapon in the game at its full potential. Bloodhound's Fang shines with Quality scaling.",
+      "descriptionVi": "Build Quality 55/55 Strength và Dexterity. Dùng được mọi vũ khí trong game. Bloodhound's Fang tỏa sáng với Quality scaling.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": true,
+      "gameClass": "Vagabond",
+      "gameClassVi": "Vagabond",
+      "sl": 150,
+      "stats": {
+        "Vigor": 50,
+        "Mind": 15,
+        "Endurance": 30,
+        "Strength": 55,
+        "Dexterity": 55,
+        "Intelligence": 7,
+        "Faith": 8,
+        "Arcane": 11
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Stormveil",
+          "areasVi": "Limgrave, Stormveil",
+          "steps": [
+            "Pick Vagabond for balanced stats",
+            "Get Bloodhound's Fang from Bloodhound Knight Darriwil",
+            "Level Strength and Dex evenly to 20/20",
+            "Use Quality affinity from the Iron Whetblade",
+            "Kill Godrick for Great Rune",
+            "Level Vigor to 25"
+          ],
+          "stepsVi": [
+            "Chọn Vagabond cho chỉ số cân bằng",
+            "Lấy Bloodhound's Fang từ Darriwil",
+            "Tăng Strength và Dex đều 20/20",
+            "Dùng Quality affinity từ Iron Whetblade",
+            "Giết Godrick",
+            "Tăng Vigor lên 25"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "Liurnia, Altus Plateau",
+          "areasVi": "Liurnia, Altus Plateau",
+          "steps": [
+            "Push Str/Dex to 35/35",
+            "Upgrade Bloodhound's Fang to +6",
+            "Get the Iron Whetblade from Stormveil Castle",
+            "Find the Claw Talisman for jump attacks",
+            "Get the Green Turtle Talisman for stamina",
+            "Level Vigor to 35"
+          ],
+          "stepsVi": [
+            "Đẩy Str/Dex lên 35/35",
+            "Nâng Bloodhound's Fang lên +6",
+            "Lấy Iron Whetblade từ Stormveil",
+            "Tìm Claw Talisman",
+            "Lấy Green Turtle Talisman",
+            "Tăng Vigor lên 35"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, DLC",
+          "areasVi": "Mountaintops, Farum Azula, DLC",
+          "steps": [
+            "Push Str/Dex to 55/55 for Quality soft caps",
+            "Max Bloodhound's Fang to +10",
+            "Equil Bloodhound's Step or Raptor of the Mists",
+            "Wear best medium armor for fashion and function",
+            "Use any Quality weapon in the game",
+            "Bloodhound's Fang weapon skill is a gap closer and escape"
+          ],
+          "stepsVi": [
+            "Đẩy Str/Dex lên 55/55",
+            "Nâng Bloodhound's Fang lên +10",
+            "Trang bị Bloodhound's Step",
+            "Mặc giáp đẹp và tốt",
+            "Dùng bất kỳ vũ khí Quality nào",
+            "Kỹ năng vũ khí Bloodhound's Fang là gap closer"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Quality",
+          "ar": 620,
+          "scaling": "A Str A Dex",
+          "verdict": "Best for Quality builds. 55/55 gives the best split scaling.",
+          "verdictVi": "Tốt nhất cho Quality. 55/55 cho scaling chia tốt nhất."
+        },
+        {
+          "name": "Keen",
+          "ar": 510,
+          "scaling": "B Dex",
+          "verdict": "Only if you respec to pure Dex.",
+          "verdictVi": "Chỉ nếu reset sang Dex thuần."
+        }
+      ],
+      "items": [
+        {
+          "name": "Bloodhound's Fang",
+          "type": "Weapon",
+          "location": "Limgrave, Bloodhound Knight Darriwil boss",
+          "locationVi": "Limgrave, boss Bloodhound Knight Darriwil"
+        },
+        {
+          "name": "Iron Whetblade",
+          "type": "Weapon",
+          "location": "Stormveil Castle in a locked room",
+          "locationVi": "Stormveil Castle trong phòng khóa"
+        },
+        {
+          "name": "Claw Talisman",
+          "type": "Talisman",
+          "location": "Stormveil Castle from Lion Guardian",
+          "locationVi": "Stormveil Castle từ Lion Guardian"
+        },
+        {
+          "name": "Green Turtle Talisman",
+          "type": "Talisman",
+          "location": "Limgrave Summonwater Village catacombs",
+          "locationVi": "Limgrave Summonwater Village"
+        },
+        {
+          "name": "Millicent's Prosthesis",
+          "type": "Talisman",
+          "location": "Millicent questline reward",
+          "locationVi": "Phần thưởng nhiệm vụ Millicent"
+        },
+        {
+          "name": "Rotten Winged Sword Insignia",
+          "type": "Talisman",
+          "location": "Millicent questline reward",
+          "locationVi": "Phần thưởng nhiệm vụ Millicent"
+        }
+      ],
+      "tips": [
+        "55/55 Str/Dex is the Quality soft cap - you can use any weapon in the game",
+        "Bloodhound's Fang weapon skill combo: L2 then R2 for a double-hit gap closer",
+        "Bloodhound's Fang is one of the few somber weapons that can be buffed",
+        "Keep multiple weapons with different damage types for different situations",
+        "The Quality affinity gives B/B or A/A scaling at high Str/Dex levels"
+      ],
+      "tipsVi": [
+        "55/55 Str/Dex là soft cap Quality",
+        "Bloodhound's Fang combo: L2 rồi R2",
+        "Có thể buff thêm cho Bloodhound's Fang",
+        "Giữ nhiều vũ khí cho các tình huống khác nhau",
+        "Quality affinity cho B/B hoặc A/A scaling"
+      ]
+    },
+    {
+      "slug": "faith-lightning",
+      "name": "Lightning Zealot",
+      "nameVi": "Cuồng Tín Sấm Sét",
+      "description": "A pure Faith lightning build using the Godslayer or Erdtree Seal with lightning incantations. Ancient Dragons' Lightning Strike melts large bosses.",
+      "descriptionVi": "Build Faith thuần sấm sét với Godslayer hoặc Erdtree Seal. Ancient Dragons' Lightning Strike tan chảy boss to.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": true,
+      "gameClass": "Prophet",
+      "gameClassVi": "Prophet",
+      "sl": 150,
+      "stats": {
+        "Vigor": 50,
+        "Mind": 30,
+        "Endurance": 20,
+        "Strength": 12,
+        "Dexterity": 12,
+        "Intelligence": 7,
+        "Faith": 80,
+        "Arcane": 11
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Weeping Peninsula",
+          "areasVi": "Limgrave, Weeping Peninsula",
+          "steps": [
+            "Pick Prophet for Faith start",
+            "Level Faith to 30",
+            "Get the Cipher Pata from Roundtable Hold",
+            "Use Catch Flame and Flame Sling",
+            "Find the Two Fingers Heirloom",
+            "Kill the Tree Sentinel for his halberd"
+          ],
+          "stepsVi": [
+            "Chọn Prophet cho Faith cao",
+            "Tăng Faith lên 30",
+            "Lấy Cipher Pata từ Roundtable Hold",
+            "Dùng Catch Flame và Flame Sling",
+            "Tìm Two Fingers Heirloom",
+            "Giết Tree Sentinel"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "Altus Plateau, Mt Gelmir",
+          "areasVi": "Altus Plateau, Mt Gelmir",
+          "steps": [
+            "Push Faith to 50",
+            "Get the Godslayer Seal from Stormveil",
+            "Find Ancient Dragons' Lightning Strike from Altus",
+            "Get Lightning Spear from Liurnia",
+            "Level Mind to 25",
+            "Equip Flock's Canvas Talisman"
+          ],
+          "stepsVi": [
+            "Đẩy Faith lên 50",
+            "Lấy Godslayer Seal từ Stormveil",
+            "Tìm Ancient Dragons' Lightning Strike",
+            "Lấy Lightning Spear từ Liurnia",
+            "Tăng Mind lên 25",
+            "Trang bị Flock's Canvas Talisman"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, DLC",
+          "areasVi": "Mountaintops, Farum Azula, DLC",
+          "steps": [
+            "Push Faith to 80 for max scaling",
+            "Get Erdtree Seal from DLC for best scaling",
+            "Find Knight's Lightning Spear from DLC",
+            "Use Ancient Dragons' Lightning Strike on large bosses",
+            "Equip Lightning Scorpion Charm",
+            "Stack lightning damage talismans"
+          ],
+          "stepsVi": [
+            "Đẩy Faith lên 80",
+            "Lấy Erdtree Seal từ DLC",
+            "Tìm Knight's Lightning Spear từ DLC",
+            "Dùng Ancient Dragons' Lightning Strike",
+            "Trang bị Lightning Scorpion Charm",
+            "Xếp talisman sấm sét"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Lightning",
+          "ar": 620,
+          "scaling": "S Fth",
+          "verdict": "Best for Lightning-infused weapons.",
+          "verdictVi": "Tốt nhất cho vũ khí Lightning."
+        },
+        {
+          "name": "Sacred",
+          "ar": 580,
+          "scaling": "S Fth",
+          "verdict": "Good for holy damage. Fewer enemies are weak to holy.",
+          "verdictVi": "Tốt cho holy. Ít kẻ yếu holy."
+        }
+      ],
+      "items": [
+        {
+          "name": "Erdtree Seal",
+          "type": "Weapon",
+          "location": "DLC near first site of grace",
+          "locationVi": "DLC gần site of grace đầu tiên"
+        },
+        {
+          "name": "Godslayer Seal",
+          "type": "Weapon",
+          "location": "Stormveil Castle locked room",
+          "locationVi": "Stormveil Castle phòng khóa"
+        },
+        {
+          "name": "Ancient Dragons' Lightning Strike",
+          "type": "Weapon",
+          "location": "Altus Plateau near the Second Church of Marika",
+          "locationVi": "Altus Plateau gần Second Church of Marika"
+        },
+        {
+          "name": "Lightning Spear",
+          "type": "Weapon",
+          "location": "Liurnia altar statue with Faith requirement",
+          "locationVi": "Liurnia tượng thờ yêu cầu Faith"
+        },
+        {
+          "name": "Knight's Lightning Spear",
+          "type": "Weapon",
+          "location": "DLC in the Gravesite Plain",
+          "locationVi": "DLC trong Gravesite Plain"
+        },
+        {
+          "name": "Lightning Scorpion Charm",
+          "type": "Talisman",
+          "location": "Mt Gelmir sub-boss arena",
+          "locationVi": "Mt Gelmir đấu trường sub-boss"
+        }
+      ],
+      "tips": [
+        "Ancient Dragons' Lightning Strike deals multiple hits on large bosses - insane damage",
+        "Use Knight's Lightning Spear as your primary single-target incantation",
+        "Stack Lightning Scorpion Charm + Flock's Canvas + Godfrey Icon for max lightning damage",
+        "The Erdtree Seal has the best incant scaling at 80 Faith",
+        "Use the DLC's new lightning incantations for even more options"
+      ],
+      "tipsVi": [
+        "Ancient Dragons' Lightning Strike nhiều lần trúng trên boss to",
+        "Knight's Lightning Spear là incantation đơn mục tiêu chính",
+        "Lightning Scorpion Charm + Flock's Canvas + Godfrey Icon",
+        "Erdtree Seal có incant scaling tốt nhất ở 80 Faith",
+        "Dùng incantation sấm sét mới từ DLC"
+      ]
+    },
+    {
+      "slug": "finger-build",
+      "name": "Ringed Finger",
+      "nameVi": "Ngón Tay Nhẫn",
+      "description": "The legendary Ringed Finger meme build. Use the Ringed Finger weapon from the DLC to flick enemies into the air. Useless? Yes. Hilarious? Absolutely.",
+      "descriptionVi": "Build meme Ringed Finger huyền thoại. Dùng vũ khí Ringed Finger từ DLC để bật kẻ địch lên không. Vô dụng? Có. Hài hước? Tuyệt đối.",
+      "category": "meme",
+      "difficulty": 3,
+      "dlc": true,
+      "gameClass": "Hero",
+      "gameClassVi": "Hero",
+      "sl": 150,
+      "stats": {
+        "Vigor": 40,
+        "Mind": 15,
+        "Endurance": 40,
+        "Strength": 60,
+        "Dexterity": 20,
+        "Intelligence": 7,
+        "Faith": 25,
+        "Arcane": 11
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Stormveil",
+          "areasVi": "Limgrave, Stormveil",
+          "steps": [
+            "Pick Hero for high Strength",
+            "Rush through the game to reach the DLC",
+            "Level Strength to 40 first",
+            "Reach the Southern Shore in DLC",
+            "Defeat the boss for Ringed Finger",
+            "Upgrade to +3 immediately"
+          ],
+          "stepsVi": [
+            "Chọn Hero cho Strength cao",
+            "Chạy đến DLC",
+            "Tăng Strength lên 40 trước",
+            "Đến Southern Shore trong DLC",
+            "Đánh bại boss lấy Ringed Finger",
+            "Nâng lên +3 ngay"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–100",
+          "areas": "DLC areas",
+          "areasVi": "Khu vực DLC",
+          "steps": [
+            "Push Strength to 50",
+            "Upgrade Ringed Finger to +9",
+            "Equip the Two-Handed Sword Talisman",
+            "Learn the weapon skill timing - it launches enemies",
+            "Level Endurance to 30 for stamina",
+            "Join the Ringed Finger cult online"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 50",
+            "Nâng Ringed Finger lên +9",
+            "Trang bị Two-Handed Sword Talisman",
+            "Học timing kỹ năng vũ khí",
+            "Tăng Endurance lên 30",
+            "Gia nhập hội Ringed Finger"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "100–150",
+          "areas": "DLC, base game",
+          "areasVi": "DLC, base game",
+          "steps": [
+            "Push Strength to 60",
+            "Max Ringed Finger to +25",
+            "Use the weapon skill to flick enemies off cliffs",
+            "Invade in the DLC for maximum disrespect",
+            "Equip the Shard of Alexander for more skill damage",
+            "The R2 finger gun gesture is mandatory"
+          ],
+          "stepsVi": [
+            "Đẩy Strength lên 60",
+            "Nâng Ringed Finger lên +25",
+            "Dùng kỹ năng để hất kẻ địch xuống vực",
+            "Xâm lăng trong DLC",
+            "Trang bị Shard of Alexander",
+            "Cử chỉ R2 finger gun bắt buộc"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Heavy",
+          "ar": 540,
+          "scaling": "A Str",
+          "verdict": "Best AR but who cares. You flick people.",
+          "verdictVi": "AR tốt nhất nhưng ai quan tâm."
+        },
+        {
+          "name": "Occult",
+          "ar": 480,
+          "scaling": "B Str",
+          "verdict": "Not worth it. Pure meme is the goal.",
+          "verdictVi": "Không đáng. Mục tiêu là meme."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ringed Finger",
+          "type": "Weapon",
+          "location": "DLC, dropped by a boss in the Southern Shore",
+          "locationVi": "DLC, rơi từ boss ở Southern Shore"
+        },
+        {
+          "name": "Shard of Alexander",
+          "type": "Talisman",
+          "location": "Alexander questline reward",
+          "locationVi": "Phần thưởng nhiệm vụ Alexander"
+        },
+        {
+          "name": "Two-Handed Sword Talisman",
+          "type": "Talisman",
+          "location": "DLC Gravesite Plain",
+          "locationVi": "DLC Gravesite Plain"
+        },
+        {
+          "name": "Bull-Goat Talisman",
+          "type": "Talisman",
+          "location": "Dragonbarrow tower",
+          "locationVi": "Dragonbarrow"
+        },
+        {
+          "name": "Great-Jar's Arsenal",
+          "type": "Talisman",
+          "location": "Caelid Great-Jar challenge",
+          "locationVi": "Caelid thử thách Great-Jar"
+        },
+        {
+          "name": "Finger Severer",
+          "type": "Weapon",
+          "location": "Purchase from the Twin Maiden Husks",
+          "locationVi": "Mua từ Twin Maiden Husks"
+        }
+      ],
+      "tips": [
+        "The Ringed Finger weapon skill flicks enemies into the air - a true disrespect",
+        "The weapon skill has a slight wind-up - practice the timing",
+        "You can flick enemies off cliffs for instant kills",
+        "The charged R2 has a longer range than you think",
+        "This build is for fun, not efficiency - embrace the meme"
+      ],
+      "tipsVi": [
+        "Kỹ năng vũ khí hất kẻ địch lên không",
+        "Có độ trễ nhỏ - luyện timing",
+        "Hất kẻ địch xuống vực để chết ngay",
+        "Charged R2 có tầm xa hơn bạn nghĩ",
+        "Build này cho vui, không phải hiệu quả"
       ]
     }
   ]
