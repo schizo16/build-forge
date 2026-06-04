@@ -29,12 +29,12 @@ export default function GamePage() {
   return (
     <div className="mx-auto max-w-6xl px-4 pt-28 pb-16">
       <p className="text-[10px] tracking-widest text-forge-muted uppercase">
-        Build Forge / {gameName}
+        Build Forge / {locale === 'vi' ? config.nameVi : config.name}
       </p>
       <h1 className="mt-1 font-display text-2xl tracking-wider" style={{ color: config.accent }}>
         {gameName}{' '}
         <span className="text-sm text-forge-muted">
-          &bull; {getGameBuildCount(game)} builds
+          &bull; {getGameBuildCount(game)} {locale === 'vi' ? 'build' : 'builds'}
         </span>
       </h1>
       <div className="mt-6">

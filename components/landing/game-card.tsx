@@ -2,6 +2,7 @@
 
 import Link from "next/link"
 import { motion } from "framer-motion"
+import { useLocale } from "next-intl"
 import type { GameSlug } from "@/lib/utils"
 
 export function GameCard({ slug, name, accent, buildCount, index = 0 }: {
@@ -11,6 +12,7 @@ export function GameCard({ slug, name, accent, buildCount, index = 0 }: {
   buildCount: number
   index?: number
 }) {
+  const locale = useLocale()
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -32,7 +34,7 @@ export function GameCard({ slug, name, accent, buildCount, index = 0 }: {
         </svg>
       </div>
       <h3 className="font-display text-sm" style={{ color: accent }}>{name}</h3>
-      <p className="mt-1 text-[10px] text-forge-muted">{buildCount} builds</p>
+      <p className="mt-1 text-[10px] text-forge-muted">{buildCount} {locale === 'vi' ? 'build' : 'builds'}</p>
     </Link>
     </motion.div>
   )

@@ -5,7 +5,7 @@ export function BuildGrid({ builds, gameSlug, accent, locale }: { builds: Build[
   if (builds.length === 0) {
     return (
       <div className="py-16 text-center">
-        <p className="text-sm text-forge-muted">No builds found for this category.</p>
+        <p className="text-sm text-forge-muted">{locale === 'vi' ? 'Không có build nào cho thể loại này.' : 'No builds found for this category.'}</p>
       </div>
     )
   }
