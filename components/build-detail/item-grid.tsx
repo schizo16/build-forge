@@ -10,7 +10,7 @@ const ITEM_ICONS: Record<string, string> = {
   cyberware: '⚡',
 }
 
-export function ItemGrid({ items, itemType }: { items: BuildItem[]; itemType?: string }) {
+export function ItemGrid({ items, itemType, locale }: { items: BuildItem[]; itemType?: string; locale?: string }) {
   return (
     <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
       {items.map((item, i) => {
@@ -20,11 +20,11 @@ export function ItemGrid({ items, itemType }: { items: BuildItem[]; itemType?: s
             <div className="mx-auto mb-2 flex h-12 w-12 items-center justify-center rounded-md bg-forge-hover">
               <span className="text-lg">{ITEM_ICONS[typeLower] || '📦'}</span>
             </div>
-            <p className="text-[11px] text-forge-text">{item.name}</p>
+            <p className="text-[11px] text-forge-text">{locale === 'vi' && item.nameVi ? item.nameVi : item.name}</p>
             <p className="mt-0.5 text-[9px] text-forge-muted capitalize">
               {itemType && typeLower === itemType.toLowerCase() ? itemType : item.type}
             </p>
-            <p className="mt-1 text-[9px] text-accent-gold">{item.location}</p>
+            <p className="mt-1 text-[9px] text-accent-gold">{locale === 'vi' && item.locationVi ? item.locationVi : item.location}</p>
           </div>
         )
       })}

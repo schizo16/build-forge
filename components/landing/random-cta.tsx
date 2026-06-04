@@ -1,9 +1,11 @@
 'use client'
 
-import { useRouter } from "next/navigation"
 import { motion } from "framer-motion"
+import { useTranslations } from "next-intl"
+import { useRouter } from "next/navigation"
 
 export function RandomCTA() {
+  const t = useTranslations("landing")
   const router = useRouter()
 
   const handleRandom = async () => {
@@ -27,7 +29,7 @@ export function RandomCTA() {
         onClick={handleRandom}
         className="inline-block rounded-lg bg-gradient-to-r from-accent-gold to-yellow-700 px-12 py-4 font-display text-base tracking-widest text-black transition-all duration-300 hover:brightness-110"
       >
-        🎲 RANDOM BUILD
+        🎲 {t("random")}
       </button>
     </motion.div>
   )

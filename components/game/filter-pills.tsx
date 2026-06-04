@@ -2,7 +2,7 @@
 
 import { CATEGORIES } from "@/lib/utils"
 
-export function FilterPills({ active, onChange }: { active: string; onChange: (v: string) => void }) {
+export function FilterPills({ active, onChange, locale }: { active: string; onChange: (v: string) => void; locale?: string }) {
   return (
     <div className="flex flex-wrap gap-2" role="tablist">
       {CATEGORIES.map((cat) => (
@@ -15,7 +15,7 @@ export function FilterPills({ active, onChange }: { active: string; onChange: (v
               : 'border border-forge-border bg-forge-surface text-forge-muted hover:text-forge-text'
           }`}
         >
-          {cat.label}
+          {locale === 'vi' && cat.labelVi ? cat.labelVi : cat.label}
         </button>
       ))}
     </div>

@@ -1,6 +1,6 @@
 import type { AffinityOption } from "@/lib/utils"
 
-export function AffinityCompare({ affinities }: { affinities: AffinityOption[] }) {
+export function AffinityCompare({ affinities, locale }: { affinities: AffinityOption[]; locale?: string }) {
   return (
     <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
       {affinities.map((aff, i) => {
@@ -30,7 +30,7 @@ export function AffinityCompare({ affinities }: { affinities: AffinityOption[] }
                   : 'bg-forge-hover text-forge-muted'
               }`}
             >
-              {aff.verdict}
+              {locale === 'vi' && aff.verdictVi ? aff.verdictVi : aff.verdict}
             </div>
           </div>
         )

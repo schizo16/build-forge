@@ -12,7 +12,7 @@ const CATEGORY_COLORS: Record<string, string> = {
   trend: '#22C55E',
 }
 
-export function BuildCard({ build, gameSlug, accent }: { build: Build; gameSlug: string; accent: string }) {
+export function BuildCard({ build, gameSlug, accent, locale }: { build: Build; gameSlug: string; accent: string; locale?: string }) {
   const catColor = CATEGORY_COLORS[build.category] ?? '#78716C'
 
   return (
@@ -37,7 +37,7 @@ export function BuildCard({ build, gameSlug, accent }: { build: Build; gameSlug:
       </div>
       <div className="p-3">
         <div className="flex items-center justify-between">
-          <h3 className="font-display text-sm text-forge-text">{build.name}</h3>
+          <h3 className="font-display text-sm text-forge-text">{locale === 'vi' && build.nameVi ? build.nameVi : build.name}</h3>
           <span
             className="rounded px-1.5 py-0.5 text-[9px] font-semibold uppercase"
             style={{ backgroundColor: `${catColor}22`, color: catColor }}
@@ -45,7 +45,7 @@ export function BuildCard({ build, gameSlug, accent }: { build: Build; gameSlug:
             {build.category}
           </span>
         </div>
-        <p className="mt-1 text-[11px] text-forge-muted line-clamp-1">{build.description}</p>
+        <p className="mt-1 text-[11px] text-forge-muted line-clamp-1">{locale === 'vi' && build.descriptionVi ? build.descriptionVi : build.description}</p>
         <div className="mt-2 flex gap-1.5 text-[10px] text-forge-muted">
           {Object.entries(build.stats)
             .filter(([, v]) => v >= 40)
