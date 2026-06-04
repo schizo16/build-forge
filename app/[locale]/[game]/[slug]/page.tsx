@@ -4,6 +4,7 @@ import { GAME_CONFIGS, type GameSlug } from "@/lib/utils"
 import { getBuild } from "@/data"
 import { GuideSection } from "@/components/build-detail/guide-section"
 import { StatBars } from "@/components/build-detail/stat-bars"
+import { AnimatedSection } from "@/components/animated-section"
 import { AffinityCompare } from "@/components/build-detail/affinity-compare"
 import { ItemGrid } from "@/components/build-detail/item-grid"
 import { TipsSection } from "@/components/build-detail/tips-section"
@@ -48,30 +49,30 @@ export default async function BuildDetailPage({ params }: { params: Promise<{ lo
       {/* Content sections */}
       <div className="mt-10 space-y-10">
         {/* Guide */}
-        <section>
+        <AnimatedSection>
           <h2 className="mb-4 font-display text-base text-forge-text">{isVi ? '📖 Hướng dẫn' : '📖 Guide'}</h2>
           <GuideSection phases={build.phases} locale={locale} />
-        </section>
+        </AnimatedSection>
 
         {/* Stats */}
-        <section>
+        <AnimatedSection>
           <h2 className="mb-4 font-display text-base text-forge-text">{isVi ? '📊 Chỉ số' : '📊 Stats'}</h2>
           <StatBars stats={build.stats} sl={build.sl} />
-        </section>
+        </AnimatedSection>
 
         {/* Affinity Comparison */}
         {build.affinities.length > 0 && (
-          <section>
+          <AnimatedSection>
             <h2 className="mb-4 font-display text-base text-forge-text">{isVi ? '⚔️ Ngọc' : '⚔️ Affinity'}</h2>
             <AffinityCompare affinities={build.affinities} locale={locale} />
-          </section>
+          </AnimatedSection>
         )}
 
         {/* Items */}
-        <section>
+        <AnimatedSection>
           <h2 className="mb-4 font-display text-base text-forge-text">{isVi ? '🎒 Trang bị' : '🎒 Items'}</h2>
           <ItemGrid items={build.items} itemType={config.itemType} locale={locale} gameSlug={gameSlug} />
-        </section>
+        </AnimatedSection>
 
         {/* Tips */}
         <TipsSection tips={isVi && build.tipsVi ? build.tipsVi : build.tips} />

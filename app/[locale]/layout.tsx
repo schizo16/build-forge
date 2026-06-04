@@ -2,6 +2,7 @@ import { NextIntlClientProvider } from "next-intl"
 import { notFound } from "next/navigation"
 import { Nav } from "@/components/layout/nav"
 import { Footer } from "@/components/layout/footer"
+import { PageTransition } from "@/components/page-transition"
 import { routing } from "@/lib/routing"
 
 type Props = {
@@ -16,7 +17,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <NextIntlClientProvider locale={locale}>
       <Nav />
-      <main className="min-h-screen">{children}</main>
+      <main className="min-h-screen"><PageTransition>{children}</PageTransition></main>
       <Footer />
     </NextIntlClientProvider>
   )

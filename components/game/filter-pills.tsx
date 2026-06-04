@@ -11,7 +11,7 @@ export function FilterPills({ active, onChange, locale }: { active: string; onCh
           onClick={() => onChange(cat.key)}
           className={`rounded-full px-3.5 py-1.5 text-[11px] transition-all ${
             active === cat.key
-              ? 'bg-accent-gold font-semibold text-black'
+              ? 'bg-accent-gold font-semibold text-black shadow-[0_0_15px_-3px_#D4AF37]'
               : 'border border-forge-border bg-forge-surface text-forge-muted hover:text-forge-text'
           }`}
         >

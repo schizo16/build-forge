@@ -12,8 +12,8 @@ export function BuildGrid({ builds, gameSlug, accent, locale }: { builds: Build[
 
   return (
     <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {builds.map((build) => (
-        <BuildCard key={build.slug} build={build} gameSlug={gameSlug} accent={accent} locale={locale} />
+      {builds.map((build, index) => (
+        <BuildCard key={build.slug} build={build} gameSlug={gameSlug} accent={accent} locale={locale} index={index} />
       ))}
     </div>
   )
