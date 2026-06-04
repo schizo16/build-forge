@@ -22,8 +22,9 @@ export function StatBars({ stats, sl }: { stats: Record<string, number>; sl: num
               <span className="text-[11px] text-forge-muted uppercase">{STAT_LABELS[keyLower] || key}</span>
               <div className="h-3.5 overflow-hidden rounded-sm bg-forge-hover">
                 <div
-                  className="h-full rounded-sm transition-all"
-                  style={{ width: `${pct}%`, backgroundColor: isPrimary ? '#D4AF37' : '#78716C' }}
+                  className="gsap-bar h-full rounded-sm"
+                  data-width={`${pct}%`}
+                  style={{ backgroundColor: isPrimary ? '#D4AF37' : '#78716C' }}
                 />
               </div>
               <span className="text-right text-[11px]" style={{ color: isPrimary ? '#D4AF37' : '#78716C' }}>

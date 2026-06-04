@@ -1,13 +1,5 @@
-import { LanguageSwitcher } from "./language-switcher"
 import { Link } from "@/lib/navigation"
-import type { GameSlug } from "@/lib/utils"
-
-const DISPLAY_GAMES: { slug: GameSlug; label: string }[] = [
-  { slug: 'elden-ring', label: 'Elden Ring' },
-  { slug: 'dark-souls-3', label: 'Dark Souls' },
-  { slug: 'bloodborne', label: 'Bloodborne' },
-  { slug: 'cyberpunk', label: 'Cyberpunk' },
-]
+import { NavHover } from "@/components/nav-hover"
 
 export function Nav() {
   return (
@@ -16,21 +8,7 @@ export function Nav() {
         <Link href="/" className="font-display text-xl tracking-[0.15em] text-forge-text">
           BUILD<span className="text-accent-gold">FORGE</span>
         </Link>
-        <div className="hidden items-center gap-5 md:flex">
-          {DISPLAY_GAMES.map((game) => (
-            <Link
-              key={game.slug}
-              href={`/${game.slug}`}
-              className="text-xs text-forge-muted transition-colors hover:text-forge-text"
-            >
-              {game.label}
-            </Link>
-          ))}
-          <Link href="/saved" className="text-xs text-forge-muted transition-colors hover:text-forge-text">
-            ♥ Saved
-          </Link>
-          <LanguageSwitcher />
-        </div>
+        <NavHover />
       </div>
     </nav>
   )

@@ -3,7 +3,7 @@ import type { BuildPhase } from "@/lib/utils"
 export function PhaseCard({ phase, borderColor, locale }: { phase: BuildPhase; borderColor: string; locale?: string }) {
   const isVi = locale === 'vi'
   return (
-    <div className="rounded-lg border-l-4 bg-forge-surface p-4" style={{ borderLeftColor: borderColor }}>
+    <div className="gsap-phase rounded-lg border-l-4 bg-forge-surface p-4" style={{ borderLeftColor: borderColor }}>
       <div className="flex items-center justify-between">
         <h3 className="text-[11px] font-semibold uppercase tracking-wider" style={{ color: borderColor }}>
           {isVi && phase.nameVi ? phase.nameVi : phase.name}

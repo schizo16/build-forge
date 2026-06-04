@@ -29,12 +29,14 @@ export default function HomePage() {
           whileHover={{ translateZ: 20 }}
           transition={{ type: "spring", stiffness: 200, damping: 15 }}
         >
-          {t("hero")}
+          {t("hero").split(" ").map((word, i) => (
+            <span key={i} className="gsap-word inline-block">{word}{i < t("hero").split(" ").length - 1 ? '\u00A0' : ''}</span>
+          ))}
         </motion.h1>
-        <p className="mx-auto mt-4 max-w-xl text-sm text-forge-muted">
+        <p className="gsap-word mx-auto mt-4 max-w-xl text-sm text-forge-muted">
           {t("subtitle")}
         </p>
-        <div className="mt-8">
+        <div className="gsap-word mt-8">
           <RandomCTA />
         </div>
       </div>
