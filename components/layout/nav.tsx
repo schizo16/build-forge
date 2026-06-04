@@ -28,6 +28,9 @@ export function Nav() {
               {game.label}
             </Link>
           ))}
+          <Link href="/saved" className="text-xs text-forge-muted transition-colors hover:text-forge-text">
+            ♥ Saved
+          </Link>
           <LanguageSwitcher />
         </div>
       </div>

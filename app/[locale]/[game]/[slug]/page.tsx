@@ -8,6 +8,7 @@ import { AnimatedSection } from "@/components/animated-section"
 import { AffinityCompare } from "@/components/build-detail/affinity-compare"
 import { ItemGrid } from "@/components/build-detail/item-grid"
 import { TipsSection } from "@/components/build-detail/tips-section"
+import { SaveButton } from "@/components/build-detail/save-button"
 
 export default async function BuildDetailPage({ params }: { params: Promise<{ locale: string; game: string; slug: string }> }) {
   const { locale, game, slug } = await params
@@ -36,11 +37,22 @@ export default async function BuildDetailPage({ params }: { params: Promise<{ lo
             {isVi && build.descriptionVi ? build.descriptionVi : build.description}
           </p>
         </div>
-        <div className="text-right shrink-0">
-          <span className="rounded bg-accent-red/20 px-2.5 py-1 text-[10px] font-semibold uppercase text-accent-red">
-            {build.category}{build.dlc ? ' • DLC ✓' : ''}
-          </span>
-          <p className="mt-1 text-[10px] text-forge-muted">
+        <div className="flex flex-col items-end gap-2 shrink-0">
+          <div className="flex items-center gap-2">
+            <SaveButton
+              game={game}
+              slug={build.slug}
+              name={build.name}
+              nameVi={build.nameVi}
+              category={build.category}
+              played={false}
+              savedAt={Date.now()}
+            />
+            <span className="rounded bg-accent-red/20 px-2.5 py-1 text-[10px] font-semibold uppercase text-accent-red">
+              {build.category}{build.dlc ? ' • DLC ✓' : ''}
+            </span>
+          </div>
+          <p className="text-[10px] text-forge-muted">
             {isVi && build.gameClassVi ? build.gameClassVi : build.gameClass}
           </p>
         </div>
