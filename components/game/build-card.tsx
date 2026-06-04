@@ -5,6 +5,8 @@ import { motion } from "framer-motion"
 import { TiltCard } from "@/components/tilt-card"
 import type { Build } from "@/lib/utils"
 
+const DIFF_STARS = ['', '⭐', '⭐⭐', '⭐⭐⭐']
+
 const CATEGORY_COLORS: Record<string, string> = {
   meta: '#DC2626',
   pve: '#22C55E',
@@ -49,13 +51,16 @@ export function BuildCard({ build, gameSlug, accent, locale, index = 0 }: { buil
             </span>
           </div>
           <p className="mt-1 text-[11px] text-forge-muted line-clamp-1">{locale === 'vi' && build.descriptionVi ? build.descriptionVi : build.description}</p>
-          <div className="mt-2 flex gap-1.5 text-[10px] text-forge-muted">
+        <div className="mt-2 flex items-center justify-between">
+          <div className="flex gap-1.5 text-[10px] text-forge-muted">
             {Object.entries(build.stats)
               .filter(([, v]) => v >= 40)
               .map(([k]) => (
                 <span key={k} className="capitalize">{k.slice(0, 3)}</span>
               ))}
           </div>
+          <span className="text-[9px]">{DIFF_STARS[build.difficulty] ?? ''}</span>
+        </div>
         </div>
       </Link>
       </TiltCard>

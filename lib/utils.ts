@@ -25,6 +25,13 @@ export const CATEGORIES: { key: string; label: string; labelVi: string }[] = [
   { key: 'trend', label: 'Trend', labelVi: 'Trend' },
 ]
 
+export const DIFFICULTIES: { key: string; label: string; labelVi: string }[] = [
+  { key: 'all', label: 'All', labelVi: 'Tất cả' },
+  { key: '1', label: '⭐ Easy', labelVi: '⭐ Dễ' },
+  { key: '2', label: '⭐⭐ Medium', labelVi: '⭐⭐ Trung bình' },
+  { key: '3', label: '⭐⭐⭐ Hard', labelVi: '⭐⭐⭐ Khó' },
+]
+
 export const ALL_GAME_SLUGS: GameSlug[] = ['elden-ring', 'dark-souls-1', 'dark-souls-2', 'dark-souls-3', 'bloodborne', 'cyberpunk']
 
 export type Category = 'pve' | 'pvp' | 'meta' | 'meme' | 'trend'

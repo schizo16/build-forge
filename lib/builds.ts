@@ -1,10 +1,11 @@
 import { ALL_BUILDS } from "@/data"
 import type { GameSlug, Build } from "@/lib/utils"
 
-export function filterBuilds(slug: GameSlug, category: string): Build[] {
-  const builds = ALL_BUILDS[slug]?.builds ?? []
-  if (category === 'all') return builds
-  return builds.filter(b => b.category === category)
+export function filterBuilds(slug: GameSlug, category: string, difficulty?: string): Build[] {
+  let builds = ALL_BUILDS[slug]?.builds ?? []
+  if (category !== 'all') builds = builds.filter(b => b.category === category)
+  if (difficulty && difficulty !== 'all') builds = builds.filter(b => b.difficulty === Number(difficulty))
+  return builds
 }
 
 export function getGameBuildCount(slug: GameSlug): number {

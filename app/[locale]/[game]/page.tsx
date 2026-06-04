@@ -3,7 +3,7 @@
 import { useState, useCallback, useMemo } from "react"
 import { useParams, useRouter } from "next/navigation"
 import { useLocale } from "next-intl"
-import { GAME_CONFIGS, type GameSlug, type Build } from "@/lib/utils"
+import { GAME_CONFIGS, DIFFICULTIES, type GameSlug, type Build } from "@/lib/utils"
 import { FilterPills } from "@/components/game/filter-pills"
 import { BuildGrid } from "@/components/game/build-grid"
 import { filterBuilds, getGameBuildCount } from "@/lib/builds"
@@ -24,9 +24,10 @@ export default function GamePage() {
   }
 
   const [category, setCategory] = useState('all')
+  const [difficulty, setDifficulty] = useState('all')
   const [search, setSearch] = useState('')
   const [sort, setSort] = useState('default')
-  const builds = filterBuilds(game, category)
+  const builds = filterBuilds(game, category, difficulty)
   const gameName = locale === 'vi' ? config.nameVi : config.name
 
   const filteredAndSorted = useMemo(() => {
@@ -98,6 +99,14 @@ export default function GamePage() {
       </h1>
       <div className="mt-6 flex items-center gap-3">
         <FilterPills active={category} onChange={setCategory} locale={locale} />
+      </div>
+      <div className="mt-2 flex items-center gap-3">
+        <FilterPills
+          items={DIFFICULTIES}
+          active={difficulty}
+          onChange={setDifficulty}
+          locale={locale}
+        />
       </div>
       <div className="mt-3 flex items-center gap-3">
         <div className="relative flex-1">
