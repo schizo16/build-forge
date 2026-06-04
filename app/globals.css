@@ -8,6 +8,7 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-sans);
+  --font-vn: var(--font-vn);
   --font-display: var(--font-display);
   --font-heading: var(--font-sans);
   --color-sidebar-ring: var(--sidebar-ring);
@@ -138,6 +139,9 @@
   }
   html {
     @apply font-sans;
+  }
+  :lang(vi) {
+    font-family: var(--font-vn), var(--font-sans), sans-serif;
   }
 }
 

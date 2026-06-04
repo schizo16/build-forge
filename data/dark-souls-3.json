@@ -8,9 +8,9 @@
         {
             "slug": "sellsword-winblades",
             "name": "Sellsword Winblades",
-            "nameVi": "Song Kiem Sellsword",
+            "nameVi": "Sellsword Winblades",
             "description": "The infamous Sellsword Twinblades considered the best PvE weapon in Dark Souls 3. Sharp infusion with Lightning Blade buff and Pontiff rings melts every boss in seconds.",
-            "descriptionVi": "Sellsword Twinblades khet tieng, vu khi PvE tot nhat DS3. Sharp infusion voi Lightning Blade va Pontiff rings huy diet moi boss.",
+            "descriptionVi": "The infamous Sellsword Twinblades considered the best PvE weapon in Dark Souls 3. Sharp infusion with Lightning Blade buff and Pontiff rings melts every boss in seconds.",
             "category": "meta",
             "difficulty": 1,
             "dlc": true,
@@ -31,7 +31,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-40",
                     "areas": "High Wall, Undead Settlement, Crucifixion Woods",
                     "areasVi": "High Wall, Undead Settlement, Crucifixion Woods",
@@ -44,17 +44,17 @@
                         "Infuse Twinblades with Sharp"
                     ],
                     "stepsVi": [
-                        "Chon Mercenary cho Sellsword Twinblades",
-                        "Tang Dexterity len 20 va Vigor len 15",
-                        "Nang Twinblades len +3",
-                        "Giet Vordt",
-                        "Tim Sharp Gem o Road of Sacrifices",
-                        "Gan Sharp cho Twinblades"
+                        "Chọn Mercenarystarting Sellsword Twinblades",
+                        "Tăng Dexterity lên 20 and Vigor to 15",
+                        "Nâng cấp Twinblades to +3",
+                        "Đánh bại Vordt",
+                        "Tìm Sharp Gem at Road of Sacrifices",
+                        "Infuse Twinblades with Sharp"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 40-80",
                     "areas": "Cathedral of the Deep, Farron Keep, Irithyll",
                     "areasVi": "Cathedral of the Deep, Farron Keep, Irithyll",
@@ -67,17 +67,17 @@
                         "Level Endurance to 25"
                     ],
                     "stepsVi": [
-                        "Day Dexterity len 40",
-                        "Nang Twinblades len +10",
-                        "Lay Pontiff's Right Eye",
-                        "Trang bi Lloyd's Sword Ring",
-                        "Lay Old Wolf Curved Sword",
-                        "Tang Endurance len 25"
+                        "Tăng Dexterity lên 40",
+                        "Nâng cấp Twinblades to +10",
+                        "Get Pontiff's Right Eye",
+                        "Trang bị Lloyd's Sword Ring",
+                        "Get Old Wolf Curved Sword",
+                        "Tăng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cuoi Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "SL 80-120",
                     "areas": "Lothric Castle, Archdragon Peak, DLC",
                     "areasVi": "Lothric Castle, Archdragon Peak, DLC",
@@ -90,12 +90,12 @@
                         "L1-L2-L1 weapon art combo melts bosses"
                     ],
                     "stepsVi": [
-                        "Day Dexterity len 60",
-                        "Lay Lightning Blade tu Irithyll Dungeon",
-                        "Trang bi Lightning Blade",
-                        "Trang bi Pontiff's Left Eye",
-                        "Dung Prisoner's Chain",
-                        "Combo L1-L2-L1 huy diet boss"
+                        "Tăng Dexterity lên 60 for S scaling",
+                        "Lấy Lightning Blade từ Irithyll Dungeon",
+                        "Attune Lightning Blade with 15 Faith",
+                        "Trang bị Pontiff's Left Eye",
+                        "Dùng $1risoner's Chain",
+                        "L1-L2-L1 weapon art combo melts bosses"
                     ]
                 }
             ],
@@ -127,43 +127,43 @@
                     "name": "Sellsword Twinblades",
                     "type": "Weapon",
                     "location": "Starting weapon for Mercenary class",
-                    "locationVi": "Vu khi khoi dau cua Mercenary"
+                    "locationVi": "Starting weapon for Mercenary class"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn's soul",
-                    "locationVi": "Transpose tu linh hon Pontiff"
+                    "locationVi": "Transposed from Pontiff Sulyvahn's soul"
                 },
                 {
                     "name": "Pontiff's Left Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn's soul",
-                    "locationVi": "Transpose tu linh hon Pontiff"
+                    "locationVi": "Transposed from Pontiff Sulyvahn's soul"
                 },
                 {
                     "name": "Lloyd's Sword Ring",
                     "type": "Ring",
                     "location": "High Wall of Lothric near Tower on the Wall",
-                    "locationVi": "High Wall of Lothric"
+                    "locationVi": "High Wall of Lothric near Tower on the Wall"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transpose tu Champion Gundyr"
+                    "locationVi": "Transposed from Champion Gundyr's soul"
                 },
                 {
                     "name": "Lightning Blade",
                     "type": "Weapon",
                     "location": "Irithyll Dungeon near the giant",
-                    "locationVi": "Irithyll Dungeon"
+                    "locationVi": "Irithyll Dungeon near the giant"
                 },
                 {
                     "name": "Yorshka's Chime",
                     "type": "Weapon",
                     "location": "Anor Londo near the Silver Knights",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo near the Silver Knights"
                 }
             ],
             "tips": [
@@ -174,19 +174,19 @@
                 "L1 running attack has excellent range for roll catching"
             ],
             "tipsVi": [
-                "Combo L1-L2-L1 la DPS cao nhat game",
-                "Pontiff's Right Eye + Old Wolf Curved Sword tang sat thuong sau 4 don",
-                "Lightning Blade them ~200 AR",
-                "Sellsword Twinblades tot voi moi loai resin",
-                "Don chay L1 co tam rat tot"
+                "L1-L2-L1 weapon art combo is highest DPS in the game",
+                "Pontiff's Right Eye + Old Wolf Curved Sword = massive damage bonus after 4 hits",
+                "Lightning Blade adds ~200 AR on Sharp +10 weapon",
+                "Sellsword Twinblades work great with any resin or bundle",
+                "L1 running attack has excellent range for roll catching"
             ]
         },
         {
             "slug": "chaos-zweihander",
             "name": "Chaos Zweihander",
-            "nameVi": "Zweihander Hon Mang",
+            "nameVi": "Chaos Zweihander",
             "description": "A Dark/Chaos infused Zweihander build with minimum stat requirements. Maximum health and stamina with massive elemental damage.",
-            "descriptionVi": "Build Zweihander Dark/Chaos chi so toi thieu, sat thuong nguyen to khung.",
+            "descriptionVi": "A Dark/Chaos infused Zweihander build with minimum stat requirements. Maximum health and stamina with massive elemental damage.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -207,7 +207,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-40",
                     "areas": "High Wall, Undead Settlement, Farron Keep",
                     "areasVi": "High Wall, Undead Settlement, Farron Keep",
@@ -220,17 +220,17 @@
                         "Kill Greatwood for Transposition Kiln"
                     ],
                     "stepsVi": [
-                        "Chon Pyromancer cho Int/Fth can bang",
-                        "Chay den Zweihander o Farron Keep",
-                        "Cam hai tay Zweihander",
-                        "Tang Vigor len 25 truoc",
-                        "Dung Fire infusion tam thoi",
-                        "Giet Greatwood"
+                        "Chọn PyromancerInt/Fth balance",
+                        "Rush to Zweihander at Farron Keep",
+                        "Two-hand the Zweihander",
+                        "Tăng Vigor lên 25 first",
+                        "Dùng $1ire infusion temporarily",
+                        "Đánh bại Greatwood for Transposition Kiln"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 40-80",
                     "areas": "Catacombs, Irithyll, Anor Londo",
                     "areasVi": "Catacombs, Irithyll, Anor Londo",
@@ -243,17 +243,17 @@
                         "Get Witch's Ring"
                     ],
                     "stepsVi": [
-                        "Tang Int/Fth len 25/25",
-                        "Tim Giant's Coal trong Catacombs",
-                        "Gan Chaos hoac Dark cho Zweihander",
-                        "Nang len +7",
-                        "Trang bi Ring of Favor",
-                        "Lay Witch's Ring"
+                        "Level Int/Fth to 25/25",
+                        "Tìm Giant's Coal in Catacombs",
+                        "Infuse Zweihander with Chaos or Dark",
+                        "Nâng cấp to +7",
+                        "Trang bị Ring of Favor",
+                        "Get Witch's Ring"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cuoi Game",
+                    "nameVi": "Cuối Game",
                     "levels": "SL 80-120",
                     "areas": "Lothric Castle, Archdragon Peak, Grand Archives",
                     "areasVi": "Lothric Castle, Archdragon Peak, Grand Archives",
@@ -266,12 +266,12 @@
                         "Running R1 thrust for roll catches"
                     ],
                     "stepsVi": [
-                        "Day Int/Fth len 30/30",
-                        "Nang Zweihander len +10",
-                        "Trang bi Havel's Ring +3",
-                        "Mac giap poise",
-                        "Dung R2 de de bep ke dich",
-                        "Chay R1 bat lan"
+                        "Push Int/Fth to 30/30",
+                        "Nâng tối đa Zweihander to +10",
+                        "Trang bị Havel's Ring +3 for poise armor",
+                        "Wear heavy poise armor for mid roll",
+                        "Dùng $12 pancake for crowd control",
+                        "Running R1 thrust for roll catches"
                     ]
                 }
             ],
@@ -296,37 +296,37 @@
                     "name": "Zweihander",
                     "type": "Weapon",
                     "location": "Farron Keep perimeter on a corpse",
-                    "locationVi": "Farron Keep perimeter"
+                    "locationVi": "Farron Keep perimeter on a corpse"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near Shared Grave",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC near Shared Grave"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC from Havel",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC from Havel"
                 },
                 {
                     "name": "Witch's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement from fire demon NPC",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement from fire demon NPC"
                 },
                 {
                     "name": "Giant's Coal",
                     "type": "Weapon",
                     "location": "Catacombs of Carthus behind illusory wall",
-                    "locationVi": "Catacombs of Carthus"
+                    "locationVi": "Catacombs of Carthus behind illusory wall"
                 },
                 {
                     "name": "Chaos Gem",
                     "type": "Weapon",
                     "location": "Dropped by fire witches in Irithyll",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Dropped by fire witches in Irithyll"
                 }
             ],
             "tips": [
@@ -337,19 +337,19 @@
                 "Use Knight's Ring if you need to meet stat requirements"
             ],
             "tipsVi": [
-                "Chaos va Dark tang theo Int/Fth soft cap 30/30",
-                "R2 Zweihander de bep quai nguoi",
-                "Dark thuong tot hon Chaos trong DS3",
-                "Giu Caestus Simple de hoi FP",
-                "Dung Knight's Ring neu thieu chi so"
+                "Chaos and Dark scale with Int/Fth at 30/30 soft cap",
+                "Zweihander R2 pancakes humanoids for easy wakeups",
+                "Dark is generally better in DS3 due to fewer dark-resistant enemies",
+                "Keep a Simple Caestus offhand for FP regen",
+                "Dùng $1night's Ring if you need to meet stat requirements"
             ]
         },
         {
             "slug": "pure-strength",
             "name": "Pure STR Greatsword",
-            "nameVi": "Dai Kiem Suc Manh",
+            "nameVi": "Pure STR Greatsword",
             "description": "A pure Strength build using the Greatsword or Fume Ultra Greatsword. Max poise, hyper armor, and massive damage per swing.",
-            "descriptionVi": "Build Strength thuan voi Greatsword. Poise toi da, hyper armor va sat thuong khung.",
+            "descriptionVi": "A pure Strength build using the Greatsword or Fume Ultra Greatsword. Max poise, hyper armor, and massive damage per swing.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -370,7 +370,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-40",
                     "areas": "High Wall, Undead Settlement",
                     "areasVi": "High Wall, Undead Settlement",
@@ -383,17 +383,17 @@
                         "Upgrade to +3"
                     ],
                     "stepsVi": [
-                        "Chon Warrior cho Strength cao",
-                        "Chay den Greatsword o Farron Keep",
-                        "Cam hai tay voi 20 Strength",
-                        "Tang Vigor va Endurance len 20",
-                        "Gan Heavy Gem",
-                        "Nang len +3"
+                        "Chọn Warriorhigh Strength",
+                        "Rush to Greatsword in Farron Keep",
+                        "Two-hand with just 20 Strength",
+                        "Tăng Vigor lên 20, End to 20",
+                        "Infuse with Heavy Gem",
+                        "Nâng cấp to +3"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 40-80",
                     "areas": "Farron Keep, Catacombs, Irithyll",
                     "areasVi": "Farron Keep, Catacombs, Irithyll",
@@ -406,17 +406,17 @@
                         "Equip Chloranthy Ring"
                     ],
                     "stepsVi": [
-                        "Day Strength len 40, Vigor len 30",
-                        "Nang Greatsword len +7",
-                        "Trang bi Knight's Ring",
-                        "Lay Ring of Favor",
-                        "Tang Endurance len 30",
-                        "Trang bi Chloranthy Ring"
+                        "Tăng Strength lên 40, Vigor to 30",
+                        "Nâng cấp Greatsword to +7",
+                        "Trang bị Knight's Ring",
+                        "Get Ring of Favor",
+                        "Tăng Endurance lên 30",
+                        "Trang bị Chloranthy Ring"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cuoi Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "SL 80-120",
                     "areas": "Lothric Castle, Archdragon Peak, DLC",
                     "areasVi": "Lothric Castle, Archdragon Peak, DLC",
@@ -429,12 +429,12 @@
                         "Perseverance weapon art for hyper armor"
                     ],
                     "stepsVi": [
-                        "Day Strength len 66",
-                        "Nang Greatsword len +10",
-                        "Doi sang Fume UGS",
-                        "Trang bi Havel's Ring +3",
-                        "Mac Lapp's cho 40+ poise",
-                        "Perseverance cho hyper armor"
+                        "Tăng Strength lên 66 for two-hand max scaling",
+                        "Nâng tối đa Greatsword to +10",
+                        "Swap to Fume Ultra Greatsword if desired",
+                        "Trang bị Havel's Ring +3",
+                        "Wear Lapp's armor for 40+ poise",
+                        "Perseverance weapon art for hyper armor"
                     ]
                 }
             ],
@@ -459,37 +459,37 @@
                     "name": "Greatsword",
                     "type": "Weapon",
                     "location": "Farron Keep swamp near black knight",
-                    "locationVi": "Farron Keep"
+                    "locationVi": "Farron Keep swamp near black knight"
                 },
                 {
                     "name": "Fume Ultra Greatsword",
                     "type": "Weapon",
                     "location": "Transposed from Knight Slayer Tsorig soul",
-                    "locationVi": "Transpose tu Knight Slayer Tsorig"
+                    "locationVi": "Transposed from Knight Slayer Tsorig soul"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement near giant tower"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near Shared Grave",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC near Shared Grave"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap"
+                    "locationVi": "Dreg Heap from Havel Knight"
                 },
                 {
                     "name": "Lapp's Armor Set",
                     "type": "Armor",
                     "location": "Ringed City DLC from Lapp quest",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC from Lapp quest"
                 }
             ],
             "tips": [
@@ -500,19 +500,19 @@
                 "Heavy infusion + Gold Pine Resin is best buff combo"
             ],
             "tipsVi": [
-                "66 Strength cam hai tay tuong duong 99 Strength",
-                "R2 Greatsword xuyen khien",
-                "40+ poise de chiu duoc R1 kiem thang",
-                "Fume UGS co R2 chan don",
-                "Heavy + Gold Pine Resin la combo tot nhat"
+                "66 Strength two-handed equals 99 Strength for weapon scaling",
+                "Greatsword R2 charges and pierces shields",
+                "Stack 40+ poise to poise through straight sword R1 spam",
+                "Fume UGS has blocking R2 attack",
+                "Heavy infusion + Gold Pine Resin is best buff combo"
             ]
         },
         {
             "slug": "sorcerer",
             "name": "Crystal Sorcerer",
-            "nameVi": "Phap Su Pha Le",
+            "nameVi": "Crystal Sorcerer",
             "description": "An Intelligence sorcery build with Court Sorcerer's Staff and Crystal Soul Spear. One of the highest burst damage casters in DS3.",
-            "descriptionVi": "Build ma thuat Intelligence voi Court Sorcerer's Staff va Crystal Soul Spear. Sat thuong burst cao nhat DS3.",
+            "descriptionVi": "An Intelligence sorcery build with Court Sorcerer's Staff and Crystal Soul Spear. One of the highest burst damage casters in DS3.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -533,7 +533,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-40",
                     "areas": "High Wall, Undead Settlement",
                     "areasVi": "High Wall, Undead Settlement",
@@ -546,17 +546,17 @@
                         "Kill Crystal Sage for Crystal Scroll"
                     ],
                     "stepsVi": [
-                        "Chon Sorcerer",
-                        "Mua Soul Arrow tu Orbeck",
-                        "Tim Heretic's Staff",
-                        "Tang Intelligence len 30",
-                        "Lay Young Dragon Ring",
-                        "Giet Crystal Sage"
+                        "Chọn Sorcererstarting staff and spells",
+                        "Mua Soul Arrow từ Orbeck",
+                        "Tìm Heretic's Staff in Undead Settlement",
+                        "Tăng Intelligence lên 30",
+                        "Get Young Dragon Ring",
+                        "Đánh bại Crystal Sage for Crystal Scroll"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 40-80",
                     "areas": "Irithyll, Anor Londo, Catacombs",
                     "areasVi": "Irithyll, Anor Londo, Catacombs",
@@ -569,17 +569,17 @@
                         "Level Attunement to 24"
                     ],
                     "stepsVi": [
-                        "Dua Crystal Scroll cho Orbeck",
-                        "Day Intelligence len 45",
-                        "Tim Court Sorcerer's Staff",
-                        "Lay Bellowing Dragoncrest Ring",
-                        "Trang bi Magic Clutch Ring",
-                        "Tang Attunement len 24"
+                        "Give Crystal Scroll to Orbeck for CSS",
+                        "Tăng Intelligence lên 45",
+                        "Tìm Court Sorcerer's Staff in Irithyll",
+                        "Get Bellowing Dragoncrest Ring",
+                        "Trang bị Magic Clutch Ring",
+                        "Tăng Attunement lên 24"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cuoi Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "SL 80-120",
                     "areas": "Grand Archives, Archdragon Peak, DLC",
                     "areasVi": "Grand Archives, Archdragon Peak, DLC",
@@ -592,12 +592,12 @@
                         "Steady Chant adds 25% magic damage"
                     ],
                     "stepsVi": [
-                        "Day Intelligence len 60",
-                        "Nang Court Sorcerer's Staff len +10",
-                        "Lay Sage Ring +2 tu DLC",
-                        "Trang bi CSS, Homing Crystal Soulmass",
-                        "Dung Crown of Dusk",
-                        "Steady Chant tang 25% sat thuong"
+                        "Tăng Intelligence lên 60 for S scaling",
+                        "Nâng tối đa Court Sorcerer's Staff to +10",
+                        "Lấy Sage Ring +2 từ DLC",
+                        "Attune CSS, Homing Crystal Soulmass",
+                        "Dùng $1rown of Dusk for 10% magic damage",
+                        "Steady Chant adds 25% magic damage"
                     ]
                 }
             ],
@@ -622,37 +622,37 @@
                     "name": "Court Sorcerer's Staff",
                     "type": "Weapon",
                     "location": "Irithyll sewers near the church",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll sewers near the church"
                 },
                 {
                     "name": "Young Dragon Ring",
                     "type": "Ring",
                     "location": "Orbeck of Vinheim quest in Firelink",
-                    "locationVi": "Nhiem vu Orbeck"
+                    "locationVi": "Orbeck of Vinheim quest in Firelink"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Irithyll behind illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll behind illusory wall"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC swamp"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC before Demon Prince",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC before Demon Prince"
                 },
                 {
                     "name": "Crown of Dusk",
                     "type": "Armor",
                     "location": "Farron Keep from golden golem",
-                    "locationVi": "Farron Keep"
+                    "locationVi": "Farron Keep from golden golem"
                 }
             ],
             "tips": [
@@ -663,19 +663,19 @@
                 "Keep Simple-infused Caestus for passive FP regen"
             ],
             "tipsVi": [
-                "Steady Chant + Crown of Dusk + Bellowing Dragoncrest = 60% sat thuong phep",
-                "Crystal Soul Spear co tam xa va xuyen dich",
-                "Court Sorcerer's Staff cho sat thuong",
-                "Homing Crystal Soulmass lam choang",
-                "Giu Caestus Simple de hoi FP"
+                "Steady Chant + Crown of Dusk + Bellowing Dragoncrest = 60% magic damage bonus",
+                "Crystal Soul Spear has huge range and pierces enemies",
+                "Dùng $1ourt Sorcerer's Staff for damage, Heretic's for exploring",
+                "Homing Crystal Soulmass staggers aggressive enemies",
+                "Keep Simple-infused Caestus for passive FP regen"
             ]
         },
         {
             "slug": "faith-lightning",
             "name": "Faith Lightning Spear",
-            "nameVi": "Giao Sam Set Duc Tin",
+            "nameVi": "Faith Lightning Spear",
             "description": "A Faith build using Lightning Arrow and Sunlight Spear. Saint's Talisman gives Unfaltering Prayer for poise casting.",
-            "descriptionVi": "Build Faith voi Lightning Arrow va Sunlight Spear. Saint's Talisman co Unfaltering Prayer.",
+            "descriptionVi": "A Faith build using Lightning Arrow and Sunlight Spear. Saint's Talisman gives Unfaltering Prayer for poise casting.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -696,7 +696,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-40",
                     "areas": "High Wall, Undead Settlement",
                     "areasVi": "High Wall, Undead Settlement",
@@ -709,17 +709,17 @@
                         "Kill Greatwood"
                     ],
                     "stepsVi": [
-                        "Chon Cleric",
-                        "Mua Lightning Spear",
-                        "Tang Faith len 30",
-                        "Dung mace Raw",
-                        "Tim Saint's Talisman",
-                        "Giet Greatwood"
+                        "Chọn Clericstarting chime",
+                        "Mua Lightning Spear từ Eygon",
+                        "Tăng Faith lên 30",
+                        "Dùng $1aw-infused mace",
+                        "Tìm Saint's Talisman",
+                        "Đánh bại Greatwood"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 40-80",
                     "areas": "Cathedral, Catacombs, Irithyll",
                     "areasVi": "Cathedral, Catacombs, Irithyll",
@@ -732,17 +732,17 @@
                         "Get Morne's Ring"
                     ],
                     "stepsVi": [
-                        "Day Faith len 45",
-                        "Tim Yorshka's Chime",
-                        "Lay Lightning Blade",
-                        "Tang Attunement len 18",
-                        "Trang bi Sun's Firstborn Ring",
-                        "Lay Morne's Ring"
+                        "Tăng Faith lên 45",
+                        "Tìm Yorshka's Chime in Anor Londo",
+                        "Lấy Lightning Blade từ Dungeon",
+                        "Tăng Attunement lên 18",
+                        "Trang bị Sun's Firstborn Ring",
+                        "Get Morne's Ring"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cuoi Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "SL 80-120",
                     "areas": "Lothric Castle, Archdragon Peak, DLC",
                     "areasVi": "Lothric Castle, Archdragon Peak, DLC",
@@ -754,11 +754,11 @@
                         "Unfaltering Prayer lets you trade hits"
                     ],
                     "stepsVi": [
-                        "Day Faith len 60",
-                        "Lay Sunlight Spear",
-                        "Lay Lightning Arrow",
-                        "Nang Yorshka's Chime len +10",
-                        "Unfaltering Prayer cho phep doi sat thuong"
+                        "Tăng Faith lên 60 for max spell buff",
+                        "Lấy Sunlight Spear từ Soul of Cinder",
+                        "Lấy Lightning Arrow từ Ringed City",
+                        "Nâng tối đa Yorshka's Chime to +10",
+                        "Unfaltering Prayer lets you trade hits"
                     ]
                 }
             ],
@@ -783,37 +783,37 @@
                     "name": "Yorshka's Chime",
                     "type": "Weapon",
                     "location": "Anor Londo near Silver Knights",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo near Silver Knights"
                 },
                 {
                     "name": "Saint's Talisman",
                     "type": "Weapon",
                     "location": "Undead Settlement sewers",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement sewers"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll near Church of Yorshka"
                 },
                 {
                     "name": "Morne's Ring",
                     "type": "Ring",
                     "location": "Firelink Shrine from Handmaid",
-                    "locationVi": "Firelink Shrine"
+                    "locationVi": "Firelink Shrine from Handmaid"
                 },
                 {
                     "name": "Sunlight Spear",
                     "type": "Weapon",
                     "location": "Transposed from Soul of Cinder",
-                    "locationVi": "Transpose tu Soul of Cinder"
+                    "locationVi": "Transposed from Soul of Cinder"
                 },
                 {
                     "name": "Lightning Arrow",
                     "type": "Weapon",
                     "location": "Ringed City DLC near Streets bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC near Streets bonfire"
                 }
             ],
             "tips": [
@@ -824,19 +824,19 @@
                 "Keep Lightning-infused Longsword for melee"
             ],
             "tipsVi": [
-                "Saint's Talisman co Unfaltering Prayer",
-                "Lightning Arrow co the tich va tam xa",
-                "Sunlight Spear o cu ly gan",
-                "Blessed Weapon tang 10% sat thuong",
-                "Giu Longsword Lightning cho can chien"
+                "Saint's Talisman WA gives Unfaltering Prayer hyper armor",
+                "Lightning Arrow is chargeable with massive range",
+                "Sunlight Spear at point-blank for max damage",
+                "Blessed Weapon buff adds 10% damage and HP regen",
+                "Keep Lightning-infused Longsword for melee"
             ]
         },
         {
             "slug": "pyromancer",
             "name": "Pyromancer",
-            "nameVi": "Phap Su Lua",
+            "nameVi": "Pyromancer",
             "description": "A Dark/Pyromancy hybrid build using Chaos/Dark infusions with high-powered pyromancies. The most versatile caster in DS3.",
-            "descriptionVi": "Build Pyromancy lai Dark/Chaos. Phap su da nang nhat DS3.",
+            "descriptionVi": "A Dark/Pyromancy hybrid build using Chaos/Dark infusions with high-powered pyromancies. The most versatile caster in DS3.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -857,7 +857,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-40",
                     "areas": "High Wall, Undead Settlement",
                     "areasVi": "High Wall, Undead Settlement",
@@ -870,17 +870,17 @@
                         "Kill Greatwood"
                     ],
                     "stepsVi": [
-                        "Chon Pyromancer",
-                        "Mua Fire Orb tu Cornyx",
-                        "Tang Int/Fth len 15/15",
-                        "Dung Longsword Raw",
-                        "Tim Great Swamp Ring",
-                        "Giet Greatwood"
+                        "Chọn Pyromancerstarting flame",
+                        "Mua Fire Orb từ Cornyx",
+                        "Level Int/Fth to 15/15",
+                        "Dùng $1aw-infused Longsword",
+                        "Tìm Great Swamp Ring",
+                        "Đánh bại Greatwood"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 40-80",
                     "areas": "Farron Keep, Catacombs, Irithyll",
                     "areasVi": "Farron Keep, Catacombs, Irithyll",
@@ -893,17 +893,17 @@
                         "Infuse Longsword with Chaos/Dark"
                     ],
                     "stepsVi": [
-                        "Day Int/Fth len 25/25",
-                        "Tim Witch's Ring",
-                        "Nang Pyromancy Flame len +7",
-                        "Lay Chaos Bed Vestiges",
-                        "Tang Attunement len 20",
-                        "Gan Chaos/Dark cho Longsword"
+                        "Push Int/Fth to 25/25",
+                        "Tìm Witch's Ring",
+                        "Nâng cấp Pyromancy Flame to +7",
+                        "Lấy Chaos Bed Vestiges từ Old Demon King",
+                        "Tăng Attunement lên 20",
+                        "Infuse Longsword with Chaos/Dark"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cuoi Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "SL 80-120",
                     "areas": "Lothric Castle, Grand Archives, DLC",
                     "areasVi": "Lothric Castle, Grand Archives, DLC",
@@ -916,12 +916,12 @@
                         "Alternate fire and dark spells"
                     ],
                     "stepsVi": [
-                        "Day Int/Fth len 35/35",
-                        "Nang Pyromancy Flame len +10",
-                        "Lay Black Flame va Black Serpent",
-                        "Trang bi Sage Ring +2",
-                        "Dung Darkmoon Ring",
-                        "Luan phien lua va bong toi"
+                        "Push Int/Fth to 35/35",
+                        "Nâng tối đa Pyromancy Flame to +10",
+                        "Lấy Black Flame and Black Serpent từ DLC",
+                        "Trang bị Sage Ring +2",
+                        "Dùng $1arkmoon Ring for more slots",
+                        "Alternate fire and dark spells"
                     ]
                 }
             ],
@@ -946,37 +946,37 @@
                     "name": "Pyromancy Flame",
                     "type": "Weapon",
                     "location": "Cornyx of the Great Swamp after rescue",
-                    "locationVi": "Cornyx"
+                    "locationVi": "Cornyx of the Great Swamp after rescue"
                 },
                 {
                     "name": "Witch's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement from fire demon",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement from fire demon"
                 },
                 {
                     "name": "Great Swamp Ring",
                     "type": "Ring",
                     "location": "Undead Settlement on a corpse",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement on a corpse"
                 },
                 {
                     "name": "Chaos Bed Vestiges",
                     "type": "Weapon",
                     "location": "Transposed from Old Demon King",
-                    "locationVi": "Transpose tu Old Demon King"
+                    "locationVi": "Transposed from Old Demon King"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC before Demon Prince",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC before Demon Prince"
                 },
                 {
                     "name": "Black Flame",
                     "type": "Weapon",
                     "location": "Ringed City DLC Shared Grave",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC Shared Grave"
                 }
             ],
             "tips": [
@@ -987,19 +987,19 @@
                 "Use parting flame for unique R2"
             ],
             "tipsVi": [
-                "Chaos Bed Vestiges la pyromancy da nang nhat",
-                "Witch's Ring + Great Swamp Ring + Fire Clutch Ring",
-                "Black Flame pha khien",
-                "Chuyen sang Dark cho boss DLC",
-                "Dung parting flame cho R2 dac biet"
+                "Chaos Bed Vestiges is your best general-purpose pyromancy",
+                "Stack Witch's Ring + Great Swamp Ring + Fire Clutch Ring",
+                "Black Flame destroys shields at close range",
+                "Switch to Dark spells for DLC bosses",
+                "Dùng $1arting flame for unique R2"
             ]
         },
         {
             "slug": "dex-sharp",
             "name": "Sharp DEX Duelist",
-            "nameVi": "Dau Si Nhanh Nhen",
+            "nameVi": "Sharp DEX Duelist",
             "description": "A Sharp Dexterity build using the Lothric Knight Sword. The go-to PvP meta build in DS3.",
-            "descriptionVi": "Build Dexterity Sharp voi Lothric Knight Sword. Build PvP meta DS3.",
+            "descriptionVi": "A Sharp Dexterity build using the Lothric Knight Sword. The go-to PvP meta build in DS3.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -1020,7 +1020,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-40",
                     "areas": "High Wall, Undead Settlement",
                     "areasVi": "High Wall, Undead Settlement",
@@ -1033,17 +1033,17 @@
                         "Get Knight's Ring for 18 Str"
                     ],
                     "stepsVi": [
-                        "Chon Mercenary cho Dex cao",
-                        "Farm LKS",
-                        "Tang Dex len 25",
-                        "Nang LKS len +3",
-                        "Dung Raw tam thoi",
-                        "Lay Knight's Ring"
+                        "Chọn Mercenaryhigh Dex",
+                        "Farm Lothric Knights for LKS",
+                        "Tăng Dex lên 25",
+                        "Nâng cấp LKS to +3",
+                        "Infuse with Raw until Sharp",
+                        "Get Knight's Ring for 18 Str"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 40-80",
                     "areas": "Farron Keep, Irithyll, Anor Londo",
                     "areasVi": "Farron Keep, Irithyll, Anor Londo",
@@ -1056,17 +1056,17 @@
                         "Get Ring of Favor"
                     ],
                     "stepsVi": [
-                        "Day Dex len 40",
-                        "Nang LKS len +7 Sharp",
-                        "Lay Pontiff's Right Eye",
-                        "Tang Endurance len 25",
-                        "Trang bi Chloranthy Ring",
-                        "Lay Ring of Favor"
+                        "Tăng Dex lên 40",
+                        "Refine LKS to +7 Sharp",
+                        "Get Pontiff's Right Eye",
+                        "Tăng Endurance lên 25",
+                        "Trang bị Chloranthy Ring",
+                        "Get Ring of Favor"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cuoi Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "SL 80-120",
                     "areas": "Grand Archives, Archdragon Peak, PvP arenas",
                     "areasVi": "Grand Archives, Archdragon Peak, PvP arenas",
@@ -1079,12 +1079,12 @@
                         "Practice parrying"
                     ],
                     "stepsVi": [
-                        "Day Dex len 60",
-                        "Nang LKS len +10 Sharp",
-                        "Dung Resin",
-                        "Trang bi Prisoner's Chain",
-                        "Hoc R2 poke bat lan",
-                        "Luyen parry"
+                        "Tăng Dex lên 60 for S scaling",
+                        "Nâng tối đa LKS to +10 Sharp",
+                        "Dùng $1esin for buffs",
+                        "Trang bị Prisoner's Chain",
+                        "Learn R2 poke into roll catch",
+                        "Practice parrying"
                     ]
                 }
             ],
@@ -1109,19 +1109,19 @@
                     "name": "Lothric Knight Sword",
                     "type": "Weapon",
                     "location": "Dropped by Lothric Knights",
-                    "locationVi": "Lothric Knights"
+                    "locationVi": "Dropped by Lothric Knights"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff",
-                    "locationVi": "Transpose tu Pontiff"
+                    "locationVi": "Transposed from Pontiff"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr",
-                    "locationVi": "Transpose tu Champion Gundyr"
+                    "locationVi": "Transposed from Champion Gundyr"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -1139,7 +1139,7 @@
                     "name": "Caestus",
                     "type": "Weapon",
                     "location": "Shrine Handmaid in Firelink",
-                    "locationVi": "Shrine Handmaid"
+                    "locationVi": "Shrine Handmaid in Firelink"
                 }
             ],
             "tips": [
@@ -1150,11 +1150,11 @@
                 "Stay under 30% equip load for best rolls"
             ],
             "tipsVi": [
-                "LKS co moveset kiem thang tot nhat",
-                "R2 dam ket hop Leo Ring",
-                "Chay R1 bat lan tot nhat",
-                "Giu Estoc Sharp du phong",
-                "Duoi 30% tai trong"
+                "LKS has best straight sword moveset with long range thrust R2",
+                "R2 thrust combines with Leo Ring for counter damage",
+                "Running R1 is one of the best roll catches in the game",
+                "Keep Sharp Estoc in offhand for quick pokes",
+                "Stay under 30% equip load for best rolls"
             ]
         },
         {
@@ -1162,7 +1162,7 @@
             "name": "Lapp Havel",
             "nameVi": "Lapp Havel",
             "description": "A meme poise monster wearing the heaviest armor with a Greatshield. The ultimate tank build.",
-            "descriptionVi": "Build poise meme mac giap nang nhat voi Greatshield. Tank toi thuong.",
+            "descriptionVi": "A meme poise monster wearing the heaviest armor with a Greatshield. The ultimate tank build.",
             "category": "meme",
             "difficulty": 1,
             "dlc": true,
@@ -1183,7 +1183,7 @@
             "phases": [
                 {
                     "name": "Early Game",
-                    "nameVi": "Dau Game",
+                    "nameVi": "Đầu Game",
                     "levels": "SL 1-45",
                     "areas": "High Wall, Undead Settlement",
                     "areasVi": "High Wall, Undead Settlement",
@@ -1196,17 +1196,17 @@
                         "Kill Vordt"
                     ],
                     "stepsVi": [
-                        "Chon Knight",
-                        "Tang 20 Str, 15 End",
-                        "Dung Deep Battle Axe",
-                        "Lay Greatshield",
-                        "Tang Vigor len 25",
-                        "Giet Vordt"
+                        "Chọn Knightbest starting armor",
+                        "Build to 20 Str, 15 End",
+                        "Dùng $1eep Battle Axe from Mimic",
+                        "Lấy Greatshield từ Cathedral Knight",
+                        "Tăng Vigor lên 25",
+                        "Đánh bại Vordt"
                     ]
                 },
                 {
                     "name": "Mid Game",
-                    "nameVi": "Giua Game",
+                    "nameVi": "Giữa Game",
                     "levels": "SL 45-90",
                     "areas": "Cathedral, Farron Keep, Irithyll",
                     "areasVi": "Cathedral, Farron Keep, Irithyll",
@@ -1219,17 +1219,17 @@
                         "Kill Old Demon King"
                     ],
                     "stepsVi": [
-                        "Day Strength len 30",
-                        "Lay Greatshield of Glory",
-                        "Tang End va Vit len 30",
-                        "Lay Havel set",
-                        "Trang bi Havel's Ring +3",
-                        "Giet Old Demon King"
+                        "Tăng Strength lên 30",
+                        "Get Greatshield of Glory",
+                        "Tăng End lên 30, Vit to 30",
+                        "Lấy Havel set từ Archdragon Peak",
+                        "Trang bị Havel's Ring +3",
+                        "Đánh bại Old Demon King"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cuoi Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "SL 90-133",
                     "areas": "Lothric Castle, Archdragon Peak, DLC",
                     "areasVi": "Lothric Castle, Archdragon Peak, DLC",
@@ -1242,12 +1242,12 @@
                         "Shield up + R1 spam"
                     ],
                     "stepsVi": [
-                        "Day Strength len 40, Vigor len 45",
-                        "Lay Lapp's Armor",
-                        "Mac full Lapp",
-                        "Dung Greatclub Heavy",
-                        "Co gang mid roll",
-                        "Gio khien + R1 spam"
+                        "Tăng Strength lên 40, Vigor to 45",
+                        "Lấy Lapp's Armor từ Ringed City",
+                        "Wear full Lapp set for max poise",
+                        "Dùng $1eavy-infused Greatclub",
+                        "Aim for mid roll with Havel's +3",
+                        "Shield up + R1 spam"
                     ]
                 }
             ],
@@ -1265,19 +1265,19 @@
                     "name": "Greatshield of Glory",
                     "type": "Weapon",
                     "location": "Cathedral of the Deep chest",
-                    "locationVi": "Cathedral of the Deep"
+                    "locationVi": "Cathedral of the Deep chest"
                 },
                 {
                     "name": "Lapp's Armor Set",
                     "type": "Armor",
                     "location": "Ringed City DLC Lapp quest",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC Lapp quest"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap"
+                    "locationVi": "Dreg Heap from Havel Knight"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -1289,7 +1289,7 @@
                     "name": "Great Club",
                     "type": "Weapon",
                     "location": "Farron Keep swamp",
-                    "locationVi": "Farron Keep"
+                    "locationVi": "Farron Keep swamp"
                 },
                 {
                     "name": "Wolf Ring +3",
@@ -1306,19 +1306,19 @@
                 "Use Great Club R2 for surprise golf swing"
             ],
             "tipsVi": [
-                "Wolf Ring +3 + Lapp's = 50+ poise",
-                "Greatshield of Glory chan 100% vat ly",
-                "Mid-roll kha thi voi Havel's Ring +3",
-                "Sat thuong la thu yeu",
-                "R2 Great Club la golf swing"
+                "Wolf Ring +3 + Lapp's armor = 50+ poise, nothing staggers you",
+                "Greatshield of Glory has 100% physical block",
+                "Mid-roll achievable with Havel's Ring +3 and Ring of Favor +3",
+                "Your damage is secondary to not dying",
+                "Dùng $1reat Club R2 for surprise golf swing"
             ]
         },
         {
             "slug": "lothric-knight-ss-quality",
             "name": "Lothric Knight SS Quality",
-            "nameVi": "Kiếm Hi�!p Sĩ Chất Lượng",
+            "nameVi": "Kiếm Hi!p Sĩ Chất Lượng",
             "description": "A Quality build using the Lothric Knight Straight Sword. The best straight sword in DS3 with a thrust R2 and excellent scaling. The most reliable PvP weapon in the game.",
-            "descriptionVi": "Build Quality v�:i Lothric Knight Straight Sword. Ki�m th�ng t�\u0018t nh�t DS3 v�:i �\u0018�m R2.",
+            "descriptionVi": "Build Quality v:i Lothric Knight Straight Sword. Kiếm thông tt nht DS3 v:i m R2.",
             "category": "pvp",
             "difficulty": 1,
             "dlc": true,
@@ -1353,10 +1353,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "Farm LKSS",
-                        "Str/Dex �\u0018ều 20/20",
+                        "Farm Lothric Knights for LKSS",
+                        "Str/Dex ều 20/20",
                         "Gắn Raw tạm",
-                        "N�ng l�n +3",
+                        "Nng lên +3",
                         "Giết Vordt"
                     ]
                 },
@@ -1375,17 +1375,17 @@
                         "Get Chloranthy Ring"
                     ],
                     "stepsVi": [
-                        "T�m Refined Gem trong Catacombs",
+                        "Tìm the Refined Gem in Catacombs",
                         "Gắn Refined cho LKSS",
-                        "Str/Dex 30/30",
-                        "N�ng l�n +7",
-                        "Ring of Favor",
-                        "Chloranthy Ring"
+                        "Push Str/Dex to 30/30",
+                        "Nng lên +7",
+                        "Trang bị Ring of Favor",
+                        "Get Chloranthy Ring"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "80-125",
                     "areas": "Lothric Castle, Grand Archives, DLC",
                     "areasVi": "Lothric Castle, Grand Archives, DLC",
@@ -1398,12 +1398,12 @@
                         "The R2 thrust with Leo Ring is deadly"
                     ],
                     "stepsVi": [
-                        "Str/Dex 40/40",
-                        "N�ng LKSS l�n +10 Refined",
-                        "Prisoner's Chain",
-                        "D�ng Resin",
+                        "Push Str/Dex to 40/40",
+                        "Nng LKSS lên +10 Refined",
+                        "Trang bị Prisoner's Chain",
+                        "Dùng $1esin for element buffs",
                         "Ring of Favor +3 từ DLC",
-                        "R2 �\u0018�m v�:i Leo Ring"
+                        "The R2 thrust with Leo Ring is deadly"
                     ]
                 }
             ],
@@ -1434,7 +1434,7 @@
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near Shared Grave",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC near Shared Grave"
                 },
                 {
                     "name": "Prisoner's Chain",
@@ -1463,19 +1463,19 @@
                 "Stay under 30% equip load for the best roll distance"
             ],
             "tipsVi": [
-                "LKSS c� t�m v� moveset t�\u0018t nh�t",
-                "R2 �\u0018�m v�:i Leo Ring",
-                "Refined +10 40/40 l� meta",
-                "Chạy R1 bắt lĒn t�\u0018t nhất",
-                "Dư�:i 30% tải trọng"
+                "LKSS has the best range and moveset of all straight swords",
+                "The R2 thrust with Leo Ring deals massive counter damage",
+                "Refined +10 with 40/40 is the meta Quality setup",
+                "Chạy R1 bắt lĒn tt nhất",
+                "Dư:i 30% tải trọng"
             ]
         },
         {
             "slug": "great-club-str",
             "name": "Great Club STR",
-            "nameVi": "Ch�y L�:n S�c M�nh",
+            "nameVi": "Great Club STR",
             "description": "A pure Strength build using the Great Club. The weapon skill Warcry boosts damage and changes the R2 into a devastating golf swing. Classic unga bunga.",
-            "descriptionVi": "Build Strength thu�n v�:i Great Club. Warcry t\u0012ng s�t th��ng, R2 th�nh golf swing.",
+            "descriptionVi": "Build Strength thun v:i Great Club. Warcry tng sát thng, R2 thình golf swing.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -1510,11 +1510,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Chạy �\u0018ến Great Club �x Farron Keep",
+                        "Chạy ến Great Club x Farron Keep",
                         "Cầm hai tay 28 Str",
-                        "Gắn Heavy s�:m",
-                        "N�ng l�n +3",
-                        "TĒng Vigor 20"
+                        "Gắn Heavy s:m",
+                        "Nng lên +3",
+                        "Tăng Vigor lên 20"
                     ]
                 },
                 {
@@ -1533,16 +1533,16 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 40",
-                        "N�ng GC l�n +7 Heavy",
-                        "Knight's Ring",
-                        "Ring of Favor",
-                        "Endurance 25",
-                        "Chloranthy Ring"
+                        "Nng GC lên +7 Heavy",
+                        "Trang bị Knight's Ring",
+                        "Get Ring of Favor",
+                        "Tăng Endurance lên 25",
+                        "Trang bị Chloranthy Ring"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "80-120",
                     "areas": "Lothric Castle, Archdragon Peak",
                     "areasVi": "Lothric Castle, Archdragon Peak",
@@ -1555,12 +1555,12 @@
                         "The R2 golf swing launches enemies"
                     ],
                     "stepsVi": [
-                        "Str 66 (99 hai tay)",
-                        "N�ng GC l�n +10 Heavy",
-                        "Warcry cho R2 golf swing",
-                        "Havel's Ring +3",
-                        "M�c gi�p poise",
-                        "R2 golf swing hất �\u0018�9ch"
+                        "Tăng Strength lên 66 (99 two-handed)",
+                        "Nng GC lên +10 Heavy",
+                        "Dùng $1arcry for R2 golf swing",
+                        "Trang bị Havel's Ring +3",
+                        "Wear heavy poise armor",
+                        "R2 golf swing hất 9ch"
                     ]
                 }
             ],
@@ -1578,13 +1578,13 @@
                     "name": "Great Club",
                     "type": "Weapon",
                     "location": "Farron Keep swamp near the black knight",
-                    "locationVi": "Farron Keep"
+                    "locationVi": "Farron Keep swamp near the black knight"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement near tower"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -1596,7 +1596,7 @@
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap"
+                    "locationVi": "Dreg Heap from Havel Knight"
                 },
                 {
                     "name": "Chloranthy Ring +3",
@@ -1613,11 +1613,11 @@
                 "Use Gold Pine Resin for extra lightning damage"
             ],
             "tipsVi": [
-                "66 Str hai tay = 99 Str",
-                "Warcry cho R2 golf swing",
-                "S�t th��ng poise cao",
-                "40+ poise",
-                "Gold Pine Resin"
+                "66 Strength two-handed equals 99 Strength for max scaling",
+                "Warcry changes the R2 into a golf swing that launches enemies",
+                "Great Club has innate poise damage �\u001d staggers most enemies in 1-2 hits",
+                "Stack 40+ poise for hyper armor through attacks",
+                "Dùng $1old Pine Resin for extra lightning damage"
             ]
         },
         {
@@ -1625,7 +1625,7 @@
             "name": "Demon's Scar Pyro",
             "nameVi": "Sẹo Quỷ Lửa",
             "description": "A pyromancy build using the Demon's Scar. A curved sword that doubles as a pyromancy flame. R1 for melee, R2 for Black Flame. The ultimate hybrid caster weapon.",
-            "descriptionVi": "Build Pyromancy v�:i Demon's Scar. Ki�m cong ki�m l�a. R1 c�n, R2 Black Flame.",
+            "descriptionVi": "Build Pyromancy v:i Demon's Scar. Kiếm cong kiếm lửa. R1 cn, R2 Black Flame.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -1660,8 +1660,8 @@
                     ],
                     "stepsVi": [
                         "Chọn Pyromancer",
-                        "Int/Fth 15/15",
-                        "Raw Longsword + Fire Orb",
+                        "Level Int/Fth to 15/15",
+                        "Dùng $1aw Longsword + Fire Orb",
                         "Giết Greatwood",
                         "Đến Irithyll",
                         "Giết Old Demon King"
@@ -1682,17 +1682,17 @@
                         "Get Great Swamp Ring"
                     ],
                     "stepsVi": [
-                        "Transpose linh h�\u001cn lấy Demon's Scar",
-                        "Int/Fth 25/25",
-                        "N�ng Pyromancy Flame l�n +7",
+                        "Transpose linh hn lấy Demon's Scar",
+                        "Push Int/Fth to 25/25",
+                        "Nng Pyromancy Flame lên +7",
                         "Học Black Flame",
-                        "Witch's Ring",
-                        "Great Swamp Ring"
+                        "Trang bị Witch's Ring",
+                        "Get Great Swamp Ring"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "80-125",
                     "areas": "Lothric Castle, Grand Archives, DLC",
                     "areasVi": "Lothric Castle, Grand Archives, DLC",
@@ -1705,11 +1705,11 @@
                         "The curved sword moveset is excellent"
                     ],
                     "stepsVi": [
-                        "Int/Fth 40/40",
-                        "N�ng Pyromancy Flame l�n +10",
-                        "R2 Demon's Scar Black Flame",
-                        "Chaos Bed Vestiges",
-                        "Sage Ring +2",
+                        "Push Int/Fth to 40/40",
+                        "Nng Pyromancy Flame lên +10",
+                        "Demon's Scar R2 casts Black Flame",
+                        "Dùng $1haos Bed Vestiges for ranged",
+                        "Trang bị Sage Ring +2",
                         "Moveset kiếm cong"
                     ]
                 }
@@ -1734,19 +1734,19 @@
                     "name": "Witch's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement from fire demon",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement from fire demon"
                 },
                 {
                     "name": "Great Swamp Ring",
                     "type": "Ring",
                     "location": "Undead Settlement on a corpse",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement on a corpse"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC before Demon Prince",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC before Demon Prince"
                 },
                 {
                     "name": "Chaos Bed Vestiges",
@@ -1763,19 +1763,19 @@
                 "Use the weapon's R1 for roll-catches, R2 for trades"
             ],
             "tipsVi": [
-                "R2 ni�!m pyro �\u001d c�n chi�n v� ph�p trong m�\"t",
-                "Black Flame s�t th��ng poise cao",
-                "R1 true combo v�o Black Flame",
-                "Witch's Ring + Great Swamp Ring + Fire Clutch",
+                "Demon's Scar R2 casts your attuned pyromancy �\u001d melee and casting in one weapon",
+                "Black Flame sát thng poise cao",
+                "The curved sword R1 can true combo into Black Flame",
+                "Stack Witch's Ring + Great Swamp Ring + Fire Clutch Ring",
                 "R1 bắt lĒn, R2 trade"
             ]
         },
         {
             "slug": "fried-scythe",
             "name": "Friede's Scythe",
-            "nameVi": "L��i H�i Friede",
+            "nameVi": "Friede's Scythe",
             "description": "A Dexterity/Intelligence build using Friede's Great Scythe from the DLC. The weapon has a unique three-hit weapon art combo that's devastating in both PvE and PvP.",
-            "descriptionVi": "Build Dexterity/Intelligence v�:i Friede's Great Scythe. Combo ba �\u0018�n weapon art h�y di�!t.",
+            "descriptionVi": "A Dexterity/Intelligence build using Friede's Great Scythe from the DLC. The weapon has a unique three-hit weapon art combo that's devastating in both PvE and PvP.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -1810,11 +1810,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Mercenary",
-                        "Dex 25 v� Int 20",
-                        "D�ng Sellsword Twinblades Sharp",
+                        "Tăng Dex lên 25 and Int to 20",
+                        "Dùng $1 Sharp Sellsword Twinblades",
                         "Đến DLC",
                         "Giết Sister Friede",
-                        "Transpose linh h�\u001cn"
+                        "Transpose soul for Friede's Scythe"
                     ]
                 },
                 {
@@ -1832,17 +1832,17 @@
                         "Use Frozen Weapon for frost buildup"
                     ],
                     "stepsVi": [
-                        "Dex 35 v� Int 30",
-                        "N�ng Scythe l�n +5",
+                        "Tăng Dex lên 35 and Int to 30",
+                        "Nng Scythe lên +5",
                         "Học weapon art",
-                        "Pontiff's Right Eye",
-                        "Sage Ring",
-                        "Frozen Weapon buff"
+                        "Equit Pontiff's Right Eye",
+                        "Get the Sage Ring",
+                        "Dùng $1rozen Weapon for frost buildup"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "85-125",
                     "areas": "Grand Archives, Archdragon Peak, DLC",
                     "areasVi": "Grand Archives, Archdragon Peak, DLC",
@@ -1855,11 +1855,11 @@
                         "Use the scythe's ranged R2 for pokes"
                     ],
                     "stepsVi": [
-                        "Dex 40 v� Int 40",
-                        "N�ng Scythe l�n +5",
-                        "Weapon art 3 giai �\u0018oạn",
-                        "1: s�ng b\u0012ng, 2: nh�y, 3: quay",
-                        "Pontiff's Left Eye",
+                        "Tăng Dex lên 40 and Int to 40",
+                        "Nng Scythe lên +5",
+                        "Weapon art 3 giai oạn",
+                        "1: súng bng, 2: nhy, 3: quay",
+                        "Trang bị Pontiff's Left Eye for healing",
                         "R2 tầm xa"
                     ]
                 }
@@ -1878,7 +1878,7 @@
                     "name": "Friede's Great Scythe",
                     "type": "Weapon",
                     "location": "Transposed from Sister Friede's soul",
-                    "locationVi": "Transpose từ linh h�\u001cn Sister Friede"
+                    "locationVi": "Transpose từ linh hn Sister Friede"
                 },
                 {
                     "name": "Pontiff's Right Eye",
@@ -1902,7 +1902,7 @@
                     "name": "Frozen Weapon",
                     "type": "Weapon",
                     "location": "Irithyll Dungeon near the giant",
-                    "locationVi": "Irithyll Dungeon"
+                    "locationVi": "Irithyll Dungeon near the giant"
                 }
             ],
             "tips": [
@@ -1913,19 +1913,19 @@
                 "Pontiff rings stack with multi-hit combos"
             ],
             "tipsVi": [
-                "Weapon art 3 giai �\u0018oạn",
-                "Full combo WA s�t th��ng l�:n",
-                "R2 �\u0018�m xa",
-                "Frozen Weapon th�m b\u0012ng",
-                "Pontiff rings v�:i �\u0018a �\u0018�n"
+                "Weapon art 3 giai oạn",
+                "Full combo WA sát thng l:n",
+                "The scythe's R2 is a long-range poke with thrust damage",
+                "Frozen Weapon adds frostbite on top of the scythe's innate frost",
+                "Pontiff rings stack with multi-hit combos"
             ]
         },
         {
             "slug": "ringed-knight-paired-ugs",
             "name": "Ringed Knight Paired UGS",
-            "nameVi": "Song Đại Kiếm Hi�!p Sĩ",
+            "nameVi": "Song Đại Kiếm Hi!p Sĩ",
             "description": "A Quality build using the Ringed Knight Paired Greatswords from the DLC. The weapon art is a devastating spinning fire combo that deals insane damage. The ultimate edgelord weapon.",
-            "descriptionVi": "Build Quality v�:i Ringed Knight Paired Greatswords. Weapon art quay lửa hủy di�!t.",
+            "descriptionVi": "Build Quality v:i Ringed Knight Paired Greatswords. Weapon art quay lửa hủy di!t.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -1960,11 +1960,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "Str 30 v� Dex 20",
-                        "D�ng Greatsword t�m",
+                        "Tăng Str lên 30 and Dex to 20",
+                        "Dùng $1 Greatsword temporarily",
                         "Đến DLC",
                         "Đến Ringed City",
-                        "T�m Paired UGS"
+                        "Tìm Paired UGS after the first area"
                     ]
                 },
                 {
@@ -1982,17 +1982,17 @@
                         "Learn the weapon art"
                     ],
                     "stepsVi": [
-                        "Str 35 v� Dex 25",
-                        "N�ng l�n +5",
-                        "Ring of Favor",
-                        "Chloranthy Ring",
-                        "Endurance 25",
+                        "Tăng Str lên 35 and Dex to 25",
+                        "Nng lên +5",
+                        "Trang bị Ring of Favor",
+                        "Get Chloranthy Ring",
+                        "Tăng Endurance lên 25",
                         "Học weapon art"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "85-125",
                     "areas": "Ringed City, PvP arenas",
                     "areasVi": "Ringed City, PvP arenas",
@@ -2005,12 +2005,12 @@
                         "Stack poise for hyper armor"
                     ],
                     "stepsVi": [
-                        "Str 40 v� Dex 30",
-                        "N�ng l�n +5",
-                        "Weapon art quay true combo",
-                        "L2-R2 1500+ s�t th��ng",
-                        "Havel's Ring +3",
-                        "Poise cho hyper armor"
+                        "Tăng Str lên 40 and Dex to 30",
+                        "Nng lên +5",
+                        "The weapon art spin is a true combo",
+                        "L2-R2 1500+ sát thng",
+                        "Trang bị Havel's Ring +3 for armor",
+                        "Stack poise for hyper armor"
                     ]
                 }
             ],
@@ -2028,7 +2028,7 @@
                     "name": "Ringed Knight Paired Greatswords",
                     "type": "Weapon",
                     "location": "Ringed City DLC, near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC, near the Shared Grave bonfire"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -2040,7 +2040,7 @@
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap"
+                    "locationVi": "Dreg Heap from Havel Knight"
                 },
                 {
                     "name": "Chloranthy Ring +3",
@@ -2063,11 +2063,11 @@
                 "Stack poise above 40 for maximum hyper armor effectiveness"
             ],
             "tipsVi": [
-                "L2-R2 true combo one-shot",
-                "Weapon art c� hyper armor",
-                "Kh�ng th� b�9 gi�n �\u0018o�n khi quay",
-                "Ch�y L1 �\u0018�\"c �\u0018�o",
-                "40+ poise"
+                "L2 then R2 for the full weapon art combo �\u001d it's a true combo that can one-shot",
+                "The weapon art has hyper armor �\u001d trade through attacks",
+                "Khíng th b9 gin on khi quay",
+                "The paired greatswords have a unique running L1 attack",
+                "Stack poise above 40 for maximum hyper armor effectiveness"
             ]
         },
         {
@@ -2075,7 +2075,7 @@
             "name": "Murky Hand Scythe Dark",
             "nameVi": "Lưỡi Hái Bóng Tối",
             "description": "A dark build using the Murky Hand Scythe. The fastest dark-infused weapon with a moveset that's perfect for PvP pressure. Running R1 is nearly impossible to react to.",
-            "descriptionVi": "Build dark v�:i Murky Hand Scythe. Nhanh nh�t, moveset PvP ho�n h�o.",
+            "descriptionVi": "A dark build using the Murky Hand Scythe. The fastest dark-infused weapon with a moveset that's perfect for PvP pressure. Running R1 is nearly impossible to react to.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -2110,11 +2110,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Pyromancer",
-                        "Int/Fth 15/15",
-                        "D�ng Raw weapon",
+                        "Level Int/Fth to 15/15",
+                        "Dùng $1 Raw weapon with resins",
                         "Đến Dreg Heap",
-                        "T�m Murky Hand Scythe",
-                        "N�ng l�n +3"
+                        "Tìm Murky Hand Scythe",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2132,17 +2132,17 @@
                         "Level Endurance to 25"
                     ],
                     "stepsVi": [
-                        "Int/Fth 20/20",
+                        "Push Int/Fth to 20/20",
                         "Gắn Dark",
-                        "N�ng l�n +7",
-                        "Dark Clutch Ring",
-                        "Ring of Favor",
-                        "Endurance 25"
+                        "Nng lên +7",
+                        "Trang bị Dark Clutch Ring",
+                        "Get Ring of Favor",
+                        "Tăng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "80-125",
                     "areas": "Grand Archives, PvP arenas",
                     "areasVi": "Grand Archives, PvP arenas",
@@ -2155,12 +2155,12 @@
                         "The L2 weapon art is a shield pierce"
                     ],
                     "stepsVi": [
-                        "Int/Fth 30/30",
-                        "N�ng l�n +10",
-                        "Ch�y R1 kh�ng th� ph�n �ng",
-                        "T�\u0018c �\u0018�\" g�y �p l�c",
-                        "Prisoner's Chain",
-                        "L2 xuy�n khi�n"
+                        "Push Int/Fth to 30/30",
+                        "Nng lên +10",
+                        "The running R1 is nearly unreactable",
+                        "Dùng $1he weapon's speed for pressure",
+                        "Trang bị Prisoner's Chain",
+                        "L2 xuyên khin"
                     ]
                 }
             ],
@@ -2185,13 +2185,13 @@
                     "name": "Murky Hand Scythe",
                     "type": "Weapon",
                     "location": "Dreg Heap DLC, found on a corpse near the swamp",
-                    "locationVi": "Dreg Heap DLC"
+                    "locationVi": "Dreg Heap DLC, found on a corpse near the swamp"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC swamp"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -2221,9 +2221,9 @@
             ],
             "tipsVi": [
                 "Chạy R1 nhanh nhất game",
-                "Dark infusion 30/30",
-                "L2 xuy�n khi�n",
-                "G�y �p l�c b�t l\u0012n",
+                "Dark infusion at 30/30 Int/Fth gives excellent damage",
+                "L2 xuyên khin",
+                "Dùng $1he speed to pressure opponents into panic rolling",
                 "R1 combo bắt lĒn"
             ]
         },
@@ -2232,7 +2232,7 @@
             "name": "Gotthard Twinswords Quality",
             "nameVi": "Song Kiếm Gotthard",
             "description": "A Quality build using the Gotthard Twinswords. The longest straight sword paired with the best rolling L1 in the game. Excellent roll-catch potential and versatile moveset.",
-            "descriptionVi": "Build Quality v�:i Gotthard Twinswords. Ki�m th�ng d�i nh�t, L1 l\u0012n t�\u0018t nh�t.",
+            "descriptionVi": "Build Quality v:i Gotthard Twinswords. Kiếm thông di nht, L1 ln tt nht.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": false,
@@ -2267,11 +2267,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Mercenary",
-                        "Str/Dex 20/20",
-                        "D�ng Sellsword t�m",
+                        "Level Str/Dex to 20/20",
+                        "Dùng $1ellsword Twinblades temporarily",
                         "Đến Grand Archives",
-                        "T�m Gotthard Twinswords",
-                        "N�ng l�n +3"
+                        "Tìm Gotthard Twinswords on a corpse",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2289,17 +2289,17 @@
                         "Level Endurance to 25"
                     ],
                     "stepsVi": [
-                        "Str/Dex 25/30",
+                        "Push Str/Dex to 25/30",
                         "Gắn Refined",
-                        "N�ng l�n +7",
-                        "Pontiff's Right Eye",
-                        "Ring of Favor",
-                        "Endurance 25"
+                        "Nng lên +7",
+                        "Trang bị Pontiff's Right Eye",
+                        "Get Ring of Favor",
+                        "Tăng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "80-125",
                     "areas": "Grand Archives, Archdragon Peak, PvP arenas",
                     "areasVi": "Grand Archives, Archdragon Peak, PvP arenas",
@@ -2312,12 +2312,12 @@
                         "Leo Ring works with the thrust attacks"
                     ],
                     "stepsVi": [
-                        "Str 35 v� Dex 40",
-                        "N�ng l�n +10 Refined",
-                        "L1 lĒn t�\u0018t nhất game",
-                        "Stance weapon art",
-                        "Prisoner's Chain",
-                        "Leo Ring cho �\u0018�n �\u0018�m"
+                        "Tăng Str lên 35 and Dex to 40",
+                        "Nng lên +10 Refined",
+                        "L1 lĒn tt nhất game",
+                        "Dùng $1he stance weapon art for mix-ups",
+                        "Trang bị Prisoner's Chain",
+                        "Leo Ring works with the thrust attacks"
                     ]
                 }
             ],
@@ -2342,7 +2342,7 @@
                     "name": "Gotthard Twinswords",
                     "type": "Weapon",
                     "location": "Grand Archives on a corpse near the rooftops",
-                    "locationVi": "Grand Archives"
+                    "locationVi": "Grand Archives on a corpse near the rooftops"
                 },
                 {
                     "name": "Pontiff's Right Eye",
@@ -2377,11 +2377,11 @@
                 "The weapon's 2-handed L1 is a spinslash with wide arc"
             ],
             "tipsVi": [
-                "L1 lĒn tầm xa, t�\u0018c �\u0018�\" cao �\u001d bắt lĒn t�\u0018t nhất",
-                "Stance weapon art �\u0018�m ho�c ch�m",
-                "T�m d�i nh�t h� song ki�m",
-                "Chạy L1 �\u0018u�\"i �\u0018�9ch",
-                "L1 hai tay qu�t ngang"
+                "L1 lĒn tầm xa, tc \" cao  bắt lĒn tt nhất",
+                "The stance weapon art gives access to a thrust and a slash",
+                "Tm di nht h song kiếm",
+                "Chạy L1 u\"i 9ch",
+                "The weapon's 2-handed L1 is a spinslash with wide arc"
             ]
         },
         {
@@ -2389,7 +2389,7 @@
             "name": "Wolf Knight GS Quality",
             "nameVi": "Đại Kiếm Sói",
             "description": "A Quality build using the Wolf Knight's Greatsword (Artorias sword). The weapon art is the Artorias flip slam with bonus damage against abyssal enemies. Fashionable and effective.",
-            "descriptionVi": "Build Quality v�:i Wolf Knight's Greatsword. Weapon art Artorias flip. S�t th��ng th�m cho qu�i b�ng t�\u0018i.",
+            "descriptionVi": "Build Quality v:i Wolf Knight's Greatsword. Weapon art Artorias flip. St thng thm cho qui bắng ti.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2424,11 +2424,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "Str 30 v� Dex 20",
-                        "D�ng Claymore t�m",
+                        "Tăng Str lên 30 and Dex to 20",
+                        "Dùng $1 Claymore temporarily",
                         "Giết Abyss Watchers",
-                        "Transpose linh h�\u001cn",
-                        "N�ng l�n +3"
+                        "Transpose soul for Wolf Knight GS",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2446,17 +2446,17 @@
                         "Level Endurance to 25"
                     ],
                     "stepsVi": [
-                        "Str 35 v� Dex 25",
-                        "N�ng l�n +5",
-                        "Ring of Favor",
-                        "Chloranthy Ring",
+                        "Tăng Str lên 35 and Dex to 25",
+                        "Nng lên +5",
+                        "Trang bị Ring of Favor",
+                        "Get Chloranthy Ring",
                         "Học weapon art flip",
-                        "Endurance 25"
+                        "Tăng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "80-125",
                     "areas": "Lothric Castle, Grand Archives, DLC",
                     "areasVi": "Lothric Castle, Grand Archives, DLC",
@@ -2469,12 +2469,12 @@
                         "The L2-R1 flip into R1 is a true combo"
                     ],
                     "stepsVi": [
-                        "Str 40 v� Dex 30",
-                        "N�ng l�n +5",
-                        "20% s�t th��ng cho qu�i b�ng t�\u0018i",
-                        "Weapon art flip hyper armor",
-                        "Havel's Ring",
-                        "L2-R1 flip v�o R1 true combo"
+                        "Tăng Str lên 40 and Dex to 30",
+                        "Nng lên +5",
+                        "20% sát thng cho qui bắng ti",
+                        "The flip weapon art has hyper armor",
+                        "Trang bị Havel's Ring for poise armor",
+                        "The L2-R1 flip into R1 is a true combo"
                     ]
                 }
             ],
@@ -2492,7 +2492,7 @@
                     "name": "Wolf Knight's Greatsword",
                     "type": "Weapon",
                     "location": "Transposed from Abyss Watchers soul",
-                    "locationVi": "Transpose từ linh h�\u001cn Abyss Watchers"
+                    "locationVi": "Transpose từ linh hn Abyss Watchers"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -2527,19 +2527,19 @@
                 "Abyssal enemies include: Darkwraiths, Pus of Man, Midir"
             ],
             "tipsVi": [
-                "20% s�t th��ng cho qu�i b�ng t�\u0018i",
-                "Weapon art flip s�t th��ng poise cao",
-                "L2-R1 true combo",
-                "R2 chu�\u0014i �\u0018�\"c �\u0018�o",
-                "Qu�i b�ng t�\u0018i: Darkwraiths, Pus of Man, Midir"
+                "20% sát thng cho qui bắng ti",
+                "Weapon art flip sát thng poise cao",
+                "L2-R1 is a true combo �\u001d the flip into a follow-up R1",
+                "The weapon has a unique R2 chain attack",
+                "Qui bắng ti: Darkwraiths, Pus of Man, Midir"
             ]
         },
         {
             "slug": "crucifix-mad-king",
             "name": "Crucifix of the Mad King",
-            "nameVi": "Th�nh Gi� Vua \u0010i�n",
+            "nameVi": "Thình Gi Vua in",
             "description": "A dark/Strength build using the Crucifix of the Mad King. The weapon art buffs it with dark damage or creates an AoE dark explosion. Devastating dark damage with an unpredictable moveset.",
-            "descriptionVi": "Build dark/Strength v�:i Crucifix of the Mad King. Buff dark hoặc n�\" dark AoE.",
+            "descriptionVi": "Build dark/Strength v:i Crucifix of the Mad King. Buff dark hoặc n\" dark AoE.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -2574,11 +2574,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Pyromancer",
-                        "Str 20 v� Int/Fth 15/15",
-                        "D�ng vi kh� Dark",
+                        "Tăng Str lên 20 and Int/Fth to 15/15",
+                        "Dùng $1 Dark-infused weapon",
                         "Đến DLC",
-                        "T�m Crucifix",
-                        "N�ng l�n +3"
+                        "Tìm Crucifix in Ringed City",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2596,17 +2596,17 @@
                         "Level Endurance to 25"
                     ],
                     "stepsVi": [
-                        "Str 25 v� Int/Fth 20/20",
-                        "N�ng l�n +5",
-                        "Dark Clutch Ring",
-                        "Ring of Favor",
+                        "Tăng Str lên 25 and Int/Fth to 20/20",
+                        "Nng lên +5",
+                        "Trang bị Dark Clutch Ring",
+                        "Get Ring of Favor",
                         "Học weapon art",
-                        "Endurance 25"
+                        "Tăng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "80-125",
                     "areas": "Grand Archives, Archdragon Peak, PvP",
                     "areasVi": "Grand Archives, Archdragon Peak, PvP",
@@ -2619,12 +2619,12 @@
                         "Use Dark Blade miracle for extra buff"
                     ],
                     "stepsVi": [
-                        "Str 30 v� Int/Fth 30/30",
-                        "N�ng l�n +5",
-                        "L2: buff dark",
-                        "R2: n�\" dark AoE",
-                        "N�\" AoE hyper armor",
-                        "Dark Blade miracle"
+                        "Tăng Str lên 30 and Int/Fth to 30/30",
+                        "Nng lên +5",
+                        "Weapon art L2: dark weapon buff",
+                        "Weapon art R2: AoE dark explosion",
+                        "The dark explosion has massive hyper armor",
+                        "Dùng $1ark Blade miracle for extra buff"
                     ]
                 }
             ],
@@ -2642,13 +2642,13 @@
                     "name": "Crucifix of the Mad King",
                     "type": "Weapon",
                     "location": "Ringed City DLC, dropped by an invading NPC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC, dropped by an invading NPC"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC swamp"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -2677,10 +2677,10 @@
                 "The running R1 has excellent roll-catch potential"
             ],
             "tipsVi": [
-                "Weapon art hai dạng: L2 buff, R2 n�\"",
-                "N�\" dark AoE hyper armor",
-                "S�t th��ng Strike + Dark",
-                "Dark Blade miracle stack",
+                "Weapon art hai dạng: L2 buff, R2 n\"",
+                "The AoE dark explosion has massive hyper armor and staggers everyone",
+                "Crucifix deals Strike + Dark damage �\u001d great against armored enemies",
+                "Dùng $1ark Blade miracle to stack with the weapon art buff",
                 "Chạy R1 bắt lĒn"
             ]
         },
@@ -2689,7 +2689,7 @@
             "name": "Harald Curved GS STR",
             "nameVi": "Đại Kiếm Cong STR",
             "description": "A pure Strength build using the Harald Curved Greatsword. Massive damage with a unique weapon art that's a powerful ground slam. Excellent for PvE and invasions.",
-            "descriptionVi": "Build Strength thuần v�:i Harald Curved Greatsword. Weapon art �\u0018ập �\u0018ất mạnh.",
+            "descriptionVi": "Build Strength thuần v:i Harald Curved Greatsword. Weapon art ập ất mạnh.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -2724,11 +2724,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Str 30",
-                        "D�ng Greatsword t�m",
+                        "Tăng Str lên 30",
+                        "Dùng $1 Greatsword temporarily",
                         "Đến Dreg Heap DLC",
-                        "T�m Harald Curved GS",
-                        "N�ng l�n +3"
+                        "Tìm Harald Curved GS",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2746,17 +2746,17 @@
                         "Level Endurance to 30"
                     ],
                     "stepsVi": [
-                        "Str 40",
+                        "Tăng Str lên 40",
                         "Gắn Heavy",
-                        "N�ng l�n +7",
-                        "Ring of Favor",
-                        "Chloranthy Ring",
-                        "Endurance 30"
+                        "Nng lên +7",
+                        "Trang bị Ring of Favor",
+                        "Get Chloranthy Ring",
+                        "Tăng Endurance lên 30"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "80-125",
                     "areas": "Lothric Castle, Archdragon Peak, DLC",
                     "areasVi": "Lothric Castle, Archdragon Peak, DLC",
@@ -2769,12 +2769,12 @@
                         "The curved GS moveset has wide swings"
                     ],
                     "stepsVi": [
-                        "Str 66 (99 hai tay)",
-                        "N�ng l�n +10 Heavy",
-                        "Weapon art �\u0018ập �\u0018ất",
-                        "Havel's Ring +3",
-                        "Gi�p poise",
-                        "Ch�m ngang r�\"ng"
+                        "Tăng Str lên 66 (99 two-handed)",
+                        "Nng lên +10 Heavy",
+                        "Weapon art ập ất",
+                        "Trang bị Havel's Ring +3",
+                        "Wear heavy poise armor",
+                        "The curved GS moveset has wide swings"
                     ]
                 }
             ],
@@ -2792,7 +2792,7 @@
                     "name": "Harald Curved Greatsword",
                     "type": "Weapon",
                     "location": "Dreg Heap DLC, found on a corpse near the swamp area",
-                    "locationVi": "Dreg Heap DLC"
+                    "locationVi": "Dreg Heap DLC, found on a corpse near the swamp area"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -2804,7 +2804,7 @@
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap"
+                    "locationVi": "Dreg Heap from Havel Knight"
                 },
                 {
                     "name": "Chloranthy Ring +3",
@@ -2827,19 +2827,19 @@
                 "66 Strength two-handed equals 99 for maximum scaling"
             ],
             "tipsVi": [
-                "AR cao nhất họ �\u0018ại kiếm cong Heavy",
-                "Weapon art �\u0018�p �\u0018�t s�ng xung k�ch",
-                "Ch�y t�n c�ng b�t l\u0012n",
-                "R1 hai tay ch�m ngang",
-                "66 Str hai tay = 99"
+                "AR cao nhất họ ại kiếm cong Heavy",
+                "Weapon art p t súng xung kch",
+                "Chy tn công bt ln",
+                "The 2-handed R1 has a horizontal swing that hits multiple enemies",
+                "66 Strength two-handed equals 99 for maximum scaling"
             ]
         },
         {
             "slug": "splitleaf-greatsword",
             "name": "Splitleaf Greatsword",
-            "nameVi": "\u0010�i Ki�m T�ch L�",
+            "nameVi": "i Kiếm Tch L",
             "description": "A Strength/Dexterity Quality build using the Splitleaf Greatsword from the DLC. The weapon art is a spinning halberd combo that's one of the highest damage weapon arts in the game.",
-            "descriptionVi": "Build Strength/Dexterity v�:i Splitleaf Greatsword. Weapon art quay th��ng s�t th��ng cao nh�t.",
+            "descriptionVi": "Build Strength/Dexterity v:i Splitleaf Greatsword. Weapon art quay thng sát thng cao nht.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -2874,11 +2874,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "Str/Dex 20/20",
-                        "D�ng Halberd t�m",
+                        "Level Str/Dex to 20/20",
+                        "Dùng $1 Halberd temporarily",
                         "Đến Ringed City DLC",
-                        "T�m Splitleaf GS",
-                        "N�ng l�n +3"
+                        "Tìm Splitleaf Greatsword",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2896,17 +2896,17 @@
                         "Level Endurance to 25"
                     ],
                     "stepsVi": [
-                        "Str/Dex 25/25",
+                        "Push Str/Dex to 25/25",
                         "Gắn Refined",
-                        "N�ng l�n +7",
-                        "Ring of Favor",
-                        "Pontiff's Right Eye",
-                        "Endurance 25"
+                        "Nng lên +7",
+                        "Trang bị Ring of Favor",
+                        "Get Pontiff's Right Eye",
+                        "Tăng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "80-125",
                     "areas": "Grand Archives, Archdragon Peak, PvP",
                     "areasVi": "Grand Archives, Archdragon Peak, PvP",
@@ -2919,11 +2919,11 @@
                         "Use the halberd's range for spacing"
                     ],
                     "stepsVi": [
-                        "Str/Dex 35/35",
-                        "N�ng l�n +10 Refined",
-                        "L2-R1-L2-R2 combo",
-                        "Quay c� hyper armor",
-                        "Chloranthy Ring +3",
+                        "Push Str/Dex to 35/35",
+                        "Nng lên +10 Refined",
+                        "Weapon art L2-R1-L2-R2 is a deadly combo",
+                        "The spin has hyper armor",
+                        "Trang bị Chloranthy Ring +3",
                         "Tầm thương cho spacing"
                     ]
                 }
@@ -2949,7 +2949,7 @@
                     "name": "Splitleaf Greatsword",
                     "type": "Weapon",
                     "location": "Ringed City DLC, found on a corpse near the Ringed Inner Wall",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC, found on a corpse near the Ringed Inner Wall"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -2984,11 +2984,11 @@
                 "Use the running R1 for roll-catches into the weapon art"
             ],
             "tipsVi": [
-                "L2-R1-L2-R2 true combo 1200+ s�t th��ng",
-                "M�\u0014i hit quay hyper armor",
-                "T�m th��ng gi� kho�ng c�ch",
-                "Pontiff's Right Eye v�:i �\u0018a �\u0018�n",
-                "Ch�y R1 v�o weapon art"
+                "L2-R1-L2-R2 true combo 1200+ sát thng",
+                "Each spin hit has hyper armor �\u001d trade freely during the animation",
+                "The halberd moveset has excellent range for keeping distance",
+                "Pontiff's Right Eye stacks with the multi-hit weapon art",
+                "Dùng $1he running R1 for roll-catches into the weapon art"
             ]
         },
         {
@@ -2996,7 +2996,7 @@
             "name": "Aquamarine Dagger INT",
             "nameVi": "Dao GĒm Xanh BiỒn",
             "description": "An Intelligence build using the Aquamarine Dagger from the DLC. The weapon arts creates a crystal longsword extension with thrust attacks. Fast, flashy, and effective.",
-            "descriptionVi": "Build Intelligence v�:i Aquamarine Dagger. Weapon art t�o ki�m pha l� d�i.",
+            "descriptionVi": "Build Intelligence v:i Aquamarine Dagger. Weapon art to kiếm pha l di.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -3031,11 +3031,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Sorcerer",
-                        "Int 30",
-                        "D�ng vi kh� Magic",
+                        "Tăng Int lên 30",
+                        "Dùng $1 Magic-infused weapon",
                         "Đến DLC",
-                        "T�m Aquamarine Dagger",
-                        "N�ng l�n +3"
+                        "Tìm Aquamarine Dagger in Dreg Heap",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -3053,17 +3053,17 @@
                         "Level Attunement to 20"
                     ],
                     "stepsVi": [
-                        "Int 45",
+                        "Tăng Int lên 45",
                         "Gắn Crystal",
-                        "N�ng l�n +5",
-                        "Young Dragon Ring",
-                        "Bellowing Dragoncrest Ring",
-                        "Attunement 20"
+                        "Nng lên +5",
+                        "Trang bị Young Dragon Ring",
+                        "Get Bellowing Dragoncrest Ring",
+                        "Tăng Attunement lên 20"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "85-125",
                     "areas": "Grand Archives, Archdragon Peak, PvP",
                     "areasVi": "Grand Archives, Archdragon Peak, PvP",
@@ -3076,12 +3076,12 @@
                         "Equip Sage Ring +2"
                     ],
                     "stepsVi": [
-                        "Int 60",
-                        "N�ng l�n +5 Crystal",
-                        "Weapon art k�o d�i ki�m",
-                        "R1 vÆ°Æ¡n xa",
-                        "Soul Greatsword",
-                        "Sage Ring +2"
+                        "Tăng Int lên 60",
+                        "Nng lên +5 Crystal",
+                        "Weapon art ko di kiếm",
+                        "The extended R1 has thrust range",
+                        "Dùng $1oul Greatsword for mix-ups",
+                        "Trang bị Sage Ring +2"
                     ]
                 }
             ],
@@ -3106,19 +3106,19 @@
                     "name": "Aquamarine Dagger",
                     "type": "Weapon",
                     "location": "Dreg Heap DLC, found on a corpse near the angel",
-                    "locationVi": "Dreg Heap DLC"
+                    "locationVi": "Dreg Heap DLC, found on a corpse near the angel"
                 },
                 {
                     "name": "Young Dragon Ring",
                     "type": "Ring",
                     "location": "Orbeck quest in Firelink",
-                    "locationVi": "Nhi�!m vụ Orbeck"
+                    "locationVi": "Nhi!m vụ Orbeck"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Irithyll behind illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll behind illusory wall"
                 },
                 {
                     "name": "Sage Ring +2",
@@ -3130,7 +3130,7 @@
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC swamp"
                 }
             ],
             "tips": [
@@ -3141,9 +3141,9 @@
                 "The dagger's L1 is incredibly fast in extended mode"
             ],
             "tipsVi": [
-                "Weapon art t�o ki�m pha l�",
-                "R1 �\u0018�m, R2 ch�m",
-                "Hitbox to cho dao gĒm",
+                "Weapon art to kiếm pha l",
+                "The extended mode has a huge hitbox for a dagger",
+                "Dùng $1he weapon art sparingly �\u001d it costs FP per second",
                 "Kết hợp sorcery",
                 "L1 nhanh trong dạng vươn"
             ]
@@ -3151,9 +3151,9 @@
         {
             "slug": "dragonslayer-axe",
             "name": "Dragonslayer's Axe",
-            "nameVi": "R�u Di�t R�ng",
+            "nameVi": "Dragonslayer's Axe",
             "description": "A Strength/Faith build using Creighton's Dragonslayer's Axe with Lightning infusion. The weapon deals massive lightning damage and the R1 combos stagger even the largest enemies.",
-            "descriptionVi": "Build Str/Fth v�i Dragonslayer's Axe g�n Lightning. S�t th��ng s�t kh�ng, R1 stunlock qu�i to.",
+            "descriptionVi": "Build Str/Fth vi Dragonslayer's Axe gn Lightning. St thng sát khng, R1 stunlock qui to.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -3188,11 +3188,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Str 25 v� Vigor 15",
+                        "Tăng Str lên 25 and Vigor to 15",
                         "Đến Road of Sacrifices",
                         "Triệu hồi Creighton",
-                        "Ho�n th�nh nhi�m v�",
-                        "Dragonslayer's Axe"
+                        "Hon thình nhim v",
+                        "Get the Dragonslayer's Axe"
                     ]
                 },
                 {
@@ -3210,12 +3210,12 @@
                         "Get the Ring of Favor"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str 35 v� Faith 20",
-                        "Axe +6 Lightning",
-                        "Lightning Clutch Ring",
-                        "Lightning Blade",
-                        "Vigor 25",
-                        "Ring of Favor"
+                        "Tăng Str lên 35 and Faith to 20",
+                        "Nâng cấp Axe to +6 with Lightning",
+                        "Trang bị the Lightning Clutch Ring",
+                        "Tìm the Lightning Blade miracle",
+                        "Tăng Vigor lên 25",
+                        "Get the Ring of Favor"
                     ]
                 },
                 {
@@ -3233,12 +3233,12 @@
                         "Equip the Sunlight Straight Sword for Oath"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str 40 v� Faith 30",
-                        "Axe +10 Lightning",
-                        "Lightning Blade buff",
-                        "R1 stunlock",
-                        "Weapon art xoay ch�m",
-                        "Sunlight Straight Sword"
+                        "Tăng Str lên 40 and Faith to 30",
+                        "Nâng tối đa Axe to +10 Lightning",
+                        "Buff with Lightning Blade for extra",
+                        "The R1 combos stagger everything",
+                        "Weapon art is a spinning slash",
+                        "Trang bị the Sunlight Straight Sword for Oath"
                     ]
                 }
             ],
@@ -3275,7 +3275,7 @@
                     "name": "Lightning Blade",
                     "type": "Weapon",
                     "location": "Irithyll, from the knight",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll, from the knight"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -3298,11 +3298,11 @@
                 "Buff with Lightning Blade for even more lightning damage"
             ],
             "tipsVi": [
-                "Axe c� s�n s�t th��ng s�t",
-                "Lightning Clutch Ring +15%",
-                "R1 x�ch m�nh",
-                "Weapon art hyper armor",
-                "Lightning Blade"
+                "Axe c sn sát thng sát",
+                "Lightning Clutch Ring boosts lightning damage by 15%",
+                "The R1 chain is very strong against large enemies",
+                "Weapon art has hyper armor through attacks",
+                "Buff with Lightning Blade for even more lightning damage"
             ]
         },
         {
@@ -3310,7 +3310,7 @@
             "name": "Twin Princes Greatsword",
             "nameVi": "Đại Kiếm Song Vương",
             "description": "A quality/intelligence build using the Twin Princes Greatsword. This boss weapon has a unique weapon art that fires a laser beam. The weapon deals both physical and magic damage.",
-            "descriptionVi": "Build quality/int v�i Twin Princes Greatsword. Vi kh� boss c� k� n\u0003ng b�n laser. S�t th��ng v�t l� v� magic.",
+            "descriptionVi": "Build quality/int vi Twin Princes Greatsword. Vi kh boss c k nng bắn laser. St thng vt l v magic.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -3345,7 +3345,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Sorcerer",
-                        "Str/Dex 16",
+                        "Level Str/Dex to 16 each",
                         "Raw weapon tạm",
                         "Đến Grand Archives",
                         "Giết Twin Princes",
@@ -3367,12 +3367,12 @@
                         "Use the weapon art for ranged attacks"
                     ],
                     "stepsVi": [
-                        "Str/Dex 20",
-                        "TPG +3",
-                        "Knight's Ring",
-                        "Hunter's Ring",
-                        "Int 30",
-                        "Weapon art laser"
+                        "Push Str/Dex to 20 each",
+                        "Nâng cấp TPG to +3 (Titanite Scale)",
+                        "Trang bị the Knight's Ring",
+                        "Get the Hunter's Ring",
+                        "Tăng Int lên 30",
+                        "Dùng $1he weapon art for ranged attacks"
                     ]
                 },
                 {
@@ -3390,12 +3390,12 @@
                         "Use the Scholar Ring for more Int"
                     ],
                     "stepsVi": [
-                        "Str/Dex 24, Int 40",
-                        "TPG +5",
-                        "Weapon art laser",
-                        "S�t th��ng k�p kh� ch�n",
-                        "Magic Clutch Ring",
-                        "Scholar Ring"
+                        "Push Str/Dex to 24 and Int to 40",
+                        "Nâng tối đa TPG to +5",
+                        "The weapon art fires a beam of light",
+                        "Both types of damage are hard to resist",
+                        "Trang bị the Magic Clutch Ring",
+                        "Dùng $1he Scholar Ring for more Int"
                     ]
                 }
             ],
@@ -3419,7 +3419,7 @@
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, near the door",
-                    "locationVi": "Darkroot Garden"
+                    "locationVi": "Darkroot Garden, near the door"
                 },
                 {
                     "name": "Hunter's Ring",
@@ -3449,18 +3449,18 @@
             ],
             "tipsVi": [
                 "Weapon art bắn laser magic",
-                "S�t th��ng v�t l� + magic",
+                "The sword deals split physical and magic damage innately",
                 "Chỉ cần 24/24 Str/Dex với ring",
                 "Laser tầm xa",
-                "R2 \u0011�m n�p"
+                "The R2 is a thrust that can be charged"
             ]
         },
         {
             "slug": "valorheart",
             "name": "Valorheart",
-            "nameVi": "Tr�i Tim Ding C�m",
+            "nameVi": "Tríi Tim Ding Cm",
             "description": "A quality build using Valorheart from the Ringed City DLC. This paired weapon combines a sword and shield into a unique moveset. The L1 attacks with both, creating aggressive pressure.",
-            "descriptionVi": "Build quality v�i Valorheart DLC. Ki�m v� khi�n k�t h�p moveset \u0011�c \u0011�o. L1 t�n c�ng b�ng c� hai.",
+            "descriptionVi": "Build quality vi Valorheart DLC. Kiếm v khin kt hp moveset c o. L1 tn công bắng c hai.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -3495,11 +3495,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Mercenary",
-                        "Str/Dex 20",
+                        "Level Str/Dex to 20 each",
                         "Đến Dreg Heap",
-                        "V�o Ringed City DLC",
-                        "T�m Valorheart",
-                        "C� mini-boss canh"
+                        "Vào the Ringed City DLC",
+                        "Tìm Valorheart near the beginning",
+                        "It's guarded by a mini-boss"
                     ]
                 },
                 {
@@ -3518,11 +3518,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 25",
-                        "Valorheart +3",
-                        "L1 vung ki�m v� khi�n",
-                        "Ring of Favor",
-                        "Chloranthy Ring",
-                        "Moveset \u0011�c \u0011�o"
+                        "Nâng cấp Valorheart to +3 (Scale)",
+                        "L1 vung kiếm v khin",
+                        "Trang bị the Ring of Favor",
+                        "Get the Chloranthy Ring",
+                        "This moveset is unique to this weapon"
                     ]
                 },
                 {
@@ -3541,11 +3541,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 30",
-                        "Valorheart +5",
-                        "L2 nh�y ch�m",
-                        "Khi�n ch�n khi t�n c�ng",
-                        "B�o v� khi \u0011�nh",
-                        "Ch�y L1 �p s�t"
+                        "Nâng tối đa Valorheart to +5",
+                        "The L2 weapon art is a leaping slash",
+                        "Khin chn khi tn công",
+                        "You're protected while attacking",
+                        "Chy L1 p sát"
                     ]
                 }
             ],
@@ -3570,7 +3570,7 @@
                     "name": "Valorheart",
                     "type": "Weapon",
                     "location": "Ringed City DLC, early area",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC, early area"
                 },
                 {
                     "name": "Ring of Favor +3",
@@ -3588,7 +3588,7 @@
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Dancer area",
-                    "locationVi": "Dancer"
+                    "locationVi": "Dancer area"
                 },
                 {
                     "name": "Havel's Ring +3",
@@ -3605,10 +3605,10 @@
                 "Very effective in PvP for aggressive pressure tactics"
             ],
             "tipsVi": [
-                "Valorheart ki�m v� khi�n song ki�m",
+                "Valorheart kiếm v khin song kiếm",
                 "L1 vung cả hai",
-                "Khi�n ch�n trong \u0011�n \u0011�nh",
-                "Weapon art nh�y ch�m",
+                "Attacks have built-in blocking frames from the shield",
+                "The weapon art is a leaping overhead slash with block frames",
                 "PvP hiệu quả"
             ]
         },
@@ -3617,7 +3617,7 @@
             "name": "Onikiri and Ubadachi",
             "nameVi": "Song Kiếm Quỷ",
             "description": "A Dexterity build using the Onikiri and Ubadachi paired katanas. The L1 attacks are incredibly fast and the weapon art is a rushing slash that covers distance. Devastating bleed buildup.",
-            "descriptionVi": "Build Dex v�i Onikiri and Ubadachi. Song katana L1 si�u nhanh, weapon art lao c�t. T�ch t� ch�y m�u kh�ng.",
+            "descriptionVi": "A Dexterity build using the Onikiri and Ubadachi paired katanas. The L1 attacks are incredibly fast and the weapon art is a rushing slash that covers distance. Devastating bleed buildup.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -3652,11 +3652,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Mercenary",
-                        "Dex 30 v� Vigor 15",
+                        "Tăng Dex lên 30 and Vigor to 15",
                         "Đến Grand Archives",
-                        "Farm ninja Archives",
+                        "Farm the ninja enemies ở Archives",
                         "Rơi Onikiri and Ubadachi",
-                        "D�ng Uchigatana t�m"
+                        "Dùng $1he Uchigatana until then"
                     ]
                 },
                 {
@@ -3675,11 +3675,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 45",
-                        "L�n +6 Sharp",
-                        "Pontiff's Right Eye",
-                        "Carthus Milkring",
-                        "L1 si�u nhanh",
-                        "T�ch ch�y m�u nhanh"
+                        "Nâng cấp to +6 Sharp",
+                        "Trang bị the Pontiff's Right Eye",
+                        "Get the Carthus Milkring",
+                        "The L1 attacks are incredibly fast",
+                        "Buildup bleed quickly with combos"
                     ]
                 },
                 {
@@ -3698,11 +3698,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 60",
-                        "Max +10 Sharp",
-                        "Weapon art lao ch�m",
+                        "Nâng tối đa to +10 Sharp",
+                        "Weapon art is a lunging slash",
                         "Chạy L1 xa",
-                        "Ch�y m�u sau 3-4 L1",
-                        "Pontiff's Left Eye"
+                        "Bleed proc in 3-4 L1 combos",
+                        "Dùng $1he Pontiff's Left Eye for HP"
                     ]
                 }
             ],
@@ -3733,13 +3733,13 @@
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Irithyll, after Pontiff Sullivan",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll, after Pontiff Sullivan"
                 },
                 {
                     "name": "Pontiff's Left Eye",
                     "type": "Ring",
                     "location": "Irithyll, after Sullivan",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll, after Sullivan"
                 },
                 {
                     "name": "Carthus Milkring",
@@ -3751,7 +3751,7 @@
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Dancer area",
-                    "locationVi": "Dancer"
+                    "locationVi": "Dancer area"
                 }
             ],
             "tips": [
@@ -3762,9 +3762,9 @@
                 "Pontiff's Right Eye boosts attack with successive hits"
             ],
             "tipsVi": [
-                "Song katana L1 \u0011�c \u0011�o",
-                "Weapon art lao ch�m hyper armor",
-                "Ch�y m�u nhanh v�i L1",
+                "Onikiri and Ubadachi are paired katanas with unique L1 combos",
+                "The weapon art is a lunging slash with hyper armor",
+                "Bleed builds up very fast with the multi-hit L1 combos",
                 "Chạy L1 trượt xa",
                 "Pontiff's Right Eye tăng dồn"
             ]
@@ -3774,7 +3774,7 @@
             "name": "Frayed Blade",
             "nameVi": "Kiếm Sờn",
             "description": "A pure Dexterity build using the Frayed Blade from the Ringed City DLC — the ultimate Dark Souls 3 katana. The weapon art is a devastating dark slash that combos into a follow-up R2.",
-            "descriptionVi": "Build Dex thu�n v�i Frayed Blade DLC \u0014 katana cu�i c�ng c�a DS3. Weapon art ch�m b�ng t�i combo R2.",
+            "descriptionVi": "Build Dex thun vi Frayed Blade DLC  katana cui công ca DS3. Weapon art chm bắng ti combo R2.",
             "category": "meta",
             "difficulty": 2,
             "dlc": true,
@@ -3809,7 +3809,7 @@
                     ],
                     "stepsVi": [
                         "Chọn Thief",
-                        "Dex 30 v� Vigor 15",
+                        "Tăng Dex lên 30 and Vigor to 15",
                         "Uchigatana ở Settlement",
                         "Chạy đến Ringed City",
                         "Giết Darkeater Midir",
@@ -3832,11 +3832,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 45",
-                        "Frayed Blade +3",
-                        "R1 katana ti�u chu�n",
-                        "Weapon art ch�m b�ng t�i",
-                        "Weapon art + R2 combo",
-                        "Chloranthy Ring +3"
+                        "Nâng cấp Frayed Blade to +3 (Scale)",
+                        "The R1 attacks are standard katana",
+                        "Weapon art chm bắng ti",
+                        "Follow weapon art with R2 for combo",
+                        "Trang bị the Chloranthy Ring +3"
                     ]
                 },
                 {
@@ -3855,11 +3855,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 65",
-                        "Frayed Blade +5",
-                        "Weapon art hyper armor",
-                        "R2 ch�m l�n",
+                        "Nâng tối đa Frayed Blade to +5",
+                        "The weapon art has hyper armor",
+                        "R2 chm lên",
                         "Bắt roll xuất sắc",
-                        "Pontiff's Right Eye"
+                        "Trang bị the Pontiff's Right Eye"
                     ]
                 }
             ],
@@ -3889,13 +3889,13 @@
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Irithyll after Pontiff",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll after Pontiff"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Dancer area",
-                    "locationVi": "Dancer"
+                    "locationVi": "Dancer area"
                 },
                 {
                     "name": "Life Ring +3",
@@ -3912,11 +3912,11 @@
                 "The rolling L1 is a unique lunging stab attack"
             ],
             "tipsVi": [
-                "Frayed Blade katana cu�i c�ng",
+                "Frayed Blade katana cui công",
                 "Weapon art 3 phần",
-                "Weapon art + R2 combo",
-                "S Dex scaling",
-                "L\u0003n L1 \u0011�m \u0011�c \u0011�o"
+                "The weapon art + R2 true combos in PvP",
+                "S Dex scaling at +5 gives massive damage per hit",
+                "The rolling L1 is a unique lunging stab attack"
             ]
         }
     ]

@@ -10,7 +10,7 @@
             "name": "Blade of the Erdtree",
             "nameVi": "Lưỡi Kiếm Erdtree",
             "description": "A devastating bleed-focused dual-wield build that shreds every boss in the game. Uses two curved swords with Occult infusion and Arcane scaling to stack hemorrhage in seconds.",
-            "descriptionVi": "Build ch�y m�u t�n b�o v�i hai thanh ki�m cong, x� x�c m�i boss trong game. S� d�ng ph�p Occult v� ch� s� Arcane \u0011� t�ch liy s�t th��ng ch�y m�u trong t�ch t�c.",
+            "descriptionVi": "Build chy mu tn bo vi hai thanh kiếm cong, x xc mi boss trong game. S dng php Occult v ch s Arcane  tch liy sát thng chy mu trong tch tc.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -43,12 +43,12 @@
                         "Find the Bloody Slash ash of war in Fort Haight"
                     ],
                     "stepsVi": [
-                        "Ch�n Samurai \u0011� nh�n Uchigatana v� ch� s� Dex cao",
-                        "Ch�y \u0011�n Fort Haight v� Fort Gael \u0011� l�y hai m�nh Dectus Medallion",
-                        "\u0010�nh b�i Godrick \u0011� v�o Liurnia v� c� th� reset ch� s� sau",
-                        "\u0010�n Caelid v� l�y Reduvia t� Murkwater Cave",
-                        "T\u0003ng Vigor l�n 25 v� Dexterity l�n 20 tr��c",
-                        "T�m Bloody Slash ash of war � Fort Haight"
+                        "Chọn Samurai0 để starting Uchigatana and high Dex",
+                        "Rush to Fort Haight and Fort Gael for both halves of the Dectus Medallion",
+                        "Đánh bại Godrick to access Liurnia and respec later",
+                        "Đến Caelid and grab the Reduvia dagger from Murkwater Cave",
+                        "Tng Vigor lên 25 v Dexterity lên 20 trc",
+                        "Tìm the Bloody Slash ash of war in Fort Haight"
                     ]
                 },
                 {
@@ -70,10 +70,10 @@
                         "Tiếp tục nhiệm vụ của Ranni để đến Nokron lấy Silver Tear Mask",
                         "Lấy Scavenger's Curved Sword từ Mt. Gelmir — thanh kiếm cong thứ hai",
                         "Thu thập Lord of Blood's Exultation từ khu vực Lord of Blood",
-                        "Reset ch� s� t�i Rennala \u0011� \u0011�y Arcane l�n 35, Dex l�n 35",
+                        "Reset ch s ti Rennala  y Arcane lên 35, Dex lên 35",
                         "Gắn Occult affinity cho cả hai thanh kiếm cong",
                         "Giết Elemer of the Briar để lấy Claw Talisman",
-                        "T�m White Mask � Mohgwyn Dynasty Mausoleum \u0011� t\u0003ng s�t th��ng m�u"
+                        "Tm White Mask  Mohgwyn Dynasty Mausoleum  tng sát thng mu"
                     ]
                 },
                 {
@@ -92,13 +92,13 @@
                         "Defeat Promised Consort Radahn with jumping L1 attacks"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 55 v� Dexterity l�n 45 \u0011� t�i \u0011a t�ch liy ch�y m�u",
-                        "Trang b� Rotten Winged Sword Insignia \u0011� t\u0003ng s�t th��ng \u0011�n li�n ti�p",
-                        "T�m Backhand Blade trong DLC l�m vi kh� thay th�",
+                        "y Arcane lên 55 v Dexterity lên 45  ti a tch liy chy mu",
+                        "Trang b Rotten Winged Sword Insignia  tng sát thng n lin tip",
+                        "Tìm the Backhand Blade in the DLC as an alternative weapon",
                         "Trang bị Two-Headed Turtle Talisman từ DLC để hồi stamina",
-                        "D�ng Dragoncrest Greatshield Talisman \u0011� t\u0003ng ph�ng th� v�t l�",
-                        "Thu th�p Obsidian Lamina t� DLC \u0014 m�t thanh ki�m cong ch�y m�u th� v�",
-                        "\u0010�nh b�i Promised Consort Radahn b�ng \u0011�n nh�y L1"
+                        "Dùng $1he Dragoncrest Greatshield Talisman for physical defense",
+                        "Thu thp Obsidian Lamina t DLC  mt thanh kiếm cong chy mu th v",
+                        "nh bi Promised Consort Radahn bắng n nhy L1"
                     ]
                 }
             ],
@@ -144,7 +144,7 @@
                     "name": "Bandit's Curved Sword",
                     "type": "Weapon",
                     "location": "Dropped by skeleton enemies in Caelid",
-                    "locationVi": "R�i t� qu�i x��ng � Caelid"
+                    "locationVi": "Dropped by skeleton enemies in Caelid"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
@@ -162,7 +162,7 @@
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum, dropped by invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum, r�i t� NPC x�m l\u0003ng"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum, rơi t NPC xm lng"
                 },
                 {
                     "name": "Silver Tear Mask",
@@ -180,7 +180,7 @@
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael, Brace of the Haligtree, on a corpse near the Prayer Room site of grace",
-                    "locationVi": "Elphael, Brace of the Haligtree, tr�n x�c g�n Prayer Room"
+                    "locationVi": "Elphael, Brace of the Haligtree, on a corpse near the Prayer Room site of grace"
                 },
                 {
                     "name": "Thorny Cracked Tear",
@@ -203,19 +203,19 @@
                 "DLC's Two-Handed Sword Talisman works with power-stance jumping attacks — huge damage increase"
             ],
             "tipsVi": [
-                "\u0010�n nh�y L1 g�y tr�ng th�i hai l�n m�i l�n nh�n \u0014 lu�n nh�y t�n c�ng khi c� th�",
-                "C�c talisman \u0011a \u0011�n (Rotten Winged Sword, Millicent's Prosthesis, Claw) c�ng d�n v�i nhau",
-                "Seppuku k�ch ho�t Lord of Blood's Exultation v� White Mask c�ng l�c",
-                "Gi� m�t vi kh� Blood-infused d� ph�ng cho boss mi�n nhi�m Occult",
-                "Two-Handed Sword Talisman t� DLC t\u0003ng s�t th��ng \u0011�n nh�y"
+                "n nhy L1 gy trăng thi hai lên mi lên nhn  lun nhy tn công khi c th",
+                "Cc talisman a n (Rotten Winged Sword, Millicent's Prosthesis, Claw) công dn vi nhau",
+                "Seppuku kch hot Lord of Blood's Exultation v White Mask công lc",
+                "Keep a spare Blood-infused weapon for bosses immune to Occult-scaling bleed",
+                "Two-Handed Sword Talisman t DLC tng sát thng n nhy"
             ]
         },
         {
             "slug": "moonveil-mage",
             "name": "Moonveil Mage",
-            "nameVi": "Ph�p S� Moonveil",
+            "nameVi": "Moonveil Mage",
             "description": "An Intelligence-based katana build that combines powerful sorceries with Moonveil's unique weapon skill. Perfect for new players who want both melee and ranged magic damage.",
-            "descriptionVi": "Build katana d�a tr�n Intelligence, k�t h�p ma thu�t m�nh m� v�i chi�u th�c \u0011�c \u0011�o c�a Moonveil. Ho�n h�o cho ng��i ch�i m�i mu�n s�t th��ng c� c�n chi�n l�n ma thu�t.",
+            "descriptionVi": "Build katana da trn Intelligence, kt hp ma thut mnh m vi chiu thc c o ca Moonveil. Hon ho cho ngi chi mi mun sát thng c cn chin lên ma thut.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -248,12 +248,12 @@
                         "Find the Meteorite Staff in Caelid for S-tier early staff"
                     ],
                     "stepsVi": [
-                        "Ch�n Prisoner v� ch� s� kh�i \u0011�u t�t nh�t (Int 14, Dex 14)",
-                        "\u0010�n Caelid v� \u0011�nh b�i Magma Wyrm \u0011� l�y Moonveil s�m",
-                        "Ho�c \u0011�nh b�i Rennala v� reset ch� s� sang Int",
-                        "T\u0003ng Vigor l�n 20 v� Intelligence l�n 30",
-                        "Mua Glintstone Pebble v� Carian Slicer t� Sorceress Sellen",
-                        "T�m Meteorite Staff � Caelid \u0014 c�y g�y \u0011�u game m�nh nh�t"
+                        "Chọn Prisonerthe best starting stat spread (Int 14, Dex 14)",
+                        "Rush to Caelid and Đánh bại Magma Wyrm to get Moonveil early",
+                        "Alternatively, Đánh bại Rennala and respec into Int build",
+                        "Tng Vigor lên 20 v Intelligence lên 30",
+                        "Mua Glintstone Pebble and Carian Slicer từ Sorceress Sellen",
+                        "Tìm the Meteorite Staff in Caelid for S-tier early staff"
                     ]
                 },
                 {
@@ -271,12 +271,12 @@
                         "Equip the Graven-Mass Talisman for boosted sorcery damage"
                     ],
                     "stepsVi": [
-                        "\u0010�u t� m�nh v�o Intelligence \u0014 \u0011�y l�n 50",
+                        "u t mnh vo Intelligence  y lên 50",
                         "Lấy Carian Regal Scepter từ Remembrance của Rennala",
                         "Thu thập Wing of Astel từ Uhl Palace Ruins",
                         "Nhận Magic Scorpion Charm từ nhiệm vụ của Seluvis",
-                        "T\u0003ng Mind l�n 30 \u0011� c� FP tho�i m�i",
-                        "Trang b� Graven-Mass Talisman \u0011� t\u0003ng s�t th��ng ma thu�t"
+                        "Tng Mind lên 30  c FP thoi mi",
+                        "Trang b Graven-Mass Talisman  tng sát thng ma thut"
                     ]
                 },
                 {
@@ -294,12 +294,12 @@
                         "Defeat Malenia with Moonveil's Transient Moonlight — stance damage is key"
                     ],
                     "stepsVi": [
-                        "\u0010�y Intelligence l�n 60 v� Vigor l�n 40",
-                        "T�m Terra Magicus \u0011� thi�t l�p s�t th��ng nuke",
+                        "y Intelligence lên 60 v Vigor lên 40",
+                        "Tm Terra Magicus  thit lp sát thng nuke",
                         "Thu thập Lusat's Glintstone Staff từ Sellia Hideaway",
-                        "Trang b� Godfrey Icon \u0011� t\u0003ng s�t th��ng ph�p t�ch liy",
-                        "Dex l�n 18 \u0011� t\u0003ng t�c ni�m ph�p",
-                        "\u0010�nh b�i Malenia b�ng Transient Moonlight \u0014 s�t th��ng stance l� ch�a kh�a"
+                        "Trang b Godfrey Icon  tng sát thng php tch liy",
+                        "Dex lên 18  tng tc nim php",
+                        "nh bi Malenia bắng Transient Moonlight  sát thng stance l cha kha"
                     ]
                 }
             ],
@@ -353,7 +353,7 @@
                     "name": "Graven-Mass Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants, found in Albinauric Rise",
-                    "locationVi": "Mountaintops of the Giants, trong Albinauric Rise"
+                    "locationVi": "Mountaintops of the Giants, found in Albinauric Rise"
                 },
                 {
                     "name": "Magic Scorpion Charm",
@@ -377,7 +377,7 @@
                     "name": "Queen's Crescent Crown",
                     "type": "Armor",
                     "location": "Raya Lucaria Academy, on a corpse in the debate parlor",
-                    "locationVi": "Raya Lucaria Academy, tr�n x�c trong debate parlor"
+                    "locationVi": "Raya Lucaria Academy, on a corpse in the debate parlor"
                 },
                 {
                     "name": "Cerulean Hidden Tear",
@@ -400,11 +400,11 @@
                 "Keep Loretta's Greatbow for sniping distant enemies without aggroing them"
             ],
             "tipsVi": [
-                "Transient Moonlight c�a Moonveil c� t�m xa tuy�t v�i v� s�t th��ng stance cao",
-                "\u0010�n nh�y n�ng + Transient Moonlight R2 l� combo ph� stance m�nh",
-                "Terra Magicus + Comet Azur + Cerulean Hidden Tear h�y di�t boss trong gi�y l�t",
-                "Carian Slicer l� l�a ch�n DPS cao nh�t cho c�n chi�n",
-                "Gi� Loretta's Greatbow \u0011� b�n t�a k� \u0011�ch t� xa m� kh�ng k�o aggro"
+                "Transient Moonlight ca Moonveil c tm xa tuyt vi v sát thng stance cao",
+                "Jumping heavy attack + Transient Moonlight R2 is a massive stagger combo",
+                "Terra Magicus into Comet Azur with Cerulean Hidden Tear melts bosses instantly",
+                "Carian Slicer l lửa chn DPS cao nht cho cn chin",
+                "Gi Loretta's Greatbow  bắn tỉa k ch t xa m khng ko aggro"
             ]
         },
         {
@@ -412,7 +412,7 @@
             "name": "Blasphemous Paladin",
             "nameVi": "Hiệp Sĩ Blasphemous",
             "description": "A Strength/Faith paladin build using the Blasphemous Blade. The weapon skill restores HP while dealing massive fire damage. Sustain is unmatched in PvE.",
-            "descriptionVi": "Build Strength/Faith hi�p s) v�i Blasphemous Blade. K� n\u0003ng vi kh� h�i HP trong khi g�y s�t th��ng l�a.",
+            "descriptionVi": "Build Strength/Faith hip s) vi Blasphemous Blade. K nng vi kh hi HP trong khi gy sát thng lửa.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -445,11 +445,11 @@
                         "Kill Tree Sentinel"
                     ],
                     "stepsVi": [
-                        "Ch�n Hero cho Strength v� Faith cao",
-                        "T\u0003ng Strength l�n 22 v� Faith l�n 12",
-                        "D�ng Sacred Blade ash of war",
-                        "T\u0003ng Vigor l�n 25 tr��c",
-                        "T�m Flask of Wondrous Physick",
+                        "Chọn Hero0 để high Strength and Faith",
+                        "Tng Strength lên 22 v Faith lên 12",
+                        "Dùng $1acred Blade ash of war",
+                        "Tng Vigor lên 25 trc",
+                        "Tìm Flask of Wondrous Physick",
                         "Giết Tree Sentinel"
                     ]
                 },
@@ -468,11 +468,11 @@
                         "Equip Shard of Alexander"
                     ],
                     "stepsVi": [
-                        "\u0010�nh b�i Rykard l�y Blasphemous Blade",
-                        "\u0010�y Faith l�n 35, Strength l�n 30",
-                        "Trang b� Golden Vow tr�n dao g\u0003m",
+                        "Đánh bại Rykard for Blasphemous Blade",
+                        "y Faith lên 35, Strength lên 30",
+                        "Trang bị Golden Vow on a dagger",
                         "Lấy Flame Grant Me Strength từ Caelid",
-                        "T\u0003ng Mind l�n 20",
+                        "Tng Mind lên 20",
                         "Trang bị Shard of Alexander"
                     ]
                 },
@@ -491,11 +491,11 @@
                         "Stack fire damage talismans"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40 v� Faith l�n 50",
+                        "y Strength lên 40 v Faith lên 50",
                         "Trang bị Fire Scorpion Charm",
                         "Lấy Erdtree Seal từ DLC",
-                        "D�ng Pest Threads t� DLC",
-                        "Taker's Flames h�i 10% s�t th��ng",
+                        "Dùng $1est Threads from DLC for ranged",
+                        "Taker's Flames hi 10% sát thng",
                         "Xếp talisman lửa"
                     ]
                 }
@@ -539,7 +539,7 @@
                     "name": "Golden Vow",
                     "type": "Weapon",
                     "location": "Corpse Stench in Mountaintops",
-                    "locationVi": "Mountaintops of the Giants"
+                    "locationVi": "Corpse Stench in Mountaintops"
                 },
                 {
                     "name": "Erdtree Seal",
@@ -556,11 +556,11 @@
                 "The weapon skill stance damage breaks bosses quickly"
             ],
             "tipsVi": [
-                "Taker's Flames h�i m�u ph�n tr\u0003m s�t th��ng",
-                "Golden Vow + FGMS + Fire Scorpion Charm = 60%+ s�t th��ng l�a",
-                "Blasphemous Blade l� vi kh� t�t nh�t game",
+                "Taker's Flames hi mu phn trm sát thng",
+                "Golden Vow + FGMS + Fire Scorpion Charm = 60%+ sát thng lửa",
+                "Blasphemous Blade is one of the best weapons in the game",
                 "Pest Threads từ DLC rất mạnh với boss to",
-                "K� n\u0003ng vi kh� ph� stance nhanh"
+                "The weapon skill stance damage breaks bosses quickly"
             ]
         },
         {
@@ -568,7 +568,7 @@
             "name": "Colossal Knight",
             "nameVi": "Colossal Knight",
             "description": "A pure Strength build with the Greatsword or Giant-Crusher. Heavy armor, Heavy infusion, jump attack spam. The ultimate unga bunga experience.",
-            "descriptionVi": "Build Strength thu�n v�i Greatsword ho�c Giant-Crusher. Gi�p n�ng, Heavy infusion, jump attack spam.",
+            "descriptionVi": "A pure Strength build with the Greatsword or Giant-Crusher. Heavy armor, Heavy infusion, jump attack spam. The ultimate unga bunga experience.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -601,10 +601,10 @@
                         "Get Claw Talisman from Stormveil"
                     ],
                     "stepsVi": [
-                        "Ch�n Vagabond cho Vigor v� Strength cao",
+                        "Chọn Vagabondhigh Vigor and Strength",
                         "Chạy đến Caelid lấy Greatsword",
                         "Cầm hai tay với 20 Strength",
-                        "T\u0003ng Vigor l�n 30 tr��c",
+                        "Tng Vigor lên 30 trc",
                         "Gắn Heavy affinity ngay",
                         "Lấy Claw Talisman từ Stormveil"
                     ]
@@ -624,10 +624,10 @@
                         "Equip Green Turtle Talisman"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 50, Vigor l�n 40",
-                        "N�ng Greatsword l�n +15",
-                        "T�m Giant-Crusher � Outer Wall",
-                        "T\u0003ng Endurance l�n 30",
+                        "y Strength lên 50, Vigor lên 40",
+                        "Nng Greatsword lên +15",
+                        "Tìm Giant-Crusher at Outer Wall",
+                        "Tng Endurance lên 30",
                         "Lấy Bull-Goat Talisman",
                         "Trang bị Green Turtle Talisman"
                     ]
@@ -647,12 +647,12 @@
                         "Cragblade for extra poise damage"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 80",
-                        "N�ng Greatsword l�n +25 Heavy",
+                        "y Strength lên 80",
+                        "Nng Greatsword lên +25 Heavy",
                         "Trang bị Two-Handed Sword Talisman từ DLC",
-                        "M�c gi�p n�ng nh�t mid-roll",
-                        "Jumping R2 spam l� DPS cao nh�t",
-                        "Cragblade cho th�m s�t th��ng poise"
+                        "Wear heaviest mid-roll armor",
+                        "Jumping R2 spam is max DPS",
+                        "Cragblade cho thm sát thng poise"
                     ]
                 }
             ],
@@ -677,19 +677,19 @@
                     "name": "Greatsword",
                     "type": "Weapon",
                     "location": "Caelid on a carriage near Rotview Balcony",
-                    "locationVi": "Caelid tr�n xe g�n Rotview Balcony"
+                    "locationVi": "Caelid on a carriage near Rotview Balcony"
                 },
                 {
                     "name": "Giant-Crusher",
                     "type": "Weapon",
                     "location": "Outer Wall Phantom Tree in Altus",
-                    "locationVi": "Outer Wall Phantom Tree"
+                    "locationVi": "Outer Wall Phantom Tree in Altus"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle from Lion Guardian",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle from Lion Guardian"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
@@ -701,7 +701,7 @@
                     "name": "Bull-Goat Talisman",
                     "type": "Talisman",
                     "location": "Dragonbarrow tower",
-                    "locationVi": "Dragonbarrow"
+                    "locationVi": "Dragonbarrow tower"
                 },
                 {
                     "name": "Green Turtle Talisman",
@@ -718,11 +718,11 @@
                 "Use Dried Lobster Delicacy for 20% physical damage buff"
             ],
             "tipsVi": [
-                "Jumping R2 g�y s�t th��ng stance l�n",
+                "Jumping R2 gy sát thng stance lên",
                 "Two-Handed Sword Talisman tăng 20% charged attack",
-                "Cragblade th�m 15% s�t th��ng poise",
-                "101 poise \u0011� tr�n qua m�i \u0011�n",
-                "D�ng Dried Lobster Delicacy cho 20% buff v�t l�"
+                "Cragblade thm 15% sát thng poise",
+                "Stack 101 poise to poise through almost any attack",
+                "Dùng $1ried Lobster Delicacy for 20% physical damage buff"
             ]
         },
         {
@@ -730,7 +730,7 @@
             "name": "Ice Spear DEX",
             "nameVi": "Giáo Băng Dex",
             "description": "A Dexterity build using Dragon Halberd or Frozen Needle with Ice Spear. Frostbite procs with lightning-fast thrust attacks.",
-            "descriptionVi": "Build Dexterity v�i Dragon Halberd ho�c Frozen Needle v�i Ice Spear. T�c \u0011� nhanh v� hi�u �ng b\u0003ng gi�.",
+            "descriptionVi": "A Dexterity build using Dragon Halberd or Frozen Needle with Ice Spear. Frostbite procs with lightning-fast thrust attacks.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -764,10 +764,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Samurai cho Dexterity cao",
-                        "T\u0003ng Dex l�n 25, Vigor l�n 20",
+                        "Tng Dex lên 25, Vigor lên 20",
                         "Lấy Ice Spear từ bọ ở Liurnia",
                         "Lấy Frozen Needle từ Kingsrealm Ruins",
-                        "D�ng Unsheathe t�m th�i",
+                        "Dùng $1nsheathe until Ice Spear",
                         "Giết Godrick"
                     ]
                 },
@@ -786,12 +786,12 @@
                         "Use frost pots for faster frostbite"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dex l�n 40, Vigor l�n 35",
-                        "N�ng Frozen Needle l�n +9",
+                        "y Dex lên 40, Vigor lên 35",
+                        "Nng Frozen Needle lên +9",
                         "Lấy Dragon Halberd từ Dragonkin Soldier",
                         "Trang bị Rotten Winged Sword Insignia",
-                        "T\u0003ng Mind l�n 15",
-                        "D�ng frost pots \u0011� g�y b\u0003ng nhanh h�n"
+                        "Tng Mind lên 15",
+                        "Dùng $1rost pots for faster frostbite"
                     ]
                 },
                 {
@@ -809,12 +809,12 @@
                         "Frostbite reset with fire damage for re-proc"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dex l�n 70",
+                        "y Dex lên 70",
                         "Trang bị Spear Talisman",
                         "Lấy Smithscript Dagger từ DLC",
                         "Trang bị Godskin Swaddling Cloth",
-                        "Ice Spear ph� stance nhanh",
-                        "Reset frostbite b�ng s�t th��ng l�a"
+                        "Ice Spear stance damage breaks bosses",
+                        "Reset frostbite bắng sát thng lửa"
                     ]
                 }
             ],
@@ -880,19 +880,19 @@
                 "Reset frostbite by hitting with fire damage to re-proc immediately"
             ],
             "tipsVi": [
-                "Ice Spear g�y s�t th��ng stance l�n",
-                "Dragon Halberd c� k� n\u0003ng xoay g�y b\u0003ng",
+                "Ice Spear gy sát thng stance lên",
+                "Dragon Halberd has unique spinning weapon skill that applies frost",
                 "Frostbite lấy 20% HP tối đa",
-                "N�m Frost Pots tr��c khi d�ng Ice Spear",
-                "Reset frostbite b�ng l�a \u0011� g�y l�i ngay"
+                "Ném Frost Pots trc khi dng Ice Spear",
+                "Reset frostbite bắng lửa  gy li ngay"
             ]
         },
         {
             "slug": "int-fth-pyromancer",
             "name": "Pyromancer",
-            "nameVi": "Ph�p S� L�a",
+            "nameVi": "Pyromancer",
             "description": "An Intelligence/Faith hybrid using the Prince of Death's Staff and Golden Order Seal. Access to the entire sorcery and incantation catalog with devastating fire damage.",
-            "descriptionVi": "Build Intelligence/Faith hybrid v�i Prince of Death's Staff v� Golden Order Seal. Ti�p c�n to�n b� sorcery v� incantation v�i s�t th��ng l�a.",
+            "descriptionVi": "Build Intelligence/Faith hybrid vi Prince of Death's Staff v Golden Order Seal. Tip cn ton b sorcery v incantation vi sát thng lửa.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -926,10 +926,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Astrologer cho Int cao",
-                        "T\u0003ng Int v� Faith l�n 15/15",
-                        "D�ng Meteorite Staff v�i Rock Sling",
+                        "Tng Int v Faith lên 15/15",
+                        "Dùng $1eteorite Staff with Rock Sling",
                         "Lấy Flame Sling từ trại Godrick Soldier",
-                        "T\u0003ng Mind l�n 20",
+                        "Tng Mind lên 20",
                         "Giết Rennala để reset về sau"
                     ]
                 },
@@ -948,12 +948,12 @@
                         "Level Mind to 30"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int/Fth l�n 30/30",
+                        "y Int/Fth lên 30/30",
                         "Lấy Golden Order Seal từ Auriza Side Tomb",
-                        "T�m Prince of Death's Staff t� Deeproot Depths",
+                        "Tìm Prince of Death's Staff from Deeproot Depths",
                         "Học Giantsflame Take Thee",
                         "Trang bị Flock's Canvas Talisman",
-                        "T\u0003ng Mind l�n 30"
+                        "Tng Mind lên 30"
                     ]
                 },
                 {
@@ -971,10 +971,10 @@
                         "Stack any sorcery or incantation you want"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int/Fth l�n 45/45",
-                        "N�ng c� hai catalyst l�n +25",
+                        "y Int/Fth lên 45/45",
+                        "Nng c hai catalyst lên +25",
                         "Lấy Rellana's Twin Blades từ DLC",
-                        "D�ng Messmer's Orb cho s�t th��ng l�a",
+                        "Dng Messmer's Orb cho sát thng lửa",
                         "Trang bị Fire Scorpion Charm",
                         "Stack bất kỳ sorcery hoặc incantation"
                     ]
@@ -1001,7 +1001,7 @@
                     "name": "Prince of Death's Staff",
                     "type": "Weapon",
                     "location": "Deeproot Depths on a corpse",
-                    "locationVi": "Deeproot Depths tr�n x�c ch�t"
+                    "locationVi": "Deeproot Depths on a corpse"
                 },
                 {
                     "name": "Golden Order Seal",
@@ -1043,8 +1043,8 @@
             ],
             "tipsVi": [
                 "45/45 Int/Fth cho scaling tốt nhất",
-                "D�ng \u0011��c m�i sorcery ho�c incantation",
-                "Giantsflame Take Thee l� s�t th��ng l�a cao nh�t",
+                "You can use any sorcery or incantation in the game - infinite versatility",
+                "Giantsflame Take Thee l sát thng lửa cao nht",
                 "Rellana's Twin Blades cho cận chiến",
                 "Xếp Fire Scorpion Charm + Flock's Canvas + Shard of Alexander"
             ]
@@ -1052,9 +1052,9 @@
         {
             "slug": "arc-dragon-incantation",
             "name": "Dragon Communion",
-            "nameVi": "Long Giao",
+            "nameVi": "Dragon Communion",
             "description": "An Arcane build using the Dragon Communion Seal for devastating dragon incantations. Breathe fire, summon dragon claws, and melt everything with pure draconic power.",
-            "descriptionVi": "Build Arcane v�i Dragon Communion Seal cho long incantation h�y di�t. Phun l�a, tri�u m�ng r�ng v� l�m tan ch�y m�i th�.",
+            "descriptionVi": "Build Arcane vi Dragon Communion Seal cho long incantation hy dit. Phun lửa, triu mng rng v lm tan chy mi th.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1088,10 +1088,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Prophet cho Faith cao",
-                        "T\u0003ng Arcane l�n 20 tr��c",
+                        "Tng Arcane lên 20 trc",
                         "Chạy đến Dragon Communion Church",
-                        "Mua Dragonfire incantation",
-                        "T\u0003ng Faith l�n 12",
+                        "Buy Dragonfire incantation",
+                        "Tng Faith lên 12",
                         "Giết Agheel cho Dragon Heart"
                     ]
                 },
@@ -1110,11 +1110,11 @@
                         "Equip Flock's Canvas Talisman"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 40 v� Faith l�n 20",
-                        "T�m Dragon Communion Seal � Fringefolk Hero's Grave",
+                        "y Arcane lên 40 v Faith lên 20",
+                        "Tìm Dragon Communion Seal in Fringefolk Hero's Grave",
                         "Farm Dragon Hearts từ rồng",
-                        "L�y Dragonmaw v� Dragonclaw",
-                        "T\u0003ng Mind l�n 25",
+                        "Get Dragonmaw and Dragonclaw incantations",
+                        "Tng Mind lên 25",
                         "Trang bị Flock's Canvas Talisman"
                     ]
                 },
@@ -1133,12 +1133,12 @@
                         "Use Greyoll's Roar for AoE knockdown"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 60 v� Faith l�n 30",
-                        "N�ng Dragon Communion Seal l�n +10",
+                        "y Arcane lên 60 v Faith lên 30",
+                        "Nng Dragon Communion Seal lên +10",
                         "Lấy Bayle's Tyranny từ DLC",
                         "Trang bị Roar Medallion",
-                        "Dragonmaw g�y s�t th��ng poise l�n",
-                        "Greyoll's Roar cho AoE knockdown"
+                        "Dragonmaw gy sát thng poise lên",
+                        "Dùng $1reyoll's Roar for AoE knockdown"
                     ]
                 }
             ],
@@ -1162,13 +1162,13 @@
                     "name": "Dragonfire",
                     "type": "Weapon",
                     "location": "Dragon Communion Church in Limgrave",
-                    "locationVi": "Dragon Communion Church Limgrave"
+                    "locationVi": "Dragon Communion Church in Limgrave"
                 },
                 {
                     "name": "Dragonmaw",
                     "type": "Weapon",
                     "location": "Cathedral of Dragon Communion in Caelid",
-                    "locationVi": "Cathedral of Dragon Communion Caelid"
+                    "locationVi": "Cathedral of Dragon Communion in Caelid"
                 },
                 {
                     "name": "Bayle's Tyranny",
@@ -1198,10 +1198,10 @@
             ],
             "tipsVi": [
                 "Dragon Communion Seal tăng theo Arcane - tập trung Arcane",
-                "Dragonmaw g�y s�t th��ng poise l�n",
-                "Roar Medallion t\u0003ng 15% s�t th��ng r�ng",
-                "Fire Scorpion Charm + Roar Medallion + Flock's Canvas",
-                "Long incantation c� th� t�ch \u0011� t\u0003ng s�t th��ng"
+                "Dragonmaw gy sát thng poise lên",
+                "Roar Medallion tng 15% sát thng rng",
+                "Stack Fire Scorpion Charm + Roar Medallion + Flock's Canvas for max damage",
+                "Long incantation c th tch  tng sát thng"
             ]
         },
         {
@@ -1209,7 +1209,7 @@
             "name": "Quality Warrior",
             "nameVi": "Chiến Binh Chất Lượng",
             "description": "A Quality build with 55/55 Strength and Dexterity. Use any weapon in the game at its full potential. Bloodhound's Fang shines with Quality scaling.",
-            "descriptionVi": "Build Quality 55/55 Strength v� Dexterity. D�ng \u0011��c m�i vi kh� trong game. Bloodhound's Fang t�a s�ng v�i Quality scaling.",
+            "descriptionVi": "Build Quality 55/55 Strength v Dexterity. Dng c mi vi kh trong game. Bloodhound's Fang tỉa súng vi Quality scaling.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1242,12 +1242,12 @@
                         "Level Vigor to 25"
                     ],
                     "stepsVi": [
-                        "Ch�n Vagabond cho ch� s� c�n b�ng",
+                        "Chn Vagabond cho ch s cn bắng",
                         "Lấy Bloodhound's Fang từ Darriwil",
-                        "T\u0003ng Strength v� Dex \u0011�u 20/20",
-                        "D�ng Quality affinity t� Iron Whetblade",
+                        "Level Strength and Dex evenly to 20/20",
+                        "Dùng $1uality affinity from the Iron Whetblade",
                         "Giết Godrick",
-                        "T\u0003ng Vigor l�n 25"
+                        "Tng Vigor lên 25"
                     ]
                 },
                 {
@@ -1265,12 +1265,12 @@
                         "Level Vigor to 35"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Dex l�n 35/35",
-                        "N�ng Bloodhound's Fang l�n +6",
+                        "y Str/Dex lên 35/35",
+                        "Nng Bloodhound's Fang lên +6",
                         "Lấy Iron Whetblade từ Stormveil",
-                        "T�m Claw Talisman",
+                        "Tìm the Claw Talisman for jump attacks",
                         "Lấy Green Turtle Talisman",
-                        "T\u0003ng Vigor l�n 35"
+                        "Tng Vigor lên 35"
                     ]
                 },
                 {
@@ -1288,12 +1288,12 @@
                         "Bloodhound's Fang weapon skill is a gap closer and escape"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Dex l�n 55/55",
-                        "N�ng Bloodhound's Fang l�n +10",
+                        "y Str/Dex lên 55/55",
+                        "Nng Bloodhound's Fang lên +10",
                         "Trang bị Bloodhound's Step",
-                        "M�c gi�p \u0011�p v� t�t",
-                        "D�ng b�t k� vi kh� Quality n�o",
-                        "K� n\u0003ng vi kh� Bloodhound's Fang l� gap closer"
+                        "Wear best medium armor for fashion and function",
+                        "Dùng $1ny Quality weapon in the game",
+                        "Bloodhound's Fang weapon skill is a gap closer and escape"
                     ]
                 }
             ],
@@ -1318,13 +1318,13 @@
                     "name": "Bloodhound's Fang",
                     "type": "Weapon",
                     "location": "Limgrave, Bloodhound Knight Darriwil boss",
-                    "locationVi": "Limgrave, boss Bloodhound Knight Darriwil"
+                    "locationVi": "Limgrave, Bloodhound Knight Darriwil boss"
                 },
                 {
                     "name": "Iron Whetblade",
                     "type": "Weapon",
                     "location": "Stormveil Castle in a locked room",
-                    "locationVi": "Stormveil Castle trong ph�ng kh�a"
+                    "locationVi": "Stormveil Castle in a locked room"
                 },
                 {
                     "name": "Claw Talisman",
@@ -1336,7 +1336,7 @@
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village catacombs"
                 },
                 {
                     "name": "Millicent's Prosthesis",
@@ -1359,10 +1359,10 @@
                 "The Quality affinity gives B/B or A/A scaling at high Str/Dex levels"
             ],
             "tipsVi": [
-                "55/55 Str/Dex l� soft cap Quality",
+                "55/55 Str/Dex is the Quality soft cap - you can use any weapon in the game",
                 "Bloodhound's Fang combo: L2 rồi R2",
-                "C� th� buff th�m cho Bloodhound's Fang",
-                "Gi� nhi�u vi kh� cho c�c t�nh hu�ng kh�c nhau",
+                "Bloodhound's Fang is one of the few somber weapons that can be buffed",
+                "Keep multiple weapons with different damage types for different situations",
                 "Quality affinity cho B/B hoặc A/A scaling"
             ]
         },
@@ -1371,7 +1371,7 @@
             "name": "Lightning Zealot",
             "nameVi": "Đức Tin Sấm Sét",
             "description": "A pure Faith lightning build using the Godslayer or Erdtree Seal with lightning incantations. Ancient Dragons' Lightning Strike melts large bosses.",
-            "descriptionVi": "Build Faith thu�n s�m s�t v�i Godslayer ho�c Erdtree Seal. Ancient Dragons' Lightning Strike tan ch�y boss to.",
+            "descriptionVi": "Build Faith thun sm sát vi Godslayer hoc Erdtree Seal. Ancient Dragons' Lightning Strike tan chy boss to.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1405,10 +1405,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Prophet cho Faith cao",
-                        "T\u0003ng Faith l�n 30",
+                        "Tng Faith lên 30",
                         "Lấy Cipher Pata từ Roundtable Hold",
-                        "D�ng Catch Flame v� Flame Sling",
-                        "T�m Two Fingers Heirloom",
+                        "Dùng $1atch Flame and Flame Sling",
+                        "Tìm the Two Fingers Heirloom",
                         "Giết Tree Sentinel"
                     ]
                 },
@@ -1427,11 +1427,11 @@
                         "Equip Flock's Canvas Talisman"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith l�n 50",
+                        "y Faith lên 50",
                         "Lấy Godslayer Seal từ Stormveil",
-                        "T�m Ancient Dragons' Lightning Strike",
+                        "Tìm Ancient Dragons' Lightning Strike from Altus",
                         "Lấy Lightning Spear từ Liurnia",
-                        "T\u0003ng Mind l�n 25",
+                        "Tng Mind lên 25",
                         "Trang bị Flock's Canvas Talisman"
                     ]
                 },
@@ -1450,12 +1450,12 @@
                         "Stack lightning damage talismans"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith l�n 80",
+                        "y Faith lên 80",
                         "Lấy Erdtree Seal từ DLC",
-                        "T�m Knight's Lightning Spear t� DLC",
-                        "D�ng Ancient Dragons' Lightning Strike",
+                        "Tìm Knight's Lightning Spear from DLC",
+                        "Dùng $1ncient Dragons' Lightning Strike on large bosses",
                         "Trang bị Lightning Scorpion Charm",
-                        "X�p talisman s�m s�t"
+                        "Xp talisman sm sát"
                     ]
                 }
             ],
@@ -1480,13 +1480,13 @@
                     "name": "Erdtree Seal",
                     "type": "Weapon",
                     "location": "DLC near first site of grace",
-                    "locationVi": "DLC g�n site of grace \u0011�u ti�n"
+                    "locationVi": "DLC near first site of grace"
                 },
                 {
                     "name": "Godslayer Seal",
                     "type": "Weapon",
                     "location": "Stormveil Castle locked room",
-                    "locationVi": "Stormveil Castle ph�ng kh�a"
+                    "locationVi": "Stormveil Castle locked room"
                 },
                 {
                     "name": "Ancient Dragons' Lightning Strike",
@@ -1498,13 +1498,13 @@
                     "name": "Lightning Spear",
                     "type": "Weapon",
                     "location": "Liurnia altar statue with Faith requirement",
-                    "locationVi": "Liurnia t��ng th� y�u c�u Faith"
+                    "locationVi": "Liurnia tường th yu cu Faith"
                 },
                 {
                     "name": "Knight's Lightning Spear",
                     "type": "Weapon",
                     "location": "DLC in the Gravesite Plain",
-                    "locationVi": "DLC trong Gravesite Plain"
+                    "locationVi": "DLC in the Gravesite Plain"
                 },
                 {
                     "name": "Lightning Scorpion Charm",
@@ -1521,11 +1521,11 @@
                 "Use the DLC's new lightning incantations for even more options"
             ],
             "tipsVi": [
-                "Ancient Dragons' Lightning Strike nhi�u l�n tr�ng tr�n boss to",
-                "Knight's Lightning Spear l� incantation \u0011�n m�c ti�u ch�nh",
-                "Lightning Scorpion Charm + Flock's Canvas + Godfrey Icon",
-                "Erdtree Seal c� incant scaling t�t nh�t � 80 Faith",
-                "D�ng incantation s�m s�t m�i t� DLC"
+                "Ancient Dragons' Lightning Strike nhiu lên trăng trn boss to",
+                "Knight's Lightning Spear l incantation n mc tiu chình",
+                "Stack Lightning Scorpion Charm + Flock's Canvas + Godfrey Icon for max lightning damage",
+                "The Erdtree Seal has the best incant scaling at 80 Faith",
+                "Dng incantation sm sát mi t DLC"
             ]
         },
         {
@@ -1533,7 +1533,7 @@
             "name": "Ringed Finger",
             "nameVi": "Ngón Tay Nhẫn",
             "description": "The legendary Ringed Finger meme build. Use the Ringed Finger weapon from the DLC to flick enemies into the air. Useless? Yes. Hilarious? Absolutely.",
-            "descriptionVi": "Build meme Ringed Finger huy�n tho�i. D�ng vi kh� Ringed Finger t� DLC \u0011� b�t k� \u0011�ch l�n kh�ng. V� d�ng? C�. H�i h��c? Tuy�t \u0011�i.",
+            "descriptionVi": "Build meme Ringed Finger huyn thoi. Dng vi kh Ringed Finger t DLC  bt k ch lên khng. Vũ dng? C. Hi hc? Tuyt i.",
             "category": "meme",
             "difficulty": 3,
             "dlc": true,
@@ -1568,10 +1568,10 @@
                     "stepsVi": [
                         "Chọn Hero cho Strength cao",
                         "Chạy đến DLC",
-                        "T\u0003ng Strength l�n 40 tr��c",
+                        "Tng Strength lên 40 trc",
                         "Đến Southern Shore trong DLC",
-                        "\u0010�nh b�i boss l�y Ringed Finger",
-                        "N�ng l�n +3 ngay"
+                        "Đánh bại the boss for Ringed Finger",
+                        "Nng lên +3 ngay"
                     ]
                 },
                 {
@@ -1589,11 +1589,11 @@
                         "Join the Ringed Finger cult online"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 50",
-                        "N�ng Ringed Finger l�n +9",
+                        "y Strength lên 50",
+                        "Nng Ringed Finger lên +9",
                         "Trang bị Two-Handed Sword Talisman",
-                        "H�c timing k� n\u0003ng vi kh�",
-                        "T\u0003ng Endurance l�n 30",
+                        "Learn the weapon skill timing - it launches enemies",
+                        "Tng Endurance lên 30",
                         "Gia nhập hội Ringed Finger"
                     ]
                 },
@@ -1612,10 +1612,10 @@
                         "The R2 finger gun gesture is mandatory"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 60",
-                        "N�ng Ringed Finger l�n +25",
-                        "D�ng k� n\u0003ng \u0011� h�t k� \u0011�ch xu�ng v�c",
-                        "X�m l\u0003ng trong DLC",
+                        "y Strength lên 60",
+                        "Nng Ringed Finger lên +25",
+                        "Dùng $1he weapon skill to flick enemies off cliffs",
+                        "Invade in the DLC for maximum disrespect",
                         "Trang bị Shard of Alexander",
                         "Cử chỉ R2 finger gun bắt buộc"
                     ]
@@ -1660,13 +1660,13 @@
                     "name": "Bull-Goat Talisman",
                     "type": "Talisman",
                     "location": "Dragonbarrow tower",
-                    "locationVi": "Dragonbarrow"
+                    "locationVi": "Dragonbarrow tower"
                 },
                 {
                     "name": "Great-Jar's Arsenal",
                     "type": "Talisman",
                     "location": "Caelid Great-Jar challenge",
-                    "locationVi": "Caelid th� th�ch Great-Jar"
+                    "locationVi": "Caelid Great-Jar challenge"
                 },
                 {
                     "name": "Finger Severer",
@@ -1683,11 +1683,11 @@
                 "This build is for fun, not efficiency - embrace the meme"
             ],
             "tipsVi": [
-                "K� n\u0003ng vi kh� h�t k� \u0011�ch l�n kh�ng",
-                "C� \u0011� tr� nh� - luy�n timing",
+                "K nng vi kh ht k ch lên khng",
+                "The weapon skill has a slight wind-up - practice the timing",
                 "Hất kẻ địch xuống vực để chết ngay",
-                "Charged R2 c� t�m xa h�n b�n ngh)",
-                "Build n�y cho vui, kh�ng ph�i hi�u qu�"
+                "Charged R2 c tm xa hn bắn ngh)",
+                "This build is for fun, not efficiency - embrace the meme"
             ]
         },
         {
@@ -1695,7 +1695,7 @@
             "name": "Dark Moon Greatsword",
             "nameVi": "Đại Kiếm Trăng Tối",
             "description": "An Intelligence build wielding the legendary Dark Moon Greatsword. Charged heavy attacks fire frost projectiles while the sword deals massive magic damage. Ranni's questline is mandatory.",
-            "descriptionVi": "Build Intelligence v�:i Dark Moon Greatsword huy�n tho�i. \u0010�n n�ng t�ch l�c b�n �\u0018�n b\u0012ng trong khi ki�m g�y s�t th��ng ph�p l�:n.",
+            "descriptionVi": "Build Intelligence v:i Dark Moon Greatsword huyn thoi. n nng tch lc bắn n bng trong khi kiếm gy sát thng php l:n.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1728,12 +1728,12 @@
                         "Kill Rennala for respec option"
                     ],
                     "stepsVi": [
-                        "Ch�n Prisoner cho Int v� Dex c�n b�ng",
-                        "Ho�n th�nh nhi�!m v� Ranni �\u0018� �\u0018�n Nokron",
-                        "T\u0012ng Intelligence l�n 30 v� Vigor l�n 20",
-                        "D�ng Carian Slicer v� Pebble l�m ph�p ch�nh",
-                        "T�m Meteorite Staff �x Caelid",
-                        "Giết Rennala �\u0018Ồ reset ch�0 s�\u0018"
+                        "Chn Prisoner cho Int v Dex cn bắng",
+                        "Hon thình nhi!m v Ranni  n Nokron",
+                        "Tng Intelligence lên 30 v Vigor lên 20",
+                        "Dng Carian Slicer v Pebble lm php chình",
+                        "Tìm the Meteorite Staff in Caelid",
+                        "Giết Rennala Ồ reset ch0 s"
                     ]
                 },
                 {
@@ -1751,17 +1751,17 @@
                         "Find the Carian Regal Scepter from Rennala's remembrance"
                     ],
                     "stepsVi": [
-                        "Ho�n th�nh nhi�!m v� Ranni �\u0018� nh�n Dark Moon Greatsword",
-                        "\u0010�nh b�i Astel",
-                        "\u0010�y Intelligence l�n 50",
-                        "N�ng Dark Moon Greatsword l�n +9",
-                        "Trang b�9 Magic Scorpion Charm",
+                        "Hon thình nhi!m v Ranni  nhn Dark Moon Greatsword",
+                        "Đánh bại Astel for the final Nhiệm vụ step",
+                        "y Intelligence lên 50",
+                        "Nng Dark Moon Greatsword lên +9",
+                        "Trang bị the Magic Scorpion Charm",
                         "Lấy Carian Regal Scepter"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Farum Azula, Haligtree, Realm of Shadow",
                     "areasVi": "Farum Azula, Haligtree, Realm of Shadow",
@@ -1774,12 +1774,12 @@
                         "The frost projectile stance breaks bosses in 3-4 hits"
                     ],
                     "stepsVi": [
-                        "\u0010�y Intelligence l�n 70",
-                        "N�ng Dark Moon Greatsword l�n +10",
-                        "Trang b�9 Godfrey Icon",
+                        "y Intelligence lên 70",
+                        "Nng Dark Moon Greatsword lên +10",
+                        "Trang bị Godfrey Icon for charged attack boost",
                         "Lấy Two-Handed Sword Talisman từ DLC",
-                        "D�ng �\u0018�n R2 t�ch l�m t�n c�ng ch�nh",
-                        "\u0010�n b\u0012ng ph� stance boss trong 3-4 �\u0018�n"
+                        "Dng n R2 tch lm tn công chình",
+                        "The frost projectile stance breaks bosses in 3-4 hits"
                     ]
                 }
             ],
@@ -1797,31 +1797,31 @@
                     "name": "Dark Moon Greatsword",
                     "type": "Weapon",
                     "location": "Ranni's questline reward after defeating Astel",
-                    "locationVi": "Ph�n th��xng nhi�!m v� Ranni sau khi �\u0018�nh b�i Astel"
+                    "locationVi": "Ranni's questline reward after defeating Astel"
                 },
                 {
                     "name": "Carian Regal Scepter",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Rennala's Remembrance",
-                    "locationVi": "Đ�\"i v�:i Finger Reader bằng Remembrance của Rennala"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Rennala"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise, obtained during Seluvis's questline",
-                    "locationVi": "Seluvis's Rise từ nhi�!m vụ Seluvis"
+                    "locationVi": "Seluvis's Rise từ nhi!m vụ Seluvis"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol in Limgrave",
-                    "locationVi": "Golden Lineage Evergaol �x Limgrave"
+                    "locationVi": "Golden Lineage Evergaol in Limgrave"
                 },
                 {
                     "name": "Graven-Mass Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants in Albinauric Rise",
-                    "locationVi": "Mountaintops of the Giants trong Albinauric Rise"
+                    "locationVi": "Mountaintops of the Giants in Albinauric Rise"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
@@ -1838,11 +1838,11 @@
                 "Keep a staff in offhand for emergency sorceries"
             ],
             "tipsVi": [
-                "Charged R2 b�n �\u0018�n b\u0012ng g�y s�t th��ng stance l�:n",
-                "K� n\u0012ng vi kh� buff 65 s�t th��ng ph�p trong 60 gi�y",
-                "D�ng Terra Magicus tr��:c boss �\u0018� t\u0012ng 35% s�t th��ng ph�p",
-                "\u0010�n �\u0018��c t�nh l� charged attack �\u001d h��xng l�i t� Godfrey Icon",
-                "Gi� staff trong tay tr�i cho ma thu�t kh�n c�p"
+                "Charged R2 bắn n bng gy sát thng stance l:n",
+                "K nng vi kh buff 65 sát thng php trong 60 giy",
+                "Dng Terra Magicus tr:c boss  tng 35% sát thng php",
+                "The projectile counts as a charged attack �\u001d benefits from Godfrey Icon",
+                "Gi staff trong tay trơi cho ma thut khn cp"
             ]
         },
         {
@@ -1850,7 +1850,7 @@
             "name": "Fallingstar Beast Jaw",
             "nameVi": "Hàm Quái Thú Sao Rơi",
             "description": "A Strength/Intelligence build using the Fallingstar Beast Jaw. The weapon skill fires a gravity projectile that deals massive poise damage and staggers even the largest bosses.",
-            "descriptionVi": "Build Strength/Intelligence v�:i Fallingstar Beast Jaw. K� n\u0012ng vi kh� b�n �\u0018�n tr�ng l�c g�y s�t th��ng poise l�:n.",
+            "descriptionVi": "Build Strength/Intelligence v:i Fallingstar Beast Jaw. K nng vi kh bắn n trăng lc gy sát thng poise l:n.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -1883,12 +1883,12 @@
                         "Level Intelligence to 12 for the weapon requirement"
                     ],
                     "stepsVi": [
-                        "Ch�n Vagabond cho Strength v� Vigor cao",
-                        "T\u0012ng Strength l�n 30 v� Vigor l�n 25",
-                        "D�ng Greatsword Heavy t�m th�i",
-                        "Gi�t Godrick �\u0018� v�o Liurnia",
-                        "T�m Claw Talisman trong Stormveil",
-                        "T\u0012ng Intelligence l�n 12"
+                        "Chọn Vagabondhigh Strength and Vigor",
+                        "Tng Strength lên 30 v Vigor lên 25",
+                        "Dùng $1 Heavy-infused Greatsword temporarily",
+                        "Đánh bại Godrick for access to Liurnia",
+                        "Tìm the Claw Talisman in Stormveil",
+                        "Tng Intelligence lên 12"
                     ]
                 },
                 {
@@ -1906,17 +1906,17 @@
                         "Level Endurance to 25 for stamina"
                     ],
                     "stepsVi": [
-                        "Chạy �\u0018ến Mt Gelmir lấy Fallingstar Beast Jaw",
-                        "\u0010�nh b�i Full-Grown Fallingstar Beast",
-                        "40 Strength v� 20 Intelligence",
-                        "N�ng vi kh� l�n +9",
-                        "Trang b�9 Shard of Alexander",
-                        "T\u0012ng Endurance l�n 25"
+                        "Chạy ến Mt Gelmir lấy Fallingstar Beast Jaw",
+                        "Đánh bại the Full-Grown Fallingstar Beast",
+                        "Forty Strength and 20 Intelligence",
+                        "Nng vi kh lên +9",
+                        "Trang bị Shard of Alexander for weapon skill damage",
+                        "Tng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, Haligtree",
                     "areasVi": "Mountaintops, Farum Azula, Haligtree",
@@ -1929,12 +1929,12 @@
                         "Stack poise for uninterrupted weapon skills"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 55 v� Intelligence l�n 30",
-                        "N�ng Fallingstar Beast Jaw l�n +10",
-                        "Trang b�9 Two-Handed Sword Talisman",
-                        "D�ng k� n\u0012ng vi kh� l�m t�n c�ng ch�nh",
-                        "\u0010�n tr�ng l�c l�m cho�ng boss trong 2 �\u0018�n",
-                        "X�p poise �\u0018� kh�ng b�9 gi�n �\u0018o�n"
+                        "y Strength lên 55 v Intelligence lên 30",
+                        "Nng Fallingstar Beast Jaw lên +10",
+                        "Trang bị the Two-Handed Sword Talisman",
+                        "Dng k nng vi kh lm tn công chình",
+                        "The gravity bolt staggers most bosses in 2 hits",
+                        "Stack poise for uninterrupted weapon skills"
                     ]
                 }
             ],
@@ -1958,7 +1958,7 @@
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander the Iron Fist quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
@@ -1970,7 +1970,7 @@
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle from Lion Guardian",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle from Lion Guardian"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
@@ -1987,11 +1987,11 @@
                 "Stack poise armor to avoid interruption during the weapon skill wind-up"
             ],
             "tipsVi": [
-                "K� n\u0012ng vi kh� b�n �\u0018�n tr�ng l�c g�y s�t th��ng poise l�:n",
-                "C� th� spam t� xa �\u001d m�\"t trong nh�ng c�ch gi�t boss an to�n nh�t",
+                "K nng vi kh bắn n trăng lc gy sát thng poise l:n",
+                "The weapon skill can be spammed from range �\u001d it's one of the safest boss killers",
                 "Cầm hai tay cho bonus Strength scaling",
-                "Charged R2 c� �\u0018�n ti�p theo �\u0018�\"c �\u0018�o",
-                "X�p poise �\u0018� kh�ng b�9 gi�n �\u0018o�n khi d�ng k� n\u0012ng"
+                "The charged R2 has a unique follow-up attack",
+                "Stack poise armor to avoid interruption during the weapon skill wind-up"
             ]
         },
         {
@@ -1999,7 +1999,7 @@
             "name": "Rivers of Blood",
             "nameVi": "Sông Máu",
             "description": "The infamous Rivers of Blood katana build. Corpse Piler weapon skill fires a flurry of blood slashes that stack hemorrhage instantly. The most dominant PvP weapon at its peak.",
-            "descriptionVi": "Build Rivers of Blood katana kh�t ti�ng. K� n\u0012ng Corpse Piler b�n ch�m ch�m m�u t�ch liy ch�y m�u ngay l�p t�c.",
+            "descriptionVi": "Build Rivers of Blood katana kht ting. K nng Corpse Piler bắn chm chm mu tch liy chy mu ngay lp tc.",
             "category": "pvp",
             "difficulty": 1,
             "dlc": true,
@@ -2032,12 +2032,12 @@
                         "Upgrade to Rivers of Blood +6 immediately"
                     ],
                     "stepsVi": [
-                        "Ch�n Samurai cho Uchigatana v� Dex cao",
-                        "T\u0012ng Arcane l�n 20 v� Dexterity l�n 20",
-                        "D�ng Uchigatana v�:i Bloody Slash",
-                        "Đến Altus Plateau s�:m",
+                        "Chọn SamuraiUchigatana and high Dex",
+                        "Tng Arcane lên 20 v Dexterity lên 20",
+                        "Dùng $1he Uchigatana with Bloody Slash",
+                        "Đến Altus Plateau s:m",
                         "Giết Okina tại Church of Repose lấy Rivers of Blood",
-                        "N�ng Rivers of Blood l�n +6 ngay"
+                        "Nng Rivers of Blood lên +6 ngay"
                     ]
                 },
                 {
@@ -2055,17 +2055,17 @@
                         "Level Vigor to 35"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 40 v� Dexterity l�n 35",
-                        "N�ng Rivers of Blood l�n +9",
-                        "Trang b�9 Lord of Blood's Exultation",
+                        "y Arcane lên 40 v Dexterity lên 35",
+                        "Nng Rivers of Blood lên +9",
+                        "Trang bị the Lord of Blood's Exultation talisman",
                         "Lấy White Mask từ Mohgwyn Dynasty",
-                        "T�m Shard of Alexander",
-                        "T\u0012ng Vigor l�n 35"
+                        "Tìm the Shard of Alexander for weapon skill boost",
+                        "Tng Vigor lên 35"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, Realm of Shadow",
                     "areasVi": "Mountaintops, Farum Azula, Realm of Shadow",
@@ -2078,12 +2078,12 @@
                         "Use Seppuku on a Uchigatana as backup for immunity enemies"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 55 v� Dexterity l�n 45",
-                        "N�ng Rivers of Blood l�n +10",
-                        "Trang b�9 Millicent's Prosthesis",
+                        "y Arcane lên 55 v Dexterity lên 45",
+                        "Nng Rivers of Blood lên +10",
+                        "Trang bị the Millicent's Prosthesis for multi-hit bonus",
                         "Lấy Rotten Winged Sword Insignia",
-                        "Corpse Piller x�a s�\" m�i k� �\u0018�9ch y�u ch�y m�u",
-                        "D�ng Seppuku tr�n Uchigatana d� ph�ng"
+                        "Corpse Piler weapon skill deletes any enemy weak to bleed",
+                        "Dùng $1eppuku on a Uchigatana as backup for immunity enemies"
                     ]
                 }
             ],
@@ -2107,31 +2107,31 @@
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum trong rÆ°Æ¡ng"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
                 },
                 {
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum from invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum t� NPC x�m l\u0012ng"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Millicent's Prosthesis",
                     "type": "Talisman",
                     "location": "Millicent questline reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Millicent"
+                    "locationVi": "Phần thưxng nhi!m vụ Millicent"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Millicent"
+                    "locationVi": "Phần thưxng nhi!m vụ Millicent"
                 }
             ],
             "tips": [
@@ -2142,11 +2142,11 @@
                 "Keep a cold-infused weapon for enemies immune to bleed"
             ],
             "tipsVi": [
-                "Corpse Piler m�\u0014i �\u0018�n t�ch liy ch�y m�u �\u0018�\"c l�p",
-                "Combo L2-R2 bắn hai loạt �\u0018ạn",
-                "Lord of Blood's Exultation t\u0012ng 20% s�t th��ng khi ch�y m�u",
-                "D�ng Physick v�:i Thorny Cracked Tear",
-                "Gi� vi kh� b\u0012ng cho k� mi�&n nhi�&m ch�y m�u"
+                "Corpse Piler weapon skill triggers every hit of bleed buildup independently",
+                "Combo L2-R2 bắn hai loạt ạn",
+                "Lord of Blood's Exultation tng 20% sát thng khi chy mu",
+                "Dùng $1he Physick with Thorny Cracked Tear for multi-hit damage boost",
+                "Keep a cold-infused weapon for enemies immune to bleed"
             ]
         },
         {
@@ -2154,7 +2154,7 @@
             "name": "Death's Poker",
             "nameVi": "Poker Tử Thần",
             "description": "An Intelligence/Dexterity build using Death's Poker. The Ghostflame Ignition weapon skill creates a trail of ghostflame that ticks for massive damage. One of the best boss-melting weapons in the game.",
-            "descriptionVi": "Build Intelligence/Dexterity v�:i Death's Poker. K� n\u0012ng Ghostflame Ignition t�o v�!t l�a ma g�y s�t th��ng l�:n.",
+            "descriptionVi": "Build Intelligence/Dexterity v:i Death's Poker. K nng Ghostflame Ignition to v!t lửa ma gy sát thng l:n.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -2187,12 +2187,12 @@
                         "Upgrade Death's Poker to +5"
                     ],
                     "stepsVi": [
-                        "Ch�n Prisoner cho Dex v� Int c�n b�ng",
-                        "T\u0012ng Intelligence l�n 25 v� Dexterity l�n 20",
-                        "D�ng vi kh� Magic t�m th�i",
+                        "Chn Prisoner cho Dex v Int cn bắng",
+                        "Tng Intelligence lên 25 v Dexterity lên 20",
+                        "Dùng $1 Magic-infused weapon temporarily",
                         "Đến Liurnia",
-                        "Giết Death Rite Bird �x Liurnia lấy Death's Poker",
-                        "N�ng Death's Poker l�n +5"
+                        "Giết Death Rite Bird x Liurnia lấy Death's Poker",
+                        "Nng Death's Poker lên +5"
                     ]
                 },
                 {
@@ -2210,17 +2210,17 @@
                         "Get the Magic Scorpion Charm"
                     ],
                     "stepsVi": [
-                        "\u0010�y Intelligence l�n 40 v� Dexterity l�n 25",
-                        "Giết Death Rite Bird �x Caelid",
-                        "T�m k� n\u0012ng Ghostflame Ignition",
-                        "Trang b�9 Shard of Alexander",
-                        "T\u0012ng Mind l�n 20",
+                        "y Intelligence lên 40 v Dexterity lên 25",
+                        "Giết Death Rite Bird x Caelid",
+                        "Tìm the Ghostflame Ignition weapon skill",
+                        "Trang bị the Shard of Alexander",
+                        "Tng Mind lên 20",
                         "Lấy Magic Scorpion Charm"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, Consecrated Snowfield",
                     "areasVi": "Mountaintops, Farum Azula, Consecrated Snowfield",
@@ -2233,12 +2233,12 @@
                         "Use the weapon skill R1 for burst damage"
                     ],
                     "stepsVi": [
-                        "\u0010�y Intelligence l�n 60 v� Dexterity l�n 35",
-                        "N�ng Death's Poker l�n +10",
-                        "Giết Death Rite Bird �x Consecrated Snowfield",
-                        "Trang b�9 Godfrey Icon",
-                        "Ghostflame Ignition R2 g�y s�t th��ng l�:n",
-                        "R1 cho s�t th��ng burst"
+                        "y Intelligence lên 60 v Dexterity lên 35",
+                        "Nng Death's Poker lên +10",
+                        "Giết Death Rite Bird x Consecrated Snowfield",
+                        "Trang bị the Godfrey Icon for charged attack boost",
+                        "Ghostflame Ignition R2 gy sát thng l:n",
+                        "R1 cho sát thng burst"
                     ]
                 }
             ],
@@ -2262,19 +2262,19 @@
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's questline",
-                    "locationVi": "Nhi�!m vụ Seluvis"
+                    "locationVi": "Nhi!m vụ Seluvis"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol in Limgrave",
-                    "locationVi": "Golden Lineage Evergaol"
+                    "locationVi": "Golden Lineage Evergaol in Limgrave"
                 },
                 {
                     "name": "Magic Scorpion Charm",
@@ -2291,11 +2291,11 @@
                 "Stack magic damage talismans for maximum Ghostflame damage"
             ],
             "tipsVi": [
-                "Ghostflame Ignition R2 tạo v�!t lửa cho boss to",
-                "R1 l� burst cho m�c ti�u nh�",
-                "S�t th��ng g�n nh� ho�n to�n t� k� n\u0012ng vi kh�",
-                "D�ng hi�!u �ng b\u0012ng �\u0018� g�y Frostbite",
-                "X�p talisman ma thu�t cho s�t th��ng t�\u0018i �\u0018a"
+                "Ghostflame Ignition R2 tạo v!t lửa cho boss to",
+                "The R1 version of the skill is a burst for smaller targets",
+                "Death's Poker damage comes almost entirely from the weapon skill",
+                "Dùng $1he frost effect to proc Frostbite for 20% HP burst damage",
+                "Xp talisman ma thut cho sát thng ti a"
             ]
         },
         {
@@ -2303,7 +2303,7 @@
             "name": "Godslayer Greatsword",
             "nameVi": "Đại Kiếm Sát Thần",
             "description": "A Dexterity/Faith build using the Godslayer Greatsword. The weapon skill Queen's Black Flame burns enemies with percentage-based HP damage. Devastating against high-HP bosses.",
-            "descriptionVi": "Build Dexterity/Faith v�:i Godslayer Greatsword. K� n\u0012ng Queen's Black Flame g�y s�t th��ng ph�n tr\u0012m m�u.",
+            "descriptionVi": "Build Dexterity/Faith v:i Godslayer Greatsword. K nng Queen's Black Flame gy sát thng phn trm mu.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2337,9 +2337,9 @@
                     ],
                     "stepsVi": [
                         "Chọn Prophet cho Faith cao",
-                        "T\u0012ng Faith l�n 20 v� Dexterity l�n 20",
-                        "D�ng vi kh� Sacred t�m th�i",
-                        "\u0010�nh b�i Godrick",
+                        "Tng Faith lên 20 v Dexterity lên 20",
+                        "Dùng $1 Sacred-infused weapon temporarily",
+                        "Đánh bại Godrick for access to Liurnia",
                         "Đến Divine Tower of Caelid",
                         "Giết Godskin Apostle lấy Godslayer Greatsword"
                     ]
@@ -2359,17 +2359,17 @@
                         "Level Vigor to 30"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith l�n 35 v� Dexterity l�n 30",
-                        "N�ng Godslayer Greatsword l�n +8",
-                        "T�m Black Flame incantation",
-                        "Trang b�9 Flock's Canvas Talisman",
+                        "y Faith lên 35 v Dexterity lên 30",
+                        "Nng Godslayer Greatsword lên +8",
+                        "Tìm the Black Flame incantation",
+                        "Trang bị the Flock's Canvas Talisman",
                         "Lấy Godslayer Seal từ Stormveil",
-                        "T\u0012ng Vigor l�n 30"
+                        "Tng Vigor lên 30"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, DLC",
                     "areasVi": "Mountaintops, Farum Azula, DLC",
@@ -2382,12 +2382,12 @@
                         "Stack black flame damage incantations"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith l�n 45 v� Dexterity l�n 40",
-                        "N�ng Godslayer Greatsword l�n +10",
+                        "y Faith lên 45 v Dexterity lên 40",
+                        "Nng Godslayer Greatsword lên +10",
                         "Lấy Black Flame Tornado từ DLC",
-                        "Trang b�9 Fire Scorpion Charm",
-                        "Queen's Black Flame g�y s�t th��ng ph�n tr\u0012m",
-                        "Xếp incantation lửa �\u0018en"
+                        "Trang bị the Fire Scorpion Charm",
+                        "Queen's Black Flame gy sát thng phn trm",
+                        "Xếp incantation lửa en"
                     ]
                 }
             ],
@@ -2411,7 +2411,7 @@
                     "name": "Godslayer Seal",
                     "type": "Weapon",
                     "location": "Stormveil Castle in a locked room",
-                    "locationVi": "Stormveil Castle trong ph�ng kh�a"
+                    "locationVi": "Stormveil Castle in a locked room"
                 },
                 {
                     "name": "Black Flame",
@@ -2429,7 +2429,7 @@
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir"
+                    "locationVi": "Mt Gelmir sub-boss arena"
                 }
             ],
             "tips": [
@@ -2440,11 +2440,11 @@
                 "The weapon skill has hyper armor �\u001d use it to trade hits"
             ],
             "tipsVi": [
-                "Queen's Black Flame g�y s�t th��ng ph�n tr\u0012m",
-                "Black Flame incantation cing g�y % m�u",
-                "Godslayer Greatsword c� chu�\u0014i R2 �\u0018�\"c �\u0018�o",
-                "Black Flame Tornado từ DLC cho AoE lửa �\u0018en",
-                "K� n\u0012ng vi kh� c� hyper armor"
+                "Queen's Black Flame gy sát thng phn trm",
+                "Black Flame incantation also does % damage and can be charged",
+                "Godslayer Greatsword has a unique R2 attack chain",
+                "Black Flame Tornado từ DLC cho AoE lửa en",
+                "The weapon skill has hyper armor �\u001d use it to trade hits"
             ]
         },
         {
@@ -2452,7 +2452,7 @@
             "name": "Bolt of Gransax",
             "nameVi": "Tia Chớp Gransax",
             "description": "A Dexterity/Strength build using the Bolt of Gransax. The weapon skill fires a lightning spear across the entire battlefield. Essentially a sniper rifle in Elden Ring.",
-            "descriptionVi": "Build Dexterity/Strength v�:i Bolt of Gransax. K� n\u0012ng vi kh� b�n lao s�m s�t xuy�n to�n b�\" chi�n tr��ng.",
+            "descriptionVi": "Build Dexterity/Strength v:i Bolt of Gransax. K nng vi kh bắn lao sm sát xuyên ton b\" chin trng.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -2486,11 +2486,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Samurai cho Dex cao",
-                        "T\u0012ng Dexterity l�n 25 v� Vigor l�n 20",
-                        "D�ng Uchigatana v�:i Unsheathe",
+                        "Tng Dexterity lên 25 v Vigor lên 20",
+                        "Dùng $1he Uchigatana with Unsheathe",
                         "Đến Altus Plateau",
-                        "T�m Bolt of Gransax �x Leyndell",
-                        "N�ng l�n +5 v�:i somber stone"
+                        "Locate the Bolt of Gransax in Leyndell",
+                        "Nng lên +5 v:i somber stone"
                     ]
                 },
                 {
@@ -2508,17 +2508,17 @@
                         "Level Mind to 20 for FP"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dexterity l�n 40 v� Strength l�n 20",
-                        "N�ng Bolt of Gransax l�n +9",
-                        "Trang b�9 Shard of Alexander",
-                        "T�m Lightning Scorpion Charm tr�n Mt Gelmir",
+                        "y Dexterity lên 40 v Strength lên 20",
+                        "Nng Bolt of Gransax lên +9",
+                        "Trang bị the Shard of Alexander",
+                        "Tìm the Lightning Scorpion Charm on Mt Gelmir",
                         "Lấy Godfrey Icon",
-                        "T\u0012ng Mind l�n 20"
+                        "Tng Mind lên 20"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, Haligtree",
                     "areasVi": "Mountaintops, Farum Azula, Haligtree",
@@ -2531,12 +2531,12 @@
                         "Stack lightning damage buffs"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dexterity l�n 60",
-                        "N�ng Bolt of Gransax l�n +10",
-                        "Trang b�9 Spear Talisman",
-                        "D�ng k� n\u0012ng b�n t�0a t� xa",
-                        "Thundercloud Form m�nh trong h�nh lang h�p",
-                        "X�p buff s�m s�t"
+                        "y Dexterity lên 60",
+                        "Nng Bolt of Gransax lên +10",
+                        "Trang bị the Spear Talisman for counter damage",
+                        "Dng k nng bắn t0a t xa",
+                        "Thundercloud Form mnh trong hình lang hp",
+                        "Xp buff sm sát"
                     ]
                 }
             ],
@@ -2554,19 +2554,19 @@
                     "name": "Bolt of Gransax",
                     "type": "Weapon",
                     "location": "Leyndell Capital, stuck in the dragon statue near the West Capital Rampart",
-                    "locationVi": "Leyndell Capital, c�m tr�n t��ng r�\u001cng"
+                    "locationVi": "Leyndell Capital, cm trn tường rng"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Lightning Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir"
+                    "locationVi": "Mt Gelmir sub-boss arena"
                 },
                 {
                     "name": "Godfrey Icon",
@@ -2589,11 +2589,11 @@
                 "Use the Spear Talisman when hitting enemies during their attack animations"
             ],
             "tipsVi": [
-                "Ancient Lightning Spear c� t�m xa v� h�n",
-                "K� n\u0012ng vi kh� c� th� ng�m t� do",
-                "K� n\u0012ng t�ch l�c h��xng l�i Godfrey Icon",
-                "M�\"t trong nh�ng vi kh� somber c� t�m xa nh�t",
-                "D�ng Spear Talisman khi �\u0018�nh �\u0018�9ch �\u0018ang t�n c�ng"
+                "Ancient Lightning Spear has infinite range �\u001d you can snipe any enemy in your line of sight",
+                "The weapon skill deals massive damage and can be aimed freely",
+                "Charged weapon skill benefits from Godfrey Icon for 15% extra damage",
+                "Bolt of Gransax is one of the few somber weapons that works at extreme range",
+                "Dng Spear Talisman khi nh 9ch ang tn công"
             ]
         },
         {
@@ -2601,7 +2601,7 @@
             "name": "Sword of Night and Flame",
             "nameVi": "Kiếm Đêm và Lửa",
             "description": "A legendary Intelligence/Faith hybrid build using the Sword of Night and Flame. Access to both a massive fire beam and a magic wave from a single weapon. The ultimate PvE hybrid weapon.",
-            "descriptionVi": "Build Intelligence/Faith hybrid v�:i Sword of Night and Flame. Tia l�a v� s�ng ma thu�t t� m�\"t vi kh�.",
+            "descriptionVi": "Build Intelligence/Faith hybrid v:i Sword of Night and Flame. Tia lửa v súng ma thut t m\"t vi kh.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -2635,11 +2635,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Astrologer cho Int cao",
-                        "T\u0012ng Int v� Faith l�n 15/15",
-                        "Chạy �\u0018ến Caria Manor lấy Sword of Night and Flame",
-                        "D�ng sorcery c� b�n �\u0018�u game",
-                        "T�m Meteorite Staff �x Caelid",
-                        "\u0010�t y�u c�u 24/24 Int/Fth"
+                        "Tng Int v Faith lên 15/15",
+                        "Chạy ến Caria Manor lấy Sword of Night and Flame",
+                        "Dng sorcery c bắn u game",
+                        "Tìm the Meteorite Staff in Caelid",
+                        "Meet the stat requirements 24/24 Int/Fth"
                     ]
                 },
                 {
@@ -2657,17 +2657,17 @@
                         "Use Night Comet for ranged magic damage"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int/Fth l�n 30/30",
-                        "N�ng Sword of Night and Flame l�n +8",
-                        "Trang b�9 Magic Scorpion Charm",
+                        "y Int/Fth lên 30/30",
+                        "Nng Sword of Night and Flame lên +8",
+                        "Trang bị the Magic Scorpion Charm",
                         "Lấy Fire Scorpion Charm từ Mt Gelmir",
-                        "T\u0012ng Mind l�n 25",
-                        "D�ng Night Comet cho �\u0018�n xa"
+                        "Tng Mind lên 25",
+                        "Dùng $1ight Comet for ranged magic damage"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, DLC",
                     "areasVi": "Mountaintops, Farum Azula, DLC",
@@ -2680,12 +2680,12 @@
                         "Alternate between fire beam (R1 skill) and magic wave (R2 skill)"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int/Fth l�n 45/45",
-                        "N�ng Sword of Night and Flame l�n +10",
-                        "Night Comet v�:i Staff of Loss",
-                        "Tia l�a t� k� n\u0012ng vi kh�",
-                        "Trang b�9 Shard of Alexander",
-                        "Lu�n phi�n l�a v� ma thu�t"
+                        "y Int/Fth lên 45/45",
+                        "Nng Sword of Night and Flame lên +10",
+                        "Night Comet with Staff of Loss for invisible spells",
+                        "Tia lửa t k nng vi kh",
+                        "Trang bị the Shard of Alexander for skill damage",
+                        "Lun phin lửa v ma thut"
                     ]
                 }
             ],
@@ -2709,13 +2709,13 @@
                     "name": "Staff of Loss",
                     "type": "Weapon",
                     "location": "Sellia Town of Sorcery in Caelid",
-                    "locationVi": "Sellia Town of Sorcery �x Caelid"
+                    "locationVi": "Sellia Town of Sorcery in Caelid"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Magic Scorpion Charm",
@@ -2744,11 +2744,11 @@
                 "The sword only meets its full potential with 45/45 Int/Fth split"
             ],
             "tipsVi": [
-                "R1 b�n tia l�a l�:n �\u001d t�n c�ng xa ch�nh",
-                "R2 t�o s�ng ma thu�t tr�ng nhi�u �\u0018�9ch",
-                "X�p c� talisman ph�p v� l�a",
-                "Night Comet kh�ng th� b�9 n� b�xi AI",
-                "Kiếm ch�0 �\u0018ạt tiềm nĒng t�\u0018i �\u0018a v�:i 45/45 Int/Fth"
+                "R1 bắn tia lửa l:n  tn công xa chình",
+                "R2 to súng ma thut trăng nhiu 9ch",
+                "Xp c talisman php v lửa",
+                "Night Comet is invisible to enemy AI �\u001d they won't dodge it",
+                "Kiếm ch0 ạt tiềm nĒng ti a v:i 45/45 Int/Fth"
             ]
         },
         {
@@ -2756,7 +2756,7 @@
             "name": "Marais Executioner Sword",
             "nameVi": "Kiếm Tử Thần Marais",
             "description": "A Strength/Arcane build using the Marais Executioner Sword. The charged R2 weapon skill fires a magic projectile that scales with both Strength and Arcane. Devastating charged attack damage.",
-            "descriptionVi": "Build Strength/Arcane v�:i Marais Executioner Sword. K� n\u0012ng R2 t�ch b�n �\u0018�n ph�p t\u0012ng theo c� Strength v� Arcane.",
+            "descriptionVi": "Build Strength/Arcane v:i Marais Executioner Sword. K nng R2 tch bắn n php tng theo c Strength v Arcane.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -2790,11 +2790,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Hero cho Strength cao",
-                        "T\u0012ng Strength l�n 30 tr��:c",
-                        "D�ng vi kh� Heavy t�m th�i",
-                        "Chạy �\u0018ến Shaded Castle �x Altus",
-                        "\u0010�nh b�i Elemer of the Briar l�y ki�m",
-                        "N�ng l�n +5"
+                        "Tng Strength lên 30 tr:c",
+                        "Dùng $1 Heavy-infused weapon temporarily",
+                        "Chạy ến Shaded Castle x Altus",
+                        "nh bi Elemer of the Briar ly kiếm",
+                        "Nng lên +5"
                     ]
                 },
                 {
@@ -2812,17 +2812,17 @@
                         "Level Endurance to 25"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40 v� Arcane l�n 25",
-                        "N�ng Marais Sword l�n +9",
-                        "Trang b�9 Godfrey Icon",
+                        "y Strength lên 40 v Arcane lên 25",
+                        "Nng Marais Sword lên +9",
+                        "Trang bị the Godfrey Icon for charged attack boost",
                         "Lấy Shard of Alexander",
-                        "T�m Two-Headed Turtle Talisman",
-                        "T\u0012ng Endurance l�n 25"
+                        "Tìm the Two-Headed Turtle Talisman",
+                        "Tng Endurance lên 25"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula",
                     "areasVi": "Mountaintops, Farum Azula",
@@ -2835,12 +2835,12 @@
                         "Use Axe Talisman for charged attack boost"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 58 v� Arcane l�n 50",
-                        "N�ng Marais Sword l�n +10",
-                        "Trang b�9 Magic Scorpion Charm",
-                        "Charged R2 b�n �\u0018�n ph�p",
-                        "Godfrey Icon t\u0012ng s�t th��ng",
-                        "Axe Talisman cho charged attack"
+                        "y Strength lên 58 v Arcane lên 50",
+                        "Nng Marais Sword lên +10",
+                        "Trang bị the Magic Scorpion Charm for skill damage",
+                        "Charged R2 bắn n php",
+                        "Godfrey Icon tng sát thng",
+                        "Dùng $1xe Talisman for charged attack boost"
                     ]
                 }
             ],
@@ -2864,19 +2864,19 @@
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol in Limgrave",
-                    "locationVi": "Golden Lineage Evergaol �x Limgrave"
+                    "locationVi": "Golden Lineage Evergaol in Limgrave"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Axe Talisman",
                     "type": "Talisman",
                     "location": "Mistywood in Limgrave",
-                    "locationVi": "Mistywood �x Limgrave"
+                    "locationVi": "Mistywood in Limgrave"
                 },
                 {
                     "name": "Magic Scorpion Charm",
@@ -2888,7 +2888,7 @@
                     "name": "Two-Headed Turtle Talisman",
                     "type": "Talisman",
                     "location": "DLC in the Gravesite Plain",
-                    "locationVi": "DLC trong Gravesite Plain"
+                    "locationVi": "DLC in the Gravesite Plain"
                 }
             ],
             "tips": [
@@ -2899,11 +2899,11 @@
                 "Use the Spear Talisman if hitting during enemy attacks"
             ],
             "tipsVi": [
-                "Charged R2 b�n �\u0018�n ph�p t\u0012ng theo Str v� Arcane",
-                "Godfrey Icon + Axe Talisman + Shard of Alexander",
-                "Eochaid's Dancing Blade cũng t�\u0018t cho DPS",
-                "C�m hai tay t\u0012ng s�t th��ng �\u0018�n ph�p",
-                "D�ng Spear Talisman n�u �\u0018�nh �\u0018�9ch �\u0018ang t�n c�ng"
+                "Charged R2 bắn n php tng theo Str v Arcane",
+                "Stack Godfrey Icon + Axe Talisman + Shard of Alexander for maximum charged R2 damage",
+                "The weapon skill Eochaid's Dancing Blade is also excellent for DPS",
+                "Cm hai tay tng sát thng n php",
+                "Dng Spear Talisman nu nh 9ch ang tn công"
             ]
         },
         {
@@ -2911,7 +2911,7 @@
             "name": "Morgott's Cursed Sword",
             "nameVi": "Kiếm Nguyền Morgott",
             "description": "A Quality build using Morgott's Cursed Sword. The weapon skill Cursed-Blood Slice has incredible range and applies bleed. Excellent for both PvE and PvP with a versatile moveset.",
-            "descriptionVi": "Build Quality v�:i Morgott's Cursed Sword. K� n\u0012ng Cursed-Blood Slice c� t�m xa t�\u0018t v� g�y ch�y m�u.",
+            "descriptionVi": "A Quality build using Morgott's Cursed Sword. The weapon skill Cursed-Blood Slice has incredible range and applies bleed. Excellent for both PvE and PvP with a versatile moveset.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": false,
@@ -2944,12 +2944,12 @@
                         "Trade for Morgott's Cursed Sword"
                     ],
                     "stepsVi": [
-                        "Ch�n Vagabond cho Str/Dex c�n b�ng",
-                        "T\u0012ng Str v� Dex �\u0018�u 20/20",
-                        "D�ng Bloodhound's Fang t�m th�i",
+                        "Chn Vagabond cho Str/Dex cn bắng",
+                        "Level Str and Dex evenly to 20/20",
+                        "Dùng $1he Bloodhound's Fang temporarily",
                         "Đến Leyndell",
-                        "\u0010�nh b�i Morgott",
-                        "Đ�\"i lấy Morgott's Cursed Sword"
+                        "Đánh bại Morgott for Remembrance",
+                        "Đ\"i lấy Morgott's Cursed Sword"
                     ]
                 },
                 {
@@ -2967,17 +2967,17 @@
                         "Level Vigor to 35"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Dex l�n 35/35",
-                        "N�ng Morgott's Sword l�n +9",
+                        "y Str/Dex lên 35/35",
+                        "Nng Morgott's Sword lên +9",
                         "Lấy Claw Talisman",
-                        "Trang b�9 Lord of Blood's Exultation",
+                        "Trang bị the Lord of Blood's Exultation",
                         "Học timing Cursed-Blood Slice",
-                        "T\u0012ng Vigor l�n 35"
+                        "Tng Vigor lên 35"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, Colosseums",
                     "areasVi": "Mountaintops, Farum Azula, Colosseums",
@@ -2990,12 +2990,12 @@
                         "The curved sword moveset is excellent for PvP"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Dex l�n 50/50",
-                        "N�ng Morgott's Sword l�n +10",
-                        "Trang b�9 Shard of Alexander",
-                        "Cursed-Blood Slice b�t l\u0012n ho�n h�o",
-                        "Ch�y R2 cho �\u0018�n ph�t t�m xa",
-                        "Moveset kiếm cong rất t�\u0018t cho PvP"
+                        "y Str/Dex lên 50/50",
+                        "Nng Morgott's Sword lên +10",
+                        "Trang bị the Shard of Alexander",
+                        "Cursed-Blood Slice roll-catches perfectly",
+                        "Dùng $1he running R2 for long-range punishes",
+                        "Moveset kiếm cong rất tt cho PvP"
                     ]
                 }
             ],
@@ -3013,19 +3013,19 @@
                     "name": "Morgott's Cursed Sword",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Morgott's Remembrance",
-                    "locationVi": "Đ�\"i v�:i Finger Reader bằng Remembrance của Morgott"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Morgott"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
                 },
                 {
                     "name": "Claw Talisman",
@@ -3037,7 +3037,7 @@
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline",
-                    "locationVi": "Nhi�!m vụ Millicent"
+                    "locationVi": "Nhi!m vụ Millicent"
                 }
             ],
             "tips": [
@@ -3048,11 +3048,11 @@
                 "Lord of Blood's Exultation triggers on the weapon skill bleed"
             ],
             "tipsVi": [
-                "Cursed-Blood Slice c� t�m xa v� g�y ch�y m�u trong 2-3 �\u0018�n",
-                "K� n\u0012ng b�t l\u0012n d�& d�ng",
-                "Morgott's Sword c� chu�\u0014i �\u0018�n n�ng �\u0018�\"c �\u0018�o",
-                "Ki�m g�y s�t th��ng v�t l� v� th�nh",
-                "Lord of Blood's Exultation k�ch ho�t khi ch�y m�u"
+                "Cursed-Blood Slice has incredible range and applies bleed in 2-3 hits",
+                "The weapon skill can be roll-caught easily �\u001d spam it in PvP",
+                "Morgott's Sword has a unique heavy attack chain",
+                "Kiếm gy sát thng vt l v thình",
+                "Lord of Blood's Exultation triggers on the weapon skill bleed"
             ]
         },
         {
@@ -3060,7 +3060,7 @@
             "name": "Royal Greatsword",
             "nameVi": "Đại Kiếm Hoàng Gia",
             "description": "A Strength/Intelligence build using the Royal Greatsword from Blaidd's questline. The weapon skill fires a cold wave that deals massive frost buildup and AoE damage.",
-            "descriptionVi": "Build Strength/Intelligence v�:i Royal Greatsword t� nhi�!m v� Blaidd. K� n\u0012ng vi kh� b�n s�ng b\u0012ng g�y t�ch liy b\u0012ng v� AoE.",
+            "descriptionVi": "Build Strength/Intelligence v:i Royal Greatsword t nhi!m v Blaidd. K nng vi kh bắn súng bng gy tch liy bng v AoE.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3094,11 +3094,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Vagabond cho Str cao",
-                        "T\u0012ng Strength l�n 25 v� Vigor l�n 20",
-                        "Bắt �\u0018ầu nhi�!m vụ Ranni",
-                        "D�ng vi kh� Heavy t�m th�i",
-                        "Qua Caria Manor",
-                        "Gặp Blaidd �x Siofra River"
+                        "Tng Strength lên 25 v Vigor lên 20",
+                        "Bắt ầu nhi!m vụ Ranni",
+                        "Dùng $1 Heavy-infused weapon temporarily",
+                        "Progress through Caria Manor",
+                        "Gặp Blaidd x Siofra River"
                     ]
                 },
                 {
@@ -3116,17 +3116,17 @@
                         "Get the Magic Scorpion Charm"
                     ],
                     "stepsVi": [
-                        "Ho�n th�nh nhi�!m v� Ranni",
-                        "\u0010�nh b�i Blaidd l�y Royal Greatsword",
-                        "\u0010�y Strength l�n 35 v� Intelligence l�n 25",
-                        "N�ng Royal Greatsword l�n +9",
-                        "Trang b�9 Shard of Alexander",
+                        "Hon thình nhi!m v Ranni",
+                        "Đánh bại Blaidd for Royal Greatsword",
+                        "y Strength lên 35 v Intelligence lên 25",
+                        "Nng Royal Greatsword lên +9",
+                        "Trang bị the Shard of Alexander",
                         "Lấy Magic Scorpion Charm"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, DLC",
                     "areasVi": "Mountaintops, Farum Azula, DLC",
@@ -3139,12 +3139,12 @@
                         "Stack cold damage for maximum frostbite procs"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 45 v� Intelligence l�n 40",
-                        "N�ng Royal Greatsword l�n +10",
-                        "Trang b�9 Godfrey Icon",
-                        "Wolf's Assault g�y b\u0012ng cho h�u h�t �\u0018�9ch",
+                        "y Strength lên 45 v Intelligence lên 40",
+                        "Nng Royal Greatsword lên +10",
+                        "Trang bị the Godfrey Icon for charged skill boost",
+                        "Wolf's Assault weapon skill frostbites most enemies",
                         "Two-Handed Sword Talisman từ DLC",
-                        "X�p s�t th��ng b\u0012ng"
+                        "Xp sát thng bng"
                     ]
                 }
             ],
@@ -3162,13 +3162,13 @@
                     "name": "Royal Greatsword",
                     "type": "Weapon",
                     "location": "Ranni's questline, dropped by Blaidd after the quest finale",
-                    "locationVi": "Nhi�!m v� Ranni, r�i t� Blaidd sau khi k�t th�c nhi�!m v�"
+                    "locationVi": "Nhi!m v Ranni, rơi t Blaidd sau khi kt thc nhi!m v"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Godfrey Icon",
@@ -3197,11 +3197,11 @@
                 "Reset frostbite with fire damage to proc it again immediately"
             ],
             "tipsVi": [
-                "Wolf's Assault b�n s�ng b\u0012ng t�ch liy b\u0012ng l�:n",
-                "Royal Greatsword c� R2 �\u0018�m �\u0018�\"c �\u0018�o",
-                "Frostbite l�y 20% m�u t�\u0018i �\u0018a",
-                "K� n\u0012ng c� hyper armor",
-                "Reset b\u0012ng b�ng l�a �\u0018� k�ch ho�t l�i"
+                "Wolf's Assault bắn súng bng tch liy bng l:n",
+                "Royal Greatsword has a unique R2 that is a lunging thrust",
+                "Frostbite takes 20% of max HP when it procs on enemies",
+                "The weapon skill has hyper armor �\u001d trade through enemy attacks",
+                "Reset bng bắng lửa  kch hot li"
             ]
         },
         {
@@ -3209,7 +3209,7 @@
             "name": "Sacred Relic Sword",
             "nameVi": "Thánh Kiếm Di Vật",
             "description": "A Faith build using the Sacred Relic Sword from the Elden Beast. Wave of Gold clears entire mobs in one use. The ultimate farming and area-clearing weapon in Elden Ring.",
-            "descriptionVi": "Build Faith v�:i Sacred Relic Sword t� Elden Beast. Wave of Gold clear c� �\u0018�m �\u0018�ng trong m�\"t l�n. Vi kh� farm v� clear khu v�c t�\u0018i th��ng.",
+            "descriptionVi": "Build Faith v:i Sacred Relic Sword t Elden Beast. Wave of Gold clear c m ng trong m\"t lên. Vi kh farm v clear khu vc ti thng.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -3243,10 +3243,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Prophet cho Faith cao",
-                        "T\u0012ng Faith l�n 30",
-                        "D�ng vi kh� Sacred t�m th�i",
-                        "D�ng Catch Flame v� Lightning Spear",
-                        "ChÆ¡i qua game",
+                        "Tng Faith lên 30",
+                        "Dùng $1 Sacred-infused weapon temporarily",
+                        "Dùng $1atch Flame and Lightning Spear",
+                        "Progress through the game",
                         "Giết Godrick"
                     ]
                 },
@@ -3265,17 +3265,17 @@
                         "Progress through Mountaintops"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith l�n 50",
-                        "T�m Godslayer Seal",
-                        "Trang b�9 Flock's Canvas Talisman",
-                        "D�ng Lightning Spear",
-                        "T\u0012ng Mind l�n 25",
+                        "y Faith lên 50",
+                        "Tìm the Godslayer Seal",
+                        "Trang bị Flock's Canvas Talisman",
+                        "Dùng $1ightning Spear as main damage",
+                        "Tng Mind lên 25",
                         "Đến Mountaintops"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Farum Azula, Elden Throne, DLC",
                     "areasVi": "Farum Azula, Elden Throne, DLC",
@@ -3288,12 +3288,12 @@
                         "Use Sacred Relic Sword for farming Albinaurics"
                     ],
                     "stepsVi": [
-                        "\u0010�nh b�i Elden Beast l�y Remembrance",
-                        "Đ�\"i lấy Sacred Relic Sword",
-                        "\u0010�y Faith l�n 65",
-                        "N�ng Sacred Relic Sword l�n +10",
-                        "Wave of Gold clear c� ph�ng m�\"t l�n",
-                        "D�ng Sacred Relic Sword �\u0018� farm Albinauric"
+                        "Đánh bại Elden Beast for Remembrance",
+                        "Đ\"i lấy Sacred Relic Sword",
+                        "y Faith lên 65",
+                        "Nng Sacred Relic Sword lên +10",
+                        "Wave of Gold clear c phng m\"t lên",
+                        "Dùng $1acred Relic Sword for farming Albinaurics"
                     ]
                 }
             ],
@@ -3311,13 +3311,13 @@
                     "name": "Sacred Relic Sword",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Elden Remembrance",
-                    "locationVi": "Đ�\"i v�:i Finger Reader bằng Elden Remembrance"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Elden Remembrance"
                 },
                 {
                     "name": "Godslayer Seal",
                     "type": "Weapon",
                     "location": "Stormveil Castle locked room",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle locked room"
                 },
                 {
                     "name": "Flock's Canvas Talisman",
@@ -3329,7 +3329,7 @@
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Sacred Scorpion Charm",
@@ -3346,19 +3346,19 @@
                 "Stack Faith to 80 for even more Wave of Gold damage"
             ],
             "tipsVi": [
-                "Wave of Gold l� c�ng c� farm t�\u0018t nh�t game",
-                "Th�nh damage �\u001d d�ng Sacred Scorpion Charm",
-                "Giết undead vĩnh vi�&n",
-                "Charged R2 c� t�m xa t�\u0018t",
-                "80 Faith cho s�t th��ng Wave of Gold cao h�n"
+                "Wave of Gold l công c farm tt nht game",
+                "Thình damage  dng Sacred Scorpion Charm",
+                "Giết undead vĩnh vi&n",
+                "The charged R2 has excellent range for a greatsword",
+                "80 Faith cho sát thng Wave of Gold cao hn"
             ]
         },
         {
             "slug": "eleonoras-poleblade",
             "name": "Eleonora's Poleblade",
-            "nameVi": "K�ch L��i Eleonora",
+            "nameVi": "Eleonora's Poleblade",
             "description": "A Dexterity/Arcane twinblade build using Eleonora's Poleblade. The weapon skill Bloodblade Dance performs a devastating spinning attack that stacks bleed rapidly.",
-            "descriptionVi": "Build Dexterity/Arcane twinblade v�:i Eleonora's Poleblade. K� n\u0012ng Bloodblade Dance quay ch�y m�u nhanh.",
+            "descriptionVi": "A Dexterity/Arcane twinblade build using Eleonora's Poleblade. The weapon skill Bloodblade Dance performs a devastating spinning attack that stacks bleed rapidly.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -3392,11 +3392,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Samurai cho Dex cao",
-                        "T\u0012ng Arcane l�n 20 v� Dex l�n 20",
-                        "D�ng Uchigatana v�:i Bloody Slash",
-                        "Qua Liurnia �\u0018ến Altus",
-                        "Ho�n th�nh nhi�!m v� Yura",
-                        "\u0010�nh b�i Eleonora l�y Poleblade"
+                        "Tng Arcane lên 20 v Dex lên 20",
+                        "Dùng $1he Uchigatana with Bloody Slash",
+                        "Qua Liurnia ến Altus",
+                        "Hon thình nhi!m v Yura",
+                        "Đánh bại Eleonora for Poleblade"
                     ]
                 },
                 {
@@ -3414,17 +3414,17 @@
                         "Level Vigor to 35"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 35 v� Dex l�n 30",
-                        "N�ng Poleblade l�n +9",
-                        "Trang b�9 Lord of Blood's Exultation",
+                        "y Arcane lên 35 v Dex lên 30",
+                        "Nng Poleblade lên +9",
+                        "Trang bị Lord of Blood's Exultation",
                         "Lấy White Mask",
-                        "D�ng Rotten Winged Sword Insignia",
-                        "T\u0012ng Vigor l�n 35"
+                        "Dùng $1otten Winged Sword Insignia",
+                        "Tng Vigor lên 35"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula",
                     "areasVi": "Mountaintops, Farum Azula",
@@ -3437,12 +3437,12 @@
                         "The weapon skill shreds large bosses"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 50 v� Dex l�n 45",
-                        "N�ng Poleblade l�n +10",
-                        "Bloodblade Dance k�ch ho�t m�i th�",
-                        "X�p talisman �\u0018a �\u0018�n",
-                        "Trang b�9 Millicent's Prosthesis",
-                        "K� n\u0012ng x� x�c boss to"
+                        "y Arcane lên 50 v Dex lên 45",
+                        "Nng Poleblade lên +10",
+                        "Bloodblade Dance multi-hit triggers everything",
+                        "Stack multi-hit talismans for insane damage",
+                        "Trang bị Millicent's Prosthesis",
+                        "The weapon skill shreds large bosses"
                     ]
                 }
             ],
@@ -3466,25 +3466,25 @@
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
                 },
                 {
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum from invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline",
-                    "locationVi": "Nhi�!m vụ Millicent"
+                    "locationVi": "Nhi!m vụ Millicent"
                 },
                 {
                     "name": "Millicent's Prosthesis",
                     "type": "Talisman",
                     "location": "Millicent questline",
-                    "locationVi": "Nhi�!m vụ Millicent"
+                    "locationVi": "Nhi!m vụ Millicent"
                 }
             ],
             "tips": [
@@ -3495,11 +3495,11 @@
                 "Lord of Blood's Exultation + White Mask = 30% extra damage after bleed proc"
             ],
             "tipsVi": [
-                "Bloodblade Dance c� 8+ �\u0018�n �\u001d g�y ch�y m�u ngay c� tr�n �\u0018�9ch kh�ng",
-                "Talisman �\u0018a �\u0018�n c�\"ng d�\u001cn v�:i k� n\u0012ng",
-                "Poleblade l� twinblade t�m xa",
-                "Ch�y R2 �p s�t tr��:c khi d�ng k� n\u0012ng",
-                "Lord of Blood's Exultation + White Mask = 30% s�t th��ng th�m"
+                "Bloodblade Dance has 8+ hits total �\u001d procs bleed even on high-resist enemies",
+                "Multi-hit talismans stack exponentially with the weapon skill",
+                "The Poleblade is a twinblade with excellent reach",
+                "Chy R2 p sát tr:c khi dng k nng",
+                "Lord of Blood's Exultation + White Mask = 30% sát thng thm"
             ]
         },
         {
@@ -3507,7 +3507,7 @@
             "name": "Mohgwyn's Sacred Spear",
             "nameVi": "Thương Thần Mohgwyn",
             "description": "An Arcane/Faith build using Mohgwyn's Sacred Spear. The weapon skill Nil's Blood Rain covers the area in blood flames that melt everything weak to hemorrhage. Devastating in confined spaces.",
-            "descriptionVi": "Build Arcane/Faith v�:i Mohgwyn's Sacred Spear. K� n\u0012ng Nil's Blood Rain ph� l�a m�u l�m tan ch�y m�i th�.",
+            "descriptionVi": "Build Arcane/Faith v:i Mohgwyn's Sacred Spear. K nng Nil's Blood Rain ph lửa mu lm tan chy mi th.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3541,10 +3541,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Prophet cho Faith cao",
-                        "T\u0012ng Arcane l�n 20 v� Faith l�n 15",
-                        "D�ng vi kh� Blood t�m th�i",
+                        "Tng Arcane lên 20 v Faith lên 15",
+                        "Dùng $1 Blood-infused weapon temporarily",
                         "Đến Altus",
-                        "V�o Mohgwyn Dynasty qua nhi�!m v� Varre",
+                        "Access Mohgwyn Dynasty through Varre's Nhiệm vụ",
                         "Giết Mohg lấy thương"
                     ]
                 },
@@ -3563,17 +3563,17 @@
                         "Use Dragon Communion Seal for incantations"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 40 v� Faith l�n 25",
-                        "N�ng Th��ng l�n +9",
+                        "y Arcane lên 40 v Faith lên 25",
+                        "Nng Thng lên +9",
                         "Lấy Lord of Blood's Exultation",
-                        "Trang b�9 White Mask",
-                        "T\u0012ng Mind l�n 20",
-                        "D�ng Dragon Communion Seal"
+                        "Trang bị the White Mask",
+                        "Tng Mind lên 20",
+                        "Dùng $1ragon Communion Seal for incantations"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula, DLC",
                     "areasVi": "Mountaintops, Farum Azula, DLC",
@@ -3586,12 +3586,12 @@
                         "Blood flame DoT stacks with bleed procs"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 60 v� Faith l�n 30",
-                        "N�ng Th��ng l�n +10",
-                        "Nil's Blood Rain ph� l�a m�u",
-                        "Trang b�9 Shard of Alexander",
-                        "Spear Talisman cho s�t th��ng ph�n �\u0018�n",
-                        "L�a m�u c�\"ng d�\u001cn v�:i ch�y m�u"
+                        "y Arcane lên 60 v Faith lên 30",
+                        "Nng Thng lên +10",
+                        "Nil's Blood Rain ph lửa mu",
+                        "Trang bị the Shard of Alexander",
+                        "Spear Talisman cho sát thng phn n",
+                        "Blood flame DoT stacks with bleed procs"
                     ]
                 }
             ],
@@ -3609,25 +3609,25 @@
                     "name": "Mohgwyn's Sacred Spear",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Mohg's Remembrance",
-                    "locationVi": "Đ�\"i v�:i Finger Reader bằng Remembrance của Mohg"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Mohg"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
                 },
                 {
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum from invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Spear Talisman",
@@ -3650,11 +3650,11 @@
                 "The blood flame DoT stacks with bleed hemorrhage damage"
             ],
             "tipsVi": [
-                "Nil's Blood Rain t�o AoE l�a m�u l�:n",
-                "K� n\u0012ng �\u0018�c bi�!t hi�!u qu� trong kh�ng gian h�p",
-                "Th��ng c� t�m xa v� s�t th��ng ph�n �\u0018�n",
-                "D�ng Dragon Communion cho �\u0018�n xa",
-                "L�a m�u c�\"ng d�\u001cn v�:i ch�y m�u"
+                "Nil's Blood Rain to AoE lửa mu l:n",
+                "The weapon skill is especially effective in tight spaces and against large bosses",
+                "Thng c tm xa v sát thng phn n",
+                "Dùng $1ragon Communion incantations for ranged damage options",
+                "The blood flame DoT stacks with bleed hemorrhage damage"
             ]
         },
         {
@@ -3662,7 +3662,7 @@
             "name": "Magma Wyrm Scalesword",
             "nameVi": "Kiếm Vảy Rồng Lửa",
             "description": "A Strength/Faith build using the Magma Wyrm Scalesword. The weapon skill Magma Shower fires magma projectiles that leave lingering fire damage. Devastating fire damage against everything.",
-            "descriptionVi": "Build Strength/Faith v�:i Magma Wyrm Scalesword. K� n\u0012ng Magma Shower b�n �\u0018�n magma g�y s�t th��ng l�a k�o d�i.",
+            "descriptionVi": "Build Strength/Faith v:i Magma Wyrm Scalesword. K nng Magma Shower bắn n magma gy sát thng lửa ko di.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -3696,11 +3696,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Hero cho Strength cao",
-                        "T\u0012ng Strength l�n 30 tr��:c",
-                        "D�ng Greatsword Heavy",
+                        "Tng Strength lên 30 tr:c",
+                        "Dùng $1 Heavy-infused Greatsword",
                         "Đến Liurnia",
-                        "\u0010�nh b�i Magma Wyrm trong Gael Tunnel",
-                        "N�ng l�n +5"
+                        "Đánh bại the Magma Wyrm in Gael Tunnel",
+                        "Nng lên +5"
                     ]
                 },
                 {
@@ -3718,17 +3718,17 @@
                         "Level Vigor to 35"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40 v� Faith l�n 20",
-                        "D�ng Magma Shower l�m t�n c�ng ch�nh",
-                        "N�ng l�n +9",
-                        "Trang b�9 Fire Scorpion Charm",
+                        "y Strength lên 40 v Faith lên 20",
+                        "Dng Magma Shower lm tn công chình",
+                        "Nng lên +9",
+                        "Trang bị the Fire Scorpion Charm",
                         "Lấy Shard of Alexander",
-                        "T\u0012ng Vigor l�n 35"
+                        "Tng Vigor lên 35"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "100-150",
                     "areas": "Mountaintops, Farum Azula",
                     "areasVi": "Mountaintops, Farum Azula",
@@ -3741,11 +3741,11 @@
                         "Stack fire damage talismans"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 55 v� Faith l�n 30",
-                        "N�ng l�n +10",
-                        "Trang b�9 Two-Handed Sword Talisman",
-                        "Magma Shower �\u0018Ồ lại vũng lửa",
-                        "Flame Grant Me Strength cho bonus s�t th��ng",
+                        "y Strength lên 55 v Faith lên 30",
+                        "Nng lên +10",
+                        "Trang bị the Two-Handed Sword Talisman",
+                        "Magma Shower Ồ lại vũng lửa",
+                        "Flame Grant Me Strength cho bonus sát thng",
                         "Xếp talisman lửa"
                     ]
                 }
@@ -3764,19 +3764,19 @@
                     "name": "Magma Wyrm Scalesword",
                     "type": "Weapon",
                     "location": "Gael Tunnel in Caelid, dropped by Magma Wyrm",
-                    "locationVi": "Gael Tunnel �x Caelid, rơi từ Magma Wyrm"
+                    "locationVi": "Gael Tunnel x Caelid, rơi từ Magma Wyrm"
                 },
                 {
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir"
+                    "locationVi": "Mt Gelmir sub-boss arena"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
@@ -3799,11 +3799,11 @@
                 "The weapon deals primarily fire damage �\u001d use Fire Scorpion Charm"
             ],
             "tipsVi": [
-                "Magma Shower bắn nhiều �\u0018ạn magma �\u0018Ồ lại lửa",
-                "Ving l�a g�y s�t th��ng k�o d�i",
-                "Flame Grant Me Strength t\u0012ng 20% s�t th��ng l�a",
-                "C�m hai tay cho moveset �\u0018�\"c �\u0018�o",
-                "Vi kh� g�y s�t th��ng l�a ch�nh"
+                "Magma Shower bắn nhiều ạn magma Ồ lại lửa",
+                "Ving lửa gy sát thng ko di",
+                "Flame Grant Me Strength tng 20% sát thng lửa",
+                "Two-handing the curved greatsword gives a unique moveset",
+                "Vi kh gy sát thng lửa chình"
             ]
         },
         {
@@ -3811,7 +3811,7 @@
             "name": "Greatsword Jump Build",
             "nameVi": "Build Nhảy Đại Kiếm",
             "description": "A devastating jump attack build using the Greatsword with the Claw Talisman and the DLC Two-Handed Sword Talisman. Every jump attack hits like a truck with the Lion's Claw ash of war.",
-            "descriptionVi": "Build nh�y \u0011�nh h�y di�t v�i Greatsword, Claw Talisman v� Two-Handed Sword Talisman. M�i c� nh�y \u0011�nh nh� xe t�i.",
+            "descriptionVi": "A devastating jump attack build using the Greatsword with the Claw Talisman and the DLC Two-Handed Sword Talisman. Every jump attack hits like a truck with the Lion's Claw ash of war.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -3847,9 +3847,9 @@
                         "Chọn Hero cho Strength cao",
                         "Chạy đến Greatsword ở Caelid",
                         "Cầm hai tay — chỉ cần 19 Str",
-                        "T\u0003ng Vigor l�n 20 v� Endurance l�n 20",
+                        "Tng Vigor lên 20 v Endurance lên 20",
                         "Trang bị Claw Talisman",
-                        "T�m Lion's Claw � Fort Gael"
+                        "Tìm Lion's Claw ash of war in Fort Gael"
                     ]
                 },
                 {
@@ -3867,12 +3867,12 @@
                         "Learn jump attack timing"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40",
-                        "N�ng Greatsword l�n +15 Heavy",
-                        "T\u0003ng Vigor l�n 35",
+                        "y Strength lên 40",
+                        "Nng Greatsword lên +15 Heavy",
+                        "Tng Vigor lên 35",
                         "Trang bị Two-Handed Sword Talisman",
                         "Lấy Green Turtle Talisman",
-                        "H�c timing nh�y \u0011�nh"
+                        "Learn jump attack timing"
                     ]
                 },
                 {
@@ -3890,10 +3890,10 @@
                         "Equip the Axe Talisman for charged R2s"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 60",
-                        "Max Greatsword +25 Heavy",
-                        "X�p talisman nh�y \u0011�nh",
-                        "Raptor's Black Feathers t\u0003ng nh�y \u0011�nh",
+                        "y Strength lên 60",
+                        "Nâng tối đa Greatsword to +25 Heavy",
+                        "Stack jump attack talismans: Claw + Two-Handed Sword",
+                        "Dùng $1aptor's Black Feathers for jump attack boost",
                         "Lion's Claw nối tiếp R2",
                         "Axe Talisman cho R2 nạp"
                     ]
@@ -3920,31 +3920,31 @@
                     "name": "Greatsword",
                     "type": "Weapon",
                     "location": "Caelid, in a chest on a caravan",
-                    "locationVi": "Caelid, trong r��ng tr�n xe"
+                    "locationVi": "Caelid, in a chest on a caravan"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle, behind the troll",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle, behind the troll"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain, from a merchant",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC Gravesite Plain, from a merchant"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Summonwater Village ruins",
-                    "locationVi": "Summonwater Village"
+                    "locationVi": "Summonwater Village ruins"
                 },
                 {
                     "name": "Raptor's Black Feathers",
                     "type": "Armor",
                     "location": "Sage's Cave, in Altus Plateau",
-                    "locationVi": "Sage's Cave"
+                    "locationVi": "Sage's Cave, in Altus Plateau"
                 }
             ],
             "tips": [
@@ -3955,11 +3955,11 @@
                 "Lion's Claw gives hyper armor through enemy attacks"
             ],
             "tipsVi": [
-                "Claw Talisman t\u0003ng 10% nh�y \u0011�nh",
+                "Jump attacks deal 10% more damage with Claw Talisman",
                 "Two-Handed Sword Talisman tăng 15%",
-                "Raptor's Black Feathers t\u0003ng th�m 10%",
+                "Raptor's Black Feathers adds another 10% to jump attacks",
                 "Cả ba cho 35% bonus",
-                "Lion's Claw c� hyper armor"
+                "Lion's Claw gives hyper armor through enemy attacks"
             ]
         },
         {
@@ -3967,7 +3967,7 @@
             "name": "Dual Spear Powerstance",
             "nameVi": "Song Thương",
             "description": "A dual spear powerstance build that combines range and speed. Using the Cross-Naginata and the Bolt of Gransax for devastating charged R2s and long-range pokes.",
-            "descriptionVi": "Build song th��ng v�i Cross-Naginata v� Bolt of Gransax. T�m \u0011�nh xa, t�c \u0011� cao v� R2 n�p h�y di�t.",
+            "descriptionVi": "A dual spear powerstance build that combines range and speed. Using the Cross-Naginata and the Bolt of Gransax for devastating charged R2s and long-range pokes.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": false,
@@ -4002,9 +4002,9 @@
                     "stepsVi": [
                         "Chọn Samurai",
                         "Lấy Cross-Naginata ở Caelid",
-                        "T\u0003ng Dex 30 v� Vigor 20",
-                        "T�m th��ng th� hai � Liurnia",
-                        "D�ng Keen infusion",
+                        "Tăng Dexterity lên 30 and Vigor to 20",
+                        "Tìm the second spear in Liurnia",
+                        "Dùng $1een infusion for Dex scaling",
                         "Học moveset song thương"
                     ]
                 },
@@ -4024,11 +4024,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 45",
-                        "N�ng hai th��ng l�n +20 Keen",
-                        "Endurance 25",
-                        "Spear Talisman",
+                        "Nng hai thng lên +20 Keen",
+                        "Tăng Endurance lên 25 for more attacks",
+                        "Get the Spear Talisman for counter damage",
                         "Bolt of Gransax ở Leyndell",
-                        "Shard of Alexander"
+                        "Trang bị the Shard of Alexander"
                     ]
                 },
                 {
@@ -4050,8 +4050,8 @@
                         "Max cả hai +25 Keen",
                         "L1 song thương nhanh",
                         "Bolt of Gransax tầm xa",
-                        "Spear Talisman",
-                        "Rellana's Cameo"
+                        "Spear Talisman boosts counter hits",
+                        "Dùng $1ellana's Cameo for charged R2s"
                     ]
                 }
             ],
@@ -4076,19 +4076,19 @@
                     "name": "Cross-Naginata",
                     "type": "Weapon",
                     "location": "Caelid, Gael Tunnel near the grace",
-                    "locationVi": "Caelid, Gael Tunnel"
+                    "locationVi": "Caelid, Gael Tunnel near the grace"
                 },
                 {
                     "name": "Bolt of Gransax",
                     "type": "Weapon",
                     "location": "Leyndell, Royal Capital, on a spear",
-                    "locationVi": "Leyndell"
+                    "locationVi": "Leyndell, Royal Capital, on a spear"
                 },
                 {
                     "name": "Spear Talisman",
                     "type": "Talisman",
                     "location": "Wormface in Altus Plateau",
-                    "locationVi": "Wormface Altus Plateau"
+                    "locationVi": "Wormface in Altus Plateau"
                 },
                 {
                     "name": "Shard of Alexander",
@@ -4100,7 +4100,7 @@
                     "name": "Rellana's Cameo",
                     "type": "Talisman",
                     "location": "DLC, Castle Ensis",
-                    "locationVi": "DLC Castle Ensis"
+                    "locationVi": "DLC, Castle Ensis"
                 }
             ],
             "tips": [
@@ -4113,17 +4113,17 @@
             "tipsVi": [
                 "L1 song thương rất nhanh",
                 "Chạy L1 lao xa",
-                "Cross-Naginata c� ch�y m�u",
+                "Cross-Naginata has innate bleed buildup",
                 "Spear Talisman tăng 15% counter",
-                "Bolt of Gransax s�t t�m xa"
+                "Bolt of Gransax sát tm xa"
             ]
         },
         {
             "slug": "tank-mage",
             "name": "Tank Mage Carian",
-            "nameVi": "Ph�p S� Tr�u",
+            "nameVi": "Php S Tríu",
             "description": "A heavily armored mage build using Carian Sorceries. The Carian Knight Sword and Carian Greatshield make you a magical fortress. Carian Piercer and Greatsword sorceries deal massive poise damage.",
-            "descriptionVi": "Build ph�p s� m�c gi�p n�ng v�i Carian Sorceries. Ki�m v� khi�n Carian bi�n b�n th�nh ph�o \u0011�i ma thu�t.",
+            "descriptionVi": "Build php s mc gip nng vi Carian Sorceries. Kiếm v khin Carian bin bắn thình pho i ma thut.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -4157,11 +4157,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Astrologer",
-                        "Int 25 v� Vigor 15",
+                        "Tăng Int lên 25 and Vigor to 15",
                         "Carian Knight Sword ở Liurnia",
                         "Carian Greatshield ở Caria Manor",
                         "Mua Carian Slicer từ Sellen",
-                        "Academy Glintstone Staff"
+                        "Get the Academy Glintstone Staff"
                     ]
                 },
                 {
@@ -4179,12 +4179,12 @@
                         "Level Vigor to 35"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int 45 v� Mind 25",
-                        "N�ng ki�m l�n +15 Magic",
-                        "Carian Piercer",
-                        "Magic Scorpion Charm",
-                        "Graven-Mass Talisman",
-                        "Vigor 35"
+                        "Tăng Int lên 45 and Mind to 25",
+                        "Nng kiếm lên +15 Magic",
+                        "Get Carian Piercer sorcery",
+                        "Trang bị the Magic Scorpion Charm",
+                        "Get the Graven-Mass Talisman",
+                        "Tăng Vigor lên 35"
                     ]
                 },
                 {
@@ -4203,11 +4203,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Int 65",
-                        "Carian Regal Scepter",
-                        "Carian Piercer ph� stance",
+                        "Dùng $1he Carian Regal Scepter",
+                        "Carian Piercer breaks most enemy stances",
                         "Carian Greatsword lưỡi kiếm ma thuật",
-                        "Khi�n + Ph�p an to�n nh�t",
-                        "Staff of the Great Beyond DLC"
+                        "Shield + Sorcery is the safest playstyle",
+                        "Trang bị the DLC Staff of the Great Beyond"
                     ]
                 }
             ],
@@ -4225,19 +4225,19 @@
                     "name": "Carian Knight Sword",
                     "type": "Weapon",
                     "location": "Liurnia, Carian Study Hall",
-                    "locationVi": "Liurnia"
+                    "locationVi": "Liurnia, Carian Study Hall"
                 },
                 {
                     "name": "Carian Regal Scepter",
                     "type": "Weapon",
                     "location": "Remembrance of the Full Moon Queen",
-                    "locationVi": "Remembrance of Rennala"
+                    "locationVi": "Remembrance of the Full Moon Queen"
                 },
                 {
                     "name": "Carian Greatshield",
                     "type": "Armor",
                     "location": "Caria Manor, behind the courtyard",
-                    "locationVi": "Caria Manor"
+                    "locationVi": "Caria Manor, behind the courtyard"
                 },
                 {
                     "name": "Magic Scorpion Charm",
@@ -4249,7 +4249,7 @@
                     "name": "Graven-Mass Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops, Albinauric rise",
-                    "locationVi": "Mountaintops"
+                    "locationVi": "Mountaintops, Albinauric rise"
                 }
             ],
             "tips": [
@@ -4261,18 +4261,18 @@
             ],
             "tipsVi": [
                 "Carian Slicer DPS cao nhất",
-                "Carian Piercer ph� stance 2-3 hit",
-                "Carian Greatshield ch�n 100% v�t l�",
-                "Weapon art Carian Knight Sword buff magic",
-                "Magic Scorpion + Graven-Mass = 20% bonus"
+                "Carian Piercer can stance break most enemies in 2-3 hits",
+                "The Carian Greatshield has 100% physical block",
+                "Carian Knight Sword weapon art is a magic buff",
+                "Stack Magic Scorpion + Graven-Mass for 20% magic damage"
             ]
         },
         {
             "slug": "parry-king",
             "name": "Parry King Dagger",
-            "nameVi": "Vua \u0010� \u0010�n",
+            "nameVi": "Parry King Dagger",
             "description": "A parry-focused build using the Buckler and a Misericorde dagger for critical ripostes. Every parry into a riposte deals 10,000+ damage. High risk, massive reward.",
-            "descriptionVi": "Build \u0011� \u0011�n v�i Buckler v� Misericorde. M�i l�n parry v�o riposte g�y 10,000+ s�t th��ng. R�i ro cao, ph�n th��ng l�n.",
+            "descriptionVi": "Build  n vi Buckler v Misericorde. Mi lên parry vo riposte gy 10,000+ sát thng. Ri ro cao, phn thng lên.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": false,
@@ -4307,10 +4307,10 @@
                     "stepsVi": [
                         "Chọn Warrior",
                         "Mua Buckler từ Gostoc",
-                        "T�m Misericorde � Stormveil",
-                        "Dex 25 v� Vigor 20",
-                        "T�p parry tr�n l�nh",
-                        "Keen infusion"
+                        "Tìm the Misericorde in Stormveil Castle",
+                        "Tăng Dex lên 25 and Vigor to 20",
+                        "Tp parry trn lênh",
+                        "Dùng $1een infusion on Misericorde"
                     ]
                 },
                 {
@@ -4329,11 +4329,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 40",
-                        "Misericorde +18 Keen",
-                        "Dagger Talisman",
-                        "Assassin's Cerulean Dagger",
-                        "Blue Dancer Charm",
-                        "Faith 15"
+                        "Nâng cấp Misericorde to +18 Keen",
+                        "Get the Dagger Talisman for riposte boost",
+                        "Trang bị the Assassin's Cerulean Dagger",
+                        "Get the Blue Dancer Charm",
+                        "Tăng Faith lên 15 for buffs"
                     ]
                 },
                 {
@@ -4351,11 +4351,11 @@
                         "Parry every human-sized enemy to death"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dex 55 v� Faith 25",
-                        "Max Misericorde +25 Keen",
-                        "Buff Electrify Armament",
-                        "Dagger Talisman +17% riposte",
-                        "Golden Vow",
+                        "Tăng Dex lên 55 and Faith to 25",
+                        "Nâng tối đa Misericorde to +25 Keen",
+                        "Buff with Electrify Armament or Bloodflame Blade",
+                        "Dagger Talisman adds 17% riposte damage",
+                        "Dùng $1olden Vow for more damage",
                         "Parry mọi kẻ địch"
                     ]
                 }
@@ -4381,7 +4381,7 @@
                     "name": "Misericorde",
                     "type": "Weapon",
                     "location": "Stormveil Castle, in the dark room",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle, in the dark room"
                 },
                 {
                     "name": "Buckler",
@@ -4393,19 +4393,19 @@
                     "name": "Dagger Talisman",
                     "type": "Talisman",
                     "location": "Liurnia, from the big pot",
-                    "locationVi": "Liurnia"
+                    "locationVi": "Liurnia, from the big pot"
                 },
                 {
                     "name": "Assassin's Cerulean Dagger",
                     "type": "Talisman",
                     "location": "Leyndell, from the Black Knife Catacombs",
-                    "locationVi": "Leyndell"
+                    "locationVi": "Leyndell, from the Black Knife Catacombs"
                 },
                 {
                     "name": "Blue Dancer Charm",
                     "type": "Talisman",
                     "location": "Limgrave, Highway Cave",
-                    "locationVi": "Limgrave"
+                    "locationVi": "Limgrave, Highway Cave"
                 }
             ],
             "tips": [
@@ -4416,9 +4416,9 @@
                 "Practice parry timing on the Gatefront soldiers"
             ],
             "tipsVi": [
-                "Misericorde c� critical cao nh�t (140)",
+                "Misericorde has the highest critical multiplier in the game (140)",
                 "Buckler parry nhiều frame nhất",
-                "Dagger Talisman +17% riposte",
+                "Dagger Talisman boosts riposte damage by 17%",
                 "Buff trước khi riposte",
                 "Tập parry ở Gatefront"
             ]
@@ -4428,7 +4428,7 @@
             "name": "Beastial Claw",
             "nameVi": "Móng Vuốt Thú",
             "description": "A beast-themed build using the Beast Claw weapon from the DLC combined with Bestial Incantations. The Claw attacks build up bleed quickly while incantations provide ranged pressure.",
-            "descriptionVi": "Build th� v�t v�i Beast Claw t� DLC v� Bestial Incantations. M�ng vu�t t�ch t� ch�y m�u nhanh.",
+            "descriptionVi": "A beast-themed build using the Beast Claw weapon from the DLC combined with Bestial Incantations. The Claw attacks build up bleed quickly while incantations provide ranged pressure.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -4462,11 +4462,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "V�o DLC l�y Beast Claw",
-                        "T�m Claw � Gravesite Plain",
+                        "Rush to the DLC to get Beast Claw early",
+                        "Tìm the Claw weapon in the Gravesite Plain",
                         "Str/Dex 20 mỗi loại",
-                        "Claw Talisman",
-                        "Clawmark Seal"
+                        "Get the Claw Talisman for jump attacks",
+                        "Tìm the Clawmark Seal for bestial incantations"
                     ]
                 },
                 {
@@ -4485,11 +4485,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 30 mỗi loại",
-                        "Beast Claw +15 Quality",
+                        "Nâng cấp Beast Claw to +15 Quality",
                         "Beast Claw incantation từ Gurranq",
-                        "Two-Headed Turtle Talisman",
-                        "Rotten Winged Sword Insignia",
-                        "Faith 15"
+                        "Trang bị the Two-Headed Turtle Talisman",
+                        "Get the Rotten Winged Sword Insignia",
+                        "Tăng Faith lên 15 for incantations"
                     ]
                 },
                 {
@@ -4507,12 +4507,12 @@
                         "Stack successive attack talismans"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Dex 40 v� Faith 25",
-                        "Max Beast Claw +25 Quality",
+                        "Push Str/Dex to 40 each and Faith to 25",
+                        "Nâng tối đa Beast Claw to +25 Quality",
                         "Beast Claw incantation tầm xa",
-                        "Bestial Vitality h�i m�u",
+                        "Dùng $1estial Vitality for healing",
                         "Claw weapon skill lao tới",
-                        "Talisman \u0011�n li�n ti�p"
+                        "Stack successive attack talismans"
                     ]
                 }
             ],
@@ -4530,7 +4530,7 @@
                     "name": "Beast Claw",
                     "type": "Weapon",
                     "location": "DLC, Gravesite Plain near the bridge",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC, Gravesite Plain near the bridge"
                 },
                 {
                     "name": "Clawmark Seal",
@@ -4554,7 +4554,7 @@
                     "name": "Two-Headed Turtle Talisman",
                     "type": "Talisman",
                     "location": "DLC, Dragon's Pit",
-                    "locationVi": "DLC Dragon's Pit"
+                    "locationVi": "DLC, Dragon's Pit"
                 }
             ],
             "tips": [
@@ -4565,10 +4565,10 @@
                 "Successive attacks boost damage with Winged Sword Insignia"
             ],
             "tipsVi": [
-                "Beast Claw t�n c�ng r�t nhanh",
+                "Beast Claw tn công rt nhanh",
                 "Clawmark Seal tăng 10% bestial",
                 "Beast Claw incantation bắn đạn",
-                "Bestial Vitality h�i 5 HP/gi�y",
+                "Bestial Vitality heals 5 HP per second for 2 minutes",
                 "Rotten Winged Sword tăng dồn"
             ]
         },
@@ -4577,7 +4577,7 @@
             "name": "Bow Only",
             "nameVi": "Cung Thủ",
             "description": "A challenging bow-only build that relies entirely on ranged combat. The Lion Greatbow with Radahn's Rain and the DLC Horn Bow make this viable. Every encounter is a battle of positioning.",
-            "descriptionVi": "Build ch� d�ng cung \u0011�y th� th�ch. Lion Greatbow v�i Radahn's Rain v� Horn Bow DLC.",
+            "descriptionVi": "A challenging bow-only build that relies entirely on ranged combat. The Lion Greatbow with Radahn's Rain and the DLC Horn Bow make this viable. Every encounter is a battle of positioning.",
             "category": "pve",
             "difficulty": 3,
             "dlc": true,
@@ -4612,9 +4612,9 @@
                     "stepsVi": [
                         "Chọn Bandit",
                         "Mua Longbow ở Roundtable",
-                        "Dex 30 v� Vigor 15",
-                        "Arrow's Reach Talisman",
-                        "Ch� t�o mii t�n",
+                        "Tăng Dex lên 30 and Vigor to 15",
+                        "Tìm the Arrow's Reach Talisman",
+                        "Craft lots of regular arrows",
                         "Học bắn nhảy"
                     ]
                 },
@@ -4635,10 +4635,10 @@
                     "stepsVi": [
                         "Đẩy Dex 45",
                         "Horn Bow từ DLC",
-                        "N�ng l�n +18 Keen",
-                        "Arrow's Sting Talisman",
-                        "Shroud of the Mausoleum",
-                        "Mind 20"
+                        "Nng lên +18 Keen",
+                        "Tìm the Arrow's Sting Talisman",
+                        "Get the Shroud of the Mausoleum",
+                        "Tăng Mind lên 20 for weapon arts"
                     ]
                 },
                 {
@@ -4659,9 +4659,9 @@
                         "Đẩy Dex 55",
                         "Lion Greatbow từ Radahn",
                         "Max cả hai +25",
-                        "Radahn's Rain m�a t�n",
-                        "Enchanted Shot tr�n Horn Bow",
-                        "Reach + Sting Talisman"
+                        "Dùng $1adahn's Rain for AoE arrow barrage",
+                        "Dùng $1nchanted Shot on Horn Bow",
+                        "Arrow's Reach + Arrow's Sting for range and damage"
                     ]
                 }
             ],
@@ -4685,25 +4685,25 @@
                     "name": "Horn Bow",
                     "type": "Weapon",
                     "location": "DLC, Gravesite Plain merchant",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC, Gravesite Plain merchant"
                 },
                 {
                     "name": "Arrow's Reach Talisman",
                     "type": "Talisman",
                     "location": "Limgrave, from the Twin Maiden Husks",
-                    "locationVi": "Limgrave"
+                    "locationVi": "Limgrave, from the Twin Maiden Husks"
                 },
                 {
                     "name": "Arrow's Sting Talisman",
                     "type": "Talisman",
                     "location": "DLC, by the Scadutree Base",
-                    "locationVi": "DLC"
+                    "locationVi": "DLC, by the Scadutree Base"
                 },
                 {
                     "name": "Shroud of the Mausoleum",
                     "type": "Armor",
                     "location": "DLC, Mausoleum Compound",
-                    "locationVi": "DLC"
+                    "locationVi": "DLC, Mausoleum Compound"
                 }
             ],
             "tips": [
@@ -4716,7 +4716,7 @@
             "tipsVi": [
                 "Bắn nhảy giữ di động",
                 "Radahn's Rain bắn loạt",
-                "Horn Bow Enchanted Shot s�t th��ng magic",
+                "Horn Bow Enchanted Shot sát thng magic",
                 "Bắn đầu +20%",
                 "Arrow's Reach tăng tầm"
             ]
@@ -4726,7 +4726,7 @@
             "name": "Death Knight",
             "nameVi": "Hiệp Sĩ Tử Thần",
             "description": "A Death-themed build using Death's Poker, the Family Heads, and Ghostflame incantations. Death's Poker weapon skill alone can melt endgame bosses with Ghostflame explosions.",
-            "descriptionVi": "Build t� th�n v�i Death's Poker, Family Heads v� Ghostflame. K� n\u0003ng Death's Poker n�ng ch�y boss cu�i.",
+            "descriptionVi": "Build t thân vi Death's Poker, Family Heads v Ghostflame. K nng Death's Poker nng chy boss cui.",
             "category": "meta",
             "difficulty": 2,
             "dlc": true,
@@ -4761,10 +4761,10 @@
                     "stepsVi": [
                         "Chọn Prisoner",
                         "Death's Poker ở Caelid",
-                        "Int 30 v� Vigor 20",
-                        "Glintstone pebble",
-                        "Academy Glintstone Staff",
-                        "Ghostflame"
+                        "Tăng Int lên 30 and Vigor to 20",
+                        "Dùng $1lintstone pebble as filler spell",
+                        "Get the Academy Glintstone Staff",
+                        "Tìm the Ghostflame incantation"
                     ]
                 },
                 {
@@ -4783,11 +4783,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Int 50",
-                        "Death's Poker +15 Magic",
+                        "Nâng cấp Death's Poker to +15 Magic",
                         "Weapon art tạo ghostflame",
-                        "Shard of Alexander",
-                        "Magic Scorpion Charm",
-                        "Ghostflame g�y frostbite"
+                        "Trang bị the Shard of Alexander",
+                        "Get the Magic Scorpion Charm",
+                        "Dùng $1he Ghostflame incantation for frostbite"
                     ]
                 },
                 {
@@ -4806,11 +4806,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Int 65",
-                        "Max Death's Poker +25 Magic",
+                        "Nâng tối đa Death's Poker to +25 Magic",
                         "Ghostflame Ignition AoE lửa",
-                        "S�t th��ng kh�ng",
-                        "Fire Scorpion Charm",
-                        "Staff of the Great Beyond DLC"
+                        "It deals massive AoE fire damage",
+                        "Trang bị the Fire Scorpion Charm",
+                        "Trang bị the DLC Staff of the Great Beyond"
                     ]
                 }
             ],
@@ -4834,7 +4834,7 @@
                     "name": "Family Heads",
                     "type": "Weapon",
                     "location": "Liurnia, from the Cemetery Shade",
-                    "locationVi": "Liurnia"
+                    "locationVi": "Liurnia, from the Cemetery Shade"
                 },
                 {
                     "name": "Shard of Alexander",
@@ -4852,7 +4852,7 @@
                     "name": "Staff of the Great Beyond",
                     "type": "Weapon",
                     "location": "DLC, Finger Birthing area",
-                    "locationVi": "DLC"
+                    "locationVi": "DLC, Finger Birthing area"
                 }
             ],
             "tips": [
@@ -4863,19 +4863,19 @@
                 "Ghostflame inflicts frostbite on enemies"
             ],
             "tipsVi": [
-                "Death's Poker c� 3 c�p \u0011�",
+                "Death's Poker weapon art has three levels — tap, hold, and fully charged",
                 "Ghostflame Ignition AoE lớn",
-                "S�t th��ng t\u0003ng theo Int",
+                "The weapon art damage scales with Intelligence",
                 "Talisman lửa cho explosion",
-                "Ghostflame g�y frostbite"
+                "Ghostflame inflicts frostbite on enemies"
             ]
         },
         {
             "slug": "pure-faith",
             "name": "Pure Faith Caster",
-            "nameVi": "Ph�p S� \u0010�c Tin",
+            "nameVi": "Pure Faith Caster",
             "description": "A pure Faith caster build using the Erdtree Seal and a variety of offensive incantations. Catch Flame for close range, Lightning Spear for mid-range, and Elden Stars for boss fights.",
-            "descriptionVi": "Build ph�p s� Faith thu�n v�i Erdtree Seal. Catch Flame g�n, Lightning Spear xa, Elden Stars cho boss.",
+            "descriptionVi": "A pure Faith caster build using the Erdtree Seal and a variety of offensive incantations. Catch Flame for close range, Lightning Spear for mid-range, and Elden Stars for boss fights.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -4909,11 +4909,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Prophet",
-                        "Faith 30 v� Vigor 15",
+                        "Tăng Faith lên 30 and Vigor to 15",
                         "Godslayer Seal ở Stormveil",
-                        "Lightning Spear",
-                        "Two Fingers Heirloom",
-                        "Flock's Canvas Talisman"
+                        "Lấy Lightning Spear từ the dragon altar",
+                        "Tìm the Two Fingers Heirloom",
+                        "Get the Flock's Canvas Talisman"
                     ]
                 },
                 {
@@ -4931,12 +4931,12 @@
                         "Get the Canvas Talisman upgrade"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith 50 v� Mind 20",
+                        "Tăng Faith lên 50 and Mind to 20",
                         "Erdtree Seal ở Leyndell",
-                        "Godslayer Greatsword",
-                        "Black Flame s�t th��ng %",
-                        "Fire Scorpion Charm",
-                        "Canvas Talisman"
+                        "Get the Godslayer Greatsword for melee",
+                        "Black Flame sát thng %",
+                        "Trang bị the Fire Scorpion Charm",
+                        "Get the Canvas Talisman upgrade"
                     ]
                 },
                 {
@@ -4955,11 +4955,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Faith 70",
-                        "Max Erdtree Seal +25",
-                        "Elden Stars",
-                        "Pest Threads",
-                        "Ancient Dragon's Lightning",
-                        "Dryleaf Seal DLC"
+                        "Nâng tối đa Erdtree Seal to +25",
+                        "Dùng $1lden Stars for boss fights",
+                        "Dùng $1est Threads in tight spaces",
+                        "Dùng $1ncient Dragon's Lightning for nukes",
+                        "Trang bị the DLC Dryleaf Seal"
                     ]
                 }
             ],
@@ -4977,31 +4977,31 @@
                     "name": "Erdtree Seal",
                     "type": "Weapon",
                     "location": "Leyndell, Royal Capital",
-                    "locationVi": "Leyndell"
+                    "locationVi": "Leyndell, Royal Capital"
                 },
                 {
                     "name": "Godslayer Greatsword",
                     "type": "Weapon",
                     "location": "Caelid, Divine Tower of Caelid",
-                    "locationVi": "Caelid"
+                    "locationVi": "Caelid, Divine Tower of Caelid"
                 },
                 {
                     "name": "Flock's Canvas Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops, from the merchant",
-                    "locationVi": "Mountaintops"
+                    "locationVi": "Mountaintops, from the merchant"
                 },
                 {
                     "name": "Two Fingers Heirloom",
                     "type": "Talisman",
                     "location": "Limgrave, Purified Ruins",
-                    "locationVi": "Limgrave"
+                    "locationVi": "Limgrave, Purified Ruins"
                 },
                 {
                     "name": "Dryleaf Seal",
                     "type": "Weapon",
                     "location": "DLC, Scadu Altus",
-                    "locationVi": "DLC Scadu Altus"
+                    "locationVi": "DLC, Scadu Altus"
                 }
             ],
             "tips": [
@@ -5013,10 +5013,10 @@
             ],
             "tipsVi": [
                 "Catch Flame DPS cao nhất gần",
-                "Ancient Dragon's Lightning 10 tia s�t",
-                "Pest Threads m�nh v�i qu�i to",
-                "Elden Stars \u0011u�i 20 gi�y",
-                "Flock's Canvas + Godslayer Seal"
+                "Ancient Dragon's Lightning 10 tia sát",
+                "Pest Threads deals massive damage to large enemies",
+                "Elden Stars chases enemies for 20 seconds",
+                "Stack Flock's Canvas + Godslayer's Seal for massive incantation damage"
             ]
         }
     ]

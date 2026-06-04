@@ -10,7 +10,7 @@
             "name": "Netrunner",
             "nameVi": "Netrunner",
             "description": "A legendary netrunner build that hacks everything from the shadows. Legendary quickhacks spread through entire enemy networks, killing entire buildings without firing a single bullet.",
-            "descriptionVi": "Build netrunner huy�n tho�i hack m�i th� t� b�ng t�i. Quickhack huy�n tho�i l�y lan qua to�n b� m�ng l��i k� \u0011�ch, gi�t c� t�a nh� m� kh�ng c�n b�n ph�t n�o.",
+            "descriptionVi": "Build netrunner huyn thoi hack mi th t bắng ti. Quickhack huyn thoi ly lan qua ton b mng li k ch, git c tỉa nh m khng cn bắn pht no.",
             "category": "meta",
             "difficulty": 2,
             "dlc": true,
@@ -41,10 +41,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Netrunner cho quickhack khởi đầu",
-                        "T\u0003ng Intelligence l�n 10",
+                        "Tng Intelligence lên 10",
                         "Mua cyberdeck từ ripperdoc",
-                        "\u0010�u t� \u0011i�m v�o Breach Protocol",
-                        "Ho�n th�nh Braindance quest",
+                        "Invest perk points into Breach Protocol and Quickhacking",
+                        "Hon thình Braindance quest",
                         "Farm access point để lấy linh kiện"
                     ]
                 },
@@ -63,8 +63,8 @@
                         "Start crafting legendary quickhacks from components"
                     ],
                     "stepsVi": [
-                        "\u0010�y Intelligence l�n 16",
-                        "T\u0003ng Technical l�n 12",
+                        "y Intelligence lên 16",
+                        "Tng Technical lên 12",
                         "Lấy Tetraviral quickhack",
                         "Trang bị Raven cyberdeck",
                         "Đầu tư Critical Error perk",
@@ -86,11 +86,11 @@
                         "Upload Breach Protocol before every fight for debuffs"
                     ],
                     "stepsVi": [
-                        "Max Intelligence 20",
-                        "\u0010�y Technical l�n 20",
+                        "Nâng tối đa Intelligence at 20 for legendary quickhacks",
+                        "y Technical lên 20",
                         "Lấy Netwatch cyberdeck",
                         "Chế tạo Legendary Short Circuit",
-                        "D�ng Legendary Contagion l�y lan",
+                        "Dùng $1egendary Contagion to spread through entire buildings",
                         "Upload Breach Protocol trước mỗi trận"
                     ]
                 }
@@ -158,11 +158,11 @@
                 "Suicide quickhack is hilarious but expensive on RAM"
             ],
             "tipsVi": [
-                "Lu�n upload Breach Protocol tr��c chi�n \u0011�u",
-                "Ping + Contagion clear c� t�a nh�",
-                "Legendary Short Circuit k�ch ho�t tr�n m�i crit",
+                "Always upload Breach Protocol before combat to reduce enemy quickhack resistance",
+                "Ping + Contagion clear c tỉa nh",
+                "Legendary Short Circuit procs on any crit including weapon crits",
                 "Xếp chồng mod Intelligence để tối đa RAM",
-                "Suicide quickhack h�i h��c nh�ng t�n RAM"
+                "Suicide quickhack is hilarious but expensive on RAM"
             ]
         },
         {
@@ -170,7 +170,7 @@
             "name": "Sandy Katana",
             "nameVi": "Katana Tăng Tốc",
             "description": "The iconic Sandevistan katana build. Activate slow time, dash through enemies, and dismember everyone before the first body hits the ground. Highest style-to-damage ratio in Night City.",
-            "descriptionVi": "Build Sandevistan katana huy�n tho�i. K�ch ho�t l�m ch�m th�i gian, lao qua k� \u0011�ch v� ch�t x�c tr��c khi x�c \u0011�u ti�n ch�m \u0011�t.",
+            "descriptionVi": "The iconic Sandevistan katana build. Activate slow time, dash through enemies, and dismember everyone before the first body hits the ground. Highest style-to-damage ratio in Night City.",
             "category": "meta",
             "difficulty": 2,
             "dlc": true,
@@ -201,11 +201,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Street Kid",
-                        "T\u0003ng Reflexes l�n 12",
+                        "Tng Reflexes lên 12",
                         "Mua katana cơ bản",
-                        "Ho�n th�nh Heist",
-                        "L�y Satori katana b� m�t trong Heist",
-                        "\u0010�u t� Blade v� Reflex perks"
+                        "Hon thình Heist",
+                        "Get the Satori katana during the Heist (secret)",
+                        "Invest in Blade and Reflex perks"
                     ]
                 },
                 {
@@ -223,10 +223,10 @@
                         "Equip cyberware for crit rate and melee damage"
                     ],
                     "stepsVi": [
-                        "\u0010�y Reflexes l�n 16",
+                        "y Reflexes lên 16",
                         "Mua Sandevistan Mk.3 hoặc 4",
-                        "T\u0003ng Technical l�n 12",
-                        "T�m Byakko ho�c Jinchu-Maru katana",
+                        "Tng Technical lên 12",
+                        "Tìm Byakko or Jinchu-Maru legendary katana",
                         "Đầu tư Attack Mitigation",
                         "Trang bị cyberware tăng crit"
                     ]
@@ -246,12 +246,12 @@
                         "Attack in Sandevistan + katana = every enemy dies before Sandy ends"
                     ],
                     "stepsVi": [
-                        "Max Reflexes 20",
+                        "Nâng tối đa Reflexes at 20",
                         "Lấy Apogee Sandevistan từ Dogtown DLC",
-                        "\u0010�y Technical l�n 18",
+                        "y Technical lên 18",
                         "Trang bị Scalpel katana 100% crit",
-                        "D�ng QianT Warp Dancer Sandevistan",
-                        "T�n c�ng trong Sandy = m�i k� \u0011�ch ch�t"
+                        "Dùng $1he QianT Warp Dancer Sandevistan for 2 slow-time charges",
+                        "Tn công trong Sandy = mi k ch cht"
                     ]
                 }
             ],
@@ -289,7 +289,7 @@
                     "name": "Scalpel",
                     "type": "Weapon",
                     "location": "Dogtown, looted from a crate during the DLC main quest",
-                    "locationVi": "Dogtown trong nhi�m v� ch�nh DLC"
+                    "locationVi": "Dogtown trong nhim v chình DLC"
                 },
                 {
                     "name": "Satori Katana",
@@ -307,7 +307,7 @@
                     "name": "Legendary Optical Camo",
                     "type": "Cyberware",
                     "location": "Ripperdoc, high Street Cred required",
-                    "locationVi": "Ripperdoc y�u c�u Street Cred cao"
+                    "locationVi": "Ripperdoc, high Street Cred required"
                 },
                 {
                     "name": "Kerenzikov",
@@ -324,11 +324,11 @@
                 "Air dashes and double jump are essential mobility for this build"
             ],
             "tipsVi": [
-                "Sandevistan + Optical Camo = t�ng h�nh khi ch�m th�i gian",
-                "Apogee Sandevistan c� cooldown th�p nh�t",
-                "Scalpel crit 100% khi Sandy",
-                "D�ng Defencest perk \u0011� ch�n \u0011�n khi ch�y",
-                "Air dash v� double jump thi�t y�u cho build n�y"
+                "Sandevistan + Optical Camo = tàng hình khi chm thi gian",
+                "Apogee Sandevistan gives the most slow time with the lowest cooldown",
+                "Scalpel katana guarantees crits during Sandevistan — mandatory for min-max",
+                "Dùng $1he 'Defencest' perk to block bullets while sprinting at enemies",
+                "Air dashes and double jump are essential mobility for this build"
             ]
         },
         {
@@ -336,7 +336,7 @@
             "name": "Berserk Shotgun",
             "nameVi": "Shotgun Cuồng Nộ",
             "description": "A Body build using Berserk cyberware and a devastating shotgun. Activate Berserk, ignore damage, and blast everything with unlimited stamina. The walking tank build.",
-            "descriptionVi": "Build Body v�i Berserk v� shotgun h�y di�t. K�ch ho�t Berserk, b� qua s�t th��ng, v� b�n n� m�i th� v�i stamina v� h�n. Build xe t\u0003ng bi�t \u0011i.",
+            "descriptionVi": "Build Body vi Berserk v shotgun hy dit. Kch hot Berserk, b qua sát thng, v bắn n mi th vi stamina v hn. Build xe tng bit i.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -367,11 +367,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Nomad cho Body cao",
-                        "T\u0003ng Body l�n 10",
-                        "D�ng double-barrel shotgun",
-                        "\u0010�u t� Shotgun v� Athletics perks",
-                        "Ho�n th�nh Heist",
-                        "T�m Mox shotgun t� Lizzie's Bar"
+                        "Tng Body lên 10",
+                        "Dùng $1 double-barrel shotgun as your primary",
+                        "Invest in Shotgun and Athletics perks",
+                        "Hon thình Heist",
+                        "Tìm the Mox shotgun from Lizzie's Bar"
                     ]
                 },
                 {
@@ -389,12 +389,12 @@
                         "Equip cyberware for armor and health"
                     ],
                     "stepsVi": [
-                        "\u0010�y Body l�n 16",
+                        "y Body lên 16",
                         "Mua Berserk Mk.3 hoặc 4",
-                        "T�m Guts shotgun",
-                        "T\u0003ng Technical l�n 10",
-                        "\u0010�u t� Bio-Monitor t� \u0011�ng h�i m�u",
-                        "Trang b� cyberware gi�p v� m�u"
+                        "Tìm the Guts shotgun — a powerful unique",
+                        "Tng Technical lên 10",
+                        "Invest in Bio-Monitor for auto-heal",
+                        "Trang bị cyberware for armor and health"
                     ]
                 },
                 {
@@ -412,12 +412,12 @@
                         "Every shot staggers enemies — chain stunlock entire groups"
                     ],
                     "stepsVi": [
-                        "Max Body 20",
+                        "Nâng tối đa Body at 20 for best Berserk and health",
                         "Lấy Militech Berserk Mk.5 từ Dogtown",
-                        "\u0010�y Technical l�n 15",
-                        "T�m Order shotgun t� DLC",
-                        "Berserk + shotgun = kh�ng th� ng\u0003n",
-                        "M�i ph�t b�n l�m cho�ng"
+                        "y Technical lên 15",
+                        "Tìm the iconic 'Order' shotgun from DLC",
+                        "Dùng $1erserk + shotty blast = unstoppable",
+                        "Mi pht bắn lm chong"
                     ]
                 }
             ],
@@ -473,13 +473,13 @@
                     "name": "Bio-Monitor",
                     "type": "Cyberware",
                     "location": "Any ripperdoc",
-                    "locationVi": "B�t k� ripperdoc n�o"
+                    "locationVi": "Any ripperdoc"
                 },
                 {
                     "name": "Subdermal Armor",
                     "type": "Cyberware",
                     "location": "Available from any ripperdoc",
-                    "locationVi": "B�t k� ripperdoc n�o"
+                    "locationVi": "Available from any ripperdoc"
                 }
             ],
             "tips": [
@@ -490,11 +490,11 @@
                 "Bio-Monitor auto-heals at 30% HP - essential for Berserk uptime"
             ],
             "tipsVi": [
-                "Berserk cho mi�n nhi�m s�t th��ng v� stamina v� h�n",
-                "Shotgun l�m cho�ng k� \u0011�ch",
-                "D�ng Spontaneous Obliteration perk",
-                "Order shotgun c� th� t�ch cho 8 vi�n",
-                "Bio-Monitor t� h�i � 30% m�u"
+                "Berserk cho min nhim sát thng v stamina v hn",
+                "Shotguns stagger enemies on hit — Berserk + shotgun = perma-stun",
+                "Dùng $1he 'Spontaneous Obliteration' perk for explosions on kill",
+                "The Order tech shotgun can be charged for a devastating 8-pellet blast",
+                "Bio-Monitor auto-heals at 30% HP - essential for Berserk uptime"
             ]
         },
         {
@@ -502,7 +502,7 @@
             "name": "Tech Sniper",
             "nameVi": "Bắn Tỉa Công Nghệ",
             "description": "A Technical build using tech sniper rifles that shoot through walls. Ping enemies behind cover, charge your shot, and headshot them through solid concrete. The ultimate stealth marksman.",
-            "descriptionVi": "Build Technical v�i s�ng b�n t�a c�ng ngh� xuy�n t��ng. Ping k� \u0011�ch sau n�p, t�ch \u0011�n v� headshot xuy�n b� t�ng. X� th� t�ng h�nh t�i th��ng.",
+            "descriptionVi": "Build Technical vi súng bắn tỉa công nghệ xuyên tường. Ping k ch sau np, tch n v headshot xuyên b tàng. X th tàng hình ti thng.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -533,11 +533,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Corpo",
-                        "T\u0003ng Technical l�n 10",
-                        "Mua tech sniper rifle",
-                        "T\u0003ng Cool l�n 8",
+                        "Tng Technical lên 10",
+                        "Lấy a basic tech sniper rifle từ a vendor",
+                        "Tng Cool lên 8",
                         "Đầu tư Crafting",
-                        "G�n gi�m thanh cho s�ng l�c"
+                        "Gn gim thanh cho súng lc"
                     ]
                 },
                 {
@@ -555,10 +555,10 @@
                         "Equip the Ping quickhack to see through walls"
                     ],
                     "stepsVi": [
-                        "\u0010�y Technical l�n 16",
-                        "T\u0003ng Cool l�n 14",
+                        "y Technical lên 16",
+                        "Tng Cool lên 14",
                         "Lấy Breakthrough sniper",
-                        "N�ng Breakthrough l�n legendary",
+                        "Nng Breakthrough lên legendary",
                         "Đầu tư Sniper tree",
                         "Trang bị Ping quickhack"
                     ]
@@ -578,9 +578,9 @@
                         "Stack crit damage mods on your sniper"
                     ],
                     "stepsVi": [
-                        "Max Technical 20",
-                        "\u0010�y Cool l�n 18",
-                        "D�ng Breakthrough xuy�n t��ng",
+                        "Nâng tối đa Technical at 20 for legendary crafting",
+                        "y Cool lên 18",
+                        "Dng Breakthrough xuyên tường",
                         "Ping + Breakthrough = giết qua tường",
                         "Lấy Rasetsu sniper từ DLC",
                         "Xếp mod crit damage"
@@ -608,19 +608,19 @@
                     "name": "Breakthrough",
                     "type": "Weapon",
                     "location": "Crafted or found in the Badlands during main quest",
-                    "locationVi": "Ch� t�o ho�c t�m � Badlands"
+                    "locationVi": "Crafted or found in the Badlands during main quest"
                 },
                 {
                     "name": "Rasetsu",
                     "type": "Weapon",
                     "location": "Dogtown DLC, found during the main DLC quest",
-                    "locationVi": "Dogtown DLC"
+                    "locationVi": "Dogtown DLC, found during the main DLC quest"
                 },
                 {
                     "name": "Ping Quickhack",
                     "type": "Weapon",
                     "location": "Quickhack vendor or crafted",
-                    "locationVi": "C�a h�ng quickhack"
+                    "locationVi": "Quickhack vendor or crafted"
                 },
                 {
                     "name": "Sonar Implant",
@@ -649,9 +649,9 @@
                 "Stack crit damage on your sniper for one-shot headshots on any enemy"
             ],
             "tipsVi": [
-                "Ping + Breakthrough = th�y v� gi�t qua t��ng",
-                "Tech weapon b� qua gi�p khi t�ch \u0011�y",
-                "Lu�n b�n t� t�ng h�nh cho headshot x2",
+                "Ping + Breakthrough = thy v git qua tường",
+                "Tech weapons ignore armor when fully charged",
+                "Lun bắn t tàng hình cho headshot x2",
                 "Perk Silent and Deadly giữ bạn ẩn",
                 "Xếp crit damage cho one-shot headshot"
             ]
@@ -661,7 +661,7 @@
             "name": "Smart Gun",
             "nameVi": "Súng Thông Minh",
             "description": "A Smart Weapon build using the iconic Skippy and other homing weapons. Bullets curve around corners and track enemies. Point vaguely in the direction of enemies and watch them fall.",
-            "descriptionVi": "Build Smart Weapon v�i Skippy huy�n tho�i v� vi kh� t� t�m \u0011��ng. \u0010�n bay v�ng qua g�c v� truy \u0011u�i k� \u0011�ch. Ch� c�n tr� \u0011�i l� k� \u0011�ch ng�.",
+            "descriptionVi": "A Smart Weapon build using the iconic Skippy and other homing weapons. Bullets curve around corners and track enemies. Point vaguely in the direction of enemies and watch them fall.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -692,8 +692,8 @@
                     ],
                     "stepsVi": [
                         "Chọn Street Kid",
-                        "T\u0003ng Reflexes l�n 10",
-                        "T�m Skippy s�ng th�ng minh",
+                        "Tng Reflexes lên 10",
+                        "Tm Skippy súng thông minh",
                         "Lấy Shingen SMG",
                         "Đầu tư Handguns hoặc SMG perks",
                         "Trang bị smart link"
@@ -714,10 +714,10 @@
                         "Start crafting legendary smart weapons"
                     ],
                     "stepsVi": [
-                        "\u0010�y Reflexes l�n 12",
-                        "T\u0003ng Technical l�n 12",
+                        "y Reflexes lên 12",
+                        "Tng Technical lên 12",
                         "Trang bị smart link legendary",
-                        "T�m Shingen Mark V",
+                        "Tìm the Prototype: Shingen Mark V",
                         "Đầu tư Engineering",
                         "Chế tạo smart weapon legendary"
                     ]
@@ -737,12 +737,12 @@
                         "Spray from cover and let the smart tracking do the work"
                     ],
                     "stepsVi": [
-                        "Max Technical 18",
-                        "\u0010�y Reflexes l�n 15",
+                        "Nâng tối đa Technical at 18 for crafting",
+                        "y Reflexes lên 15",
                         "Skippy chế độ headshot tự động",
-                        "Trang b� mod s�t th��ng",
+                        "Trang b mod sát thng",
                         "Trang bị cyberware chặn đạn",
-                        "B�n t� n�p v� \u0011� \u0011�n t� t�m \u0011��ng"
+                        "Bắn t np v  n t tm ng"
                     ]
                 }
             ],
@@ -809,10 +809,10 @@
                 "Keep Skippy on headshot mode until it inevitably switches to \"puppy-loving pacifist\""
             ],
             "tipsVi": [
-                "Skippy ch� \u0011� headshot l� vi kh� d� nh�t game",
+                "Skippy in headshot mode is the easiest weapon in the game — point and click kills",
                 "Smart weapon bỏ qua độ rơi đạn",
-                "D�ng Hand-Launched Smart Bomb cho \u0011�m \u0011�ng",
-                "Shingen Mark V c� tracking t�t nh�t",
+                "Dùng $1he Hand-Launched Smart Bomb for crowd control",
+                "Prototype Shingen Mark V has the best bullet tracking of any smart weapon",
                 "Giữ Skippy chế độ headshot"
             ]
         },
@@ -821,7 +821,7 @@
             "name": "Blade Runner",
             "nameVi": "Blade Runner",
             "description": "A trend-setting build inspired by the Blade Runner aesthetic. Focuses on monowire and mantis blades with a dystopian cyberpunk look. High style, high damage, all attitude.",
-            "descriptionVi": "Build theo phong c�ch Blade Runner. T�p trung v�o monowire v� mantis blades v�i v� ngo�i dystopian. Phong c�ch cao, s�t th��ng cao, \u0011�y th�i \u0011�.",
+            "descriptionVi": "Build theo phong cch Blade Runner. Tp trung vo monowire v mantis blades vi v ngoi dystopian. Phong cch cao, sát thng cao, y thi .",
             "category": "trend",
             "difficulty": 2,
             "dlc": true,
@@ -852,11 +852,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Corpo",
-                        "T\u0003ng Reflexes l�n 12",
-                        "Mua Mantis Blades",
-                        "D�ng katana d� ph�ng",
+                        "Tng Reflexes lên 12",
+                        "Lấy Mantis Blades từ any ripperdoc",
+                        "Dùng $1 katana as backup weapon",
                         "Đầu tư Blade skill tree",
-                        "G�n s�t th��ng nhi�t cho mantis blades"
+                        "Gn sát thng nhit cho mantis blades"
                     ]
                 },
                 {
@@ -874,7 +874,7 @@
                         "Learn the Monowire whip combo"
                     ],
                     "stepsVi": [
-                        "\u0010�y Reflexes l�n 16",
+                        "y Reflexes lên 16",
                         "Mua Monowire từ ripperdoc",
                         "Trang bị Monowire điện",
                         "Đầu tư Relic perks từ DLC",
@@ -897,12 +897,12 @@
                         "Use Cold Blood perks for speed boost after kills"
                     ],
                     "stepsVi": [
-                        "Max Reflexes 20",
+                        "Nâng tối đa Reflexes at 20",
                         "Lấy Arasaka cyberarms",
                         "Trang bị Monowire huyền thoại",
-                        "D�ng Mantis Blade lunge",
-                        "B�t Optical Camo cho phong c�ch",
-                        "D�ng Cold Blood t\u0003ng t�c sau kill"
+                        "Dùng $1antis Blade lunge attacks for gap closing",
+                        "Stay in Optical Camo for full Blade Runner fantasy",
+                        "Dùng $1old Blood perks for speed boost after kills"
                     ]
                 }
             ],
@@ -933,7 +933,7 @@
                     "name": "Mantis Blades",
                     "type": "Cyberware",
                     "location": "Any ripperdoc",
-                    "locationVi": "B�t k� ripperdoc n�o"
+                    "locationVi": "Any ripperdoc"
                 },
                 {
                     "name": "Optical Camo",
@@ -945,13 +945,13 @@
                     "name": "Arasaka Cyberarms",
                     "type": "Armor",
                     "location": "Dogtown DLC ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown DLC"
+                    "locationVi": "Dogtown DLC ripperdoc"
                 },
                 {
                     "name": "The Electric Chair Monowire mod",
                     "type": "Cyberware",
                     "location": "Dogtown, found in a hidden cache",
-                    "locationVi": "Dogtown, kho h�ng b� m�t"
+                    "locationVi": "Dogtown, found in a hidden cache"
                 }
             ],
             "tips": [
@@ -962,11 +962,11 @@
                 "Stack 'Dragon Strike' and 'Jugular' perks for bleed on blade attacks"
             ],
             "tipsVi": [
-                "Monowire \u0011��c l�m l�i trong 2.0 \u0014 t\u0003ng theo Reflexes",
-                "Mantis Blade kh�ng chi�n v� lao",
-                "D�ng Optical Camo �p s�t",
-                "Relic perks th�m finisher cho Monowire",
-                "X�p Dragon Strike v� Jugular cho ch�y m�u"
+                "Monowire was completely reworked in 2.0 — it now scales with Reflexes and is amazing",
+                "Mantis Blade air dashes and lunges make you nearly untouchable",
+                "Dng Optical Camo p sát",
+                "The Relic perk tree adds new Monowire finishers and combos",
+                "Stack 'Dragon Strike' and 'Jugular' perks for bleed on blade attacks"
             ]
         },
         {
@@ -974,7 +974,7 @@
             "name": "Stealth Knife Thrower",
             "nameVi": "Ném Dao Tàng Hình",
             "description": "A stealth build using throwing knives with the Cold Blood tree. Throw knives for silent kills from a distance, retrieve them from bodies, and chain kills with Cold Blood speed boosts.",
-            "descriptionVi": "Build t�ng h�nh n�m dao v�i Cold Blood. N�m dao gi�t l�ng t� xa, nh�t l�i v� t\u0003ng t�c v�i Cold Blood.",
+            "descriptionVi": "Build tàng hình ném dao vi Cold Blood. Ném dao git lêng t xa, nht li v tng tc vi Cold Blood.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -1005,11 +1005,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Street Kid",
-                        "T\u0003ng Cool l�n 10",
-                        "Mua dao n�m",
-                        "\u0010�u t� Ninjutsu v� Cold Blood",
-                        "Ho�n th�nh Heist",
-                        "L�y s�ng gi�m thanh d� ph�ng"
+                        "Tng Cool lên 10",
+                        "Mua dao ném",
+                        "Invest in Ninjutsu and Cold Blood trees",
+                        "Hon thình Heist",
+                        "Ly súng gim thanh d phng"
                     ]
                 },
                 {
@@ -1027,12 +1027,12 @@
                         "Equip cyberware for stealth and movement speed"
                     ],
                     "stepsVi": [
-                        "\u0010�y Cool l�n 16",
-                        "T\u0003ng Reflexes l�n 12",
-                        "T�m dao Stinger",
+                        "y Cool lên 16",
+                        "Tng Reflexes lên 12",
+                        "Tìm the iconic 'Stinger' throwing knife",
                         "Lấy dao Nehan từ Heist",
                         "Đầu tư Juggler perk",
-                        "Trang b� cyberware t�ng h�nh"
+                        "Trang b cyberware tàng hình"
                     ]
                 },
                 {
@@ -1050,11 +1050,11 @@
                         "Retrieve knives from bodies or use Juggler for ammo refund"
                     ],
                     "stepsVi": [
-                        "Max Cool 20",
-                        "L�y s�ng c�a Jackie d� ph�ng",
-                        "D�ng Fatal Throw crit \u0011�m b�o",
-                        "D�ng optical camo reset t�ng h�nh",
-                        "Cold Blood cho t�c \u0011� kh�ng ai s�nh",
+                        "Nâng tối đa Cool at 20 for full Cold Blood",
+                        "Ly súng ca Jackie d phng",
+                        "Dùng $1he 'Fatal Throw' perk for guaranteed crit throws",
+                        "Dng optical camo reset tàng hình",
+                        "The knife throw-to-Đánh bại chain with Cold Blood is unmatched speed",
                         "Juggler perk cho hồi đạn"
                     ]
                 }
@@ -1115,11 +1115,11 @@
                 "Juggler perk refunds knives on hit not just kill — keep throwing"
             ],
             "tipsVi": [
-                "N�m hai dao r�i d�ng optical camo reset",
+                "Ném hai dao rơi dng optical camo reset",
                 "Stinger tự hồi khi headshot",
                 "Cold Blood tăng speed, damage, armor",
                 "Nehan độc + Stinger kết liễu",
-                "Juggler h�i dao khi tr�ng, kh�ng ch� khi gi�t"
+                "Juggler perk refunds knives on hit not just Đánh bại — keep throwing"
             ]
         },
         {
@@ -1127,7 +1127,7 @@
             "name": "Gorilla Arms Brawler",
             "nameVi": "Đấm Bốc Gorilla",
             "description": "A meme Body build using Gorilla Arms for maximum punching power. Beat every enemy to death with your bare fists. Works surprisingly well after the 2.0 rework with the right perks.",
-            "descriptionVi": "Build Body meme v�i Gorilla Arms. \u0010�m ch�t m�i k� \u0011�ch b�ng tay kh�ng. B�t ng� hi�u qu� sau b�n 2.0 v�i perk \u0011�ng.",
+            "descriptionVi": "Build Body meme vi Gorilla Arms. m cht mi k ch bắng tay khng. Bt ng hiu qu sau bắn 2.0 vi perk ng.",
             "category": "meme",
             "difficulty": 2,
             "dlc": true,
@@ -1158,10 +1158,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Nomad cho Body cao",
-                        "T\u0003ng Body l�n 10",
-                        "Mua Gorilla Arms",
-                        "\u0010�u t� Athletics v� Street Brawler",
-                        "Ho�n th�nh Beat on the Brat",
+                        "Tng Body lên 10",
+                        "Lấy Gorilla Arms từ a ripperdoc",
+                        "Invest in Athletics and Street Brawler trees",
+                        "Hon thình Beat on the Brat",
                         "Trang bị Berserk"
                     ]
                 },
@@ -1180,12 +1180,12 @@
                         "Start stacking armor mods"
                     ],
                     "stepsVi": [
-                        "\u0010�y Body l�n 16",
-                        "T\u0003ng Technical l�n 10",
+                        "y Body lên 16",
+                        "Tng Technical lên 10",
                         "Mua Gorilla Arms điện legendary",
-                        "\u0010�u t� Quake v� Air Dash",
+                        "Invest in Quake and Air Dash for mobility",
                         "Trang bị Microgenerator",
-                        "X�p mod gi�p"
+                        "Start stacking armor mods"
                     ]
                 },
                 {
@@ -1203,12 +1203,12 @@
                         "Punch through the Beat on the Brat final boss"
                     ],
                     "stepsVi": [
-                        "Max Body 20",
+                        "Nâng tối đa Body at 20",
                         "Lấy Gorilla Arms Smasher từ DLC",
-                        "\u0010�y Technical l�n 15",
-                        "Berserk + Gorilla Arms",
+                        "y Technical lên 15",
+                        "Dùng $1erserk + Gorilla Arms for super punch mode",
                         "Quake đập địch xuống đất",
-                        "\u0010�m qua Beat on the Brat cu�i c�ng"
+                        "m qua Beat on the Brat cui công"
                     ]
                 }
             ],
@@ -1252,7 +1252,7 @@
                     "name": "Berserk Mk.5",
                     "type": "Cyberware",
                     "location": "Dogtown ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Dogtown ripperdoc"
                 },
                 {
                     "name": "Microgenerator",
@@ -1275,9 +1275,9 @@
                 "Equip 'Heal on Kill' perk for infinite sustain during fights"
             ],
             "tipsVi": [
-                "Gorilla Arms \u0011��c l�m l�i trong 2.0",
-                "Quake \u0011�p nh�m k� \u0011�ch",
-                "Berserk + \u0011�m t�ch = one-shot",
+                "Gorilla Arms got a massive 2.0 rework — they now scale with Body and have charge attacks",
+                "Dùng $1he Quake heavy attack to knock down groups of enemies",
+                "Berserk + charge punch = one-shot most regular enemies",
                 "Beat on the Brat cho trải nghiệm đỉnh cao",
                 "Trang bị Heal on Kill"
             ]
@@ -1287,7 +1287,7 @@
             "name": "Body Tech Shotgun",
             "nameVi": "Shotgun Kỹ Thuật",
             "description": "A Body/Technical build using tech shotguns that shoot through walls. High HP, high armor, and devastating close-range firepower. The tankiest approach to shotgunning in Night City.",
-            "descriptionVi": "Build Body/Technical v�:i tech shotgun xuy�n t��ng. Tr�u b�, gi�p cao.",
+            "descriptionVi": "Build Body/Technical v:i tech shotgun xuyên tường. Tríu b, gip cao.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1318,11 +1318,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Nomad",
-                        "Body 10",
-                        "D�ng shotgun �\u0018�i",
-                        "Perk Shotgun v� Athletics",
-                        "T�m Mox shotgun",
-                        "Ho�n th�nh Heist"
+                        "Tăng Body lên 10 for Annihilation perks",
+                        "Dùng $1 double-barrel shotgun",
+                        "Invest in Shotgun and Athletics perks",
+                        "Tìm the Mox shotgun",
+                        "Hon thình Heist"
                     ]
                 },
                 {
@@ -1340,17 +1340,17 @@
                         "Level Technical for crafting"
                     ],
                     "stepsVi": [
-                        "Body 16 v� Tech 12",
+                        "Tăng Body lên 16 and Tech to 12",
                         "Lấy tech shotgun",
                         "Order hoặc Guts shotgun",
-                        "Berserk cyberware",
-                        "Perk Engineering",
+                        "Trang bị Berserk cyberware",
+                        "Invest in Engineering perks",
                         "Technical cho chế tạo"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -1363,12 +1363,12 @@
                         "One-shot groups with charged shots"
                     ],
                     "stepsVi": [
-                        "Max Body 20 v� Tech 18",
+                        "Nâng tối đa Body at 20 and Tech at 18",
                         "Lấy Order shotgun",
-                        "Tech shotgun xuy�n t��ng",
-                        "Bio-Monitor tự h�\u001ci",
-                        "Berserk mi�&n nhi�&m",
-                        "One-shot c� nh�m"
+                        "Tech shotgun xuyên tường",
+                        "Bio-Monitor tự hi",
+                        "Dùng $1erserk for immunity",
+                        "One-shot groups with charged shots"
                     ]
                 }
             ],
@@ -1393,19 +1393,19 @@
                     "name": "Order",
                     "type": "Weapon",
                     "location": "Dogtown reward from DLC gig",
-                    "locationVi": "Dogtown phần thư�xng DLC"
+                    "locationVi": "Dogtown phần thưxng DLC"
                 },
                 {
                     "name": "Guts",
                     "type": "Weapon",
                     "location": "The Hunt quest from River Ward",
-                    "locationVi": "Nhi�!m vụ Hunt của River"
+                    "locationVi": "Nhi!m vụ Hunt của River"
                 },
                 {
                     "name": "Militech Berserk Mk.5",
                     "type": "Cyberware",
                     "location": "Dogtown ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Dogtown ripperdoc"
                 },
                 {
                     "name": "Bio-Monitor",
@@ -1428,19 +1428,19 @@
                 "Use grenades for crowd control while reloading"
             ],
             "tipsVi": [
-                "Tech shotgun t�ch xuy�n t��ng �\u001d d�ng Ping",
-                "Body 20 cho m�u nhi�u nh�t",
-                "Berserk + Order = kh�ng th� ng\u0012n",
-                "X�p cyberware gi�p",
-                "L�u �\u0018�n ki�m so�t �\u0018�m �\u0018�ng"
+                "Tech shotgun tch xuyên tường  dng Ping",
+                "Body 20 gives the most HP and health regen perks",
+                "Berserk + Order charged shot = unstoppable",
+                "Stack armor cyberware for maximum survivability",
+                "Lu n kiếm sot m ng"
             ]
         },
         {
             "slug": "reflex-cool-blades",
             "name": "Reflex Cool Blades",
-            "nameVi": "L��i L�nh L�ng",
+            "nameVi": "Reflex Cool Blades",
             "description": "A Reflex/Cool build focused on bladed weapons with a Sandevistan. Dash between enemies and slice them apart with katanas and mantis blades while time slows around you.",
-            "descriptionVi": "Build Reflex/Cool v�:i Sandevistan v� ki�m. L��:t gi�a k� �\u0018�9ch v�:i t�\u0018c �\u0018�\" th�i gian ch�m.",
+            "descriptionVi": "Build Reflex/Cool v:i Sandevistan v kiếm. L:t gia k 9ch v:i tc \" thi gian chm.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1471,10 +1471,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Street Kid",
-                        "Reflexes 12",
+                        "Tăng Reflexes lên 12 for blade perks",
                         "Mua katana cơ bản",
-                        "Perk Blade v� Reflex",
-                        "Ho�n th�nh Heist",
+                        "Invest in Blade and Reflex perks",
+                        "Hon thình Heist",
                         "Lấy Satori katana"
                     ]
                 },
@@ -1493,17 +1493,17 @@
                         "Invest in Cold Blood perks"
                     ],
                     "stepsVi": [
-                        "Reflexes 16 v� Cool 8",
+                        "Tăng Reflexes lên 16 and Cool to 8",
                         "Sandevistan Mk.3 hoặc 4",
-                        "T�m Byakko ho�c Jinchu-Maru",
-                        "Technical 10",
-                        "Optical Camo",
-                        "Perk Cold Blood"
+                        "Tìm Byakko or Jinchu-Maru",
+                        "Tăng Technical lên 10 for crafting",
+                        "Trang bị Optical Camo",
+                        "Invest in Cold Blood perks"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -1516,12 +1516,12 @@
                         "Sandevistan + Optical Camo = ghost assassin"
                     ],
                     "stepsVi": [
-                        "Max Reflexes 20 v� Cool 12",
-                        "Apogee Sandevistan",
-                        "Scalpel katana 100% crit",
-                        "Double jump v� air dash",
-                        "Cold Blood tĒng t�\u0018c",
-                        "Sandy + Camo = s�t th� ma"
+                        "Nâng tối đa Reflexes at 20 and Cool at 12",
+                        "Get Apogee Sandevistan",
+                        "Get Scalpel katana for 100% crit",
+                        "Dùng $1ouble jump and air dash",
+                        "Cold Blood boosts speed after kills",
+                        "Sandy + Camo = sát th ma"
                     ]
                 }
             ],
@@ -1546,13 +1546,13 @@
                     "name": "Apogee Sandevistan",
                     "type": "Cyberware",
                     "location": "Dogtown ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Dogtown ripperdoc"
                 },
                 {
                     "name": "Scalpel",
                     "type": "Weapon",
                     "location": "Dogtown main quest crate",
-                    "locationVi": "Dogtown nhi�!m v� ch�nh"
+                    "locationVi": "Dogtown nhi!m v chình"
                 },
                 {
                     "name": "Optical Camo Legendary",
@@ -1581,19 +1581,19 @@
                 "Keep a backup smart weapon for distant enemies"
             ],
             "tipsVi": [
-                "Sandy + Camo = t�ng h�nh khi ch�m th�i gian",
-                "Cold Blood tĒng t�\u0018c m�\u0014i kill",
-                "Air dash �p s�t tr��:c khi Sandy h�t",
-                "Scalpel crit 100% khi Sandy",
-                "Smart weapon d� ph�ng"
+                "Sandy + Camo = tàng hình khi chm thi gian",
+                "Cold Blood stacks increase movement speed with each kill",
+                "Air dash p sát tr:c khi Sandy ht",
+                "The Scalpel guarantees crit hits during Sandevistan",
+                "Keep a backup smart weapon for distant enemies"
             ]
         },
         {
             "slug": "cool-stealth-pistol",
             "name": "Cool Stealth Pistol",
-            "nameVi": "S�ng L�c T�ng H�nh",
+            "nameVi": "Súng Lục Tng Hnh",
             "description": "A Cool/Reflex stealth pistol build. Headshot enemies from stealth with suppressed pistols for massive damage. The definitive stealth assassin playstyle.",
-            "descriptionVi": "Build Cool/Reflex s�ng l�c t�ng h�nh. Headshot t� t�ng h�nh s�t th��ng l�:n.",
+            "descriptionVi": "Build Cool/Reflex súng lc tàng hình. Headshot t tàng hình sát thng l:n.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1624,11 +1624,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Corpo",
-                        "Cool 12",
-                        "S�ng gi�m thanh",
-                        "Perk Ninjutsu v� Cold Blood",
-                        "Ho�n th�nh Heist",
-                        "S�ng gi�m thanh t� Heist"
+                        "Tăng Cool lên 12 for stealth perks",
+                        "Súng gim thanh",
+                        "Invest in Ninjutsu and Cold Blood",
+                        "Hon thình Heist",
+                        "Súng gim thanh t Heist"
                     ]
                 },
                 {
@@ -1646,17 +1646,17 @@
                         "Find the best suppressor mods"
                     ],
                     "stepsVi": [
-                        "Cool 16",
-                        "L�y Death and Taxes s�ng",
-                        "Reflexes 10",
-                        "Optical Camo",
-                        "Perk Silent and Deadly",
+                        "Tăng Cool lên 16",
+                        "Ly Death and Taxes súng",
+                        "Tăng Reflexes lên 10 for handgun perks",
+                        "Trang bị Optical Camo",
+                        "Get the 'Silent and Deadly' perk",
                         "Mod giảm thanh"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -1669,12 +1669,12 @@
                         "Use Optical Camo to reset stealth"
                     ],
                     "stepsVi": [
-                        "Max Cool 20",
+                        "Nâng tối đa Cool at 20",
                         "Lấy Her Majesty từ DLC",
-                        "Reflexes 12",
+                        "Nâng tối đa Reflexes to 12",
                         "Headshot one-shot mọi thứ",
-                        "Cold Blood tĒng t�\u0018c",
-                        "Optical Camo reset t�ng h�nh"
+                        "Cold Blood gives speed after kills",
+                        "Optical Camo reset tàng hình"
                     ]
                 }
             ],
@@ -1699,13 +1699,13 @@
                     "name": "Her Majesty",
                     "type": "Weapon",
                     "location": "Dogtown DLC, during main story",
-                    "locationVi": "Dogtown DLC nhi�!m v� ch�nh"
+                    "locationVi": "Dogtown DLC nhi!m v chình"
                 },
                 {
                     "name": "Death and Taxes",
                     "type": "Weapon",
                     "location": "El Capitan's garage in Heywood",
-                    "locationVi": "Garage El Capitan �x Heywood"
+                    "locationVi": "El Capitan's garage in Heywood"
                 },
                 {
                     "name": "Optical Camo Legendary",
@@ -1728,19 +1728,19 @@
                 "Stack headshot damage mods on your pistol"
             ],
             "tipsVi": [
-                "Lu�n b�n t� t�ng h�nh 2x headshot",
-                "Her Majesty c� gi�m thanh v� crit cao",
-                "Cold Blood tĒng t�\u0018c sau kill",
-                "Optical Camo biến mất sau m�\u0014i kill",
-                "X�p mod s�t th��ng headshot"
+                "Lun bắn t tàng hình 2x headshot",
+                "Her Majesty has built-in silencer and high crit damage",
+                "Cold Blood procs after Đánh bại give speed to reposition",
+                "Optical Camo biến mất sau mi kill",
+                "Xp mod sát thng headshot"
             ]
         },
         {
             "slug": "body-berserk-lmg",
             "name": "Body Berserk LMG",
-            "nameVi": "LMG Cu�\u001cng N�\"",
+            "nameVi": "Body Berserk LMG",
             "description": "A Body build using light machine guns with Berserk cyberware. Suppressing fire that never stops. Activate Berserk for infinite stamina and spray everything down.",
-            "descriptionVi": "Build Body v�:i LMG v� Berserk. H�a l�c kh�ng ng�ng.",
+            "descriptionVi": "A Body build using light machine guns with Berserk cyberware. Suppressing fire that never stops. Activate Berserk for infinite stamina and spray everything down.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1771,10 +1771,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Nomad",
-                        "Body 10",
-                        "D�ng LMG ho�c AR",
-                        "Perk Annihilation",
-                        "Ho�n th�nh Heist",
+                        "Tăng Body lên 10",
+                        "Dùng $1ny LMG or assault rifle",
+                        "Invest in Annihilation perks",
+                        "Hon thình Heist",
                         "Lấy Defender LMG"
                     ]
                 },
@@ -1793,17 +1793,17 @@
                         "Invest in 'Spontaneous Obliteration'"
                     ],
                     "stepsVi": [
-                        "Body 16",
-                        "Berserk Mk.3",
-                        "T�m Big Honk LMG",
-                        "Technical 10",
-                        "Bio-Monitor",
-                        "Spontaneous Obliteration"
+                        "Tăng Body lên 16",
+                        "Get Berserk Mk.3",
+                        "Tìm the 'Big Honk' LMG",
+                        "Tăng Technical lên 10 for armor",
+                        "Trang bị Bio-Monitor",
+                        "Invest in 'Spontaneous Obliteration'"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -1816,12 +1816,12 @@
                         "The LMG suppresses enemy groups"
                     ],
                     "stepsVi": [
-                        "Max Body 20 v� Tech 15",
+                        "Nâng tối đa Body at 20 and Tech at 15",
                         "LMG huyền thoại từ DLC",
-                        "Berserk �\u0018�n v� stamina v� h�n",
-                        "X�p cyberware gi�p",
-                        "B�n t� h�ng khi di chuy�n",
-                        "LMG ch� �p nh�m �\u0018�9ch"
+                        "Dùng $1erserk for infinite ammo and stamina",
+                        "Stack armor cyberware",
+                        "Bắn t hng khi di chuyn",
+                        "The LMG suppresses enemy groups"
                     ]
                 }
             ],
@@ -1839,7 +1839,7 @@
                     "name": "Militech Berserk Mk.5",
                     "type": "Cyberware",
                     "location": "Dogtown ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Dogtown ripperdoc"
                 },
                 {
                     "name": "Big Honk LMG",
@@ -1868,19 +1868,19 @@
                 "Equip 'Burn This' mod for fire damage on critical hits"
             ],
             "tipsVi": [
-                "Berserk stamina v� h�n",
-                "LMG ch� �p �\u0018�9ch sau n�p",
-                "Spontaneous Obliteration",
-                "B�n t� h�ng ch�nh x�c",
-                "Mod Burn This"
+                "Berserk gives infinite stamina �\u001d sprint while firing your LMG",
+                "LMGs suppress enemies, forcing them to stay behind cover",
+                "Dùng $1he 'Spontaneous Obliteration' perk for explosions on kill",
+                "Bắn t hng chình xc",
+                "Trang bị 'Burn This' mod for fire damage on critical hits"
             ]
         },
         {
             "slug": "tech-precision-rifle",
             "name": "Tech Precision Rifle",
-            "nameVi": "S�ng Tr��ng Ch�nh X�c",
+            "nameVi": "Súng Tríng Chình Xc",
             "description": "A Technical/Cool build using tech precision rifles. Charge your shots for maximum damage and penetrate through walls. Headshot enemies from extreme range with perfect accuracy.",
-            "descriptionVi": "Build Technical/Cool v�:i s�ng tr��ng ch�nh x�c. T�ch �\u0018�n xuy�n t��ng.",
+            "descriptionVi": "Build Technical/Cool v:i súng trng chình xc. Tch n xuyên tường.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1911,11 +1911,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Corpo",
-                        "Technical 10",
-                        "S�ng tr��ng tech c� b�n",
-                        "Cool 8",
-                        "Perk Engineering",
-                        "Ho�n th�nh Heist"
+                        "Tăng Technical lên 10",
+                        "Súng trng tech c bắn",
+                        "Tăng Cool lên 8 for stealth",
+                        "Invest in Engineering tree",
+                        "Hon thình Heist"
                     ]
                 },
                 {
@@ -1933,17 +1933,17 @@
                         "Craft legendary mods"
                     ],
                     "stepsVi": [
-                        "Technical 16",
+                        "Tăng Technical lên 16",
                         "Lấy Widow Maker",
-                        "Cool 14",
-                        "Target Analysis cyberware",
-                        "H�c timing t�ch",
+                        "Tăng Cool lên 14 for stealth perks",
+                        "Trang bị Target Analysis cyberware",
+                        "Learn the charge timing",
                         "Chế tạo mod huyền thoại"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -1956,12 +1956,12 @@
                         "One-shot from stealth is guaranteed"
                     ],
                     "stepsVi": [
-                        "Max Technical 20 v� Cool 18",
+                        "Nâng tối đa Technical at 20 and Cool at 18",
                         "Lấy Hypercritical từ DLC",
-                        "T�ch �\u0018�y xuy�n m�i th�",
-                        "Ping + �\u0018�n t�ch xuy�n t��ng",
-                        "Mod crit damage",
-                        "One-shot t� t�ng h�nh"
+                        "Tch y xuyên mi th",
+                        "Ping + n tch xuyên tường",
+                        "Stack crit damage mods",
+                        "One-shot t tàng hình"
                     ]
                 }
             ],
@@ -1986,25 +1986,25 @@
                     "name": "Hypercritical",
                     "type": "Weapon",
                     "location": "Dogtown DLC from a hidden cache",
-                    "locationVi": "Dogtown DLC kho h�ng �n"
+                    "locationVi": "Dogtown DLC from a hidden cache"
                 },
                 {
                     "name": "Widow Maker",
                     "type": "Weapon",
                     "location": "Crafted or found during main quest",
-                    "locationVi": "Ch� t�o ho�c t�m th�y"
+                    "locationVi": "Crafted or found during main quest"
                 },
                 {
                     "name": "Ping Quickhack",
                     "type": "Weapon",
                     "location": "Quickhack vendor or crafted",
-                    "locationVi": "C�a h�ng quickhack"
+                    "locationVi": "Quickhack vendor or crafted"
                 },
                 {
                     "name": "Target Analysis Cyberware",
                     "type": "Cyberware",
                     "location": "Ripperdoc in Wellsprings",
-                    "locationVi": "Ripperdoc Wellsprings"
+                    "locationVi": "Ripperdoc in Wellsprings"
                 }
             ],
             "tips": [
@@ -2015,19 +2015,19 @@
                 "Use 'Silent and Deadly' perk for staying hidden after kills"
             ],
             "tipsVi": [
-                "S�ng tech b� qua gi�p khi t�ch �\u0018�y",
-                "Ping + �\u0018�n t�ch xuy�n t��ng",
-                "Lu�n t�ch �\u0018�y cho xuy�n",
-                "Crit damage x headshot",
-                "Silent and Deadly"
+                "Súng tech b qua gip khi tch y",
+                "Ping + n tch xuyên tường",
+                "Lun tch y cho xuyên",
+                "Crit damage mods stack multiplicatively with headshots",
+                "Dùng $1Silent and Deadly' perk for staying hidden after kills"
             ]
         },
         {
             "slug": "intelligence-monowire",
             "name": "Intelligence Monowire",
-            "nameVi": "Monowire Tr� Tu�!",
+            "nameVi": "Monowire Trí Tu!",
             "description": "An Intelligence/Reflex build using the Monowire with quickhacks. The Monowire now scales with Intelligence in 2.0. Hack enemies, then finish them with devastating wire attacks.",
-            "descriptionVi": "Build Intelligence/Reflex v�:i Monowire v� quickhacks. Monowire t\u0012ng theo Int trong 2.0.",
+            "descriptionVi": "An Intelligence/Reflex build using the Monowire with quickhacks. The Monowire now scales with Intelligence in 2.0. Hack enemies, then finish them with devastating wire attacks.",
             "category": "trend",
             "difficulty": 2,
             "dlc": true,
@@ -2058,11 +2058,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Netrunner",
-                        "Int 12",
+                        "Tăng Intelligence lên 12",
                         "Quickhack cơ bản",
                         "Monowire từ ripperdoc",
-                        "Perk Quickhacking",
-                        "Ho�n th�nh Heist"
+                        "Invest in Quickhacking perks",
+                        "Hon thình Heist"
                     ]
                 },
                 {
@@ -2080,17 +2080,17 @@
                         "Invest in Relic perks"
                     ],
                     "stepsVi": [
-                        "Int 16 v� Reflex 10",
+                        "Tăng Int lên 16 and Reflex to 10",
                         "Quickhack huyền thoại",
-                        "N�ng Monowire huy�n tho�i",
-                        "Raven cyberdeck",
+                        "Nâng cấp Monowire to legendary",
+                        "Trang bị the Raven cyberdeck",
                         "Học Monowire combo",
-                        "Perk Relic"
+                        "Invest in Relic perks"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -2103,11 +2103,11 @@
                         "The Monowire whip has incredible range"
                     ],
                     "stepsVi": [
-                        "Max Int 20 v� Reflex 15",
-                        "Netwatch cyberdeck",
-                        "Monowire l�y quickhacks",
-                        "Short Circuit + Monowire",
-                        "Optical Camo",
+                        "Nâng tối đa Int at 20 and Reflex at 15",
+                        "Get Netwatch cyberdeck",
+                        "Monowire spreads quickhacks on hit",
+                        "Dùng $1hort Circuit + Monowire combo",
+                        "Trang bị Optical Camo for stealth",
                         "Roi Monowire tầm xa"
                     ]
                 }
@@ -2132,7 +2132,7 @@
                     "name": "Netwatch Cyberdeck",
                     "type": "Cyberware",
                     "location": "Pacifica ripperdoc after Voodoo Boys",
-                    "locationVi": "Ripperdoc Pacifica"
+                    "locationVi": "Pacifica ripperdoc after Voodoo Boys"
                 },
                 {
                     "name": "Raven Cyberdeck",
@@ -2155,19 +2155,19 @@
                 "Invest in both Quickhacking and Blades perks for synergy"
             ],
             "tipsVi": [
-                "Monowire 2.0 t\u0012ng theo Int, l�y quickhack",
+                "Monowire in 2.0+ scales with Intelligence and can spread quickhacks",
                 "Short Circuit crit từ Monowire",
-                "Contagion y�u nh�m, Monowire k�t li�&u",
-                "Monowire t�ch t�m xa",
-                "Perk Quickhacking v� Blades"
+                "Dùng $1ontagion to weaken groups, then Monowire to finish",
+                "The Monowire charged attack has longer range than it looks",
+                "Invest in both Quickhacking and Blades perks for synergy"
             ]
         },
         {
             "slug": "cool-throwing-weapons",
             "name": "Cool Throwing Weapons",
-            "nameVi": "Vi Kh� N�m",
+            "nameVi": "Vi Khí Ném",
             "description": "A Cool build focused on throwing knives and axes. Silent, deadly, and stylish. Retrieve your weapons after throwing and chain kills with Cold Blood speed boosts.",
-            "descriptionVi": "Build Cool v�:i dao n�m v� r�u n�m. L�ng, ch�t ng��i, phong c�ch.",
+            "descriptionVi": "Build Cool v:i dao ném v ru ném. Lng, cht ngi, phong cch.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2198,11 +2198,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Street Kid",
-                        "Cool 12",
-                        "Mua dao n�m",
-                        "Perk Ninjutsu v� Cold Blood",
-                        "Ho�n th�nh Heist",
-                        "L�y Nehan dao n�m"
+                        "Tăng Cool lên 12",
+                        "Mua dao ném",
+                        "Invest in Ninjutsu and Cold Blood",
+                        "Hon thình Heist",
+                        "Ly Nehan dao ném"
                     ]
                 },
                 {
@@ -2220,17 +2220,17 @@
                         "Learn the knife trajectory"
                     ],
                     "stepsVi": [
-                        "Cool 16",
-                        "T�m Stinger dao n�m",
-                        "Perk Juggler",
-                        "Reflexes 10",
-                        "Optical Camo",
-                        "Học quỹ �\u0018ạo dao"
+                        "Tăng Cool lên 16",
+                        "Tm Stinger dao ném",
+                        "Get 'Juggler' perk for refunds",
+                        "Tăng Reflexes lên 10",
+                        "Trang bị Optical Camo",
+                        "Học quỹ ạo dao"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -2243,12 +2243,12 @@
                         "Use both Stinger and Nehan for double throws"
                     ],
                     "stepsVi": [
-                        "Max Cool 20",
+                        "Nâng tối đa Cool at 20",
                         "Bladewolf từ DLC",
-                        "Stinger h�\u001ci khi headshot",
-                        "Cold Blood tĒng t�\u0018c",
-                        "Optical Camo reset",
-                        "Hai dao Stinger v� Nehan"
+                        "Stinger refunds on headshot kill",
+                        "Chain throws with Cold Blood speed",
+                        "Optical Camo resets stealth",
+                        "Dùng $1oth Stinger and Nehan for double throws"
                     ]
                 }
             ],
@@ -2279,7 +2279,7 @@
                     "name": "Nehan",
                     "type": "Weapon",
                     "location": "The Heist in Yorinobu's penthouse",
-                    "locationVi": "The Heist penthouse Yorinobu"
+                    "locationVi": "The Heist in Yorinobu's penthouse"
                 },
                 {
                     "name": "Optical Camo Legendary",
@@ -2303,18 +2303,18 @@
             ],
             "tipsVi": [
                 "Stinger về tay khi headshot",
-                "Juggler h�\u001ci dao khi tr�ng",
-                "Hai dao + Camo reset",
-                "Cold Blood tĒng t�\u0018c",
-                "Tập quỹ �\u0018ạo dao"
+                "The 'Juggler' perk refunds knives on hit, not just kill",
+                "Throw two knives then use Optical Camo to reset and throw again",
+                "Cold Blood speed stacks make you incredibly mobile after each kill",
+                "Tập quỹ ạo dao"
             ]
         },
         {
             "slug": "body-solo-tank",
             "name": "Body Solo Tank",
-            "nameVi": "Xe TĒng Đ�\"c Di�&n",
+            "nameVi": "Xe TĒng Đ\"c Di&n",
             "description": "A Body/Technical tank build that never dies. Max HP, max armor, health regen, and damage mitigation. Walk through enemy fire and punch everyone to death.",
-            "descriptionVi": "Build Body/Technical tank kh�ng ch�t. M�u t�\u0018i �\u0018a, gi�p t�\u0018i �\u0018a, h�\u001ci m�u.",
+            "descriptionVi": "A Body/Technical tank build that never dies. Max HP, max armor, health regen, and damage mitigation. Walk through enemy fire and punch everyone to death.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -2345,11 +2345,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Nomad",
-                        "Body 10",
-                        "Perk Athletics",
-                        "Subdermal Armor",
-                        "Ho�n th�nh Heist",
-                        "Mod gi�p"
+                        "Tăng Body lên 10",
+                        "Invest in Athletics perks",
+                        "Get Subdermal Armor",
+                        "Hon thình Heist",
+                        "Tìm the best armor mods"
                     ]
                 },
                 {
@@ -2367,17 +2367,17 @@
                         "Get Berserk for emergency immunity"
                     ],
                     "stepsVi": [
-                        "Body 16 v� Tech 12",
-                        "Bio-Monitor tự h�\u001ci",
-                        "Second Heart h�\u001ci sinh",
-                        "X�p cyberware gi�p",
+                        "Tăng Body lên 16 and Tech to 12",
+                        "Bio-Monitor tự hi",
+                        "Trang bị Second Heart for revive",
+                        "Stack all armor cyberware",
                         "Technical cho chế tạo",
-                        "Berserk mi�&n nhi�&m"
+                        "Get Berserk for emergency immunity"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -2390,12 +2390,12 @@
                         "Use Berserk as an oh-shit button"
                     ],
                     "stepsVi": [
-                        "Max Body 20 v� Tech 18",
-                        "Cyberware gi�p huy�n tho�i",
-                        "Perk Painkiller",
-                        "Heal on Kill",
+                        "Nâng tối đa Body at 20 and Tech at 18",
+                        "Get all legendary armor cyberware",
+                        "Dùng $1he 'Painkiller' perk",
+                        "Trang bị \"Heal on Kill\" mods",
                         "Đi qua hỏa lực",
-                        "Berserk n�t kh�n c�p"
+                        "Dùng $1erserk as an oh-shit button"
                     ]
                 }
             ],
@@ -2431,13 +2431,13 @@
                     "name": "Militech Berserk Mk.5",
                     "type": "Cyberware",
                     "location": "Dogtown ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Dogtown ripperdoc"
                 },
                 {
                     "name": "Legendary Gorilla Arms",
                     "type": "Cyberware",
                     "location": "City Center ripperdoc",
-                    "locationVi": "Ripperdoc City Center"
+                    "locationVi": "City Center ripperdoc"
                 }
             ],
             "tips": [
@@ -2448,19 +2448,19 @@
                 "The tank build is unstoppable in close quarters"
             ],
             "tipsVi": [
-                "X�p gi�p kh�ng gi�:i h�n",
-                "Bio-Monitor t� h�\u001ci �x 30% m�u",
-                "Second Heart h�\u001ci sinh m�\"t lần",
-                "Berserk 100% mi�&n nhi�&m",
-                "Xe t\u0012ng kh�ng th� ng\u0012n"
+                "Stack as much armor as possible �\u001d there's no cap in Cyberpunk 2.0",
+                "Bio-Monitor auto-heals at 30% HP �\u001d a life saver",
+                "Second Heart hi sinh m\"t lần",
+                "Dùng $1erserk for 100% damage immunity in emergencies",
+                "The tank build is unstoppable in close quarters"
             ]
         },
         {
             "slug": "reflex-handguns",
             "name": "Reflex Handguns",
-            "nameVi": "S�ng L�c Nhanh Nh�n",
+            "nameVi": "Súng Lục Nhanh Nhn",
             "description": "A Reflex/Cool build using power handguns with ricochet. Use the handgun to bounce bullets off walls and hit enemies behind cover. Headshot ricochets for stylish kills.",
-            "descriptionVi": "Build Reflex/Cool v�:i s�ng l�c n�y �\u0018�n. B�n n�y t��ng headshot.",
+            "descriptionVi": "Build Reflex/Cool v:i súng lc ny n. Bắn ny tường headshot.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -2491,11 +2491,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Street Kid",
-                        "Reflexes 12",
-                        "S�ng l�c c� b�n",
-                        "Perk Handgun",
-                        "Ho�n th�nh Heist",
-                        "Kongou s�ng l�c"
+                        "Tăng Reflexes lên 12",
+                        "Súng lc c bắn",
+                        "Invest in Handgun perks",
+                        "Hon thình Heist",
+                        "Kongou súng lc"
                     ]
                 },
                 {
@@ -2513,17 +2513,17 @@
                         "Learn to aim ricochets"
                     ],
                     "stepsVi": [
-                        "Reflexes 16",
-                        "Dying Night s�ng",
-                        "Cool 10",
-                        "Perk nảy �\u0018ạn",
-                        "Kerenzikov",
+                        "Tăng Reflexes lên 16",
+                        "Dying Night súng",
+                        "Tăng Cool lên 10",
+                        "Perk nảy ạn",
+                        "Trang bị Kerenzikov for slow time",
                         "Học ngắm nảy"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -2536,12 +2536,12 @@
                         "The ricochet is especially deadly in PvP"
                     ],
                     "stepsVi": [
-                        "Max Reflexes 20 v� Cool 12",
+                        "Nâng tối đa Reflexes at 20 and Cool at 12",
                         "Amnesty từ DLC",
-                        "N�y headshot quanh g�c",
+                        "Ricochet headshots around corners",
                         "Sandevistan ngắm chậm",
-                        "Mod crit handgun",
-                        "Nảy �\u0018ạn PvP"
+                        "Trang bị handgun crit mods",
+                        "Nảy ạn PvP"
                     ]
                 }
             ],
@@ -2566,13 +2566,13 @@
                     "name": "Amnesty",
                     "type": "Weapon",
                     "location": "Dogtown DLC from a gig reward",
-                    "locationVi": "Dogtown DLC phần thư�xng gig"
+                    "locationVi": "Dogtown DLC phần thưxng gig"
                 },
                 {
                     "name": "Dying Night",
                     "type": "Weapon",
                     "location": "The Heist, found on the roof",
-                    "locationVi": "The Heist tr�n m�i"
+                    "locationVi": "The Heist, found on the roof"
                 },
                 {
                     "name": "Kerenzikov",
@@ -2584,7 +2584,7 @@
                     "name": "Apogee Sandevistan",
                     "type": "Cyberware",
                     "location": "Dogtown ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Dogtown ripperdoc"
                 }
             ],
             "tips": [
@@ -2595,11 +2595,11 @@
                 "Stack crit damage �\u001d each ricochet headshot can one-shot"
             ],
             "tipsVi": [
-                "\u0010�n n�y qua g�c",
-                "Ch�0 b�o n�y cho th�y qu� �\u0018�o",
-                "Headshot n�y full s�t th��ng",
-                "Sandevistan ng�m n�y ho�n h�o",
-                "Crit damage one-shot"
+                "Ricochet shots can hit enemies behind full cover",
+                "The ricochet indicator shows the bounce trajectory",
+                "Headshot ny full sát thng",
+                "Dùng $1andevistan to line up perfect ricochet shots",
+                "Stack crit damage �\u001d each ricochet headshot can one-shot"
             ]
         },
         {
@@ -2607,7 +2607,7 @@
             "name": "Tech SMG Runner",
             "nameVi": "SMG Kỹ Thuật",
             "description": "A Technical/Reflex build using tech SMGs. High fire rate with charge mechanics that penetrate cover. Spray through walls and mow down groups with sustained fire.",
-            "descriptionVi": "Build Technical/Reflex v�:i tech SMG. T�\u0018c �\u0018�\" b�n cao xuy�n t��ng.",
+            "descriptionVi": "Build Technical/Reflex v:i tech SMG. Tc \" bắn cao xuyên tường.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -2638,11 +2638,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Corpo",
-                        "Technical 10",
+                        "Tăng Technical lên 10",
                         "SMG cơ bản",
-                        "Perk Engineering",
-                        "Ho�n th�nh Heist",
-                        "T�m tech SMG"
+                        "Invest in Engineering perks",
+                        "Hon thình Heist",
+                        "Tìm the first tech SMG"
                     ]
                 },
                 {
@@ -2660,17 +2660,17 @@
                         "Learn the charge mechanic"
                     ],
                     "stepsVi": [
-                        "Tech 16 v� Reflex 10",
-                        "Fenrir SMG",
-                        "N�ng huy�n tho�i",
-                        "Reflex cho SMG perks",
-                        "Mod SMG s�t th��ng",
-                        "H�c t�ch �\u0018�n"
+                        "Tăng Tech lên 16 and Reflex to 10",
+                        "Get the iconic 'Fenrir' SMG",
+                        "Nâng cấp to legendary",
+                        "Level Reflex for SMG perks",
+                        "Mod SMG sát thng",
+                        "Learn the charge mechanic"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -2683,11 +2683,11 @@
                         "Use Kerenzikov for mobility"
                     ],
                     "stepsVi": [
-                        "Max Tech 20 v� Reflex 15",
+                        "Nâng tối đa Tech at 20 and Reflex at 15",
                         "Nehan SMG từ DLC",
-                        "Tech SMG xuy�n t��ng",
+                        "Tech SMG xuyên tường",
                         "Ping + bắn qua tường",
-                        "T�\u0018c �\u0018�\" cao tan nh�m",
+                        "High fire rate melts groups",
                         "Kerenzikov di chuyỒn"
                     ]
                 }
@@ -2706,13 +2706,13 @@
                     "name": "Fenrir",
                     "type": "Weapon",
                     "location": "Found during main quest in a container",
-                    "locationVi": "Nhi�!m v� ch�nh trong container"
+                    "locationVi": "Nhi!m v chình trong container"
                 },
                 {
                     "name": "Ping Quickhack",
                     "type": "Weapon",
                     "location": "Quickhack vendor",
-                    "locationVi": "C�a h�ng quickhack"
+                    "locationVi": "Quickhack vendor"
                 },
                 {
                     "name": "Kerenzikov",
@@ -2729,19 +2729,19 @@
                 "Use the run-and-gun playstyle for maximum effect"
             ],
             "tipsVi": [
-                "Tech SMG xuy�n m�i b� m�t khi t�ch",
-                "Ping trư�:c, bắn qua tường",
-                "T�\u0018c �\u0018�\" cao tan nh�m",
-                "SMG tiết ki�!m �\u0018ạn nhất",
-                "Ch�y v� b�n"
+                "Tech SMG xuyên mi b mt khi tch",
+                "Ping trư:c, bắn qua tường",
+                "The high fire rate melts groups quickly",
+                "SMG tiết kiế!m ạn nhất",
+                "Chy v bắn"
             ]
         },
         {
             "slug": "body-melee-brawler",
             "name": "Body Melee Brawler",
-            "nameVi": "Đấm B�\u0018c Cận Chiến",
+            "nameVi": "Đấm Bc Cận Chiến",
             "description": "A pure Body melee build using Gorilla Arms and a baseball bat. No guns, no hacks �\u001d just fists and melee weapons. The most visceral way to play Cyberpunk.",
-            "descriptionVi": "Build Body c�n chi�n v�:i Gorilla Arms v� g�y b�ng ch�y. Kh�ng s�ng. Ch�0 �\u0018�m.",
+            "descriptionVi": "Build Body cn chin v:i Gorilla Arms v gy bắng chy. Khíng súng. Ch0 m.",
             "category": "meme",
             "difficulty": 2,
             "dlc": true,
@@ -2772,11 +2772,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Nomad",
-                        "Body 10",
-                        "Gorilla Arms s�:m",
-                        "G�y b�ng ch�y",
-                        "Perk Street Brawler",
-                        "Beat on the Brat"
+                        "Tăng Body lên 10",
+                        "Get Gorilla Arms early",
+                        "Gy bắng chy",
+                        "Invest in Street Brawler perks",
+                        "Hoàn thành Đánh bại on the Brat quests"
                     ]
                 },
                 {
@@ -2794,17 +2794,17 @@
                         "Learn the dodge timing"
                     ],
                     "stepsVi": [
-                        "Body 16",
-                        "Berserk",
-                        "T�m Sasquatch's Hammer",
-                        "Technical 10",
-                        "Bio-Monitor",
-                        "H�c n�"
+                        "Tăng Body lên 16",
+                        "Get Berserk cyberware",
+                        "Tìm the 'Sasquatch's Hammer'",
+                        "Tăng Technical lên 10 for armor",
+                        "Trang bị Bio-Monitor",
+                        "Learn the dodge timing"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -2817,12 +2817,12 @@
                         "Stack armor for survivability"
                     ],
                     "stepsVi": [
-                        "Max Body 20 v� Tech 15",
-                        "Sasquatch's Hammer one-shot",
+                        "Nâng tối đa Body at 20 and Tech at 15",
+                        "Sasquatch's Hammer one-shots most enemies",
                         "Berserk bất khả chiến bại",
-                        "Gorilla Arms t�ch",
-                        "Quake AoE",
-                        "X�p gi�p"
+                        "Fully charged Gorilla Arms punch",
+                        "Dùng $1round slam (Quake) for AoE",
+                        "Stack armor for survivability"
                     ]
                 }
             ],
@@ -2853,13 +2853,13 @@
                     "name": "Legendary Gorilla Arms",
                     "type": "Cyberware",
                     "location": "City Center ripperdoc",
-                    "locationVi": "Ripperdoc City Center"
+                    "locationVi": "City Center ripperdoc"
                 },
                 {
                     "name": "Militech Berserk Mk.5",
                     "type": "Cyberware",
                     "location": "Dogtown ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Dogtown ripperdoc"
                 },
                 {
                     "name": "Bio-Monitor",
@@ -2882,19 +2882,19 @@
                 "Beat on the Brat quests are mandatory for all brawler builds"
             ],
             "tipsVi": [
-                "Sasquatch's Hammer s�t th��ng cao nh�t",
-                "Quake �\u0018�p nh�m",
+                "Sasquatch's Hammer sát thng cao nht",
+                "Dùng $1he Quake ground slam to knock down groups",
                 "Berserk + cận chiến",
-                "Gorilla Arms t�ch s�t th��ng poise",
-                "Beat on the Brat bắt bu�\"c"
+                "Gorilla Arms tch sát thng poise",
+                "Beat on the Brat bắt bu\"c"
             ]
         },
         {
             "slug": "cool-stealth-netrunner",
             "name": "Cool Stealth Netrunner",
-            "nameVi": "Netrunner T�ng H�nh",
+            "nameVi": "Cool Stealth Netrunner",
             "description": "A Cool/Intelligence hybrid build that combines stealth with quickhacks. Hack enemies from the shadows, keep your distance, and never get detected. The ultimate ghost build.",
-            "descriptionVi": "Build Cool/Intelligence k�t h�p t�ng h�nh v� quickhacks. Hack t� b�ng t�\u0018i.",
+            "descriptionVi": "Build Cool/Intelligence kt hp tàng hình v quickhacks. Hack t bắng ti.",
             "category": "trend",
             "difficulty": 2,
             "dlc": true,
@@ -2925,11 +2925,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Corpo",
-                        "Int 12",
-                        "Cool 10",
-                        "Cyberdeck",
-                        "Breach Protocol",
-                        "Ho�n th�nh Heist"
+                        "Tăng Int lên 12 for quickhacks",
+                        "Tăng Cool lên 10 for stealth",
+                        "Lấy a cyberdeck từ ripperdoc",
+                        "Invest in Breach Protocol",
+                        "Hon thình Heist"
                     ]
                 },
                 {
@@ -2947,17 +2947,17 @@
                         "Use Ping to see enemies through walls"
                     ],
                     "stepsVi": [
-                        "Int 16 v� Cool 14",
+                        "Tăng Int lên 16 and Cool to 14",
                         "Quickhack huyền thoại",
-                        "Suicide v� System Collapse",
-                        "Netwatch cyberdeck",
-                        "Perk Ninjutsu",
-                        "Ping xuy�n t��ng"
+                        "Learn Suicide and System Collapse",
+                        "Trang bị the Netwatch cyberdeck",
+                        "Invest in Ninjutsu for stealth",
+                        "Ping xuyên tường"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "40-50+",
                     "areas": "City Center, Pacifica, Dogtown",
                     "areasVi": "City Center, Pacifica, Dogtown",
@@ -2970,12 +2970,12 @@
                         "Optical Camo as emergency escape"
                     ],
                     "stepsVi": [
-                        "Max Int 20 v� Cool 18",
-                        "Biotech Σ cyberdeck DLC",
-                        "System Collapse h� g�c t�c th�",
-                        "Cool 18 t�\u0018c �\u0018�\" t�ng h�nh",
-                        "Kh�ng bao gi� b�9 ph�t hi�!n",
-                        "Optical Camo tho�t hi�m"
+                        "Nâng tối đa Int at 20 and Cool at 18",
+                        "Lấy the Biotech Σ cyberdeck từ DLC",
+                        "Dùng $1ystem Collapse for instant knockouts",
+                        "Cool 18 tc \" tàng hình",
+                        "Khíng bao gi b9 pht hi!n",
+                        "Optical Camo as emergency escape"
                     ]
                 }
             ],
@@ -3000,13 +3000,13 @@
                     "name": "Biotech Σ Cyberdeck",
                     "type": "Cyberware",
                     "location": "Dogtown DLC ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown DLC"
+                    "locationVi": "Dogtown DLC ripperdoc"
                 },
                 {
                     "name": "Netwatch Cyberdeck",
                     "type": "Cyberware",
                     "location": "Pacifica ripperdoc",
-                    "locationVi": "Ripperdoc Pacifica"
+                    "locationVi": "Pacifica ripperdoc"
                 },
                 {
                     "name": "Memory Boost Cyberware",
@@ -3035,19 +3035,19 @@
                 "Optical Camo is an emergency escape if detected"
             ],
             "tipsVi": [
-                "System Collapse l�ng v� ch�t ngay",
-                "Cool 18 t�\u0018c �\u0018�\" ng�\u001ci nhanh nhất",
-                "Breach Protocol trư�:c",
-                "Suicide g�y h�\u0014n lo�n",
-                "Optical Camo tho�t"
+                "System Collapse lêng v cht ngay",
+                "Cool 18 tc \" ngi nhanh nhất",
+                "Breach Protocol trư:c",
+                "Suicide quickhack causes chaos without revealing your position",
+                "Optical Camo is an emergency escape if detected"
             ]
         },
         {
             "slug": "pure-cool-pistol",
             "name": "Pure Cool Pistol",
-            "nameVi": "S�ng L�c Thu�n Cool",
+            "nameVi": "Súng Lục Thuầnn Cool",
             "description": "A stealth pistol build focusing entirely on Cool and Handguns. Headshots from stealth deal 300% damage. The Pride weapon from the DLC is the perfect tool for this build.",
-            "descriptionVi": "Build s�ng l�c t�ng h�nh v�i Cool v� Handguns. B�n \u0011�u t� t�ng h�nh x3 s�t th��ng. Pride t� DLC.",
+            "descriptionVi": "Build súng lc tàng hình vi Cool v Handguns. Bắn u t tàng hình x3 sát thng. Pride t DLC.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3078,10 +3078,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Solo",
-                        "Cool 12",
-                        "Perk Handgun v� Headshot",
-                        "Mua s�ng l�c",
-                        "T�ng h�nh b�n \u0011�u",
+                        "Tăng Cool lên 12 first",
+                        "Focus on Handgun and Headshot perks",
+                        "Mua súng lc",
+                        "Tng hình bắn u",
                         "Gắn silencer"
                     ]
                 },
@@ -3100,12 +3100,12 @@
                         "Use Optical Camo for emergency stealth"
                     ],
                     "stepsVi": [
-                        "Cool 16",
-                        "Reflexes 10",
+                        "Tăng Cool lên 16",
+                        "Tăng Reflexes lên 10 for handling",
                         "Pride từ DLC",
-                        "N�ng Tier 4",
-                        "Perk Cold Blood",
-                        "Optical Camo"
+                        "Nâng cấp it to Tier 4",
+                        "Invest in Cold Blood perks",
+                        "Dùng $1ptical Camo for emergency stealth"
                     ]
                 },
                 {
@@ -3123,12 +3123,12 @@
                         "Use Ping to see enemies through walls"
                     ],
                     "stepsVi": [
-                        "Max Cool 20",
-                        "Pride Tier 5++",
-                        "B�n \u0011�u x3 s�t th��ng",
+                        "Nâng tối đa Cool at 20",
+                        "Nâng tối đa Pride to Tier 5++",
+                        "Bắn u x3 sát thng",
                         "Cold Blood tốc độ",
-                        "M�t ph�t m�t m�ng",
-                        "Ping xuy�n t��ng"
+                        "One-shot almost every enemy",
+                        "Ping xuyên tường"
                     ]
                 }
             ],
@@ -3146,7 +3146,7 @@
                     "name": "Pride",
                     "type": "Weapon",
                     "location": "DLC Dogtown, from the quest",
-                    "locationVi": "DLC Dogtown"
+                    "locationVi": "DLC Dogtown, from the quest"
                 },
                 {
                     "name": "Optical Camo Legendary",
@@ -3164,7 +3164,7 @@
                     "name": "Neofiber",
                     "type": "Cyberware",
                     "location": "Ripperdoc in Heywood",
-                    "locationVi": "Ripperdoc Heywood"
+                    "locationVi": "Ripperdoc in Heywood"
                 }
             ],
             "tips": [
@@ -3175,19 +3175,19 @@
                 "Ping lets you see enemy positions through walls"
             ],
             "tipsVi": [
-                "B�n \u0011�u t� t�ng h�nh x3",
-                "Pride s�ng l�c silencer t�t nh�t",
+                "Bắn u t tàng hình x3",
+                "Pride súng lc silencer tt nht",
                 "Cold Blood tăng tốc độ",
-                "Optical Camo t�ng h�nh kh�n c�p",
-                "Ping xuy�n t��ng"
+                "Optical Camo tàng hình khn cp",
+                "Ping xuyên tường"
             ]
         },
         {
             "slug": "body-shotgun-sandy",
             "name": "Body Shotgun Sandevistan",
-            "nameVi": "Shotgun Sandy Body",
+            "nameVi": "Body Shotgun Sandevistan",
             "description": "A high-Body shotgun build using the Sandevistan. Slow time, rush in, and blast everything with a shotgun. The Guts shotgun from the DLC is a monster.",
-            "descriptionVi": "Build Body cao v�i shotgun v� Sandevistan. L�m ch�m th�i gian, x�ng v�o, x� \u0011�n. Guts t� DLC.",
+            "descriptionVi": "A high-Body shotgun build using the Sandevistan. Slow time, rush in, and blast everything with a shotgun. The Guts shotgun from the DLC is a monster.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -3218,11 +3218,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Solo",
-                        "Body 12",
-                        "Mua Power Shotgun",
-                        "Perk Annihilation",
-                        "Sandevistan",
-                        "Shotgun ch�nh"
+                        "Tăng Body lên 12 first",
+                        "Mua a Power Shotgun từ a store",
+                        "Invest in Annihilation perks",
+                        "Tìm a good Sandevistan",
+                        "Shotgun chình"
                     ]
                 },
                 {
@@ -3241,11 +3241,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Body 16",
-                        "Reflexes 12",
+                        "Tăng Reflexes lên 12",
                         "Guts từ DLC",
-                        "Tier 4",
+                        "Nâng cấp to Tier 4",
                         "Sandy tốt",
-                        "Shotgun xuy�n th�u"
+                        "Shotgun xuyên thu"
                     ]
                 },
                 {
@@ -3263,12 +3263,12 @@
                         "Use health items and heal on kill"
                     ],
                     "stepsVi": [
-                        "Max Body 20",
-                        "Guts Tier 5++",
-                        "B�t Sandy x�ng v�o",
-                        "Shotgun slow motion",
-                        "M�i vi�n \u0011�y s�t th��ng",
-                        "H�i m�u khi gi�t"
+                        "Nâng tối đa Body at 20",
+                        "Nâng tối đa Guts to Tier 5++",
+                        "Activate Sandy and rush enemies",
+                        "Shotgun blast in slow motion",
+                        "Mi vin y sát thng",
+                        "Dùng $1ealth items and heal on kill"
                     ]
                 }
             ],
@@ -3286,25 +3286,25 @@
                     "name": "Guts",
                     "type": "Weapon",
                     "location": "DLC Dogtown, from the cyberpsycho",
-                    "locationVi": "DLC Dogtown"
+                    "locationVi": "DLC Dogtown, from the cyberpsycho"
                 },
                 {
                     "name": "Sandevistan: Apogee",
                     "type": "Cyberware",
                     "location": "Ripperdoc in Dogtown",
-                    "locationVi": "Ripperdoc Dogtown"
+                    "locationVi": "Ripperdoc in Dogtown"
                 },
                 {
                     "name": "Bioplastic Blood Vessels",
                     "type": "Cyberware",
                     "location": "Ripperdoc in City Center",
-                    "locationVi": "Ripperdoc City Center"
+                    "locationVi": "Ripperdoc in City Center"
                 },
                 {
                     "name": "Universal Booster",
                     "type": "Cyberware",
                     "location": "Ripperdoc in Westbrook",
-                    "locationVi": "Ripperdoc Westbrook"
+                    "locationVi": "Ripperdoc in Westbrook"
                 }
             ],
             "tips": [
@@ -3315,19 +3315,19 @@
                 "Health on kill keeps you alive in extended fights"
             ],
             "tipsVi": [
-                "Sandy l�m ch�m 85%",
-                "Guts 12 vi�n m�i ph�t",
-                "Body 20 m�u cao nh�t",
-                "Shotgun xuy�n th�u",
-                "H�i m�u khi gi�t"
+                "Sandevistan slows time by 85% at max quality",
+                "Guts fires 12 pellets per shot — each hits hard",
+                "Body 20 gives you the highest health pool",
+                "Shotgun xuyên thu",
+                "Health on Đánh bại keeps you alive in extended fights"
             ]
         },
         {
             "slug": "reflex-tech-pistol",
             "name": "Reflex Tech Pistol",
-            "nameVi": "S�ng C�ng Ngh� Reflex",
+            "nameVi": "Súng Công Ngh Reflex",
             "description": "A Reflex-focused build using Tech Pistols that shoot through walls. The Her Majesty from Phantom Liberty is a silenced tech pistol. Headshots through cover are devastating.",
-            "descriptionVi": "Build Reflex v�i Tech Pistol xuy�n t��ng. Her Majesty t� Phantom Liberty. B�n \u0011�u xuy�n n�p.",
+            "descriptionVi": "Build Reflex vi Tech Pistol xuyên tường. Her Majesty t Phantom Liberty. Bắn u xuyên np.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3358,11 +3358,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Solo",
-                        "Reflexes 12",
-                        "Tech Pistol",
-                        "Perk Handgun",
-                        "Tech n�p bonus s�t th��ng",
-                        "T�p b�n xuy�n t��ng"
+                        "Tăng Reflexes lên 12 first",
+                        "Tìm a Tech Pistol early",
+                        "Invest in Handgun perks",
+                        "Tech np bonus sát thng",
+                        "Tp bắn xuyên tường"
                     ]
                 },
                 {
@@ -3381,11 +3381,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Reflexes 16",
-                        "Technical 12",
+                        "Tăng Technical lên 12",
                         "Her Majesty từ PL",
-                        "Tier 4",
-                        "Perk Tech Weapon",
-                        "Feedback Circuit"
+                        "Nâng cấp to Tier 4",
+                        "Invest in Tech Weapon perks",
+                        "Get the Feedback Circuit cyberware"
                     ]
                 },
                 {
@@ -3403,12 +3403,12 @@
                         "One-tap entire rooms through walls"
                     ],
                     "stepsVi": [
-                        "Max Reflexes 20",
-                        "Her Majesty Tier 5++",
-                        "\u0010�n n�p xuy�n m�i n�p",
-                        "B�n \u0011�u xuy�n t��ng",
-                        "Tech silencer kh�ng ph�t hi�n",
-                        "M�t ph�t c� ph�ng"
+                        "Nâng tối đa Reflexes at 20",
+                        "Nâng tối đa Her Majesty to Tier 5++",
+                        "n np xuyên mi np",
+                        "Bắn u xuyên tường",
+                        "Silenced tech shot is undetectable",
+                        "One-tap entire rooms through walls"
                     ]
                 }
             ],
@@ -3426,7 +3426,7 @@
                     "name": "Her Majesty",
                     "type": "Weapon",
                     "location": "Phantom Liberty DLC, main quest",
-                    "locationVi": "DLC Phantom Liberty"
+                    "locationVi": "Phantom Liberty DLC, main quest"
                 },
                 {
                     "name": "Feedback Circuit",
@@ -3438,13 +3438,13 @@
                     "name": "Synaptic Accelerator",
                     "type": "Cyberware",
                     "location": "Ripperdoc in Westbrook",
-                    "locationVi": "Ripperdoc Westbrook"
+                    "locationVi": "Ripperdoc in Westbrook"
                 },
                 {
                     "name": "MiliTech FAL",
                     "type": "Weapon",
                     "location": "Various shops",
-                    "locationVi": "C�c c�a h�ng"
+                    "locationVi": "Various shops"
                 }
             ],
             "tips": [
@@ -3455,19 +3455,19 @@
                 "Headshots through walls are silent with the right perks"
             ],
             "tipsVi": [
-                "Her Majesty xuy�n t��ng c� silencer",
-                "Tech n�p b� qua gi�p v� n�p",
-                "Reflexes 20 c�m s�ng t�t nh�t",
-                "B�n t� sau n�p kh�ng l�",
-                "B�n \u0011�u xuy�n t��ng im l�ng"
+                "Her Majesty xuyên tường c silencer",
+                "Charged tech shots ignore armor and cover",
+                "Reflexes 20 cm súng tt nht",
+                "Bắn t sau np khng l",
+                "Bắn u xuyên tường im lêng"
             ]
         },
         {
             "slug": "cool-netrunner-hybrid",
             "name": "Cool Netrunner Hybrid",
-            "nameVi": "Netrunner T�ng H�nh",
+            "nameVi": "Cool Netrunner Hybrid",
             "description": "A hybrid build combining stealth (Cool) with hacking (Intelligence). Use quickhacks to weaken enemies from a distance, then finish the rest with a silenced pistol. Best of both worlds.",
-            "descriptionVi": "Build lai t�ng h�nh (Cool) v� hack (Int). Quickhack l�m y�u t� xa, s�ng l�c k�t li�u.",
+            "descriptionVi": "Build lai tàng hình (Cool) v hack (Int). Quickhack lm yu t xa, súng lc kt liu.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3498,10 +3498,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Netrunner",
-                        "Int 12 v� Cool 10",
+                        "Tăng Int lên 12 and Cool to 10",
                         "Cyberdeck tốt",
-                        "Ping v� Short Circuit",
-                        "S�ng l�c silencer",
+                        "Get Ping and Short Circuit quickhacks",
+                        "Súng lc silencer",
                         "Breach Protocol mỗi điểm"
                     ]
                 },
@@ -3520,12 +3520,12 @@
                         "Equip Memory Boost cyberware"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int 15 v� Cool 12",
+                        "Tăng Int lên 15 and Cool to 12",
                         "Quickhack huyền thoại",
-                        "Short Circuit l�y lan",
-                        "Reflexes 6",
-                        "Netwatch cyberdeck",
-                        "Memory Boost"
+                        "Short Circuit spreads through networks",
+                        "Tăng Reflexes lên 6 for handling",
+                        "Nâng cấp cyberdeck to Netwatch",
+                        "Trang bị Memory Boost cyberware"
                     ]
                 },
                 {
@@ -3543,12 +3543,12 @@
                         "Synapse Burnout for heavy targets"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int 18 v� Cool 15",
-                        "Biotech Σ cyberdeck DLC",
-                        "Ping + Short Circuit",
-                        "S�ng l�c k�t li�u",
-                        "Optical Camo",
-                        "Synapse Burnout m�c ti�u n�ng"
+                        "Tăng Int lên 18 and Cool to 15",
+                        "Lấy the Biotech Σ cyberdeck từ DLC",
+                        "Dùng $1ing + Short Circuit to clear rooms",
+                        "Súng lc kt liu",
+                        "Optical Camo for emergency stealth",
+                        "Synapse Burnout for heavy targets"
                     ]
                 }
             ],
@@ -3566,13 +3566,13 @@
                     "name": "Biotech Σ Cyberdeck",
                     "type": "Cyberware",
                     "location": "Dogtown DLC ripperdoc",
-                    "locationVi": "Ripperdoc Dogtown DLC"
+                    "locationVi": "Dogtown DLC ripperdoc"
                 },
                 {
                     "name": "Netwatch Cyberdeck",
                     "type": "Cyberware",
                     "location": "Pacifica ripperdoc",
-                    "locationVi": "Ripperdoc Pacifica"
+                    "locationVi": "Pacifica ripperdoc"
                 },
                 {
                     "name": "Memory Boost Cyberware",
@@ -3590,7 +3590,7 @@
                     "name": "Synapse Burnout",
                     "type": "Weapon",
                     "location": "Unlocked at high Int",
-                    "locationVi": "M� kh�a Int cao"
+                    "locationVi": "Unlocked at high Int"
                 }
             ],
             "tips": [
@@ -3601,19 +3601,19 @@
                 "Use Optical Camo when you get detected to reset stealth"
             ],
             "tipsVi": [
-                "Short Circuit l�y lan khi gi�t",
+                "Short Circuit spreads to nearby enemies when killing with it",
                 "Ping thấy hết trong mạng",
-                "S�ng l�c + quickhack hi�u qu�",
-                "Cool 15 t�ng h�nh, Int 18 hack m�nh",
-                "Optical Camo reset t�ng h�nh"
+                "Súng lc + quickhack hiu qu",
+                "Cool 15 tàng hình, Int 18 hack mnh",
+                "Optical Camo reset tàng hình"
             ]
         },
         {
             "slug": "full-body-brawler",
             "name": "Full Body Brawler",
-            "nameVi": "\u0010�m B�c To�n Th�n",
+            "nameVi": "m Bc Toàn Thn",
             "description": "A pure Body melee build using Gorilla Arms and the Berserk OS. No guns, no stealth — just raw fists and rage. Punch everything to death with maximum style.",
-            "descriptionVi": "Build Body thu�n v�i Gorilla Arms v� Berserk. Kh�ng s�ng, kh�ng t�ng h�nh \u0014 ch� \u0011�m. \u0010�m ch�t m�i th�.",
+            "descriptionVi": "Build Body thun vi Gorilla Arms v Berserk. Khíng súng, khng tàng hình  ch m. m cht mi th.",
             "category": "meme",
             "difficulty": 1,
             "dlc": true,
@@ -3644,11 +3644,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Solo",
-                        "Body 12",
-                        "Mua Gorilla Arms",
-                        "Perk Street Brawler",
-                        "N�m \u0011�m l� vi kh�",
-                        "Berserk OS"
+                        "Tăng Body lên 12 first",
+                        "Mua Gorilla Arms từ a ripperdoc",
+                        "Invest in Street Brawler perks",
+                        "Ném m l vi kh",
+                        "Chọn up the Berserk OS"
                     ]
                 },
                 {
@@ -3667,11 +3667,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Body 16",
-                        "Technical 10",
-                        "Gorilla Arms Tier 4",
-                        "Berserk OS",
-                        "H�i m�u khi gi�t",
-                        "Perk s�ng xung k�ch"
+                        "Tăng Technical lên 10 for armor",
+                        "Nâng cấp Gorilla Arms to Tier 4",
+                        "Install the Berserk OS properly",
+                        "Get the Heal-on-Đánh bại cyberware",
+                        "Perk súng xung kch"
                     ]
                 },
                 {
@@ -3689,11 +3689,11 @@
                         "You are a walking tank of fists"
                     ],
                     "stepsVi": [
-                        "Max Body 20",
-                        "Gorilla Arms Tier 5++",
+                        "Nâng tối đa Body at 20",
+                        "Nâng tối đa Gorilla Arms to Tier 5++",
                         "Berserk miễn nhiễm",
-                        "\u0010�n n�ng staggers t�t c�",
-                        "S�ng xung k�ch",
+                        "Heavy attacks stagger everyone",
+                        "Súng xung kch",
                         "Xe tăng đấm"
                     ]
                 }
@@ -3718,7 +3718,7 @@
                     "name": "Berserk OS",
                     "type": "Cyberware",
                     "location": "Ripperdoc in Watson",
-                    "locationVi": "Ripperdoc Watson"
+                    "locationVi": "Ripperdoc in Watson"
                 },
                 {
                     "name": "Bioplastic Blood Vessels",
@@ -3741,11 +3741,11 @@
                 "Heal on kill cyberware keeps you alive through hordes"
             ],
             "tipsVi": [
-                "Gorilla Arms \u0011�n n�ng staggers",
-                "Berserk mi�n nhi�m 10 gi�y",
+                "Gorilla Arms heavy attacks deal massive stagger",
+                "Berserk makes you immune to damage for 10 seconds",
                 "Body 20 + Gorilla Arms DPS cao nhất",
-                "S�ng xung k�ch nhi�u m�c ti�u",
-                "H�i m�u khi gi�t s�ng dai"
+                "Súng xung kch nhiu mc tiu",
+                "Hi mu khi git súng dai"
             ]
         }
     ]

@@ -10,7 +10,7 @@
             "name": "Saw Cleaver Quality",
             "nameVi": "Chất Lượng Saw Cleaver",
             "description": "The quintessential Bloodborne quality build using the Saw Cleaver. Serrated damage for beasts, transformation attacks for style, and the highest sustained DPS in the game. The weapon that speedrunners trust.",
-            "descriptionVi": "Build ch�t l��ng c�a Bloodborne v�i Saw Cleaver. S�t th��ng serrated cho qu�i v�t, \u0011�n bi�n h�nh \u0011�p m�t v� DPS b�n v�ng cao nh�t game.",
+            "descriptionVi": "Build cht lng ca Bloodborne vi Saw Cleaver. St thng serrated cho qui vt, n bin hình p mt v DPS bắn vng cao nht game.",
             "category": "meta",
             "difficulty": 1,
             "dlc": true,
@@ -41,11 +41,11 @@
                         "Equip the Hunter's Set from the Bath Messengers"
                     ],
                     "stepsVi": [
-                        "Ch�n Military Veteran cho ch� s� c�n b�ng",
-                        "Ch�n Saw Cleaver l�m vi kh� kh�i \u0011�u",
-                        "T\u0003ng Vitality l�n 20 v� Endurance l�n 15",
-                        "N�ng Saw Cleaver l�n +3",
-                        "Gi�t Cleric Beast v� Father Gascoigne",
+                        "Chn Military Veteran cho ch s cn bắng",
+                        "Chọn the Saw Cleaver as your starting weapon",
+                        "Tng Vitality lên 20 v Endurance lên 15",
+                        "Nng Saw Cleaver lên +3",
+                        "Đánh bại Cleric Beast and Father Gascoigne",
                         "Trang bị Hunter's Set"
                     ]
                 },
@@ -64,12 +64,12 @@
                         "Find Runes for extra stamina or HP"
                     ],
                     "stepsVi": [
-                        "T\u0003ng \u0011�u Strength v� Skill l�n 25/25",
-                        "N�ng Saw Cleaver l�n +6",
+                        "Tng u Strength v Skill lên 25/25",
+                        "Nng Saw Cleaver lên +6",
                         "Giết Vicar Amelia",
-                        "Ho�n th�nh Hemwick Charnel Lane",
-                        "L�y Threaded Cane d� ph�ng",
-                        "T�m Rune t\u0003ng stamina ho�c m�u"
+                        "Hon thình Hemwick Charnel Lane",
+                        "Get the Threaded Cane as a backup for crowds",
+                        "Tìm Runes for extra stamina or HP"
                     ]
                 },
                 {
@@ -87,12 +87,12 @@
                         "The L1 transformation attack combo is your highest DPS"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Skl l�n 35/35",
-                        "N�ng Saw Cleaver l�n +10",
+                        "y Str/Skl lên 35/35",
+                        "Nng Saw Cleaver lên +10",
                         "Lấy Beast Blood Pellet cho boss",
-                        "Trang b� Rune m�u v� stamina 15%+",
-                        "Farm Winter Lanterns cho gem v�t l�",
-                        "Combo L1 bi�n h�nh l� DPS cao nh�t"
+                        "Trang bị 15%+ HP and stamina runes",
+                        "Farm Winter Lanterns for best physical droplet gems",
+                        "Combo L1 bin hình l DPS cao nht"
                     ]
                 }
             ],
@@ -117,7 +117,7 @@
                     "name": "Saw Cleaver",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Vi kh� kh�i \u0011�u ho�c mua t� Bath Messengers"
+                    "locationVi": "Starting weapon or purchased from Bath Messengers"
                 },
                 {
                     "name": "Hunter Set",
@@ -129,13 +129,13 @@
                     "name": "Beast Blood Pellet",
                     "type": "Weapon",
                     "location": "Found throughout Yharnam, commonly in Forbidden Woods",
-                    "locationVi": "T�m th�y kh�p Yharnam"
+                    "locationVi": "Found throughout Yharnam, commonly in Forbidden Woods"
                 },
                 {
                     "name": "Rune Workshop Tool",
                     "type": "Rune",
                     "location": "Hemwick Charnel Lane after Witch of Hemwick",
-                    "locationVi": "Hemwick Charnel Lane sau Witch of Hemwick"
+                    "locationVi": "Hemwick Charnel Lane after Witch of Hemwick"
                 },
                 {
                     "name": "Blood Rock",
@@ -152,11 +152,11 @@
                 "Always repair your weapon at the workshop"
             ],
             "tipsVi": [
-                "R1 bi�n h�nh c�a Saw Cleaver c� serrated \u0014 20% s�t th��ng th�m cho qu�i",
-                "\u0010�n L1 bi�n h�nh n�i ti�p cho DPS kh�ng l�",
-                "Beast Blood Pellet + Bolt Paper = s�t th��ng \u0011i�n cu�ng",
-                "R2 kh�ng bi�n h�nh l� \u0011�m \u0014 d�ng cho Kin",
-                "Lu�n s�a vi kh� � workshop"
+                "R1 bin hình ca Saw Cleaver c serrated  20% sát thng thm cho qui",
+                "n L1 bin hình ni tip cho DPS khng l",
+                "Beast Blood Pellet + Bolt Paper = sát thng in cung",
+                "R2 khng bin hình l m  dng cho Kin",
+                "Always repair your weapon at the workshop"
             ]
         },
         {
@@ -164,7 +164,7 @@
             "name": "Ludwig's Holy Blade",
             "nameVi": "Thánh Kiếm",
             "description": "The legendary Ludwig's Holy Blade — the 'easy mode' weapon of Bloodborne. A quality greatsword with incredible reach, S scaling at +10, and the best charged R2 in the game.",
-            "descriptionVi": "Thanh ki�m huy�n tho�i Ludwig's Holy Blade \u0014 'ch� \u0011� d�' c�a Bloodborne. \u0010�i ki�m ch�t l��ng v�i t�m \u0011�nh tuy�t v�i v� charged R2 m�nh nh�t game.",
+            "descriptionVi": "Thanh kiếm huyn thoi Ludwig's Holy Blade  'ch  d' ca Bloodborne. i kiếm cht lng vi tm nh tuyt vi v charged R2 mnh nht game.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -196,11 +196,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Mua Sword Hunter Badge sau Cleric Beast",
-                        "Mua Ludwig's Holy Blade",
-                        "T\u0003ng Strength l�n 20 v� Skill l�n 15",
-                        "N�ng l�n +3",
-                        "D�ng moveset kh�ng bi�n h�nh"
+                        "Buy Sword Hunter Badge after killing Cleric Beast",
+                        "Purchase Ludwig's Holy Blade from messengers",
+                        "Tng Strength lên 20 v Skill lên 15",
+                        "Nng lên +3",
+                        "Dng moveset khng bin hình"
                     ]
                 },
                 {
@@ -218,10 +218,10 @@
                         "Kill Rom"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 30 v� Skill l�n 20",
-                        "N�ng LHB l�n +6",
-                        "Trang b� Rune stamina v� m�u",
-                        "H�c moveset bi�n h�nh",
+                        "y Strength lên 30 v Skill lên 20",
+                        "Nng LHB lên +6",
+                        "Trang bị best stamina and HP runes",
+                        "Hc moveset bin hình",
                         "Lấy Executioner Set",
                         "Giết Rom"
                     ]
@@ -241,12 +241,12 @@
                         "Use bolt paper for beasts and fire paper for kin"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40 v� Skill l�n 25",
-                        "N�ng LHB l�n +10",
+                        "y Strength lên 40 v Skill lên 25",
+                        "Nng LHB lên +10",
                         "Farm gem 27.2% từ chalice",
-                        "Charged R2 \u0011�nh ng� m�i th�",
-                        "Trang b� Rune +15% m�u v� hai Rune stamina",
-                        "D�ng bolt cho qu�i, fire cho kin"
+                        "Charged R2 knocks down everything including bosses",
+                        "Trang bị +15% HP rune and two stamina runes",
+                        "Dùng $1olt paper for beasts and fire paper for kin"
                     ]
                 }
             ],
@@ -276,7 +276,7 @@
                     "name": "Executioner Set",
                     "type": "Armor",
                     "location": "Cainhurst Castle in a chest near throne room",
-                    "locationVi": "Cainhurst Castle trong r��ng g�n ph�ng ngai"
+                    "locationVi": "Cainhurst Castle in a chest near throne room"
                 },
                 {
                     "name": "Blood Rock",
@@ -293,11 +293,11 @@
                 "This build trivializes most chalice dungeon bosses"
             ],
             "tipsVi": [
-                "Charged R2 bi�n h�nh c� s�t th��ng m�t \u0011�n cao nh�t",
-                "LHB c� S scaling c� Strength v� Skill � +10",
-                "R1 kh�ng bi�n h�nh cho \u0011�n nhanh",
-                "R2 bi�n h�nh c� th� t�ch th�nh combo hai \u0011�n",
-                "Build n�y l�m chalice dungeon d� h�n nhi�u"
+                "Charged R2 bin hình c sát thng mt n cao nht",
+                "Ludwig's Holy Blade has S scaling in both Strength and Skill at +10",
+                "R1 khng bin hình cho n nhanh",
+                "R2 bin hình c th tch thình combo hai n",
+                "This build trivializes most chalice dungeon bosses"
             ]
         },
         {
@@ -305,7 +305,7 @@
             "name": "Chikage Bloodtinge",
             "nameVi": "Chikage Máu",
             "description": "A Bloodtinge build around the Chikage katana. The transformed mode drains HP but melts everything with blood damage. Devastating in PvP with the Evelyn pistol.",
-            "descriptionVi": "Build Bloodtinge v�i katana Chikage. Ch� \u0011� bi�n h�nh hao m�u nh�ng h�y di�t m�i th� b�ng s�t th��ng m�u. M�nh trong PvP v�i s�ng Evelyn.",
+            "descriptionVi": "Build Bloodtinge vi katana Chikage. Ch  bin hình hao mu nhng hy dit mi th bắng sát thng mu. Mnh trong PvP vi súng Evelyn.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -338,10 +338,10 @@
                     "stepsVi": [
                         "Chọn Noble Scion cho Bloodtinge cao nhất",
                         "Chạy đến Cainhurst Castle",
-                        "\u0010�nh b�i Martyr Logarius cho Chikage",
-                        "T\u0003ng Bloodtinge l�n 25 tr��c",
-                        "D�ng Repeating Pistol",
-                        "N�ng Chikage l�n +3"
+                        "Đánh bại Martyr Logarius for Chikage",
+                        "Tng Bloodtinge lên 25 trc",
+                        "Dùng $1epeating Pistol as firearm",
+                        "Nng Chikage lên +3"
                     ]
                 },
                 {
@@ -359,12 +359,12 @@
                         "Learn L1 transform attack into R1"
                     ],
                     "stepsVi": [
-                        "\u0010�y Bloodtinge l�n 40",
-                        "N�ng Chikage l�n +6",
+                        "y Bloodtinge lên 40",
+                        "Nng Chikage lên +6",
                         "Lấy Evelyn từ Cainhurst Castle",
-                        "T\u0003ng Skill l�n 20",
-                        "Trang b� Rune Blood Rapture v� Oedon Writhe",
-                        "H�c \u0011�n bi�n h�nh L1 v�o R1"
+                        "Tng Skill lên 20",
+                        "Trang bị Blood Rapture and Oedon Writhe runes",
+                        "Hc n bin hình L1 vo R1"
                     ]
                 },
                 {
@@ -382,12 +382,12 @@
                         "Transformed L1 R1 true combo is your bread and butter"
                     ],
                     "stepsVi": [
-                        "\u0010�y Bloodtinge l�n 50",
-                        "N�ng Chikage l�n +10",
+                        "y Bloodtinge lên 50",
+                        "Nng Chikage lên +10",
                         "Farm gem bloodtinge từ chalice",
                         "Lấy Bloodletter từ DLC",
                         "Trang bị 2 Rune stamina",
-                        "Combo L1 R1 th�t l� k� n\u0003ng ch�nh"
+                        "Combo L1 R1 tht l k nng chình"
                     ]
                 }
             ],
@@ -405,13 +405,13 @@
                     "name": "Chikage",
                     "type": "Weapon",
                     "location": "Cainhurst Castle after killing Martyr Logarius",
-                    "locationVi": "Cainhurst Castle sau Martyr Logarius"
+                    "locationVi": "Cainhurst Castle after killing Martyr Logarius"
                 },
                 {
                     "name": "Evelyn",
                     "type": "Weapon",
                     "location": "Cainhurst Castle near the entrance",
-                    "locationVi": "Cainhurst Castle g�n l�i v�o"
+                    "locationVi": "Cainhurst Castle near the entrance"
                 },
                 {
                     "name": "Repeating Pistol",
@@ -423,19 +423,19 @@
                     "name": "Bloodletter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC in Research Hall",
-                    "locationVi": "DLC The Old Hunters Research Hall"
+                    "locationVi": "The Old Hunters DLC in Research Hall"
                 },
                 {
                     "name": "Cainhurst Set",
                     "type": "Armor",
                     "location": "Cainhurst Castle in floating chairs area",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle in floating chairs area"
                 },
                 {
                     "name": "Bone Marrow Ash",
                     "type": "Weapon",
                     "location": "Found throughout game, purchased from Messengers",
-                    "locationVi": "T�m th�y kh�p game"
+                    "locationVi": "Found throughout game, purchased from Messengers"
                 }
             ],
             "tips": [
@@ -446,11 +446,11 @@
                 "Transformed charged R2 is a horizontal slash with massive range"
             ],
             "tipsVi": [
-                "Chikage bi�n h�nh hao m�u \u0014 kh�ng idle khi bi�n h�nh",
-                "R1 bi�n h�nh t�n m�u nh�ng s�t th��ng kh�ng",
-                "Bone Marrow Ash + Evelyn cho s�t th��ng s�ng h�y di�t",
-                "\u0010�n L1 bi�n h�nh \u0011��c t�nh l� \u0011�n m�u",
-                "Charged R2 bi�n h�nh l� ch�m ngang t�m r�ng"
+                "Chikage bin hình hao mu  khng idle khi bin hình",
+                "R1 bin hình tn mu nhng sát thng khng",
+                "Bone Marrow Ash + Evelyn cho sát thng súng hy dit",
+                "n L1 bin hình c tnh l n mu",
+                "Charged R2 bin hình l chm ngang tm rng"
             ]
         },
         {
@@ -458,7 +458,7 @@
             "name": "Rakuyo Skill",
             "nameVi": "Rakuyo Kỹ Năng",
             "description": "A Skill build wielding the Rakuyo from the DLC. The most complex and rewarding moveset in Bloodborne with incredible damage potential. Dual-wield mode transforms you into a blender.",
-            "descriptionVi": "Build Skill v�i Rakuyo t� DLC. Moveset ph�c t�p v� b� �ch nh�t Bloodborne v�i ti�m n\u0003ng s�t th��ng kh�ng. Ch� \u0011� song ki�m bi�n b�n th�nh m�y xay.",
+            "descriptionVi": "Build Skill vi Rakuyo t DLC. Moveset phc tp v b ch nht Bloodborne vi tim nng sát thng khng. Ch  song kiếm bin bắn thình my xay.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -490,10 +490,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Professional cho Skill khởi đầu cao nhất",
-                        "D�ng Threaded Cane t�m th�i",
-                        "T\u0003ng Skill l�n 25 v� Vitality l�n 20",
-                        "N�ng Threaded Cane l�n +4",
-                        "Gi�t Cleric Beast v� Father Gascoigne",
+                        "Dùng $1hreaded Cane as early weapon",
+                        "Tng Skill lên 25 v Vitality lên 20",
+                        "Nng Threaded Cane lên +4",
+                        "Đánh bại Cleric Beast and Father Gascoigne",
                         "Lấy Hunter's Set"
                     ]
                 },
@@ -512,12 +512,12 @@
                         "Learn the transformed L2 spin-to-win"
                     ],
                     "stepsVi": [
-                        "\u0010�y Skill l�n 35",
+                        "y Skill lên 35",
                         "Đến Fishing Hamlet trong DLC",
-                        "\u0010�nh b�i Shark Giants cho Rakuyo",
-                        "N�ng Rakuyo l�n +6",
-                        "Trang b� Rune Clawmark v� Blood Rapture",
-                        "H�c L2 bi�n h�nh quay ch�t ch�c"
+                        "Đánh bại the two Shark Giants for Rakuyo",
+                        "Nng Rakuyo lên +6",
+                        "Trang bị Clawmark and Blood Rapture runes",
+                        "Hc L2 bin hình quay cht chc"
                     ]
                 },
                 {
@@ -535,11 +535,11 @@
                         "Practice the Rakuyo backstep R1 for PvP spacing"
                     ],
                     "stepsVi": [
-                        "\u0010�y Skill l�n 50",
-                        "N�ng Rakuyo l�n +10",
+                        "y Skill lên 50",
+                        "Nng Rakuyo lên +10",
                         "Farm gem 27.2% từ chalice",
-                        "L2 bi�n h�nh true combo v�o R1",
-                        "Trang b� Rune +15% m�u v� stamina",
+                        "L2 bin hình true combo vo R1",
+                        "Trang bị +15% HP and stamina runes",
                         "Luyện backstep R1 để spacing PvP"
                     ]
                 }
@@ -558,13 +558,13 @@
                     "name": "Rakuyo",
                     "type": "Weapon",
                     "location": "Fishing Hamlet DLC after defeating Shark Giants",
-                    "locationVi": "Fishing Hamlet DLC sau Shark Giants"
+                    "locationVi": "Fishing Hamlet DLC after defeating Shark Giants"
                 },
                 {
                     "name": "Threaded Cane",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Vi kh� kh�i \u0011�u ho�c mua t� Bath Messengers"
+                    "locationVi": "Starting weapon or purchased from Bath Messengers"
                 },
                 {
                     "name": "Hunter Set",
@@ -587,11 +587,11 @@
                 "Skill weapons benefit most from high stat investment — 50 Skill minimum"
             ],
             "tipsVi": [
-                "L2 bi�n h�nh Rakuyo l� \u0011�n quay stunlock",
-                "Backstep R1 l� spacing tool t�t nh�t game",
-                "R2 kh�ng bi�n h�nh l� \u0011�m nhanh",
-                "Ch�y R1 bi�n h�nh c� t�m xa tuy�t v�i",
-                "Skill c�n t�i thi�u 50 \u0011� t�i \u0011a s�t th��ng"
+                "L2 bin hình Rakuyo l n quay stunlock",
+                "Backstep R1 is one of the best spacing tools in the game",
+                "R2 khng bin hình l m nhanh",
+                "Chy R1 bin hình c tm xa tuyt vi",
+                "Skill cn ti thiu 50  ti a sát thng"
             ]
         },
         {
@@ -599,7 +599,7 @@
             "name": "Beast Claw",
             "nameVi": "Móng Vuốt Thú",
             "description": "A meme build using the Beast Claw with the Beast's Embrace rune. Transforms you into a beast-human hybrid with a unique moveset. Build beasthood meter for insane damage potential.",
-            "descriptionVi": "Build meme v�i Beast Claw v� Beast's Embrace rune. Bi�n b�n th�nh qu�i th� lai ng��i v�i moveset \u0011�c \u0011�o. T�ch beasthood meter cho s�t th��ng \u0011i�n cu�ng.",
+            "descriptionVi": "Build meme vi Beast Claw v Beast's Embrace rune. Bin bắn thình qui th lai ngi vi moveset c o. Tch beasthood meter cho sát thng in cung.",
             "category": "meme",
             "difficulty": 2,
             "dlc": true,
@@ -631,11 +631,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "\u0010�nh game \u0011�n DLC \u0011� l�y Beast Claw",
-                        "T\u0003ng Strength l�n 25 v� Skill l�n 15",
-                        "D�ng Saw Cleaver t�m th�i",
-                        "T\u0003ng stamina v� m�u",
-                        "Gi�t Cleric Beast v� Gascoigne"
+                        "Đánh bại the game to reach the DLC or trade for Beast Claw",
+                        "Tng Strength lên 25 v Skill lên 15",
+                        "Dùng $1aw Cleaver until you get Beast Claw",
+                        "Build basic stamina and HP",
+                        "Đánh bại Cleric Beast and Gascoigne"
                     ]
                 },
                 {
@@ -653,12 +653,12 @@
                         "Equip runes for stamina and beasthood"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 35",
+                        "y Strength lên 35",
                         "Lấy Beast Claw từ DLC",
-                        "T�m Beast's Embrace rune trong DLC",
-                        "Trang b� rune \u0011� m� moveset th�",
-                        "N�ng Beast Claw l�n +6",
-                        "Trang b� Rune stamina v� beasthood"
+                        "Tìm Beast's Embrace rune in the DLC",
+                        "Trang bị the rune to unlock beast mode moveset",
+                        "Nng Beast Claw lên +6",
+                        "Trang bị runes for stamina and beasthood"
                     ]
                 },
                 {
@@ -676,12 +676,12 @@
                         "The beast mode L2 leap attack is your best gap closer"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40 v� Skill l�n 25",
-                        "N�ng Beast Claw l�n +10",
-                        "Trang b� gem v�t l� t� chalice",
-                        "T�ch beasthood tr��c boss",
-                        "D�ng Beast Blood Pellet \u0011� t\u0003ng s�t th��ng",
-                        "\u0010�n L2 nh�y l� gap closer t�t nh�t"
+                        "y Strength lên 40 v Skill lên 25",
+                        "Nng Beast Claw lên +10",
+                        "Trang bị physical gems from chalice",
+                        "Build beasthood meter before boss fog",
+                        "Dng Beast Blood Pellet  tng sát thng",
+                        "The beast mode L2 leap attack is your best gap closer"
                     ]
                 }
             ],
@@ -711,7 +711,7 @@
                     "name": "Beast Blood Pellet",
                     "type": "Weapon",
                     "location": "Found throughout Yharnam",
-                    "locationVi": "T�m th�y kh�p Yharnam"
+                    "locationVi": "Found throughout Yharnam"
                 },
                 {
                     "name": "Hunter Set",
@@ -728,11 +728,11 @@
                 "Beast mode reduces your defense by 30% — be aggressive or die"
             ],
             "tipsVi": [
-                "Beast's Embrace rune thay \u0011�i to�n b� moveset",
-                "T�ch beasthood b�ng c�ch t�n c�ng li�n t�c",
-                "Beast Claw c�c nhanh \u0014 c� th� \u0011�nh 6+ \u0011�n",
-                "L2 bi�n h�nh l� \u0011�n nh�y ti�p c�n t�t",
-                "Ch� \u0011� th� gi�m 30% ph�ng th�"
+                "Beast's Embrace rune changes your entire moveset — more aggressive, lower defense",
+                "Tch beasthood bắng cch tn công lin tc",
+                "Beast Claw attacks are incredibly fast — you can chain 6+ hits easily",
+                "L2 bin hình l n nhy tip cn tt",
+                "Beast mode reduces your defense by 30% — be aggressive or die"
             ]
         },
         {
@@ -740,7 +740,7 @@
             "name": "Kos Parasite Arcane",
             "nameVi": "Ký Sinh Trùng Kos",
             "description": "An Arcane build using the Kos Parasite with the Milkweed rune. Transform into a broccoli-headed Kin being with tentacle attacks. High Arcane scaling makes this a meme powerhouse.",
-            "descriptionVi": "Build Arcane v�i Kos Parasite v� Milkweed rune. Bi�n th�nh sinh v�t Kin \u0011�u s�p l� v�i \u0011�n x�c tu. Scaling Arcane cao bi�n meme th�nh s�t th��ng kh�ng.",
+            "descriptionVi": "Build Arcane vi Kos Parasite v Milkweed rune. Bin thình sinh vt Kin u sp l vi n xc tu. Scaling Arcane cao bin meme thình sát thng khng.",
             "category": "meme",
             "difficulty": 3,
             "dlc": true,
@@ -772,11 +772,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Cruel Fate cho Arcane cao nhất",
-                        "T\u0003ng Arcane l�n 25 tr��c",
-                        "D�ng Flamesprayer l�m vi kh� ch�nh",
-                        "Mua Hunter Chief Emblem",
-                        "T�m fire gem trong Cathedral Ward",
-                        "Gi�t Cleric Beast v� Gascoigne"
+                        "Tng Arcane lên 25 trc",
+                        "Dng Flamesprayer lm vi kh chình",
+                        "Buy Hunter Chief Emblem to open Cathedral Ward",
+                        "Tìm fire gem in Cathedral Ward to convert a weapon",
+                        "Đánh bại Cleric Beast and Gascoigne"
                     ]
                 },
                 {
@@ -794,12 +794,12 @@
                         "Find Milkweed rune from Saint Adeline's quest in DLC"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 50",
-                        "Trang b� gem nguy�n t� tr�n Saw Cleaver",
+                        "y Arcane lên 50",
+                        "Trang b gem nguyền t trn Saw Cleaver",
                         "Lấy Augur of Ebrietas từ Byrgenwerth",
-                        "\u0010�n DLC v� gi�t Orphan of Kos",
+                        "Reach the DLC and Đánh bại Orphan of Kos",
                         "Lấy Kos Parasite từ linh hồn Orphan",
-                        "T�m Milkweed rune t� nhi�m v� Saint Adeline"
+                        "Tìm Milkweed rune from Saint Adeline's Nhiệm vụ in DLC"
                     ]
                 },
                 {
@@ -817,12 +817,12 @@
                         "Use Executioner's Gloves for ranged damage"
                     ],
                     "stepsVi": [
-                        "\u0010�y Arcane l�n 70",
-                        "N�ng Kos Parasite l�n +10",
+                        "y Arcane lên 70",
+                        "Nng Kos Parasite lên +10",
                         "Farm gem arcane từ chalice",
-                        "Trang b� Milkweed rune \u0011� bi�n h�nh Kin",
-                        "R2 bi�n h�nh x�c tu c� t�m c�c xa",
-                        "D�ng Executioner's Gloves cho \u0011�n xa"
+                        "Trang b Milkweed rune  bin hình Kin",
+                        "R2 bin hình xc tu c tm cc xa",
+                        "Dùng $1xecutioner's Gloves for ranged damage"
                     ]
                 }
             ],
@@ -852,7 +852,7 @@
                     "name": "Augur of Ebrietas",
                     "type": "Weapon",
                     "location": "Byrgenwerth, dropped by a student enemy near the lamp",
-                    "locationVi": "Byrgenwerth t� qu�i student"
+                    "locationVi": "Byrgenwerth, dropped by a student enemy near the lamp"
                 },
                 {
                     "name": "Flamesprayer",
@@ -864,7 +864,7 @@
                     "name": "Executioner's Gloves",
                     "type": "Weapon",
                     "location": "Cainhurst Castle found on a corpse",
-                    "locationVi": "Cainhurst Castle tr�n x�c ch�t"
+                    "locationVi": "Cainhurst Castle found on a corpse"
                 }
             ],
             "tips": [
@@ -875,11 +875,11 @@
                 "Use Tiny Tonitrus for AoE crowd control"
             ],
             "tipsVi": [
-                "Milkweed + Kos Parasite bi�n b�n th�nh Kin",
-                "R2 x�c tu c� t�m \u0011�nh xa v� \u0011�y l�i",
+                "Milkweed + Kos Parasite bin bắn thình Kin",
+                "Transformed R2 tentacles have incredible range and knockback",
                 "70 Arcane cho scaling cao nhất",
-                "Augur of Ebrietas c� th� parry t� ph�a tr��c",
-                "D�ng Tiny Tonitrus \u0011� ki�m so�t \u0011�m \u0011�ng"
+                "Augur of Ebrietas can parry from the front — useful for fist parries",
+                "Dng Tiny Tonitrus  kiếm sot m ng"
             ]
         },
         {
@@ -887,7 +887,7 @@
             "name": "Simon's Bowblade",
             "nameVi": "Cung Kiếm Simon",
             "description": "A Skill/Bloodtinge hybrid using Simon's Bowblade from the DLC. Fires arrows in transformed mode for safe ranged damage or uses curved sword melee when enemies close in.",
-            "descriptionVi": "Build Skill/Bloodtinge hybrid v�i Simon's Bowblade t� DLC. B�n t�n � ch� \u0011� cung ho�c d�ng ki�m cong khi c�n chi�n.",
+            "descriptionVi": "Build Skill/Bloodtinge hybrid vi Simon's Bowblade t DLC. Bắn tn  ch  cung hoc dng kiếm cong khi cn chin.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -919,10 +919,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "T\u0003ng Skill l�n 20 tr��c",
-                        "D�ng Saw Spear t�m th�i",
+                        "Tng Skill lên 20 trc",
+                        "Dùng $1aw Spear as your early weapon",
                         "Chạy đến DLC",
-                        "Ho�n th�nh nhi�m v� Simon trong DLC",
+                        "Hon thình nhim v Simon trong DLC",
                         "Lấy Bowblade từ Simon ở Fishing Hamlet"
                     ]
                 },
@@ -941,10 +941,10 @@
                         "Practice bow mode charged R2 for max range sniping"
                     ],
                     "stepsVi": [
-                        "\u0010�y Skill l�n 30 v� Bloodtinge l�n 25",
-                        "N�ng Bowblade l�n +6",
-                        "H�c \u0011�n bi�n h�nh combo",
-                        "Trang b� Rune stamina v� h�i \u0011�n",
+                        "y Skill lên 30 v Bloodtinge lên 25",
+                        "Nng Bowblade lên +6",
+                        "Hc n bin hình combo",
+                        "Trang bị runes for stamina and bullet regen",
                         "Lấy Hunter's Bone cho di chuyển",
                         "Luyện charged R2 cung để bắn tỉa"
                     ]
@@ -964,12 +964,12 @@
                         "The charged R2 arrow does immense damage from safe distance"
                     ],
                     "stepsVi": [
-                        "\u0010�y Skill l�n 40 v� Bloodtinge l�n 35",
-                        "N�ng Bowblade l�n +10",
-                        "Farm gem bloodtinge cho cung",
-                        "Farm gem v�t l� cho ki�m",
-                        "Ch� \u0011� cung l�m nhi�u boss d� h�n",
-                        "Charged R2 b�n t�n s�t th��ng kh�ng t� xa"
+                        "y Skill lên 40 v Bloodtinge lên 35",
+                        "Nng Bowblade lên +10",
+                        "Farm bloodtinge gems for bow mode",
+                        "Farm gem vt l cho kiếm",
+                        "Bow mode trivializes many chalice dungeon bosses",
+                        "Charged R2 bắn tn sát thng khng t xa"
                     ]
                 }
             ],
@@ -1006,7 +1006,7 @@
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Found in the Forbidden Woods",
-                    "locationVi": "Forbidden Woods"
+                    "locationVi": "Found in the Forbidden Woods"
                 },
                 {
                     "name": "Blood Rock",
@@ -1024,10 +1024,10 @@
             ],
             "tipsVi": [
                 "Chế độ cung tăng theo Bloodtinge",
-                "Charged R2 cung c� th� ng�m th� c�ng",
-                "\u0010�n L1 bi�n h�nh t� ki�m sang cung t� \u0011�ng b�n t�n",
-                "D�ng cung \u0011� clear khu v�c t� xa",
-                "Gi� Bone Marrow Ash cho t\u0003ng s�t th��ng kh�n c�p"
+                "Charged R2 cung c th ngm th công",
+                "n L1 bin hình t kiếm sang cung t ng bắn tn",
+                "Dùng $1ow mode to safely clear areas before engaging in melee",
+                "Gi Bone Marrow Ash cho tng sát thng khn cp"
             ]
         },
         {
@@ -1035,7 +1035,7 @@
             "name": "Whirligig Saw STR",
             "nameVi": "Cưa Xoay",
             "description": "A Strength build using the Whirligig Saw (pizza cutter) from the DLC. The transformed L2 spins the saw blade for continuous damage. Absolutely melts large bosses and beasts.",
-            "descriptionVi": "Build Strength v�i Whirligig Saw (m�y c�t pizza) t� DLC. L2 bi�n h�nh quay l��i c�a li�n t�c. H�y di�t boss to v� qu�i v�t.",
+            "descriptionVi": "Build Strength vi Whirligig Saw (my ct pizza) t DLC. L2 bin hình quay li ca lin tc. Hy dit boss to v qui vt.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1067,11 +1067,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "T\u0003ng Strength l�n 25 tr��c",
-                        "D�ng Hunter Axe t�m th�i",
+                        "Tng Strength lên 25 trc",
+                        "Dùng $1unter Axe as early weapon",
                         "Chạy đến DLC",
-                        "Gi�t Ludwig \u0011� v�o Research Hall",
-                        "T�m Whirligig Saw"
+                        "Đánh bại Ludwig to reach Research Hall",
+                        "Tìm Whirligig Saw in the Nightmare version"
                     ]
                 },
                 {
@@ -1089,12 +1089,12 @@
                         "Use bolt paper for extra beast slaying power"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40",
-                        "N�ng Whirligig Saw l�n +6",
+                        "y Strength lên 40",
+                        "Nng Whirligig Saw lên +6",
                         "Trang bị Rune stamina",
-                        "H�c combo R1 bi�n h�nh v�o L2",
+                        "Hc combo R1 bin hình vo L2",
                         "Lấy Beast Blood Pellet cho boss",
-                        "D�ng bolt paper \u0011� t\u0003ng s�t th��ng"
+                        "Dng bolt paper  tng sát thng"
                     ]
                 },
                 {
@@ -1112,12 +1112,12 @@
                         "Equip +15% HP rune for survivability"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 50",
-                        "N�ng Whirligig Saw l�n +10",
+                        "y Strength lên 50",
+                        "Nng Whirligig Saw lên +10",
                         "Farm gem 27.2% từ chalice",
-                        "L2 bi�n h�nh + beast pellet + bolt paper = boss tan ch�y",
-                        "L2 quay t�n stamina m�i gi�y",
-                        "Trang b� Rune +15% m�u"
+                        "L2 bin hình + beast pellet + bolt paper = boss tan chy",
+                        "The L2 spin costs stamina per second — manage carefully",
+                        "Trang bị +15% HP rune for survivability"
                     ]
                 }
             ],
@@ -1135,19 +1135,19 @@
                     "name": "Whirligig Saw",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Nightmare version near the first lamp",
-                    "locationVi": "DLC The Old Hunters g�n \u0011�n \u0011�u ti�n"
+                    "locationVi": "The Old Hunters DLC, found in the Nightmare version near the first lamp"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Vi kh� kh�i \u0011�u ho�c mua t� Bath Messengers"
+                    "locationVi": "Starting weapon or purchased from Bath Messengers"
                 },
                 {
                     "name": "Beast Blood Pellet",
                     "type": "Weapon",
                     "location": "Found throughout Yharnam",
-                    "locationVi": "T�m th�y kh�p Yharnam"
+                    "locationVi": "Found throughout Yharnam"
                 },
                 {
                     "name": "Blood Rock",
@@ -1164,19 +1164,19 @@
                 "Whirligig Saw is serrated in both modes — 20% bonus against beasts"
             ],
             "tipsVi": [
-                "L2 quay l� DPS cao nh�t cho boss to",
-                "Quay t�n stamina m�i gi�y",
-                "Beast Pellet + Bolt Paper + L2 = s�t th��ng kh�ng c�ng b�ng",
-                "R2 kh�ng bi�n h�nh l� ch�m ngang",
-                "Whirligig Saw c� serrated � c� hai ch� \u0011�"
+                "Transformed L2 spin is the highest sustained DPS against large bosses",
+                "The spin costs stamina per second — stop spinning before you run out",
+                "Beast Pellet + Bolt Paper + L2 = sát thng khng công bắng",
+                "R2 khng bin hình l chm ngang",
+                "Whirligig Saw is serrated in both modes — 20% bonus against beasts"
             ]
         },
         {
             "slug": "beast-cutter-str",
             "name": "Beast Cutter STR",
-            "nameVi": "Dao C�t Th�9t Th�",
+            "nameVi": "Beast Cutter STR",
             "description": "A Strength build using the Beast Cutter from the DLC. Untricked it's a cleaver, tricked it becomes a serrated whip with incredible range and stagger. Excellent for crowd control.",
-            "descriptionVi": "Build Strength v�:i Beast Cutter. D�ng roi x�ch c� t�m xa v� l�m cho�ng.",
+            "descriptionVi": "A Strength build using the Beast Cutter from the DLC. Untricked it's a cleaver, tricked it becomes a serrated whip with incredible range and stagger. Excellent for crowd control.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -1208,11 +1208,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Str 25",
-                        "D�ng Hunter Axe t�m",
+                        "Tăng Strength lên 25 first",
+                        "Dùng $1unter Axe temporarily",
                         "Đến DLC",
-                        "T�m Beast Cutter",
-                        "N�ng l�n +3"
+                        "Tìm Beast Cutter in Hunter's Nightmare",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -1230,17 +1230,17 @@
                         "Level Vitality to 30"
                     ],
                     "stepsVi": [
-                        "Str 40",
-                        "N�ng l�n +6",
+                        "Tăng Strength lên 40",
+                        "Nng lên +6",
                         "Học moveset roi",
-                        "R2 bi�n h�nh t�m xa",
-                        "Rune stamina",
-                        "Vitality 30"
+                        "R2 bin hình tm xa",
+                        "Trang bị stamina runes",
+                        "Tăng Vitality lên 30"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
@@ -1253,12 +1253,12 @@
                         "Farm 27.2% physical gems from chalice"
                     ],
                     "stepsVi": [
-                        "Str 50",
-                        "N�ng l�n +10",
-                        "R2 bi�n h�nh cho�ng",
-                        "Serrated bonus vs qu�i",
-                        "Rune +15% m�u",
-                        "Farm gem 27.2%"
+                        "Tăng Strength lên 50",
+                        "Nng lên +10",
+                        "R2 bin hình chong",
+                        "Serrated damage bonus against beasts",
+                        "Trang bị +15% HP and stamina runes",
+                        "Farm 27.2% physical gems từ chalice"
                     ]
                 }
             ],
@@ -1276,19 +1276,19 @@
                     "name": "Beast Cutter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Hunter's Nightmare",
-                    "locationVi": "DLC The Old Hunters"
+                    "locationVi": "The Old Hunters DLC, found in the Hunter's Nightmare"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "Vi kh� kh�xi �\u0018�u"
+                    "locationVi": "Starting weapon or purchased from Bath Messengers"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -1299,19 +1299,19 @@
                 "Use the range to stay safe while dealing damage"
             ],
             "tipsVi": [
-                "D�ng roi c� serrated 20% vs qu�i",
-                "R2 bi�n h�nh l�m cho�ng",
+                "Tricked Beast Cutter has serrated damage �\u001d 20% bonus against beasts even in whip form",
+                "R2 bin hình lm chong",
                 "Dao gĒm cho cự ly gần",
-                "R1 roi qu�t nhi�u �\u0018�9ch",
-                "T�m xa �\u0018� an to�n"
+                "The whip form's R1 sweeps hit multiple enemies at once",
+                "Dùng $1he range to stay safe while dealing damage"
             ]
         },
         {
             "slug": "amygdalan-arm",
             "name": "Amygdalan Arm",
-            "nameVi": "Tay Amygdala",
+            "nameVi": "Amygdalan Arm",
             "description": "A Strength/Arcane build using the Amygdalan Arm from the DLC. The tricked form is a giant arm that slams enemies with blunt force. Excellent Arcane scaling for elemental damage.",
-            "descriptionVi": "Build Strength/Arcane v�:i Amygdalan Arm. D�ng bi�n h�nh c�nh tay �\u0018�p m�nh.",
+            "descriptionVi": "Build Strength/Arcane v:i Amygdalan Arm. Dng bin hình cnh tay p mnh.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1343,11 +1343,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Cruel Fate",
-                        "Arc 20 v� Str 20",
-                        "D�ng vi kh� l�a t�m",
+                        "Tăng Arcane lên 20 and Str to 20",
+                        "Dng vi kh lửa tm",
                         "Đến DLC",
-                        "T�m Amygdalan Arm",
-                        "N�ng l�n +3"
+                        "Tìm Amygdalan Arm in Hunter's Nightmare",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -1365,17 +1365,17 @@
                         "Practice the transform attacks"
                     ],
                     "stepsVi": [
-                        "Arc 35 v� Str 25",
-                        "N�ng l�n +6",
-                        "Gem l�a ho�c s�t",
-                        "R2 bi�n h�nh �\u0018�p xa",
-                        "Vitality 30",
-                        "Luy�!n �\u0018�n bi�n h�nh"
+                        "Tăng Arcane lên 35 and Str to 25",
+                        "Nng lên +6",
+                        "Gem lửa hoc sát",
+                        "R2 bin hình p xa",
+                        "Tăng Vitality lên 30",
+                        "Luy!n n bin hình"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
@@ -1388,12 +1388,12 @@
                         "The arm has amazing range and stagger"
                     ],
                     "stepsVi": [
-                        "Arc 45 v� Str 30",
-                        "N�ng l�n +10",
-                        "Gem nourishing",
-                        "Charged R2 combo",
-                        "L1 bi�n h�nh mix-up",
-                        "T�m xa v� cho�ng"
+                        "Tăng Arcane lên 45 and Str to 30",
+                        "Nng lên +10",
+                        "Trang bị nourishing gems for arcane",
+                        "The tricked charged R2 is a combo starter",
+                        "L1 bin hình mix-up",
+                        "The arm has amazing range and stagger"
                     ]
                 }
             ],
@@ -1411,19 +1411,19 @@
                     "name": "Amygdalan Arm",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, Hunter's Nightmare near Ludwig's arena",
-                    "locationVi": "DLC The Old Hunters"
+                    "locationVi": "The Old Hunters DLC, Hunter's Nightmare near Ludwig's arena"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 },
                 {
                     "name": "Elemental Gems",
                     "type": "Weapon",
                     "location": "Chalice Dungeons or DLC",
-                    "locationVi": "Chalice Dungeons"
+                    "locationVi": "Chalice Dungeons or DLC"
                 }
             ],
             "tips": [
@@ -1434,19 +1434,19 @@
                 "Use bolt gems against kin and fire gems against beasts"
             ],
             "tipsVi": [
-                "Charged R2 cho�ng boss 2-3 �\u0018�n",
-                "T�m xa tuy�!t v�i d�ng bi�n h�nh",
-                "Nourishing gems t\u0012ng c� v�t l� v� arcane",
-                "L1 bi�n h�nh nhanh h�n R1",
-                "Bolt vs kin, l�a vs th�"
+                "The tricked form charged R2 combo can stagger bosses in 2-3 hits",
+                "Tm xa tuy!t vi dng bin hình",
+                "Nourishing gems boost both physical and arcane damage",
+                "L1 bin hình nhanh hn R1",
+                "Bolt vs kin, lửa vs th"
             ]
         },
         {
             "slug": "church-pick-quality",
             "name": "Church Pick Quality",
-            "nameVi": "Cu�\u0018c Nh� Th�",
+            "nameVi": "Church Pick Quality",
             "description": "A Quality build using the Church Pick from the DLC. The only weapon with serrated AND righteous damage in both forms. Thrust attacks with incredible range and the Leo Ring effect.",
-            "descriptionVi": "Build Quality v�:i Church Pick. Serrated v� righteous c� hai d�ng.",
+            "descriptionVi": "A Quality build using the Church Pick from the DLC. The only weapon with serrated AND righteous damage in both forms. Thrust attacks with incredible range and the Leo Ring effect.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1478,11 +1478,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Str/Skl �\u0018ều 20/20",
-                        "D�ng Saw Cleaver t�m",
+                        "Str/Skl ều 20/20",
+                        "Dùng $1aw Cleaver temporarily",
                         "Đến DLC",
-                        "T�m Church Pick",
-                        "N�ng l�n +3"
+                        "Tìm Church Pick in Hunter's Nightmare",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -1500,17 +1500,17 @@
                         "The thrust counter damage is excellent"
                     ],
                     "stepsVi": [
-                        "Str/Skl 25/25",
-                        "N�ng l�n +6",
-                        "H�c t�m R2 bi�n h�nh",
-                        "Rune stamina v� m�u",
-                        "Vitality 30",
-                        "S�t th��ng ph�n �\u0018�n"
+                        "Push Str/Skl to 25/25",
+                        "Nng lên +6",
+                        "Hc tm R2 bin hình",
+                        "Trang bị stamina and HP runes",
+                        "Tăng Vitality lên 30",
+                        "The thrust counter damage is excellent"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
@@ -1523,12 +1523,12 @@
                         "The thrust attacks counter hit for massive damage"
                     ],
                     "stepsVi": [
-                        "Str/Skl 35/35",
-                        "N�ng l�n +10",
-                        "Serrated + righteous",
-                        "Farm gem 27.2%",
-                        "R1 qu�t d�ng bi�n h�nh",
-                        "\u0010�n �\u0018�m ph�n �\u0018�n"
+                        "Push Str/Skl to 35/35",
+                        "Nng lên +10",
+                        "Serrated + righteous damage on all forms",
+                        "Farm 27.2% thrust gems",
+                        "R1 qut dng bin hình",
+                        "The thrust attacks counter hit for massive damage"
                     ]
                 }
             ],
@@ -1546,19 +1546,19 @@
                     "name": "Church Pick",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Hunter's Nightmare near the cave",
-                    "locationVi": "DLC The Old Hunters"
+                    "locationVi": "The Old Hunters DLC, found in the Hunter's Nightmare near the cave"
                 },
                 {
                     "name": "Saw Cleaver",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Vi kh� kh�xi �\u0018�u"
+                    "locationVi": "Starting weapon or purchased"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -1569,11 +1569,11 @@
                 "Thrust gems on Church Pick are more effective than tempering gems"
             ],
             "tipsVi": [
-                "Serrated v� righteous c� hai d�ng",
-                "Serrated 20% vs th�, Righteous 50% vs m�\"t s�\u0018 �\u0018�9ch",
-                "R2 bi�n h�nh �\u0018�m xa",
-                "R1 tr�i qu�t r�\"ng",
-                "Gem �\u0018�m hi�!u qu� h�n gem th��ng"
+                "Church Pick has BOTH serrated AND righteous damage in both forms �\u001d unique in the game",
+                "Serrated = 20% bonus to beasts, Righteous = 50% bonus to certain enemies",
+                "R2 bin hình m xa",
+                "R1 trơi qut r\"ng",
+                "Thrust gems on Church Pick are more effective than tempering gems"
             ]
         },
         {
@@ -1581,7 +1581,7 @@
             "name": "Blade of Mercy Skill",
             "nameVi": "Lưỡi Dao Nhân Từ",
             "description": "A Skill build using the Blade of Mercy. The fastest weapon in Bloodborne with a unique dash R1 that's nearly instant. Devastating DPS when you stay aggressive and never stop attacking.",
-            "descriptionVi": "Build Skill v�:i Blade of Mercy. Vi kh� nhanh nh�t Bloodborne.",
+            "descriptionVi": "A Skill build using the Blade of Mercy. The fastest weapon in Bloodborne with a unique dash R1 that's nearly instant. Devastating DPS when you stay aggressive and never stop attacking.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -1613,10 +1613,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Professional",
-                        "Skill 25",
-                        "D�ng Threaded Cane t�m",
-                        "Nhi�!m vụ Eileen",
-                        "\u0010�nh b�i Henryk",
+                        "Tăng Skill lên 25",
+                        "Dùng $1hreaded Cane temporarily",
+                        "Nhi!m vụ Eileen",
+                        "Đánh bại Henryk with Eileen",
                         "Lấy Blade of Mercy từ Eileen"
                     ]
                 },
@@ -1635,17 +1635,17 @@
                         "Practice the transformed L2"
                     ],
                     "stepsVi": [
-                        "Skill 35",
-                        "N�ng l�n +6",
+                        "Tăng Skill lên 35",
+                        "Nng lên +6",
                         "Học dash R1",
-                        "Rune stamina",
-                        "Endurance 25",
-                        "Luy�!n L2 bi�n h�nh"
+                        "Trang bị stamina runes",
+                        "Tăng Endurance lên 25",
+                        "Luy!n L2 bin hình"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice Dungeons",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice Dungeons",
@@ -1658,12 +1658,12 @@
                         "Equip Clawmark rune for viscerals"
                     ],
                     "stepsVi": [
-                        "Skill 50",
-                        "N�ng l�n +10",
-                        "Dash R1 g�n nh� t�c th�",
-                        "L2 bi�n h�nh �\u0018a �\u0018�n",
-                        "Farm gem 27.2%",
-                        "Clawmark rune cho visceral"
+                        "Tăng Skill lên 50",
+                        "Nng lên +10",
+                        "The dash R1 is nearly instant",
+                        "L2 bin hình a n",
+                        "Farm 27.2% physical gems",
+                        "Trang bị Clawmark rune for viscerals"
                     ]
                 }
             ],
@@ -1681,19 +1681,19 @@
                     "name": "Blade of Mercy",
                     "type": "Weapon",
                     "location": "Eileen the Crow's questline reward",
-                    "locationVi": "Phần thư�xng nhi�!m vụ Eileen"
+                    "locationVi": "Phần thưxng nhi!m vụ Eileen"
                 },
                 {
                     "name": "Threaded Cane",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Vi kh� kh�xi �\u0018�u"
+                    "locationVi": "Starting weapon or purchased"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 },
                 {
                     "name": "Clawmark Rune",
@@ -1711,18 +1711,18 @@
             ],
             "tipsVi": [
                 "Dash R1 nhanh nhất Bloodborne",
-                "L2 bi�n h�nh qu�t r�\"ng",
-                "S scaling Skill �x +10",
-                "Lu�n t�n c�ng �\u001d ph�n th��xng cho �p l�c",
-                "Clawmark rune tĒng visceral"
+                "L2 bin hình qut r\"ng",
+                "Blade of Mercy gets S scaling in Skill at +10",
+                "Lun tn công  phn thxng cho p lc",
+                "Dùng $1he Clawmark rune to boost visceral attack damage"
             ]
         },
         {
             "slug": "reiterpallasch",
             "name": "Reiterpallasch SKL/BLT",
-            "nameVi": "Reiterpallasch",
+            "nameVi": "Reiterpallasch SKL/BLT",
             "description": "A Skill/Bloodtinge hybrid using the Reiterpallasch. A sword that transforms into a gun. Fire bullets from your sword for stylish kills. Excellent for parry-focused gameplay.",
-            "descriptionVi": "Build Skill/Bloodtinge v�:i Reiterpallasch. Ki�m bi�n th�nh s�ng.",
+            "descriptionVi": "Build Skill/Bloodtinge v:i Reiterpallasch. Kiếm bin thình súng.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -1754,11 +1754,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Noble Scion",
-                        "Skill 20 v� BLT 15",
-                        "D�ng Rifle Spear t�m",
+                        "Tăng Skill lên 20 and BLT to 15",
+                        "Dùng $1he Rifle Spear temporarily",
                         "Đến Cainhurst Castle",
-                        "T�m Reiterpallasch",
-                        "N�ng l�n +3"
+                        "Tìm Reiterpallasch in the castle",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -1776,17 +1776,17 @@
                         "Practice parrying with the gun mode"
                     ],
                     "stepsVi": [
-                        "Skill 30 v� BLT 25",
-                        "N�ng l�n +6",
-                        "H�c ch� �\u0018�\" s�ng",
-                        "Rune bloodtinge",
-                        "Bone Marrow Ash",
-                        "Luy�!n parry"
+                        "Tăng Skill lên 30 and BLT to 25",
+                        "Nng lên +6",
+                        "Hc ch \" súng",
+                        "Trang bị bloodtinge runes",
+                        "Dùng $1one Marrow Ash for bullet damage",
+                        "Practice parrying with the gun mode"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice",
@@ -1799,12 +1799,12 @@
                         "The Reiterpallasch is excellent for gun parries"
                     ],
                     "stepsVi": [
-                        "Skill 40 v� BLT 30",
-                        "N�ng l�n +10",
-                        "R1 s�ng b�n �\u0018�n",
-                        "\u0010�n bi�n h�nh v�o �\u0018�n",
-                        "Farm gem bloodtinge",
-                        "Parry s�ng xu�t s�c"
+                        "Tăng Skill lên 40 and BLT to 30",
+                        "Nng lên +10",
+                        "R1 súng bắn n",
+                        "n bin hình vo n",
+                        "Farm bloodtinge gems",
+                        "Parry súng xut sc"
                     ]
                 }
             ],
@@ -1822,13 +1822,13 @@
                     "name": "Reiterpallasch",
                     "type": "Weapon",
                     "location": "Cainhurst Castle, found in a chest near the boss",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle, found in a chest near the boss"
                 },
                 {
                     "name": "Evelyn",
                     "type": "Weapon",
                     "location": "Cainhurst Castle near the entrance",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle near the entrance"
                 },
                 {
                     "name": "Bone Marrow Ash",
@@ -1840,7 +1840,7 @@
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -1851,11 +1851,11 @@
                 "Parry with the gun mode then visceral for massive damage"
             ],
             "tipsVi": [
-                "D�ng s�ng R1 b�n �\u0018�n",
-                "L1 bi�n h�nh t� �\u0018�\"ng b�n �\u0018�n",
-                "Bone Marrow Ash cho s�t th��ng �\u0018�n l�:n",
-                "D�ng ki�m rapier �\u0018�m",
-                "Parry + visceral"
+                "Dng súng R1 bắn n",
+                "L1 bin hình t \"ng bắn n",
+                "Bone Marrow Ash cho sát thng n l:n",
+                "Dng kiếm rapier m",
+                "Parry with the gun mode then visceral for massive damage"
             ]
         },
         {
@@ -1863,7 +1863,7 @@
             "name": "Burial Blade Quality",
             "nameVi": "Lưỡi Hái Tang Lễ",
             "description": "A Quality build using Gehrman's Burial Blade. The transformed scythe moveset has incredible reach and the charged R2 knocks enemies down. Obtainable only at the end of the game.",
-            "descriptionVi": "Build Quality v�:i Burial Blade c�a Gehrman. L��i h�i t�m xa, charged R2 �\u0018�nh ng�.",
+            "descriptionVi": "A Quality build using Gehrman's Burial Blade. The transformed scythe moveset has incredible reach and the charged R2 knocks enemies down. Obtainable only at the end of the game.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -1895,11 +1895,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Skill 25 v� Str 20",
-                        "D�ng Ludwig's Holy Blade t�m",
+                        "Tăng Skill lên 25 and Str to 20",
+                        "Dùng $1udwig's Holy Blade temporarily",
                         "Chơi hết game",
-                        "Ho�n th�nh khu v�c ph�",
-                        "\u0010�nh b�i Gehrman"
+                        "Hon thình khu vc ph",
+                        "Đánh bại Gehrman for Burial Blade"
                     ]
                 },
                 {
@@ -1917,17 +1917,17 @@
                         "Practice the charged R2 knockdown"
                     ],
                     "stepsVi": [
-                        "Skill 35 v� Str 25",
-                        "N�ng l�n +9",
-                        "H�c t�m l��i h�i",
-                        "Rune stamina",
-                        "Vitality 30",
-                        "Luy�!n charged R2"
+                        "Tăng Skill lên 35 and Str to 25",
+                        "Nng lên +9",
+                        "Learn the transformed scythe range",
+                        "Trang bị stamina runes",
+                        "Tăng Vitality lên 30",
+                        "Practice the charged R2 knockdown"
                     ]
                 },
                 {
                     "name": "Late Game + Chalice",
-                    "nameVi": "Cu�\u0018i Game + Chalice",
+                    "nameVi": "Late Game + Chalice",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, Chalice Dungeons",
                     "areasVi": "Nightmare of Mensis, Chalice Dungeons",
@@ -1940,12 +1940,12 @@
                         "Equip +15% HP rune"
                     ],
                     "stepsVi": [
-                        "Skill 40 v� Str 30",
-                        "N�ng l�n +10",
-                        "R1 qu�t ngang",
-                        "Charged R2 �\u0018�nh ng� m�i th�",
-                        "Farm gem 27.2%",
-                        "Rune +15% m�u"
+                        "Tăng Skill lên 40 and Str to 30",
+                        "Nng lên +10",
+                        "Transformed R1 has sweeping arcs",
+                        "Charged R2 knocks down everything",
+                        "Farm 27.2% physical gems",
+                        "Trang bị +15% HP rune"
                     ]
                 }
             ],
@@ -1969,13 +1969,13 @@
                     "name": "Ludwig's Holy Blade",
                     "type": "Weapon",
                     "location": "Purchased after Sword Hunter Badge",
-                    "locationVi": "Mua sau Sword Hunter Badge"
+                    "locationVi": "Purchased after Sword Hunter Badge"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -1986,9 +1986,9 @@
                 "Skill scaling is better than Strength �\u001d prioritize Skill"
             ],
             "tipsVi": [
-                "Charged R2 �\u0018�nh ng� h�u h�t �\u0018�9ch",
-                "R1 bi�n h�nh qu�t r�\"ng",
-                "H�\u001ci m�u rally",
+                "Charged R2 in transformed mode knocks down almost every enemy",
+                "R1 bin hình qut r\"ng",
+                "Burial Blade has built-in HP regen rally potential",
                 "Dạng kiếm nhanh",
                 "Skill quan trọng hơn Strength"
             ]
@@ -1996,9 +1996,9 @@
         {
             "slug": "stake-driver",
             "name": "Stake Driver STR",
-            "nameVi": "Khoan Tay",
+            "nameVi": "Stake Driver STR",
             "description": "A Strength build using the Stake Driver. The charged R2 in untricked mode is a 'piledriver' explosion that deals the single highest damage hit in the game. High risk, hilarious reward.",
-            "descriptionVi": "Build Strength v�:i Stake Driver. Charged R2 piledriver s�t th��ng m�\"t �\u0018�n cao nh�t game.",
+            "descriptionVi": "Build Strength v:i Stake Driver. Charged R2 piledriver sát thng m\"t n cao nht game.",
             "category": "meme",
             "difficulty": 3,
             "dlc": true,
@@ -2030,11 +2030,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Str 25",
-                        "T�m Stake Driver g�n �\u0018�n",
-                        "N�ng l�n +3",
+                        "Tăng Strength lên 25 first",
+                        "Tìm Stake Driver near Central Yharnam lamp",
+                        "Nng lên +3",
                         "Học timing charged R2",
-                        "Luy�!n piledriver"
+                        "Practice the piledriver"
                     ]
                 },
                 {
@@ -2052,17 +2052,17 @@
                         "The piledriver needs precise positioning"
                     ],
                     "stepsVi": [
-                        "Str 35",
-                        "N�ng l�n +6",
-                        "Rune stamina",
-                        "D�ng bi�n h�nh cho t�m",
-                        "Vitality 30",
-                        "Piledriver c�n �\u0018�9nh v�9 ch�nh x�c"
+                        "Tăng Strength lên 35",
+                        "Nng lên +6",
+                        "Trang bị stamina runes",
+                        "Dng bin hình cho tm",
+                        "Tăng Vitality lên 30",
+                        "Piledriver cn 9nh v9 chình xc"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice",
@@ -2075,12 +2075,12 @@
                         "The piledriver one-shots most enemies"
                     ],
                     "stepsVi": [
-                        "Str 45",
-                        "N�ng l�n +10",
-                        "Charged R2 3000+ s�t th��ng",
-                        "Rune +15% m�u",
-                        "Farm gem 27.2%",
-                        "Piledriver one-shot"
+                        "Tăng Strength lên 45",
+                        "Nng lên +10",
+                        "Charged R2 3000+ sát thng",
+                        "Trang bị +15% HP rune",
+                        "Farm 27.2% physical gems",
+                        "The piledriver one-shots most enemies"
                     ]
                 }
             ],
@@ -2098,13 +2098,13 @@
                     "name": "Stake Driver",
                     "type": "Weapon",
                     "location": "Central Yharnam, found near the first lamp behind a gate",
-                    "locationVi": "Central Yharnam g�n �\u0018�n �\u0018�u ti�n"
+                    "locationVi": "Central Yharnam, found near the first lamp behind a gate"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -2115,19 +2115,19 @@
                 "Use Beast Blood Pellet before the piledriver for insane damage"
             ],
             "tipsVi": [
-                "Charged R2 piledriver l� �\u0018�n m�nh nh�t Bloodborne",
-                "M�t 3 gi�y t�ch �\u001d d�ng khi boss h�x",
-                "D�ng th��ng t�m ng�n �\u001d �p s�t",
-                "D�ng bi�n h�nh hitbox to",
-                "Beast Blood Pellet trư�:c piledriver"
+                "The charged R2 piledriver is the single highest damage attack in Bloodborne",
+                "It takes about 3 seconds to fully charge �\u001d use it during boss openings",
+                "Dng thng tm ngn  p sát",
+                "Dng bin hình hitbox to",
+                "Beast Blood Pellet trư:c piledriver"
             ]
         },
         {
             "slug": "tonitrus",
             "name": "Tonitrus STR/ARC",
-            "nameVi": "Tonitrus",
+            "nameVi": "Tonitrus STR/ARC",
             "description": "A Strength/Arcane build using the Tonitrus. The weapon buffs itself with bolt damage when transformed. The best anti-kin weapon in the game. Crushes Celestial Emissary and Rom.",
-            "descriptionVi": "Build Strength/Arcane v�:i Tonitrus. T� buff s�t khi bi�n h�nh. Vi kh� ch�\u0018ng kin t�\u0018t nh�t.",
+            "descriptionVi": "Build Strength/Arcane v:i Tonitrus. T buff sát khi bin hình. Vi kh chng kin tt nht.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -2159,11 +2159,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Cruel Fate",
-                        "Str 20 v� Arc 15",
-                        "D�ng vi kh� l�a",
+                        "Tăng Str lên 20 and Arc to 15",
+                        "Dng vi kh lửa",
                         "Đến Yahargul",
-                        "T�m Tonitrus",
-                        "N�ng l�n +3"
+                        "Tìm Tonitrus on a body",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2181,17 +2181,17 @@
                         "Equip bolt damage runes"
                     ],
                     "stepsVi": [
-                        "Str 30 v� Arc 25",
-                        "N�ng l�n +6",
-                        "Bi�n h�nh buff s�t",
-                        "S�t h�y di�!t kin",
-                        "Vitality 25",
-                        "Rune s�t"
+                        "Tăng Str lên 30 and Arc to 25",
+                        "Nng lên +6",
+                        "Bin hình buff sát",
+                        "Bolt damage destroys kin enemies",
+                        "Tăng Vitality lên 25",
+                        "Rune sát"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, Chalice Dungeons",
                     "areasVi": "Nightmare of Mensis, Chalice Dungeons",
@@ -2204,12 +2204,12 @@
                         "The Tonitrus has durability issues �\u001d repair often"
                     ],
                     "stepsVi": [
-                        "Str 40 v� Arc 35",
-                        "N�ng l�n +10",
-                        "Bi�n h�nh n�\" s�t",
-                        "Farm gem nourishing",
-                        "Rune +15% m�u",
-                        "Tonitrus hao �\u0018�\" bền"
+                        "Tăng Str lên 40 and Arc to 35",
+                        "Nng lên +10",
+                        "Bin hình n\" sát",
+                        "Farm nourishing or bolt gems",
+                        "Trang bị +15% HP rune",
+                        "Tonitrus hao \" bền"
                     ]
                 }
             ],
@@ -2227,13 +2227,13 @@
                     "name": "Tonitrus",
                     "type": "Weapon",
                     "location": "Yahargul, found on a body near the Hypogean Gaol lamp",
-                    "locationVi": "Yahargul g�n �\u0018�n Hypogean Gaol"
+                    "locationVi": "Yahargul, found on a body near the Hypogean Gaol lamp"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -2244,11 +2244,11 @@
                 "Tonitrus deals strike damage �\u001d effective against armored enemies"
             ],
             "tipsVi": [
-                "Bi�n h�nh th�m s�t 20 gi�y",
-                "Vi kh� ch�\u0018ng kin t�\u0018t nh�t",
-                "Đ�\" bền thấp �\u001d mau hỏng",
-                "L1 bi�n h�nh v�a buff v�a �\u0018�nh",
-                "S�t th��ng strike"
+                "Bin hình thm sát 20 giy",
+                "The buffed Tonitrus is the best anti-kin weapon in Bloodborne",
+                "Đ\" bền thấp  mau hỏng",
+                "L1 bin hình va buff va nh",
+                "Tonitrus deals strike damage �\u001d effective against armored enemies"
             ]
         },
         {
@@ -2256,7 +2256,7 @@
             "name": "Holy Moonlight Sword ARC/STR",
             "nameVi": "Thánh Kiếm Ánh Trăng",
             "description": "An Arcane/Strength build using Ludwig's Holy Moonlight Sword from the DLC. The transformed charged R2 fires a moonlight wave. The ultimate Arcane greatsword from the best DLC boss.",
-            "descriptionVi": "Build Arcane/Strength v�:i Holy Moonlight Sword. Charged R2 b�n s�ng �nh tr\u0012ng.",
+            "descriptionVi": "Build Arcane/Strength v:i Holy Moonlight Sword. Charged R2 bắn súng nh trng.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2288,11 +2288,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Cruel Fate",
-                        "Arc 25",
-                        "D�ng Saw Cleaver l�a",
+                        "Tăng Arcane lên 25 first",
+                        "Dng Saw Cleaver lửa",
                         "Đến DLC",
-                        "\u0010�nh b�i Ludwig",
-                        "Đ�\"i linh h�\u001cn lấy kiếm"
+                        "Đánh bại Ludwig the Holy Blade",
+                        "Đ\"i linh hn lấy kiếm"
                     ]
                 },
                 {
@@ -2310,17 +2310,17 @@
                         "Level Vitality to 25"
                     ],
                     "stepsVi": [
-                        "Arc 35 v� Str 25",
-                        "N�ng l�n +6",
-                        "H�c moveset bi�n h�nh",
-                        "R2 b�n s�ng tr\u0012ng",
-                        "Gem nourishing",
-                        "Vitality 25"
+                        "Tăng Arcane lên 35 and Str to 25",
+                        "Nng lên +6",
+                        "Hc moveset bin hình",
+                        "R2 bắn súng trng",
+                        "Trang bị nourishing gems",
+                        "Tăng Vitality lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice",
@@ -2333,12 +2333,12 @@
                         "The sword staggers most enemies"
                     ],
                     "stepsVi": [
-                        "Arc 50 v� Str 30",
-                        "N�ng l�n +10",
-                        "Charged R2 s�ng �nh tr\u0012ng",
-                        "Gem nourishing",
-                        "L1 �\u0018�n bi�n h�nh",
-                        "L�m cho�ng"
+                        "Tăng Arcane lên 50 and Str to 30",
+                        "Nng lên +10",
+                        "Charged R2 súng nh trng",
+                        "Trang bị nourishing gems from chalice",
+                        "L1 n bin hình",
+                        "The sword staggers most enemies"
                     ]
                 }
             ],
@@ -2356,13 +2356,13 @@
                     "name": "Holy Moonlight Sword",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, traded from Ludwig's soul",
-                    "locationVi": "DLC The Old Hunters từ linh h�\u001cn Ludwig"
+                    "locationVi": "DLC The Old Hunters từ linh hn Ludwig"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -2373,19 +2373,19 @@
                 "Transformation L1 attacks chain into the moonlight wave"
             ],
             "tipsVi": [
-                "Charged R2 b�n s�ng tr\u0012ng kh�ng t�\u0018n �\u0018�n",
-                "Arcane scaling t�\u0018t nh�t h� vi kh� Strength",
-                "Nourishing gem t�\u0018t hơn arcane gem",
+                "Charged R2 bắn súng trng khng tn n",
+                "HMS has the best Arcane scaling of any Strength weapon",
+                "Nourishing gem tt hơn arcane gem",
                 "Dạng thường moveset kiếm Ludwig",
-                "L1 bi�n h�nh v�o s�ng tr\u0012ng"
+                "L1 bin hình vo súng trng"
             ]
         },
         {
             "slug": "logarius-wheel",
             "name": "Logarius Wheel STR/ARC",
-            "nameVi": "B�nh Xe Logarius",
+            "nameVi": "Bắnh Xe Logarius",
             "description": "A Strength/Arcane build using the Logarius Wheel. The transformed mode spins and deals constant damage. The wheel builds arcane damage as it spins. A unique and devastating weapon.",
-            "descriptionVi": "Build Strength/Arcane v�:i Logarius Wheel. Quay g�y s�t th��ng li�n t�c.",
+            "descriptionVi": "Build Strength/Arcane v:i Logarius Wheel. Quay gy sát thng lin tc.",
             "category": "pve",
             "difficulty": 2,
             "dlc": false,
@@ -2417,11 +2417,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Str 25",
-                        "D�ng Hunter Axe t�m",
+                        "Tăng Str lên 25 first",
+                        "Dùng $1unter Axe temporarily",
                         "Đến Cainhurst Castle",
-                        "\u0010�nh b�i Logarius",
-                        "Đ�\"i linh h�\u001cn"
+                        "Đánh bại Martyr Logarius",
+                        "Đ\"i linh hn"
                     ]
                 },
                 {
@@ -2439,17 +2439,17 @@
                         "The spin costs stamina but deals multi-hit"
                     ],
                     "stepsVi": [
-                        "Str 35 v� Arc 15",
-                        "N�ng l�n +6",
-                        "H�c quay bi�n h�nh",
-                        "Rune stamina",
-                        "Vitality 30",
-                        "Quay t�\u0018n stamina"
+                        "Tăng Str lên 35 and Arc to 15",
+                        "Nng lên +6",
+                        "Hc quay bin hình",
+                        "Trang bị stamina runes",
+                        "Tăng Vitality lên 30",
+                        "The spin costs stamina but deals multi-hit"
                     ]
                 },
                 {
                     "name": "Late Game + Chalice",
-                    "nameVi": "Cu�\u0018i Game + Chalice",
+                    "nameVi": "Late Game + Chalice",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, Chalice Dungeons",
                     "areasVi": "Nightmare of Mensis, Chalice Dungeons",
@@ -2462,12 +2462,12 @@
                         "The wheel's L1 transformation is a powerful slam"
                     ],
                     "stepsVi": [
-                        "Str 50 v� Arc 25",
-                        "N�ng l�n +10",
-                        "R2 quay �\u0018a �\u0018�n",
-                        "S�t th��ng arcane t\u0012ng khi quay",
-                        "Gem nourishing",
-                        "L1 �\u0018ập mạnh"
+                        "Tăng Str lên 50 and Arc to 25",
+                        "Nng lên +10",
+                        "Transformed R2 spin deals multi-hit damage",
+                        "Arcane damage increases with spin time",
+                        "Farm nourishing or flat arcane gems",
+                        "L1 ập mạnh"
                     ]
                 }
             ],
@@ -2485,19 +2485,19 @@
                     "name": "Logarius Wheel",
                     "type": "Weapon",
                     "location": "Purchased from Bath Messengers after Martyr Logarius soul",
-                    "locationVi": "Mua từ Bath Messengers sau linh h�\u001cn Logarius"
+                    "locationVi": "Mua từ Bath Messengers sau linh hn Logarius"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Vi kh� kh�xi �\u0018�u"
+                    "locationVi": "Starting weapon or purchased"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -2508,19 +2508,19 @@
                 "Use flat arcane gems for consistent damage on multi-hit attacks"
             ],
             "tipsVi": [
-                "R2 quay nhi�u �\u0018�n, t\u0012ng arcane",
-                "M�\u0014i �\u0018�n quay c� th� k�ch hi�!u �ng arcane",
-                "L1 �\u0018�p ng� �\u0018�9ch",
-                "S�t th��ng strike",
-                "Flat arcane gem cho �\u0018a �\u0018�n"
+                "The transformed R2 spin hits multiple times and builds arcane damage",
+                "Each spin tick has a chance to trigger arcane effects",
+                "The L1 transformation attack is a powerful slam that knocks down enemies",
+                "Logarius Wheel deals blunt strike damage �\u001d effective against most enemies",
+                "Dùng $1lat arcane gems for consistent damage on multi-hit attacks"
             ]
         },
         {
             "slug": "boom-hammer",
             "name": "Boom Hammer STR",
-            "nameVi": "B�a N�\"",
+            "nameVi": "Boom Hammer STR",
             "description": "A pure Strength build using the Boom Hammer from the DLC. The transform attack ignites the hammer with fire. Charged R2 with fire buff deals massive explosive damage. BOOM.",
-            "descriptionVi": "Build Strength thu�n v�:i Boom Hammer. Bi�n h�nh b�t l�a. Charged R2 n�\".",
+            "descriptionVi": "Build Strength thun v:i Boom Hammer. Bin hình bt lửa. Charged R2 n\".",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -2552,11 +2552,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Military Veteran",
-                        "Str 25",
-                        "D�ng Hunter Axe t�m",
+                        "Tăng Strength lên 25",
+                        "Dùng $1unter Axe temporarily",
                         "Đến DLC",
-                        "T�m Boom Hammer",
-                        "N�ng l�n +3"
+                        "Tìm Boom Hammer in Hunter's Nightmare",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2574,17 +2574,17 @@
                         "The transform attack deals fire damage"
                     ],
                     "stepsVi": [
-                        "Str 40",
-                        "N�ng l�n +6",
+                        "Tăng Strength lên 40",
+                        "Nng lên +6",
                         "Học L1 bật lửa",
-                        "Rune stamina",
-                        "Vitality 30",
-                        "\u0010�n bi�n h�nh l�a"
+                        "Trang bị stamina runes",
+                        "Tăng Vitality lên 30",
+                        "n bin hình lửa"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice",
@@ -2597,12 +2597,12 @@
                         "The L1 transformation into R2 is a deadly combo"
                     ],
                     "stepsVi": [
-                        "Str 50",
-                        "N�ng l�n +10",
-                        "Charged R2 n�\"",
+                        "Tăng Strength lên 50",
+                        "Nng lên +10",
+                        "Charged R2 with fire buff explodes",
                         "Rune lửa",
-                        "Farm gem 27.2%",
-                        "L1 v�o R2 combo ch�t ng��i"
+                        "Farm 27.2% physical gems",
+                        "The L1 transformation into R2 is a deadly combo"
                     ]
                 }
             ],
@@ -2620,19 +2620,19 @@
                     "name": "Boom Hammer",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, Hunter's Nightmare near the beginning",
-                    "locationVi": "DLC The Old Hunters"
+                    "locationVi": "The Old Hunters DLC, Hunter's Nightmare near the beginning"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "Vi kh� kh�xi �\u0018�u"
+                    "locationVi": "Starting weapon or purchased"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -2643,19 +2643,19 @@
                 "Use the transformation attack as a combo finisher for maximum damage"
             ],
             "tipsVi": [
-                "L1 b�t l�a cho 1-2 �\u0018�n",
-                "Sau �\u0018�n l�a h�t �\u001d L1 l�i",
-                "Charged R2 n�\" l�:n",
-                "Ch�m ngang r�\"ng",
-                "\u0010�n bi�n h�nh k�t li�&u"
+                "L1 bt lửa cho 1-2 n",
+                "Sau n lửa ht  L1 li",
+                "The charged R2 with fire buff deals massive explosive damage",
+                "Boom Hammer has excellent crowd control with wide swings",
+                "n bin hình kt li&u"
             ]
         },
         {
             "slug": "bloodletter",
             "name": "Bloodletter BLT",
-            "nameVi": "M�y M�u",
+            "nameVi": "Bloodletter BLT",
             "description": "A Bloodtinge build using the Bloodletter from the DLC. The transformed mode turns the weapon into a giant blood-covered mace that scales entirely with Bloodtinge. Unique and devastating.",
-            "descriptionVi": "Build Bloodtinge v�:i Bloodletter. Bi�n h�nh th�nh ch�y m�u t\u0012ng theo Bloodtinge.",
+            "descriptionVi": "Build Bloodtinge v:i Bloodletter. Bin hình thình chy mu tng theo Bloodtinge.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2687,11 +2687,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Noble Scion",
-                        "BLT 25",
-                        "D�ng Chikage t�m",
+                        "Tăng BLT lên 25 first",
+                        "Dùng $1hikage temporarily",
                         "Đến DLC",
                         "Đến Research Hall",
-                        "T�m Bloodletter"
+                        "Tìm Bloodletter in the Research Hall"
                     ]
                 },
                 {
@@ -2709,17 +2709,17 @@
                         "Level Vitality to 25"
                     ],
                     "stepsVi": [
-                        "BLT 35 v� Skill 12",
-                        "N�ng l�n +6",
-                        "H�c moveset bi�n h�nh",
-                        "R2 bi�n h�nh n�\" m�u",
-                        "Rune bloodtinge",
-                        "Vitality 25"
+                        "Tăng BLT lên 35 and Skill to 12",
+                        "Nng lên +6",
+                        "Hc moveset bin hình",
+                        "R2 bin hình n\" mu",
+                        "Trang bị bloodtinge runes",
+                        "Tăng Vitality lên 25"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "90-120",
                     "areas": "Nightmare of Mensis, DLC, Chalice",
                     "areasVi": "Nightmare of Mensis, DLC, Chalice",
@@ -2732,12 +2732,12 @@
                         "The transformed L2 is a massive AoE blood explosion"
                     ],
                     "stepsVi": [
-                        "BLT 50",
-                        "N�ng l�n +10",
-                        "D�ng bi�n h�nh t\u0012ng theo BLT",
-                        "Farm gem bloodtinge",
-                        "Rune stamina",
-                        "L2 bi�n h�nh AoE m�u"
+                        "Tăng BLT lên 50",
+                        "Nng lên +10",
+                        "Dng bin hình tng theo BLT",
+                        "Farm bloodtinge gems từ chalice",
+                        "Trang bị stamina runes",
+                        "L2 bin hình AoE mu"
                     ]
                 }
             ],
@@ -2755,19 +2755,19 @@
                     "name": "Bloodletter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Research Hall",
-                    "locationVi": "DLC The Old Hunters"
+                    "locationVi": "The Old Hunters DLC, found in the Research Hall"
                 },
                 {
                     "name": "Chikage",
                     "type": "Weapon",
                     "location": "Cainhurst Castle after Martyr Logarius",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle after Martyr Logarius"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis or Depth 5 Chalice"
                 }
             ],
             "tips": [
@@ -2778,19 +2778,19 @@
                 "Use the transformed mode exclusively for maximum Bloodtinge damage"
             ],
             "tipsVi": [
-                "D�ng bi�n h�nh t\u0012ng ho�n to�n theo BLT",
-                "L2 bi�n h�nh AoE m�u t�\u0018n HP",
+                "Dng bin hình tng hon ton theo BLT",
+                "L2 bin hình AoE mu tn HP",
                 "Dạng thường mace nhỏ Skill scaling",
-                "R1 bi�n h�nh ch�y r�\"ng",
-                "Ch�0 d�ng d�ng bi�n h�nh"
+                "R1 bin hình chy r\"ng",
+                "Ch0 dng dng bin hình"
             ]
         },
         {
             "slug": "beasthunter-saif",
             "name": "Beasthunter Saif",
-            "nameVi": "\u0010ao S\u0003n Th�",
+            "nameVi": "Beasthunter Saif",
             "description": "A Skill build using the Beasthunter Saif from the DLC. This curved sword has a unique transformation that lunges forward. The transformed R1 combos are some of the fastest in the game.",
-            "descriptionVi": "Build Skill v�i Beasthunter Saif DLC. Ki�m cong bi�n h�nh lao t�i. R1 bi�n h�nh combo nhanh nh�t game.",
+            "descriptionVi": "Build Skill vi Beasthunter Saif DLC. Kiếm cong bin hình lao ti. R1 bin hình combo nhanh nht game.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2822,11 +2822,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Professional",
-                        "Skill 20 v� Vitality 15",
+                        "Tăng Skill lên 20 and Vitality to 15",
                         "Đến DLC",
-                        "T�m Saif � Hunter's Nightmare",
+                        "Tìm the Saif in the Hunter's Nightmare",
                         "Gần lamp đầu",
-                        "D�ng Saw Spear t�m"
+                        "Dùng $1he Saw Spear until then"
                     ]
                 },
                 {
@@ -2845,11 +2845,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Skill 35",
-                        "Saif +6",
-                        "H�c bi�n h�nh t�n c�ng",
+                        "Nâng cấp Saif to +6",
+                        "Hc bin hình tn công",
                         "R1 thường rồi L1 lao",
-                        "Clawmark Rune",
-                        "Vitality 25"
+                        "Trang bị the Clawmark Rune",
+                        "Tăng Vitality lên 25"
                     ]
                 },
                 {
@@ -2868,11 +2868,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Skill 50",
-                        "Saif +10",
-                        "R1 bi�n h�nh si�u nhanh",
-                        "Bi�n h�nh lao",
-                        "Old Hunter's Bone",
-                        "Hunter Rune"
+                        "Nâng tối đa Saif to +10",
+                        "R1 bin hình siu nhanh",
+                        "Bin hình lao",
+                        "Dùng $1he Old Hunter's Bone for mobility",
+                        "Trang bị the Hunter Rune for stamina"
                     ]
                 }
             ],
@@ -2890,25 +2890,25 @@
                     "name": "Beasthunter Saif",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, Nightmare",
-                    "locationVi": "DLC The Old Hunters"
+                    "locationVi": "The Old Hunters DLC, Nightmare"
                 },
                 {
                     "name": "Old Hunter's Bone",
                     "type": "Armor",
                     "location": "Old Yharnam, inside the church",
-                    "locationVi": "Old Yharnam"
+                    "locationVi": "Old Yharnam, inside the church"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, from the gargoyles",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle, from the gargoyles"
                 },
                 {
                     "name": "Hunter Rune",
                     "type": "Rune",
                     "location": "Unlock with the Hunter Covenant",
-                    "locationVi": "Hunter Covenant"
+                    "locationVi": "Unlock with the Hunter Covenant"
                 }
             ],
             "tips": [
@@ -2919,10 +2919,10 @@
                 "Skill scaling at 50 gives massive damage on visceral attacks"
             ],
             "tipsVi": [
-                "Bi�n h�nh lao t�i",
-                "R1 bi�n h�nh nhanh h�n th��ng",
-                "L1 \u0011�ng kho�ng c�ch",
-                "S�t th��ng serrated khi bi�n h�nh",
+                "Bin hình lao ti",
+                "R1 bin hình nhanh hn thng",
+                "Dùng $1he L1 transform attack to close distance instantly",
+                "St thng serrated khi bin hình",
                 "Skill 50 visceral mạnh"
             ]
         },
@@ -2931,7 +2931,7 @@
             "name": "Simon's Bowblade",
             "nameVi": "Cung Kiếm Simon",
             "description": "A Skill/Bloodtinge hybrid build using Simon's Bowblade. The transformed mode turns the sword into a bow with incredible range. Useful for both melee and ranged combat.",
-            "descriptionVi": "Build Skill/BLT lai v�i Simon's Bowblade. Bi�n h�nh th�nh cung t�m xa. C�n chi�n v� t�m xa linh ho�t.",
+            "descriptionVi": "Build Skill/BLT lai vi Simon's Bowblade. Bin hình thình cung tm xa. Cn chin v tm xa linh hot.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2963,11 +2963,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Noble Scion",
-                        "Skill 15 v� BLT 15",
+                        "Tăng Skill lên 15 and BLT to 15",
                         "Đến DLC",
                         "Đến Fishing Hamlet",
                         "Nhiệm vụ Simon",
-                        "Bowblade t� x�c Simon"
+                        "Lấy the Bowblade từ his body"
                     ]
                 },
                 {
@@ -2985,12 +2985,12 @@
                         "Get the Bone Marrow Ash for buff"
                     ],
                     "stepsVi": [
-                        "Skill v� BLT 25",
-                        "Bowblade +6",
+                        "Push Skill and BLT to 25 each",
+                        "Nâng cấp Bowblade to +6",
                         "Dạng kiếm Skill scaling",
                         "Dạng cung BLT scaling",
-                        "R2 n�p s�t th��ng l�n",
-                        "Bone Marrow Ash"
+                        "R2 np sát thng lên",
+                        "Get the Bone Marrow Ash for buff"
                     ]
                 },
                 {
@@ -3008,12 +3008,12 @@
                         "Gem with BLT scaling gems"
                     ],
                     "stepsVi": [
-                        "Skill v� BLT 35",
-                        "Bowblade +10",
-                        "Cung t�m xa an to�n",
+                        "Push Skill and BLT to 35 each",
+                        "Nâng tối đa Bowblade to +10",
+                        "Dùng $1ow mode for safe ranged damage",
                         "R2 nạp bắn đầu mạnh",
                         "Kiếm khi gần",
-                        "Gem BLT scaling"
+                        "Gem with BLT scaling gems"
                     ]
                 }
             ],
@@ -3031,7 +3031,7 @@
                     "name": "Simon's Bowblade",
                     "type": "Weapon",
                     "location": "DLC, Fishing Hamlet from Simon's body",
-                    "locationVi": "DLC Fishing Hamlet"
+                    "locationVi": "DLC, Fishing Hamlet from Simon's body"
                 },
                 {
                     "name": "Bone Marrow Ash",
@@ -3063,16 +3063,16 @@
                 "Cung tăng theo BLT",
                 "Kiếm tăng theo Skill",
                 "R2 nạp bắn đầu stagger",
-                "Bone Marrow Ash t\u0003ng s�t th��ng",
-                "Cung t�m xa an to�n"
+                "Bone Marrow Ash tng sát thng",
+                "The bow has incredible range — safe for any boss fight"
             ]
         },
         {
             "slug": "church-cannon",
             "name": "Church Cannon STR",
-            "nameVi": "\u0010�i B�c Nh� Th�",
+            "nameVi": "Church Cannon STR",
             "description": "A pure Strength build using the Church Cannon from the DLC. This massive weapon fires explosive projectiles that stagger everything. The transformed melee mode is a giant hammer.",
-            "descriptionVi": "Build Strength thu�n v�i Church Cannon DLC. B�n \u0011�n n� staggers m�i th�. Bi�n h�nh th�nh b�a kh�ng l�.",
+            "descriptionVi": "Build Strength thun vi Church Cannon DLC. Bắn n n staggers mi th. Bin hình thình ba khng l.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3104,11 +3104,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Violent Past",
-                        "Str 25 v� Vitality 15",
+                        "Tăng Str lên 25 and Vitality to 15",
                         "Đến DLC",
-                        "Cannon trong Research Hall",
+                        "Tìm the Cannon in the Research Hall",
                         "Cần 30 Str",
-                        "D�ng Hunter Axe t�m"
+                        "Dùng $1he Hunter Axe until you can"
                     ]
                 },
                 {
@@ -3127,11 +3127,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 35",
-                        "Cannon +6",
+                        "Nâng cấp Cannon to +6",
                         "Học timing cannon",
-                        "R1 bi�n h�nh b�a",
-                        "Clockwise Metamorphosis",
-                        "Vitality 30"
+                        "R1 bin hình ba",
+                        "Trang bị the Clockwise Metamorphosis",
+                        "Tăng Vitality lên 30"
                     ]
                 },
                 {
@@ -3150,11 +3150,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 50",
-                        "Cannon +10",
+                        "Nâng tối đa Cannon to +10",
                         "Cannon tốn 10 đạn",
-                        "AoE staggers \u0011�m \u0011�ng",
-                        "B�a \u0011�p xe t�i",
-                        "Beast Rune"
+                        "AoE explosion staggers large groups",
+                        "Transform hammer hits like a truck",
+                        "Trang bị the Beast Rune for damage"
                     ]
                 }
             ],
@@ -3172,19 +3172,19 @@
                     "name": "Church Cannon",
                     "type": "Weapon",
                     "location": "DLC, Research Hall upper floor",
-                    "locationVi": "DLC Research Hall"
+                    "locationVi": "DLC, Research Hall upper floor"
                 },
                 {
                     "name": "Clockwise Metamorphosis",
                     "type": "Rune",
                     "location": "Central Yharnam sewer",
-                    "locationVi": "Central Yharnam"
+                    "locationVi": "Central Yharnam sewer"
                 },
                 {
                     "name": "Beast Rune",
                     "type": "Rune",
                     "location": "Unlock from the Beast Covenant",
-                    "locationVi": "Beast Covenant"
+                    "locationVi": "Unlock from the Beast Covenant"
                 },
                 {
                     "name": "Great Lake Rune",
@@ -3203,17 +3203,17 @@
             "tipsVi": [
                 "Cannon bắn đạn nổ AoE",
                 "Tốn 10 đạn nhưng stagger mọi thứ",
-                "Bi�n h�nh th�nh b�a",
-                "R2 b�a n�p slam",
+                "Bin hình thình ba",
+                "The hammer R2 is a charged slam with high stagger",
                 "Blood Bullets hồi đạn"
             ]
         },
         {
             "slug": "piercing-rifle",
             "name": "Piercing Rifle BLT",
-            "nameVi": "S�ng Xuy�n Th�u",
+            "nameVi": "Súng Xuyn Thu",
             "description": "A Bloodtinge build using the Piercing Rifle from the DLC. This rifle fires bullets that pierce through enemies. Combined with the Chikage, you have devastating ranged and melee options.",
-            "descriptionVi": "Build BLT v�i Piercing Rifle DLC. \u0010�n xuy�n th�u nhi�u k� \u0011�ch. K�t h�p Chikage cho c�n chi�n.",
+            "descriptionVi": "Build BLT vi Piercing Rifle DLC. n xuyên thu nhiu k ch. Kt hp Chikage cho cn chin.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -3245,11 +3245,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Noble Scion",
-                        "BLT 25 v� Vitality 15",
+                        "Tăng BLT lên 25 and Vitality to 15",
                         "Đến Cainhurst Castle",
                         "Giết Martyr Logarius",
                         "Chikage từ Cainhurst",
-                        "Vi kh� ch�nh"
+                        "Vi kh chình"
                     ]
                 },
                 {
@@ -3268,11 +3268,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy BLT 35",
-                        "Piercing Rifle DLC",
-                        "Chikage +6",
-                        "Rifle +6",
-                        "Great Lake Rune",
-                        "Chikage bi�n h�nh t\u0003ng BLT"
+                        "Tìm the Piercing Rifle in DLC",
+                        "Nâng cấp Chikage to +6",
+                        "Nâng cấp Rifle to +6",
+                        "Trang bị the Great Lake Rune",
+                        "Chikage bin hình tng BLT"
                     ]
                 },
                 {
@@ -3291,11 +3291,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy BLT 50",
-                        "Max Chikage +10",
-                        "Max Rifle +10",
-                        "\u0010�n xuy�n \u0011�m \u0011�ng",
-                        "Chikage R1 bi�n h�nh nhanh",
-                        "BMA"
+                        "Nâng tối đa Chikage to +10",
+                        "Nâng tối đa Rifle to +10",
+                        "n xuyên m ng",
+                        "Chikage R1 bin hình nhanh",
+                        "Dùng $1MA for massive rifle shot damage"
                     ]
                 }
             ],
@@ -3313,13 +3313,13 @@
                     "name": "Chikage",
                     "type": "Weapon",
                     "location": "Cainhurst Castle after Logarius",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle after Logarius"
                 },
                 {
                     "name": "Piercing Rifle",
                     "type": "Weapon",
                     "location": "DLC, Research Hall basement",
-                    "locationVi": "DLC Research Hall"
+                    "locationVi": "DLC, Research Hall basement"
                 },
                 {
                     "name": "Great Lake Rune",
@@ -3342,9 +3342,9 @@
                 "Blood Bullets let you sustain ammo in long fights"
             ],
             "tipsVi": [
-                "\u0010�n Piercing Rifle xuy�n nhi�u qu�i",
-                "Chikage bi�n h�nh t�n HP nh�ng m�nh",
-                "BMA tr�n Piercing Rifle",
+                "n Piercing Rifle xuyên nhiu qui",
+                "Chikage bin hình tn HP nhng mnh",
+                "Dùng $1MA on the Piercing Rifle for a devastating shot",
                 "Chikage thường Skill scaling",
                 "Blood Bullets hồi đạn"
             ]
@@ -3354,7 +3354,7 @@
             "name": "Fist of Gratia",
             "nameVi": "Nắm Đấm Gratia",
             "description": "A meme build using the Fist of Gratia. This unarmed weapon has a slow but hilarious moveset that pancakes enemies. The R2 is an uppercut that sends enemies flying. Pure comedy.",
-            "descriptionVi": "Build meme v�i Fist of Gratia. \u0010�m tay kh�ng moveset ch�m nh�ng h�i h��c. R2 th��ng m� bay. Thu�n h�i.",
+            "descriptionVi": "Build meme vi Fist of Gratia. m tay khng moveset chm nhng hi hc. R2 thng m bay. Thuầnn hi.",
             "category": "meme",
             "difficulty": 3,
             "dlc": true,
@@ -3387,10 +3387,10 @@
                     "stepsVi": [
                         "Chọn Military Veteran",
                         "Đến DLC",
-                        "Fist of Gratia Research Hall",
-                        "Str 20 v� Skill 15",
-                        "B� h�t vi kh�",
-                        "Fist of Gratia"
+                        "Tìm the Fist of Gratia in the Research Hall",
+                        "Tăng Str lên 20 and Skill to 15",
+                        "Unequip all weapons",
+                        "Trang bị the Fist of Gratia"
                     ]
                 },
                 {
@@ -3408,12 +3408,12 @@
                         "Equip the Clawmark Rune"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str 30 v� Skill 20",
-                        "Fist +6",
+                        "Tăng Str lên 30 and Skill to 20",
+                        "Nâng cấp Fist to +6",
                         "R1 đấm chậm",
-                        "R2 th��ng m�",
-                        "Bi�n h�nh th�nh \u0011�m hai tay",
-                        "Clawmark Rune"
+                        "The R2 is an uppercut",
+                        "Bin hình thình m hai tay",
+                        "Trang bị the Clawmark Rune"
                     ]
                 },
                 {
@@ -3431,12 +3431,12 @@
                         "Invade and punch people to death"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str 40 v� Skill 25",
-                        "Fist +10",
+                        "Tăng Str lên 40 and Skill to 25",
+                        "Nâng tối đa Fist to +10",
                         "R2 nạp bay",
-                        "L2 bi�n h�nh h�i",
-                        "Beast Rune",
-                        "X�m l\u0003ng \u0011�m ch�t"
+                        "L2 bin hình hi",
+                        "Dùng $1he Beast Rune for meme damage",
+                        "Invade and punch people to death"
                     ]
                 }
             ],
@@ -3454,13 +3454,13 @@
                     "name": "Fist of Gratia",
                     "type": "Weapon",
                     "location": "DLC, Research Hall by the elevator",
-                    "locationVi": "DLC Research Hall"
+                    "locationVi": "DLC, Research Hall by the elevator"
                 },
                 {
                     "name": "Clockwise Metamorphosis",
                     "type": "Rune",
                     "location": "Central Yharnam sewer",
-                    "locationVi": "Central Yharnam"
+                    "locationVi": "Central Yharnam sewer"
                 },
                 {
                     "name": "Formless Oedon",
@@ -3483,11 +3483,11 @@
                 "The running attack is a flying kick"
             ],
             "tipsVi": [
-                "S�t th��ng strike m�nh v�i kin",
-                "R2 n�p th��ng m� bay",
-                "L2 bi�n h�nh \u0011�m \u0011�i",
-                "Ch�m nh�t nh�ng th�a m�n nh�t",
-                "Ch�y \u0011�nh \u0011� bay"
+                "The Fist of Gratia deals strike damage — very effective against kin",
+                "The charged R2 uppercut sends enemies into the air",
+                "L2 bin hình m i",
+                "It's one of the slowest weapons but most satisfying to land hits with",
+                "The running attack is a flying kick"
             ]
         }
     ]

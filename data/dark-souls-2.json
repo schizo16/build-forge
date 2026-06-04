@@ -8,9 +8,9 @@
         {
             "slug": "hexer",
             "name": "Dark Hexer",
-            "nameVi": "Ph�p S� B�ng T�i",
+            "nameVi": "Php S Bắng Ti",
             "description": "A devastating hex build that abuses Dark Orb and Affinity to melt everything. Dark Souls 2's most powerful PvE caster, scaling with both Intelligence and Faith. The Sunset Staff with Dark BNS rings is unmatched.",
-            "descriptionVi": "Build hex h�y di�t v�i Dark Orb v� Affinity. Ph�p s� PvE m�nh nh�t DS2, t\u0003ng theo c� Intelligence v� Faith. Sunset Staff v�i nh�n Dark BNS l� kh�ng ai s�nh b�ng.",
+            "descriptionVi": "Build hex hy dit vi Dark Orb v Affinity. Php s PvE mnh nht DS2, tng theo c Intelligence v Faith. Sunset Staff vi nhn Dark BNS l khng ai snh bắng.",
             "category": "meta",
             "difficulty": 2,
             "dlc": true,
@@ -44,12 +44,12 @@
                         "Level both Intelligence and Faith to 20 each"
                     ],
                     "stepsVi": [
-                        "Ch�n Sorcerer cho Soul Arrow v� catalyst",
-                        "Mua th�m spell t� Melentia � Majula",
-                        "T\u0003ng Attunement l�n 13 cho nhi�u slot",
+                        "Chọn Sorcerer0 để starting Soul Arrow catalyst",
+                        "Mua more spells từ Melentia in Majula",
+                        "Tng Attunement lên 13 cho nhiu slot",
                         "Chạy đến Sunset Staff ở Huntsman's Copse",
                         "Lấy Dark Orb từ Felkin the Outcast",
-                        "T\u0003ng c� Intelligence v� Faith l�n 20"
+                        "Tng c Intelligence v Faith lên 20"
                     ]
                 },
                 {
@@ -67,12 +67,12 @@
                         "Level Attunement to 20 and Adaptability to 20"
                     ],
                     "stepsVi": [
-                        "T\u0003ng \u0011�u Intelligence v� Faith l�n 30/30",
+                        "Tng u Intelligence v Faith lên 30/30",
                         "Gắn Dark cho Sunset Staff",
                         "Lấy Dark Clutch Ring từ Gutter",
                         "Mua Affinity từ Felkin",
-                        "Trang b� Abyss Seal \u0011� t\u0003ng s�t th��ng dark",
-                        "T\u0003ng Attunement l�n 20 v� Adaptability l�n 20"
+                        "Trang b Abyss Seal  tng sát thng dark",
+                        "Tng Attunement lên 20 v Adaptability lên 20"
                     ]
                 },
                 {
@@ -90,12 +90,12 @@
                         "Dark Orb with 60 casts carries you through any area"
                     ],
                     "stepsVi": [
-                        "\u0010�y Int/Fth l�n 40/40",
+                        "y Int/Fth lên 40/40",
                         "Lấy Great Resonant Soul từ Pilgrims of Dark",
-                        "D�ng Staff of Wisdom cho ma thu�t d� ph�ng",
-                        "T\u0003ng Attunement l�n 30",
+                        "Dùng $1he Staff of Wisdom for sorceries as backup",
+                        "Tng Attunement lên 30",
                         "Trang bị Clear Bluestone Ring +2",
-                        "Dark Orb v�i 60 l�n d�ng \u0011� cho m�i khu v�c"
+                        "Dark Orb vi 60 lên dng  cho mi khu vc"
                     ]
                 }
             ],
@@ -120,13 +120,13 @@
                     "name": "Sunset Staff",
                     "type": "Weapon",
                     "location": "Huntsman's Copse, found behind a locked door near the second bonfire",
-                    "locationVi": "Huntsman's Copse, sau c�a kh�a g�n bonfire th� hai"
+                    "locationVi": "Huntsman's Copse, found behind a locked door near the second bonfire"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter, on a corpse in a toxic pit",
-                    "locationVi": "The Gutter, tr�n x�c trong h� \u0011�c"
+                    "locationVi": "The Gutter, on a corpse in a toxic pit"
                 },
                 {
                     "name": "Abyss Seal",
@@ -161,9 +161,9 @@
                 "Level Adaptability until your Agility reaches 105 for max iframes"
             ],
             "tipsVi": [
-                "Dark Orb l� hex hi�u qu� nh�t \u0014 s�t th��ng t�t, �t FP, 60+ l�n d�ng",
-                "Lu�n gi� 1 slot cho Yearn \u0014 l�m nhi�u khu v�c DLC d� h�n",
-                "Abyss Seal t\u0003ng 20% s�t th��ng dark nh�ng t�n HP",
+                "Dark Orb l hex hiu qu nht  sát thng tt, t FP, 60+ lên dng",
+                "Always keep 1 spell slot for Yearn — it trivializes many DLC areas",
+                "Abyss Seal tng 20% sát thng dark nhng tn HP",
                 "Great Resonant Soul tốn soul nhưng DPS cao nhất",
                 "Tăng Adaptability đến khi Agility đạt 105"
             ]
@@ -173,7 +173,7 @@
             "name": "Powerstance Curved Swords",
             "nameVi": "Song Kiếm Cong",
             "description": "A powerstance build using dual curved swords for rapid-fire L1 attacks. Stunlocks enemies and procs bleed or poison in seconds. One of the highest sustained DPS setups in DS2.",
-            "descriptionVi": "Build powerstance hai ki�m cong v�i \u0011�n L1 t�c \u0011� cao. Stunlock k� \u0011�ch v� g�y ch�y m�u trong t�ch t�c. M�t trong nh�ng setup DPS cao nh�t DS2.",
+            "descriptionVi": "Build powerstance hai kiếm cong vi n L1 tc  cao. Stunlock k ch v gy chy mu trong tch tc. Mt trong nhng setup DPS cao nht DS2.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -207,11 +207,11 @@
                         "Get the Ring of Blades from the Pursuer area"
                     ],
                     "stepsVi": [
-                        "Ch�n Warrior cho ch� s� c�n b�ng",
+                        "Chn Warrior cho ch s cn bắng",
                         "Mua hai Scimitar từ Lonesome Gavlan",
-                        "T\u0003ng Dexterity l�n 20 v� Endurance l�n 15",
+                        "Tng Dexterity lên 20 v Endurance lên 15",
                         "Cầm một tay hai kiếm cho đến khi đủ chỉ số",
-                        "Powerstance y�u c�u 1.5x ch� s� y�u c�u",
+                        "Powerstance requires 1.5x the stat requirements",
                         "Lấy Ring of Blades từ khu vực Pursuer"
                     ]
                 },
@@ -230,12 +230,12 @@
                         "Find the Curved Dragon Greatsword for a heavier option"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dexterity l�n 35 v� Strength l�n 18",
-                        "N�ng c� hai Scimitar l�n +10",
-                        "Trang b� Stone Ring cho s�t th��ng poise t�i \u0011a",
-                        "L�y Old Leo Ring cho s�t th��ng ph�n \u0011�n",
-                        "T\u0003ng Vigor l�n 30 v� Adaptability l�n 24",
-                        "T�m Curved Dragon Greatsword"
+                        "y Dexterity lên 35 v Strength lên 18",
+                        "Nng c hai Scimitar lên +10",
+                        "Trang b Stone Ring cho sát thng poise ti a",
+                        "Ly Old Leo Ring cho sát thng phn n",
+                        "Tng Vigor lên 30 v Adaptability lên 24",
+                        "Tìm the Curved Dragon Greatsword for a heavier option"
                     ]
                 },
                 {
@@ -253,7 +253,7 @@
                         "The L1-L1-L2 powerstance combo stunlocks most enemies to death"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dexterity l�n 40 v� Vigor l�n 40",
+                        "y Dexterity lên 40 v Vigor lên 40",
                         "Lấy Flynn's Ring cho +50 AR",
                         "Gắn Lightning cho cả hai Scimitar",
                         "Trang bị Chloranthy Ring +2",
@@ -302,7 +302,7 @@
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Crown of the Sunken King DLC, in the Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC, Sanctum City"
+                    "locationVi": "Crown of the Sunken King DLC, in the Sanctum City"
                 },
                 {
                     "name": "Stone Ring",
@@ -314,7 +314,7 @@
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ Rotten or use Bonfire Ascetic in Black Gulch",
-                    "locationVi": "NG+ Rotten ho�c d�ng Bonfire Ascetic"
+                    "locationVi": "NG+ Rotten or use Bonfire Ascetic in Black Gulch"
                 },
                 {
                     "name": "Old Leo Ring",
@@ -331,11 +331,11 @@
                 "Use Brightbugs for a 20% damage boost on tough bosses"
             ],
             "tipsVi": [
-                "\u0010�n L1 powerstance ki�m cong c� t�c \u0011� \u0011�nh nhanh nh�t game",
+                "n L1 powerstance kiếm cong c tc  nh nhanh nht game",
                 "Flynn's Ring cho +50 AR khi tải trọng dưới 60",
-                "\u0010�n L2 powerstance l� ch�m ch�o hai l�n",
-                "Stone Ring b�t bu�c \u0014 n�u kh�ng b�n kh�ng th� l�m cho�ng qu�i DLC",
-                "D�ng Brightbugs \u0011� t\u0003ng 20% s�t th��ng cho boss kh�"
+                "n L2 powerstance l chm cho hai lên",
+                "Stone Ring bt buc  nu khng bắn khng th lm chong qui DLC",
+                "Dng Brightbugs  tng 20% sát thng cho boss kh"
             ]
         },
         {
@@ -343,7 +343,7 @@
             "name": "Rapier DEX",
             "nameVi": "Rapier Nhanh Nhẹn",
             "description": "A Dexterity build built around the Rapier — the king of DPS in Dark Souls 2. With Leo Ring counter damage and high stamina regen, the Rapier's R1 spam deletes bosses faster than anything else.",
-            "descriptionVi": "Build Dexterity v�i Rapier \u0014 vua DPS trong Dark Souls 2. V�i Leo Ring v� h�i stamina cao, R1 c�a Rapier x�a boss nhanh h�n b�t k� vi kh� n�o.",
+            "descriptionVi": "A Dexterity build built around the Rapier — the king of DPS in Dark Souls 2. With Leo Ring counter damage and high stamina regen, the Rapier's R1 spam deletes bosses faster than anything else.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -379,8 +379,8 @@
                     "stepsVi": [
                         "Chọn Swordsman cho Rapier khởi đầu",
                         "Mua Rapier thứ hai từ Leningrast ở Majula",
-                        "T\u0003ng Dexterity l�n 20 v� Endurance l�n 15",
-                        "N�ng Rapier l�n +3",
+                        "Tng Dexterity lên 20 v Endurance lên 15",
+                        "Nng Rapier lên +3",
                         "Lấy Ring of Blades từ Pursuer",
                         "Trang bị Stone Ring"
                     ]
@@ -400,11 +400,11 @@
                         "Equip the Chloranthy Ring for stamina"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dexterity l�n 40",
-                        "N�ng Rapier l�n +10",
+                        "y Dexterity lên 40",
+                        "Nng Rapier lên +10",
                         "Lấy Old Leo Ring",
-                        "T\u0003ng Adaptability l�n 24",
-                        "D�ng Bonfire Ascetic � Sinner's Rise",
+                        "Tng Adaptability lên 24",
+                        "Dùng $1 Bonfire Ascetic on Sinner's Rise for the Old Witch Soul",
                         "Trang bị Chloranthy Ring"
                     ]
                 },
@@ -423,11 +423,11 @@
                         "The R1 spam into Old Leo Ring counter-hits is the highest DPS in the game"
                     ],
                     "stepsVi": [
-                        "\u0010�y Dexterity l�n 50 cho S scaling",
+                        "y Dexterity lên 50 cho S scaling",
                         "Gắn Lightning cho Rapier",
                         "Lấy Flynn's Ring từ Sunken King DLC",
-                        "Max Endurance v� Vigor",
-                        "D�ng Engraved Gauntlets cho \u0011�n ch� m�ng mi�n ph�",
+                        "Nâng tối đa Endurance at 30 and Vigor at 30",
+                        "Dùng $1he Engraved Gauntlets for free critical hits",
                         "R1 spam + Old Leo Ring = DPS cao nhất game"
                     ]
                 }
@@ -453,7 +453,7 @@
                     "name": "Rapier",
                     "type": "Weapon",
                     "location": "Starting weapon for Swordsman or purchased from Leningrast",
-                    "locationVi": "Vi kh� kh�i \u0011�u c�a Swordsman ho�c mua t� Leningrast"
+                    "locationVi": "Starting weapon for Swordsman or purchased from Leningrast"
                 },
                 {
                     "name": "Old Leo Ring",
@@ -465,13 +465,13 @@
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer or use Bonfire Ascetic",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer or use Bonfire Ascetic"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Chloranthy Ring +2",
@@ -483,7 +483,7 @@
                     "name": "Engraved Gauntlets",
                     "type": "Armor",
                     "location": "Iron King DLC, dropped by the NPC invader in Brume Tower",
-                    "locationVi": "Iron King DLC, r�i t� NPC x�m l\u0003ng"
+                    "locationVi": "Iron King DLC, rơi t NPC xm lng"
                 }
             ],
             "tips": [
@@ -494,11 +494,11 @@
                 "The Espada Ropera (from the Crown of the Sunken King) is a direct upgrade — get it"
             ],
             "tipsVi": [
-                "130 counter rating c�a Rapier + Leo Ring = 30% s�t th��ng th�m",
+                "130 counter rating ca Rapier + Leo Ring = 30% sát thng thm",
                 "Lightning tốt hơn Magic trong DS2",
-                "M�i \u0011�n R1 t�n r�t �t stamina \u0014 c� th� \u0011�nh 8+ \u0011�n li�n ti�p",
-                "Old Leo Ring + Stone Ring cho s�t th��ng poise kh�ng",
-                "Espada Ropera (t� Sunken King DLC) l� b�n n�ng c�p tr�c ti�p"
+                "Stack endurance — each R1 costs very little stamina so you can chain 8+ attacks",
+                "Old Leo Ring + Stone Ring cho sát thng poise khng",
+                "Espada Ropera (t Sunken King DLC) l bắn nng cp trc tip"
             ]
         },
         {
@@ -506,7 +506,7 @@
             "name": "Ultra Greatsword STR",
             "nameVi": "Đại Kiếm Sức Mạnh",
             "description": "A pure Strength build wielding the Ultra Greatsword or Fume Ultra Greatsword. Massive poise, massive damage, massive satisfaction. The UGS pancake attacks flatten everything.",
-            "descriptionVi": "Build Strength thu�n v�i Ultra Greatsword ho�c Fume Ultra Greatsword. Poise kh�ng l�, s�t th��ng kh�ng l�. \u0010�n \u0011� c�a UGS \u0011� b�p m�i th�.",
+            "descriptionVi": "Build Strength thun vi Ultra Greatsword hoc Fume Ultra Greatsword. Poise khng l, sát thng khng l. n  ca UGS  bp mi th.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -540,11 +540,11 @@
                         "Get the Ring of Blades from the Pursuer"
                     ],
                     "stepsVi": [
-                        "Ch�n Knight cho Vigor v� Strength cao",
+                        "Chọn Knight0 để high starting Vigor and Strength",
                         "Chạy đến Greatsword ở No Man's Wharf",
                         "Cầm hai tay với 20 Strength",
-                        "T\u0003ng Strength l�n 30 v� Vigor l�n 20",
-                        "N�ng Greatsword l�n +4",
+                        "Tng Strength lên 30 v Vigor lên 20",
+                        "Nng Greatsword lên +4",
                         "Lấy Ring of Blades từ Pursuer"
                     ]
                 },
@@ -563,9 +563,9 @@
                         "Join the Company of Champions for farming效率"
                     ],
                     "stepsVi": [
-                        "\u0010�y Strength l�n 40",
-                        "N�ng Greatsword l�n +10",
-                        "T\u0003ng Endurance l�n 25",
+                        "y Strength lên 40",
+                        "Nng Greatsword lên +10",
+                        "Tng Endurance lên 25",
                         "Trang bị Havel's Ring",
                         "Lấy Chloranthy Ring",
                         "Gia nhập Company of Champions để farm"
@@ -586,7 +586,7 @@
                     ],
                     "stepsVi": [
                         "Lấy Fume Ultra Greatsword từ Fume Knight trong DLC",
-                        "\u0010�y Strength l�n 50",
+                        "y Strength lên 50",
                         "Gắn Lightning",
                         "Trang bị Third Dragon Ring",
                         "Mặc Havel's hoặc Drakekeeper cho poise tối đa"
@@ -627,19 +627,19 @@
                     "name": "Fume Ultra Greatsword",
                     "type": "Weapon",
                     "location": "Crown of the Old Iron King DLC, boss weapon from Fume Knight",
-                    "locationVi": "Crown of the Old Iron King DLC, vi kh� boss t� Fume Knight"
+                    "locationVi": "Crown of the Old Iron King DLC, boss weapon from Fume Knight"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Doors of Pharros, found behind a petrified door",
-                    "locationVi": "Doors of Pharros, sau c�a h�a \u0011�"
+                    "locationVi": "Doors of Pharros, found behind a petrified door"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter, on a corpse near the entrance",
-                    "locationVi": "Shrine of Winter, g�n l�i v�o"
+                    "locationVi": "Shrine of Winter, on a corpse near the entrance"
                 },
                 {
                     "name": "Chloranthy Ring +2",
@@ -662,11 +662,11 @@
                 "Use the Stone Ring to compensate for low poise damage on the first hit"
             ],
             "tipsVi": [
-                "Fume UGS c� R2 \u0011�c bi�t ch�n \u0011�n trong l�c vung",
-                "UGS c� hyper armor \u0014 t� tin trao \u0011�i s�t th��ng",
-                "Ch�y R1 c�a Greatsword l� \u0011�n \u0011�m t�m xa",
-                "100+ poise \u0011� kh�ng b� gi�n \u0011o�n",
-                "Stone Ring \u0011� b� s�t th��ng poise"
+                "The Fume UGS has a unique R2 attack that blocks during the wind-up — use it aggressively",
+                "UGS c hyper armor  t tin trao i sát thng",
+                "The running R1 of the Greatsword is a long-range poke that roll-catches well",
+                "Stack poise to 100+ to poise through anything except the strongest attacks",
+                "Stone Ring  b sát thng poise"
             ]
         },
         {
@@ -674,7 +674,7 @@
             "name": "Faith Lightning Paladin",
             "nameVi": "Đức Tin Sấm Sét",
             "description": "A Faith build wielding a Lightning-infused weapon with powerful offensive miracles. Lightning Spear and Heavenly Thunder decimate enemies while heals keep you alive forever.",
-            "descriptionVi": "Build Faith v�i vi kh� Lightning v� miracle s�m s�t m�nh m�. Lightning Spear v� Heavenly Thunder h�y di�t k� \u0011�ch trong khi h�i m�u gi� b�n s�ng m�i.",
+            "descriptionVi": "Build Faith vi vi kh Lightning v miracle sm sát mnh m. Lightning Spear v Heavenly Thunder hy dit k ch trong khi hi mu gi bắn súng mi.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -708,11 +708,11 @@
                         "Join the Heirs of the Sun covenant for Sunlight Spear"
                     ],
                     "stepsVi": [
-                        "Ch�n Cleric cho mace v� heal",
+                        "Chọn Clericthe starting mace and healing",
                         "Mua Lightning Spear từ Targray",
-                        "T\u0003ng Faith l�n 28",
-                        "T\u0003ng Attunement l�n 13",
-                        "N�ng Mace l�n +6",
+                        "Tng Faith lên 28",
+                        "Tng Attunement lên 13",
+                        "Nng Mace lên +6",
                         "Gia nhập Heirs of the Sun"
                     ]
                 },
@@ -731,12 +731,12 @@
                         "Buy Great Lightning Spear from the covenant vendor"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith l�n 40",
+                        "y Faith lên 40",
                         "Gắn Lightning cho Mace",
-                        "T�m Heavenly Thunder � Gutter",
+                        "Tìm Heavenly Thunder in the Gutter",
                         "Trang bị Lightning Clutch Ring",
-                        "T\u0003ng Attunement l�n 20",
-                        "Mua Great Lightning Spear"
+                        "Tng Attunement lên 20",
+                        "Mua Great Lightning Spear từ the covenant vendor"
                     ]
                 },
                 {
@@ -754,12 +754,12 @@
                         "Use Great Heal for massive sustainability"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith l�n 55",
-                        "D�ng Dragon Chime cho scaling S",
+                        "y Faith lên 55",
+                        "Dùng $1he Dragon Chime for S-scaling lightning miracles",
                         "Lấy Sunlight Spear từ covenant",
                         "Trang bị Clear Bluestone Ring +2",
-                        "Heavenly Thunder l�m cho�ng qu�i DLC",
-                        "D�ng Great Heal cho h�i m�u"
+                        "Heavenly Thunder staggers large enemies in DLC",
+                        "Dùng $1reat Heal for massive sustainability"
                     ]
                 }
             ],
@@ -777,19 +777,19 @@
                     "name": "Dragon Chime",
                     "type": "Weapon",
                     "location": "Shrine of Amana, found behind a locked door near the third bonfire",
-                    "locationVi": "Shrine of Amana, sau c�a kh�a"
+                    "locationVi": "Shrine of Amana, found behind a locked door near the third bonfire"
                 },
                 {
                     "name": "Lightning Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter, on a corpse hanging over a poison pool",
-                    "locationVi": "The Gutter, tr�n x�c ch�t"
+                    "locationVi": "The Gutter, on a corpse hanging over a poison pool"
                 },
                 {
                     "name": "Clear Bluestone Ring +2",
                     "type": "Ring",
                     "location": "NG+ Najka in Shaded Woods",
-                    "locationVi": "NG+ Najka"
+                    "locationVi": "NG+ Najka in Shaded Woods"
                 },
                 {
                     "name": "Sunlight Spear",
@@ -801,7 +801,7 @@
                     "name": "Lightning Mace",
                     "type": "Weapon",
                     "location": "Infuse any Mace with Boltstone",
-                    "locationVi": "G�n Boltstone cho b�t k� Mace n�o"
+                    "locationVi": "Infuse any Mace with Boltstone"
                 },
                 {
                     "name": "Saint's Hood",
@@ -818,11 +818,11 @@
                 "Skeptics Spice reduces Faith requirements for spells — use it on high-Faith spells"
             ],
             "tipsVi": [
-                "Lightning Spear c� s� l�n d�ng h�n ch�",
-                "Heavenly Thunder l� DPS t�t nh�t cho boss to",
-                "Dragon Chime l� chime t�t nh�t game",
-                "Great Heal Extended h�i nhi�u h�n nh�ng ni�m l�u h�n",
-                "Skeptics Spice gi�m y�u c�u Faith"
+                "Lightning Spear c s lên dng hn ch",
+                "Heavenly Thunder is your best DPS for large bosses with multiple hitboxes",
+                "The Dragon Chime is the best chime in the game — rush it",
+                "Great Heal Extended heals for more but takes longer to cast",
+                "Skeptics Spice reduces Faith requirements for spells — use it on high-Faith spells"
             ]
         },
         {
@@ -830,7 +830,7 @@
             "name": "Pure Sorcery",
             "nameVi": "Thuật Sĩ Thuần Khiết",
             "description": "A pure Intelligence sorcery build with Crystal Soul Spear, Soul Geyser, and Homing Crystal Soulmass. The highest burst damage potential in DS2 for deleting bosses.",
-            "descriptionVi": "Build Intelligence thu�n v�i Crystal Soul Spear, Soul Geyser v� Homing Crystal Soulmass. S�t th��ng burst cao nh�t DS2 \u0011� x�a s� boss.",
+            "descriptionVi": "A pure Intelligence sorcery build with Crystal Soul Spear, Soul Geyser, and Homing Crystal Soulmass. The highest burst damage potential in DS2 for deleting bosses.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -864,10 +864,10 @@
                         "Equip the Clear Bluestone Ring from Najka"
                     ],
                     "stepsVi": [
-                        "Ch�n Sorcerer cho spell v� staff",
-                        "Mua th�m spell t� Carhillion",
-                        "T\u0003ng Intelligence l�n 30 v� Attunement l�n 16",
-                        "T�m Witchtree Branch trong Gutter",
+                        "Chọn Sorcererstarter spells and staff",
+                        "Mua Soul Arrow từ Melentia and more spells from Carhillion",
+                        "Tng Intelligence lên 30 v Attunement lên 16",
+                        "Tìm the Witchtree Branch in the Gutter for fast cast speed",
                         "Lấy Soul Spear từ Bastille",
                         "Trang bị Clear Bluestone Ring"
                     ]
@@ -887,10 +887,10 @@
                         "Buy Crystal Soul Spear from Duke's Dear Freja's soul"
                     ],
                     "stepsVi": [
-                        "\u0010�y Intelligence l�n 45",
-                        "D�ng Staff of Wisdom",
+                        "y Intelligence lên 45",
+                        "Dùng $1he Staff of Wisdom from Brightstone Cove",
                         "Lấy Homing Crystal Soulmass từ Straid",
-                        "T\u0003ng Attunement l�n 30",
+                        "Tng Attunement lên 30",
                         "Trang bị Magic Clutch Ring",
                         "Mua Crystal Soul Spear từ linh hồn Freja"
                     ]
@@ -910,12 +910,12 @@
                         "Yearn makes DLC areas much easier"
                     ],
                     "stepsVi": [
-                        "\u0010�y Intelligence l�n 60",
+                        "y Intelligence lên 60",
                         "Trang bị Unleash Magic",
                         "Mặc Chaos Hood",
                         "Trang bị Soul Geyser từ Sunken King DLC",
-                        "Crystal Soul Spear + Soul Geyser x�a boss",
-                        "Yearn gi�p DLC d� h�n"
+                        "Dùng $1rystal Soul Spear + Soul Geyser for boss deletion",
+                        "Yearn makes DLC areas much easier"
                     ]
                 }
             ],
@@ -933,31 +933,31 @@
                     "name": "Staff of Wisdom",
                     "type": "Weapon",
                     "location": "Brightstone Cove Tseldora, in the room with the invader",
-                    "locationVi": "Brightstone Cove Tseldora"
+                    "locationVi": "Brightstone Cove Tseldora, in the room with the invader"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Crown of the Sunken King DLC, Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC"
+                    "locationVi": "Crown of the Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Clear Bluestone Ring +2",
                     "type": "Ring",
                     "location": "NG+ Najka or Bonfire Ascetic in Shaded Woods",
-                    "locationVi": "NG+ Najka"
+                    "locationVi": "NG+ Najka or Bonfire Ascetic in Shaded Woods"
                 },
                 {
                     "name": "Unleash Magic",
                     "type": "Weapon",
                     "location": "Dragon Shrine, dropped by an NPC invader",
-                    "locationVi": "Dragon Shrine, r�i t� NPC x�m l\u0003ng"
+                    "locationVi": "Dragon Shrine, rơi t NPC xm lng"
                 },
                 {
                     "name": "Chaos Hood",
                     "type": "Armor",
                     "location": "DLC area, found in the Iron King DLC",
-                    "locationVi": "Iron King DLC"
+                    "locationVi": "DLC area, found in the Iron King DLC"
                 },
                 {
                     "name": "Crystal Soul Spear",
@@ -974,11 +974,11 @@
                 "Use the Southern Ritual Band +2 for 3 extra attunement slots"
             ],
             "tipsVi": [
-                "X�p nhi�u b�n c�ng spell \u0011� t\u0003ng s� l�n d�ng",
-                "Unleash Magic t\u0003ng 20% s�t th��ng ph�p",
+                "Xp nhiu bắn công spell  tng s lên dng",
+                "Unleash Magic tng 20% sát thng php",
                 "Soul Geyser bắn nhiều đạn",
-                "Yearn l� spell PvE t�t nh�t DS2",
-                "Southern Ritual Band +2 cho 3 slot attunement th�m"
+                "Yearn is the best PvE spell in DS2 — it distracts enemies for easy backstabs",
+                "Dùng $1he Southern Ritual Band +2 for 3 extra attunement slots"
             ]
         },
         {
@@ -986,7 +986,7 @@
             "name": "Quality Longsword",
             "nameVi": "Chất Lượng PvP",
             "description": "A Quality PvP build using the Sun Sword with 40/40 Strength and Dexterity. The Longsword moveset is universally considered the best in DS2 PvP — versatile, fast, and deadly.",
-            "descriptionVi": "Build Quality PvP v�i Sun Sword 40/40 Strength v� Dexterity. Moveset c�a Longsword \u0011��c coi l� t�t nh�t DS2 PvP \u0014 \u0011a n\u0003ng, nhanh v� ch�t ng��i.",
+            "descriptionVi": "A Quality PvP build using the Sun Sword with 40/40 Strength and Dexterity. The Longsword moveset is universally considered the best in DS2 PvP — versatile, fast, and deadly.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -1020,12 +1020,12 @@
                         "Level Adaptability to 20 early"
                     ],
                     "stepsVi": [
-                        "Ch�n Warrior cho ch� s� c�n b�ng",
+                        "Chn Warrior cho ch s cn bắng",
                         "Mua Longsword từ Leningrast",
-                        "T\u0003ng Strength v� Dexterity \u0011�u 20/20",
-                        "N�ng Longsword l�n +4",
+                        "Level Strength and Dexterity evenly to 20/20",
+                        "Nng Longsword lên +4",
                         "Lấy Ring of Blades",
-                        "T\u0003ng Adaptability l�n 20"
+                        "Tng Adaptability lên 20"
                     ]
                 },
                 {
@@ -1043,11 +1043,11 @@
                         "Get the Chloranthy Ring +2"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Dex l�n 30/30",
+                        "y Str/Dex lên 30/30",
                         "Lấy Sun Sword từ Heirs of the Sun",
-                        "N�ng Sun Sword l�n +10",
+                        "Nng Sun Sword lên +10",
                         "Trang bị Old Leo Ring",
-                        "T\u0003ng Vigor l�n 30",
+                        "Tng Vigor lên 30",
                         "Lấy Chloranthy Ring +2"
                     ]
                 },
@@ -1066,11 +1066,11 @@
                         "Practice the running R1 into into backstep R1 combo"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str/Dex l�n 40/40",
-                        "D�ng Flynn's Ring + Ring of Blades",
-                        "Gi� Bandit Axe d� ph�ng",
+                        "y Str/Dex lên 40/40",
+                        "Dùng $1lynn's Ring + Ring of Blades for maximum AR",
+                        "Keep a Bandit Axe backup for roll catches",
                         "Lấy Engraved Gauntlets",
-                        "H�c combo R2 \u0011�m 2 tay + R1 b�t l\u0003n",
+                        "Learn the Longsword 2-handed R2 poke into R1 roll catch",
                         "Luyện tập chạy R1 + backstep R1"
                     ]
                 }
@@ -1102,7 +1102,7 @@
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -1137,11 +1137,11 @@
                 "Backstep has iframes in DS2 — use backstep R1 to catch aggressive opponents"
             ],
             "tipsVi": [
-                "R2 hai tay c�a Longsword l� \u0011�m \u0014 k�t h�p Leo Ring",
-                "Sun Sword c� c�ng moveset v�i Longsword nh�ng scaling Quality",
-                "B�t l\u0003n l� k� n\u0003ng PvP quan tr�ng nh�t",
-                "Gi� dao g\u0003m ho�c khi�n nh� \u0011� parry",
-                "Backstep c� iframe trong DS2"
+                "Longsword 2-handed R2 is a thrust — combine with Leo Ring for massive counter damage",
+                "Sun Sword c công moveset vi Longsword nhng scaling Quality",
+                "Roll catching is the most important PvP skill — the running R1 is your best tool",
+                "Keep a parrying dagger or small shield in your offhand for setup parries",
+                "Backstep has iframes in DS2 — use backstep R1 to catch aggressive opponents"
             ]
         },
         {
@@ -1149,7 +1149,7 @@
             "name": "Poison Butterfly",
             "nameVi": "Bướm Độc",
             "description": "A meme-turned-viable Poison build that uses powerstanced poison-infused weapons to proc poison in one L1 combo. Watch enemies panic as their health ticks away.",
-            "descriptionVi": "Build meme nh�ng kh� thi v�i vi kh� t�m \u0011�c. Combo L1 k�ch ho�t \u0011�c ngay l�p t�c. Nh�n k� \u0011�ch ho�ng lo�n khi m�u t� t� c�n.",
+            "descriptionVi": "A meme-turned-viable Poison build that uses powerstanced poison-infused weapons to proc poison in one L1 combo. Watch enemies panic as their health ticks away.",
             "category": "meme",
             "difficulty": 2,
             "dlc": false,
@@ -1185,8 +1185,8 @@
                     "stepsVi": [
                         "Chọn Bandit cho Dexterity cao",
                         "Mua hai dao găm từ Gavlan",
-                        "T\u0003ng Dexterity l�n 25",
-                        "D�ng Rotten Pine Resin t�m th�i",
+                        "Tng Dexterity lên 25",
+                        "Dùng $1he basic Rotten Pine Resin for poison before infusion",
                         "Lấy Poisonbite Ring"
                     ]
                 },
@@ -1205,10 +1205,10 @@
                         "Farm the poison butterflies in Harvest Valley"
                     ],
                     "stepsVi": [
-                        "T�m Poison infusion t� linh h�n Mytha",
+                        "Tìm the Poison infusion from Mytha's soul (or buy poison stones)",
                         "Gắn Poison cho hai kiếm cong",
-                        "T\u0003ng Strength l�n 18 v� Dexterity l�n 35",
-                        "L�y Crest of the Rat cho t�ch liy \u0011�c",
+                        "Tng Strength lên 18 v Dexterity lên 35",
+                        "Get the Crest of the Rat covenant ring for poison buildup",
                         "Trang bị Shadow Gauntlets",
                         "Farm bướm độc ở Harvest Valley"
                     ]
@@ -1230,10 +1230,10 @@
                     "stepsVi": [
                         "Max Dexterity ở 40",
                         "Powerstance hai kiếm độc",
-                        "M�t combo L1 k�ch ho�t \u0011�c l�p t�c",
-                        "Th�m Sanctum Crossbow v�i \u0011�n \u0011�c",
-                        "D�ng Rat Ring k�o d�i th�i gian \u0011�c",
-                        "L�i l�i sau khi k�ch \u0011�c \u0014 \u0011� \u0011�c l�m vi�c"
+                        "One L1 combo procs poison on any enemy or player",
+                        "Add the Sanctum Crossbow with poison bolts for ranged pressure",
+                        "Dùng $1he Rat Ring to extend poison duration",
+                        "Back off once poison procs — let it do the work"
                     ]
                 }
             ],
@@ -1251,13 +1251,13 @@
                     "name": "Poison Curved Sword x2",
                     "type": "Weapon",
                     "location": "Infuse any curved sword with Poison using Poison Stones",
-                    "locationVi": "G�n Poison cho b�t k� ki�m cong n�o"
+                    "locationVi": "Gn Poison cho bt k kiếm cong no"
                 },
                 {
                     "name": "Sanctum Crossbow",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Crest of the Rat",
@@ -1275,13 +1275,13 @@
                     "name": "Sanctum Soldier Gauntlets",
                     "type": "Armor",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Poisonbite Ring +1",
                     "type": "Ring",
                     "location": "NG+ Mytha or Bonfire Ascetic in Earthen Peak",
-                    "locationVi": "NG+ Mytha"
+                    "locationVi": "NG+ Mytha or Bonfire Ascetic in Earthen Peak"
                 }
             ],
             "tips": [
@@ -1292,19 +1292,19 @@
                 "Keep a backup non-poison weapon for enemies immune to poison"
             ],
             "tipsVi": [
-                "M�t combo L1 powerstance k�ch ho�t \u0011�c ngay",
-                "\u0010�c g�y ~1,000 s�t th��ng trong PvP",
-                "Sanctum Crossbow \u0011�n \u0011�c k�ch ho�t sau 2-3 ph�t",
+                "One L1 powerstance combo with poison curved swords procs poison instantly",
+                "c gy ~1,000 sát thng trong PvP",
+                "Sanctum Crossbow poison bolts poison in 2-3 hits from range",
                 "Rat Ring + Crest of the Rat cho thời gian độc tối đa",
-                "Gi� vi kh� th��ng cho k� \u0011�ch mi�n nhi�m \u0011�c"
+                "Keep a backup non-poison weapon for enemies immune to poison"
             ]
         },
         {
             "slug": "helix-halberd-powerstance",
             "name": "Helix Halberd Powerstance",
-            "nameVi": "Song K�ch Helix",
+            "nameVi": "Helix Halberd Powerstance",
             "description": "A powerstance build using the Helix Halberd with a second halberd. The powerstance L1 thrust deals absurd counter damage with the Old Leo Ring. Highest burst damage potential in DS2.",
-            "descriptionVi": "Build powerstance v�:i Helix Halberd. L1 �\u0018�m v�:i Old Leo Ring cho s�t th��ng burst cao nh�t DS2.",
+            "descriptionVi": "Build powerstance v:i Helix Halberd. L1 m v:i Old Leo Ring cho sát thng burst cao nht DS2.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1339,11 +1339,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "TĒng Str/Dex �\u0018ều 20/20",
-                        "D�ng m�\"t Halberd t�m",
+                        "TĒng Str/Dex ều 20/20",
+                        "Dùng $1 single Halberd temporarily",
                         "Lấy Ring of Blades",
-                        "T�m Helix Halberd trong DLC",
-                        "Trang b�9 Old Leo Ring"
+                        "Tìm the Helix Halberd in the DLC",
+                        "Trang bị the Old Leo Ring"
                     ]
                 },
                 {
@@ -1363,15 +1363,15 @@
                     "stepsVi": [
                         "Đẩy Str/Dex 25/25",
                         "Cầm hai Helix Halberd",
-                        "N�ng c� hai l�n +10",
-                        "TĒng Adaptability 24",
+                        "Nng c hai lên +10",
+                        "Tăng Adaptability lên 24",
                         "Gắn Lightning cho cả hai",
                         "Lấy Chloranthy Ring +2"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Drangleic Castle, DLC areas",
                     "areasVi": "Drangleic Castle, DLC areas",
@@ -1386,10 +1386,10 @@
                     "stepsVi": [
                         "Đẩy Str/Dex 30/30",
                         "Lấy Flynn's Ring",
-                        "Old Leo Ring t\u0012ng s�t th��ng L1 �\u0018�m",
-                        "L1 �\u0018�nh hai l�n",
-                        "Trang b�9 Engraved Gauntlets",
-                        "Combo L1-L1 x�a boss"
+                        "Old Leo Ring tng sát thng L1 m",
+                        "L1 nh hai lên",
+                        "Trang bị Engraved Gauntlets for lucky crits",
+                        "L1-L1 combo with counters deletes bosses"
                     ]
                 }
             ],
@@ -1414,13 +1414,13 @@
                     "name": "Helix Halberd",
                     "type": "Weapon",
                     "location": "Crown of the Sunken King DLC, Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC"
+                    "locationVi": "Crown of the Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer or Bonfire Ascetic",
-                    "locationVi": "NG+ Old Dragonslayer"
+                    "locationVi": "NG+ Old Dragonslayer or Bonfire Ascetic"
                 },
                 {
                     "name": "Flynn's Ring",
@@ -1455,11 +1455,11 @@
                 "Use Brightbugs for 20% extra damage on boss fights"
             ],
             "tipsVi": [
-                "L1 �\u0018�m hai l�n - m�\u0014i l�n c� th� k�ch ho�t Old Leo Ring",
-                "Helix Halberd c� 140 counter damage",
-                "Combo L1-L2 l� true combo",
-                "Flynn's Ring cần dư�:i 60 tải trọng",
-                "D�ng Brightbugs cho 20% s�t th��ng"
+                "L1 m hai lên - mi lên c th kch hot Old Leo Ring",
+                "Helix Halberd has the highest counter damage of any halberd at 140",
+                "The L1-L2 combo is a true combo that deals massive burst damage",
+                "Flynn's Ring cần dư:i 60 tải trọng",
+                "Dng Brightbugs cho 20% sát thng"
             ]
         },
         {
@@ -1467,7 +1467,7 @@
             "name": "Ice Rapier INT",
             "nameVi": "Kiếm Mũi Băng",
             "description": "An Intelligence build using the Ice Rapier from the DLC. The weapon has innate magic damage and the R2 fires a frost projectile. Excellent for both melee and ranged magic damage.",
-            "descriptionVi": "Build Intelligence v�:i Ice Rapier t� DLC. S�t th��ng ph�p v� R2 b�n �\u0018�n b\u0012ng.",
+            "descriptionVi": "Build Intelligence v:i Ice Rapier t DLC. St thng php v R2 bắn n bng.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1502,11 +1502,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Sorcerer",
-                        "T\u0012ng Int 30 v� Dex 15",
-                        "D�ng sorcery c� b�n",
-                        "Chạy �\u0018ến DLC",
-                        "T�m Ice Rapier trong Sunken King DLC",
-                        "N�ng l�n +3"
+                        "Tăng Int lên 30 and Dex to 15",
+                        "Dng sorcery c bắn",
+                        "Chạy ến DLC",
+                        "Tìm Ice Rapier in Sunken King DLC",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -1526,15 +1526,15 @@
                     "stepsVi": [
                         "Đẩy Int 40",
                         "Gắn Magic cho Ice Rapier",
-                        "N�ng l�n +10",
+                        "Nng lên +10",
                         "Lấy Magic Clutch Ring",
-                        "Trang b�9 Old Leo Ring",
-                        "TĒng Attunement 20"
+                        "Trang bị Old Leo Ring for counter damage",
+                        "Tăng Attunement lên 20"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Drangleic Castle, Shrine of Amana, DLC",
                     "areasVi": "Drangleic Castle, Shrine of Amana, DLC",
@@ -1548,10 +1548,10 @@
                     ],
                     "stepsVi": [
                         "Đẩy Int 55",
-                        "R2 bắn �\u0018ạn bĒng",
-                        "Magic Clutch + Old Leo Ring",
-                        "Crystal Magic Weapon buff",
-                        "Trang b�9 Clear Bluestone Ring +2",
+                        "R2 bắn ạn bĒng",
+                        "Stack Magic Clutch + Old Leo Ring",
+                        "Dùng $1rystal Magic Weapon for buff",
+                        "Trang bị Clear Bluestone Ring +2",
                         "Đạn R2 tĒng theo Int"
                     ]
                 }
@@ -1577,13 +1577,13 @@
                     "name": "Ice Rapier",
                     "type": "Weapon",
                     "location": "Crown of the Sunken King DLC, dropped by a priestess in Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC"
+                    "locationVi": "Crown of the Sunken King DLC, dropped by a priestess in Sanctum City"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Old Leo Ring",
@@ -1601,7 +1601,7 @@
                     "name": "Crystal Magic Weapon",
                     "type": "Weapon",
                     "location": "Straid of Olaphis, trade Freja's soul",
-                    "locationVi": "Straid of Olaphis"
+                    "locationVi": "Straid of Olaphis, trade Freja's soul"
                 }
             ],
             "tips": [
@@ -1612,11 +1612,11 @@
                 "Magic infusion + Crystal Magic Weapon buff = massive magic damage"
             ],
             "tipsVi": [
-                "R2 b�n �\u0018�n b\u0012ng kh�ng t�\u0018n �\u0018�n",
+                "R2 bắn n bng khng tn n",
                 "Đạn R2 tĒng theo Int",
-                "130 counter damage v�:i Old Leo Ring",
-                "Nh� v� nhanh",
-                "Magic infusion + Crystal Magic Weapon"
+                "Ice Rapier has 130 counter damage �\u001d excellent with Old Leo Ring",
+                "The weapon is lightweight and fast, perfect for mixing spells with melee",
+                "Magic infusion + Crystal Magic Weapon buff = massive magic damage"
             ]
         },
         {
@@ -1624,7 +1624,7 @@
             "name": "Sacred Chime Hammer",
             "nameVi": "Búa Chuông Thánh",
             "description": "A Faith/Strength build using the Sacred Chime Hammer. The two-handed R2 releases a dark shockwave that deals massive damage. One of the most devastating STR/FTH weapons in DS2.",
-            "descriptionVi": "Build Faith/Strength v�:i Sacred Chime Hammer. R2 hai tay t�o s�ng �\u0018en h�y di�!t.",
+            "descriptionVi": "Build Faith/Strength v:i Sacred Chime Hammer. R2 hai tay to súng en hy di!t.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -1659,10 +1659,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Cleric",
-                        "T\u0012ng Str 30 v� Faith 30",
-                        "D�ng Mace Lightning t�m",
+                        "Tăng Str lên 30 and Faith to 30",
+                        "Dùng $1 Lightning Mace temporarily",
                         "Đến Undead Crypt",
-                        "\u0010�nh b�i Velstadt l�y b�a",
+                        "Đánh bại Velstadt for Sacred Chime Hammer",
                         "Cầm hai tay"
                     ]
                 },
@@ -1681,17 +1681,17 @@
                         "Get the Dragon Chime for backup miracles"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str 35 v� Faith 40",
-                        "N�ng B�a l�n +5",
+                        "Tăng Str lên 35 and Faith to 40",
+                        "Nng Ba lên +5",
                         "Gắn Dark",
-                        "Trang b�9 Dark Clutch Ring",
-                        "TĒng Adaptability 20",
+                        "Trang bị the Dark Clutch Ring",
+                        "Tăng Adaptability lên 20",
                         "Lấy Dragon Chime"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Undead Crypt, DLC areas",
                     "areasVi": "Undead Crypt, DLC areas",
@@ -1704,12 +1704,12 @@
                         "Equip the Third Dragon Ring"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str 40 v� Faith 55",
-                        "N�ng B�a l�n +5",
-                        "R2 hai tay t�o s�ng �\u0018en",
-                        "S�ng g�y AoE s�t th��ng dark",
-                        "Great Heal h�\u001ci m�u",
-                        "Trang b�9 Third Dragon Ring"
+                        "Tăng Str lên 40 and Faith to 55",
+                        "Nng Ba lên +5",
+                        "R2 hai tay to súng en",
+                        "Súng gy AoE sát thng dark",
+                        "Dùng $1reat Heal for survival",
+                        "Trang bị the Third Dragon Ring"
                     ]
                 }
             ],
@@ -1740,19 +1740,19 @@
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter on a corpse",
-                    "locationVi": "The Gutter"
+                    "locationVi": "The Gutter on a corpse"
                 },
                 {
                     "name": "Dragon Chime",
                     "type": "Weapon",
                     "location": "Shrine of Amana behind locked door",
-                    "locationVi": "Shrine of Amana"
+                    "locationVi": "Shrine of Amana behind locked door"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter near the entrance",
-                    "locationVi": "Shrine of Winter"
+                    "locationVi": "Shrine of Winter near the entrance"
                 },
                 {
                     "name": "Great Heal",
@@ -1769,11 +1769,11 @@
                 "Use Resonant Weapon buff for even more dark damage"
             ],
             "tipsVi": [
-                "R2 hai tay t�o s�ng �\u0018en nhi�u l�n tr�ng",
-                "B�a n�ng 28 �\u0018�n v�9",
-                "R1 m�\"t tay c� ch�m ngang",
-                "Dark infusion t\u0012ng s�t th��ng s�ng",
-                "Resonant Weapon cho th�m dark damage"
+                "R2 hai tay to súng en nhiu lên trăng",
+                "Sacred Chime Hammer weighs 28 units �\u001d wear light armor or level Vitality",
+                "The hammer's one-handed R1 has a wide swing arc for crowd control",
+                "Dark infusion tng sát thng súng",
+                "Dùng $1esonant Weapon buff for even more dark damage"
             ]
         },
         {
@@ -1781,7 +1781,7 @@
             "name": "Majestic Greatsword",
             "nameVi": "Đại Kiếm Uy Nghi",
             "description": "A Quality build using the Majestic Greatsword in the left hand. When wielded in the left hand, it gains a unique moveset including the Artorias flips. Fashion Souls meets function.",
-            "descriptionVi": "Build Quality v�:i Majestic Greatsword tay tr�i. Moveset �\u0018�\"c �\u0018�o khi c�m tay tr�i.",
+            "descriptionVi": "Build Quality v:i Majestic Greatsword tay trơi. Moveset \"c o khi cm tay trơi.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -1816,11 +1816,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Str/Dex �\u0018ều 20/20",
-                        "Chạy �\u0018ến Majestic Greatsword trong DLC",
-                        "D�ng Longsword t�m",
+                        "Str/Dex ều 20/20",
+                        "Chạy ến Majestic Greatsword trong DLC",
+                        "Dùng $1 Longsword temporarily",
                         "Lấy Ring of Blades",
-                        "Trang b�9 Stone Ring"
+                        "Trang bị the Stone Ring"
                     ]
                 },
                 {
@@ -1839,16 +1839,16 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 30/30",
-                        "N�ng Majestic GS l�n +10",
-                        "Cầm TAY TRÁI cho moveset �\u0018�\"c",
-                        "Trang b�9 Old Leo Ring",
-                        "H�c R2 flip tay tr�i",
-                        "TĒng Adaptability 20"
+                        "Nng Majestic GS lên +10",
+                        "Cầm TAY TRÁI cho moveset \"c",
+                        "Trang bị Old Leo Ring",
+                        "Hc R2 flip tay trơi",
+                        "Tăng Adaptability lên 20"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "100-150",
                     "areas": "DLC arenas, Iron Bridge, Brotherhood of Blood",
                     "areasVi": "DLC arenas, Iron Bridge, Brotherhood of Blood",
@@ -1862,11 +1862,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 40/40",
-                        "N�ng Majestic GS l�n +10",
-                        "R2 tay tr�i l� Artorias flip",
-                        "Flynn's Ring + Ring of Blades",
-                        "Flip c� s�t th��ng poise cao",
-                        "D�ng vi kh� tay ph�i cho mix-up"
+                        "Nng Majestic GS lên +10",
+                        "R2 tay trơi l Artorias flip",
+                        "Trang bị Flynn's Ring + Ring of Blades",
+                        "Flip c sát thng poise cao",
+                        "Dùng $1he right-hand weapon for mix-ups"
                     ]
                 }
             ],
@@ -1891,7 +1891,7 @@
                     "name": "Majestic Greatsword",
                     "type": "Weapon",
                     "location": "Crown of the Old Iron King DLC, Brume Tower",
-                    "locationVi": "Crown of the Old Iron King DLC"
+                    "locationVi": "Crown of the Old Iron King DLC, Brume Tower"
                 },
                 {
                     "name": "Flynn's Ring",
@@ -1927,18 +1927,18 @@
             ],
             "tipsVi": [
                 "Majestic GS PHẢI cầm tay TRÁI cho moveset Artorias",
-                "R2 tay tr�i l� �\u0018�p flip s�t th��ng poise cao",
+                "R2 tay trơi l p flip sát thng poise cao",
                 "Kết hợp kiếm thẳng tay phải",
-                "R1 m�\"t tay ch�m ngang",
-                "Flip ch�m nh�ng c� hyper armor"
+                "The one-handed R1 has horizontal swings for crowd control",
+                "The flip attack has a slow wind-up but hyper armor"
             ]
         },
         {
             "slug": "warped-sword-powerstance",
             "name": "Warped Sword Powerstance",
-            "nameVi": "Song Kiếm Cong D�9",
+            "nameVi": "Song Kiếm Cong D9",
             "description": "A Dexterity powerstance build using the Warped Sword. The fastest powerstance L1 in the game with the unique Curved Sword powerstance moveset. Devastating DPS with bleed or lightning infusion.",
-            "descriptionVi": "Build Dexterity powerstance v�:i Warped Sword. L1 nhanh nhất game.",
+            "descriptionVi": "Build Dexterity powerstance v:i Warped Sword. L1 nhanh nhất game.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -1973,11 +1973,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Swordsman cho Dex cao",
-                        "T\u0012ng Dex 25 v� End 15",
-                        "D�ng hai Scimitar t�m",
+                        "Tăng Dex lên 25 and End to 15",
+                        "Get two Scimitars temporarily",
                         "Giết Flexile Sentry NG+ lấy Warped Sword",
-                        "D�ng Bonfire Ascetic",
-                        "N�ng Warped Sword l�n +5"
+                        "Dùng $1onfire Ascetic to respawn Flexile",
+                        "Nng Warped Sword lên +5"
                     ]
                 },
                 {
@@ -1997,15 +1997,15 @@
                     "stepsVi": [
                         "Đẩy Dex 40",
                         "Powerstance Warped Sword + Scimitar",
-                        "N�ng c� hai l�n +10",
+                        "Nng c hai lên +10",
                         "Gắn Lightning",
-                        "Trang b�9 Ring of Blades +2",
+                        "Trang bị Ring of Blades +2",
                         "Lấy Flynn's Ring"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "100-150",
                     "areas": "Drangleic Castle, DLC, PvP arenas",
                     "areasVi": "Drangleic Castle, DLC, PvP arenas",
@@ -2020,10 +2020,10 @@
                     "stepsVi": [
                         "Đẩy Dex 50",
                         "L1 powerstance nhanh nhất",
-                        "Trang b�9 Chloranthy Ring +2",
-                        "Combo L1-L2 stunlock",
-                        "Old Leo Ring",
-                        "Engraved Gauntlets"
+                        "Trang bị Chloranthy Ring +2",
+                        "The L1-L2 combo stunlocks to death",
+                        "Dùng $1ld Leo Ring for counter damage",
+                        "Engraved Gauntlets for lucky crits"
                     ]
                 }
             ],
@@ -2048,7 +2048,7 @@
                     "name": "Warped Sword",
                     "type": "Weapon",
                     "location": "NG+ Flexile Sentry or Bonfire Ascetic in Sinner's Rise",
-                    "locationVi": "NG+ Flexile Sentry"
+                    "locationVi": "NG+ Flexile Sentry or Bonfire Ascetic in Sinner's Rise"
                 },
                 {
                     "name": "Flynn's Ring",
@@ -2084,18 +2084,18 @@
             ],
             "tipsVi": [
                 "L1 powerstance Warped Sword nhanh nhất game",
-                "Combo L1-L2 true combo",
-                "Flynn's Ring +50 AR dư�:i 60 tải",
-                "Warped Sword c� strong attack �\u0018�\"c �\u0018�o",
-                "Flynn's + Ring of Blades + Old Leo Ring"
+                "The L1-L2 combo with the spin attack is a true combo",
+                "Flynn's Ring +50 AR dư:i 60 tải",
+                "The Warped Sword has a unique strong attack when two-handed",
+                "Stack Flynn's + Ring of Blades + Old Leo Ring for maximum damage"
             ]
         },
         {
             "slug": "crypt-blacksword-dark",
             "name": "Crypt Blacksword Dark",
-            "nameVi": "Kiếm Đen Hầm M�\"",
+            "nameVi": "Kiếm Đen Hầm M\"",
             "description": "A dark/strength build using the Crypt Blacksword. Infused with Dark and buffed with Dark Weapon, it deals the highest dark damage in Dark Souls 2. A true powerhouse.",
-            "descriptionVi": "Build dark/strength v�:i Crypt Blacksword. S�t th��ng dark cao nh�t DS2.",
+            "descriptionVi": "A dark/strength build using the Crypt Blacksword. Infused with Dark and buffed with Dark Weapon, it deals the highest dark damage in Dark Souls 2. A true powerhouse.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -2130,11 +2130,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "TĒng Str 30",
-                        "D�ng Greatsword t�m",
+                        "Tăng Str lên 30 first",
+                        "Dùng $1he Greatsword temporarily",
                         "Giết The Rotten lấy Crypt Blacksword",
                         "Cầm hai tay 30 Str",
-                        "N�ng l�n +3"
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2153,16 +2153,16 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 40",
-                        "TĒng Int/Fth 20/20",
+                        "Level Int/Fth to 20/20",
                         "Gắn Dark cho Crypt Blacksword",
-                        "N�ng l�n +5",
+                        "Nng lên +5",
                         "Mua Dark Weapon từ Felkin",
-                        "Trang b�9 Dark Clutch Ring"
+                        "Trang bị Dark Clutch Ring"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Drangleic Castle, DLC areas",
                     "areasVi": "Drangleic Castle, DLC areas",
@@ -2176,11 +2176,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 50",
-                        "N�ng l�n +5",
-                        "Dark Weapon buff th�m dark damage",
-                        "Abyss Seal",
-                        "R1 hai tay hyper armor",
-                        "One-shot hầu hết �\u0018�9ch"
+                        "Nng lên +5",
+                        "Dark Weapon buff adds massive dark damage",
+                        "Trang bị the Abyss Seal for more dark damage",
+                        "The two-handed R1 has hyper armor",
+                        "One-shot hầu hết 9ch"
                     ]
                 }
             ],
@@ -2198,19 +2198,19 @@
                     "name": "Crypt Blacksword",
                     "type": "Weapon",
                     "location": "Traded with Straid of Olaphis using The Rotten's soul",
-                    "locationVi": "Straid of Olaphis từ linh h�\u001cn The Rotten"
+                    "locationVi": "Straid of Olaphis từ linh hn The Rotten"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter on a corpse",
-                    "locationVi": "The Gutter"
+                    "locationVi": "The Gutter on a corpse"
                 },
                 {
                     "name": "Abyss Seal",
                     "type": "Ring",
                     "location": "Darkdiver Grandahl covenant rank 2",
-                    "locationVi": "Darkdiver Grandahl covenant"
+                    "locationVi": "Darkdiver Grandahl covenant rank 2"
                 },
                 {
                     "name": "Dark Weapon",
@@ -2233,19 +2233,19 @@
                 "The weapon has a slow swing speed �\u001d time your attacks carefully"
             ],
             "tipsVi": [
-                "S dark scaling khi dark infused",
-                "Dark Weapon th�m 30% dark damage",
-                "R1 hai tay poise cao",
-                "Dark Clutch + Abyss Seal = 35% dark damage",
-                "\u0010�nh ch�m �\u001d c\u0012n th�i gian"
+                "Crypt Blacksword has S scaling in Dark when dark infused �\u001d highest dark AR in the game",
+                "Dark Weapon buff adds 30% more dark damage on top",
+                "The two-handed R1 has excellent poise damage and hyper armor",
+                "Stack Dark Clutch Ring + Abyss Seal for 35% dark damage bonus",
+                "The weapon has a slow swing speed �\u001d time your attacks carefully"
             ]
         },
         {
             "slug": "puzzling-stone-sword",
             "name": "Puzzling Stone Sword",
-            "nameVi": "Ki�m \u0010� K� L�",
+            "nameVi": "Kiếm  K L",
             "description": "A Dexterity build using the Puzzling Stone Sword. The weapon extends like a whip for extended reach. Unique moveset with incredible roll-catching potential in PvP.",
-            "descriptionVi": "Build Dexterity v�:i Puzzling Stone Sword. Vi kh� v��n d�i nh� roi.",
+            "descriptionVi": "A Dexterity build using the Puzzling Stone Sword. The weapon extends like a whip for extended reach. Unique moveset with incredible roll-catching potential in PvP.",
             "category": "pvp",
             "difficulty": 3,
             "dlc": true,
@@ -2280,11 +2280,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Swordsman",
-                        "TĒng Dex 25",
-                        "Chạy �\u0018ến DLC",
-                        "T�m Puzzling Stone Sword",
-                        "D�ng Rapier t�m",
-                        "N�ng l�n +3"
+                        "Tăng Dex lên 25",
+                        "Chạy ến DLC",
+                        "Tìm Puzzling Stone Sword in Sunken King",
+                        "Dùng $1 Rapier temporarily",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2303,16 +2303,16 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 40",
-                        "N�ng l�n +10",
+                        "Nng lên +10",
                         "Gắn Lightning",
-                        "Trang b�9 Ring of Blades",
+                        "Trang bị Ring of Blades",
                         "Học tầm R2 vươn xa",
                         "Lấy Old Leo Ring"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "100-150",
                     "areas": "DLC, Iron Bridge, PvP arenas",
                     "areasVi": "DLC, Iron Bridge, PvP arenas",
@@ -2326,10 +2326,10 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 50",
-                        "N�ng l�n +10",
+                        "Nng lên +10",
                         "R2 vươn xa cho bắt lĒn",
                         "Dạng roi R2 bất ngờ",
-                        "Chloranthy Ring",
+                        "Trang bị Chloranthy Ring for stamina",
                         "Học combo kiếm vs roi"
                     ]
                 }
@@ -2355,7 +2355,7 @@
                     "name": "Puzzling Stone Sword",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -2390,11 +2390,11 @@
                 "Stack Flynn's + Ring of Blades for maximum damage on fast attacks"
             ],
             "tipsVi": [
-                "R2 v��n d�i nh� roi",
-                "Moveset thay �\u0018�\"i giữa hai dạng",
-                "D�ng t�m xa �\u0018�m an to�n",
-                "R2 hai tay c� t�m xa nh�t",
-                "Flynn's + Ring of Blades"
+                "Puzzling Stone Sword's R2 extends like a whip �\u001d catches rolls from surprising range",
+                "Moveset thay \"i giữa hai dạng",
+                "Dùng $1he extended range to poke from safety",
+                "The 2-handed R2 has the longest reach of any straight sword",
+                "Stack Flynn's + Ring of Blades for maximum damage on fast attacks"
             ]
         },
         {
@@ -2402,7 +2402,7 @@
             "name": "Bone Fist Martial Arts",
             "nameVi": "Xương Quyền",
             "description": "A Dexterity build using the Bone Fist. Transform into a martial artist with flying kicks and hadoukens. The ultimate fashion souls weapon that's surprisingly viable in PvP.",
-            "descriptionVi": "Build Dexterity v�:i Bone Fist. Bi�n th�nh v� s� v�:i �\u0018�n bay v� hadouken.",
+            "descriptionVi": "Build Dexterity v:i Bone Fist. Bin thình v s v:i n bay v hadouken.",
             "category": "meme",
             "difficulty": 3,
             "dlc": true,
@@ -2437,11 +2437,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Swordsman",
-                        "TĒng Dex 25",
-                        "Chạy �\u0018ến DLC",
-                        "T�m Bone Fist",
-                        "D�ng Caestus t�m",
-                        "N�ng l�n +3"
+                        "Tăng Dex lên 25",
+                        "Chạy ến DLC",
+                        "Tìm Bone Fist in Sunken King DLC",
+                        "Dùng $1aestus temporarily",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2460,16 +2460,16 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 40",
-                        "N�ng Bone Fist l�n +10",
-                        "Powerstance hai Bone Fist",
-                        "H�c �\u0018�n bay",
-                        "Ring of Blades",
-                        "Flynn's Ring"
+                        "Nng Bone Fist lên +10",
+                        "Powerstance two Bone Fists if possible",
+                        "Learn the flying kick attack",
+                        "Trang bị Ring of Blades",
+                        "Get Flynn's Ring"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "100-150",
                     "areas": "DLC, PvP arenas, Iron Bridge",
                     "areasVi": "DLC, PvP arenas, Iron Bridge",
@@ -2484,10 +2484,10 @@
                     "stepsVi": [
                         "Đẩy Dex 50",
                         "R2 hai tay bắn hadouken",
-                        "\u0010�n bay c� t�m xa",
-                        "Powerstance L1 �\u0018ấm nhanh",
-                        "Chloranthy Ring",
-                        "Hadouken s�t th��ng strike"
+                        "The flying kick has great range",
+                        "Powerstance L1 ấm nhanh",
+                        "Trang bị Chloranthy Ring for stamina",
+                        "Hadouken sát thng strike"
                     ]
                 }
             ],
@@ -2505,7 +2505,7 @@
                     "name": "Bone Fist",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City in a chest",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC, Sanctum City in a chest"
                 },
                 {
                     "name": "Flynn's Ring",
@@ -2540,11 +2540,11 @@
                 "Bone Fist requires 45 Dex for the full moveset"
             ],
             "tipsVi": [
-                "R2 hai tay hadouken",
-                "Ch�y R2 bay �\u0018�",
-                "Powerstance L1 �\u0018ấm stunlock",
-                "Hadouken kh�ng t�\u0018n stamina",
-                "45 Dex cho full moveset"
+                "2-handed R2 fires a hadouken projectile �\u001d the only ranged fist weapon attack in the series",
+                "The flying kick (running R2) has great range and launches enemies",
+                "Powerstance L1 ấm stunlock",
+                "The hadouken costs no stamina and deals strike damage",
+                "Bone Fist requires 45 Dex for the full moveset"
             ]
         },
         {
@@ -2552,7 +2552,7 @@
             "name": "Silverblack Spear Dark",
             "nameVi": "Thương Đen Bạc",
             "description": "A dark build using the Silverblack Spear. Infused with Dark, this spear has excellent reach, decent damage, and the shield-poking moveset. Consistent and safe for both PvE and PvP.",
-            "descriptionVi": "Build dark v�:i Silverblack Spear. T�m xa, s�t th��ng dark, �\u0018�m xuy�n khi�n.",
+            "descriptionVi": "Build dark v:i Silverblack Spear. Tm xa, sát thng dark, m xuyên khin.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -2587,10 +2587,10 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "TĒng Int/Fth 15/15",
-                        "Farm Silverblack Spear",
-                        "D�ng spear c� b�n t�m",
-                        "TĒng Attunement 10",
+                        "Level Int/Fth to 15/15",
+                        "Farm Silverblack Spear từ Undead Purgatory",
+                        "Dng spear c bắn tm",
+                        "Tăng Attunement lên 10",
                         "Mua Dark Orb từ Felkin"
                     ]
                 },
@@ -2611,15 +2611,15 @@
                     "stepsVi": [
                         "Đẩy Int/Fth 25/25",
                         "Gắn Dark cho Spear",
-                        "N�ng l�n +10",
-                        "Trang b�9 Dark Clutch Ring",
-                        "TĒng Adaptability 20",
-                        "Dark Weapon buff"
+                        "Nng lên +10",
+                        "Trang bị Dark Clutch Ring",
+                        "Tăng Adaptability lên 20",
+                        "Dùng $1ark Weapon buff"
                     ]
                 },
                 {
                     "name": "Late Game",
-                    "nameVi": "Cu�\u0018i Game",
+                    "nameVi": "Cuối Game",
                     "levels": "100-150",
                     "areas": "Drangleic Castle, Undead Crypt, Shrine of Amana",
                     "areasVi": "Drangleic Castle, Undead Crypt, Shrine of Amana",
@@ -2633,11 +2633,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Int/Fth 30/30",
-                        "N�ng Spear l�n +10",
-                        "D�ng th��ng sau khi�n",
-                        "Dark Orb �\u0018�n xa",
-                        "Clear Bluestone Ring",
-                        "Great Heal"
+                        "Nng Spear lên +10",
+                        "Dùng $1he spear from behind a shield",
+                        "Dark Orb for ranged dark damage",
+                        "Trang bị Clear Bluestone Ring",
+                        "Great Heal for survival"
                     ]
                 }
             ],
@@ -2655,7 +2655,7 @@
                     "name": "Silverblack Spear",
                     "type": "Weapon",
                     "location": "Dropped by enemies in Undead Purgatory",
-                    "locationVi": "Undead Purgatory"
+                    "locationVi": "Dropped by enemies in Undead Purgatory"
                 },
                 {
                     "name": "Dark Clutch Ring",
@@ -2690,19 +2690,19 @@
                 "Keep a good shield for the shield-poking strategy"
             ],
             "tipsVi": [
-                "Silverblack Spear c� th� d�ng sau khi�n",
-                "Dark + Dark Weapon",
-                "R1 m�\"t tay nhanh, �t stamina",
-                "Old Leo Ring cho s�t th��ng ph�n �\u0018�n",
-                "Gi� khi�n t�\u0018t cho chi�n thu�t �\u0018�m sau khi�n"
+                "Silverblack Spear can be used behind a shield �\u001d safe and effective",
+                "Dark infusion + Dark Weapon buff = excellent dark damage",
+                "The one-handed R1 pokes are fast and cost little stamina",
+                "Old Leo Ring cho sát thng phn n",
+                "Keep a good shield for the shield-poking strategy"
             ]
         },
         {
             "slug": "fume-sword-quality",
             "name": "Fume Sword Quality",
-            "nameVi": "Ki�m Kh�i Ch�t L��ng",
+            "nameVi": "Kiếm Khíi Cht Lng",
             "description": "A Quality build using the Fume Sword from the DLC. Straight sword moveset with great reach and excellent scaling. One of the best straight swords in DS2.",
-            "descriptionVi": "Build Quality v�:i Fume Sword. Kiếm thẳng tầm xa, scaling t�\u0018t.",
+            "descriptionVi": "Build Quality v:i Fume Sword. Kiếm thẳng tầm xa, scaling tt.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -2737,11 +2737,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Str/Dex �\u0018ều 20/20",
-                        "D�ng Longsword t�m",
-                        "Chạy �\u0018ến Iron King DLC",
-                        "T�m Fume Sword",
-                        "N�ng l�n +3"
+                        "Str/Dex ều 20/20",
+                        "Dùng $1ongsword temporarily",
+                        "Chạy ến Iron King DLC",
+                        "Tìm Fume Sword in Brume Tower",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -2760,16 +2760,16 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 30/30",
-                        "N�ng Fume Sword l�n +10",
-                        "Ring of Blades +2",
-                        "Old Leo Ring",
-                        "TĒng Adaptability 24",
+                        "Nng Fume Sword lên +10",
+                        "Trang bị Ring of Blades +2",
+                        "Get Old Leo Ring",
+                        "Tăng Adaptability lên 24",
                         "Gắn Lightning"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "100-150",
                     "areas": "DLC, Iron Bridge, Brotherhood of Blood",
                     "areasVi": "DLC, Iron Bridge, Brotherhood of Blood",
@@ -2783,10 +2783,10 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 40/40",
-                        "N�ng l�n +10",
-                        "Flynn's Ring",
-                        "R1 ki�m th�ng l� meta",
-                        "R2 hai tay �\u0018�m",
+                        "Nng lên +10",
+                        "Flynn's Ring for +50 AR",
+                        "R1 kiếm thông l meta",
+                        "The 2-handed R2 is a thrust",
                         "Chạy R1 bắt lĒn"
                     ]
                 }
@@ -2812,7 +2812,7 @@
                     "name": "Fume Sword",
                     "type": "Weapon",
                     "location": "Crown of the Old Iron King DLC, Brume Tower",
-                    "locationVi": "Crown of the Old Iron King DLC"
+                    "locationVi": "Crown of the Old Iron King DLC, Brume Tower"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -2847,19 +2847,19 @@
                 "Fume Sword weighs very little �\u001d perfect for Flynn's Ring builds"
             ],
             "tipsVi": [
-                "Fume Sword d�i nh�t trong h� ki�m th�ng",
-                "R2 hai tay �\u0018�m xa",
-                "R1 ki�m th�ng l� PvP meta",
-                "Ch�y R1 b�t l\u0012n, R2 �\u0018�m",
-                "Nh� �\u001d ho�n h�o cho Flynn's Ring"
+                "Fume Sword di nht trong h kiếm thông",
+                "The 2-handed R2 is a long-range thrust with counter damage",
+                "R1 kiếm thông l PvP meta",
+                "Dùng $1he running R1 to catch rolls and the R2 for pokes",
+                "Fume Sword weighs very little �\u001d perfect for Flynn's Ring builds"
             ]
         },
         {
             "slug": "dragonslayer-spear-fth",
             "name": "Dragonslayer Spear FTH",
-            "nameVi": "Thương Di�!t R�\u001cng",
+            "nameVi": "Thương Di!t Rng",
             "description": "A Faith/Strength build using the Dragonslayer Spear. The running R2 fires a lightning bolt and every hit deals bonus lightning damage. Ornstein cosplay build.",
-            "descriptionVi": "Build Faith/Strength v�:i Dragonslayer Spear. Ch�y R2 b�n s�t, s�t th��ng s�t m�\u0014i �\u0018�n. Cosplay Ornstein.",
+            "descriptionVi": "Build Faith/Strength v:i Dragonslayer Spear. Chy R2 bắn sát, sát thng sát mi n. Cosplay Ornstein.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -2894,11 +2894,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Cleric",
-                        "T\u0012ng Faith 25 v� Str 20",
-                        "D�ng Mace Lightning t�m",
+                        "Tăng Faith lên 25 and Str to 20",
+                        "Dùng $1ightning Mace temporarily",
                         "Giết Old Dragonslayer",
                         "Chế tạo Dragonslayer Spear",
-                        "N�ng b�ng Twinkling Titanite"
+                        "Nng bắng Twinkling Titanite"
                     ]
                 },
                 {
@@ -2916,17 +2916,17 @@
                         "Get Clear Bluestone Ring"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith 35 v� Str 25",
-                        "N�ng Spear l�n +5",
-                        "Lightning Clutch Ring",
-                        "Sunlight Blade buff",
-                        "TĒng Attunement 10",
-                        "Clear Bluestone Ring"
+                        "Tăng Faith lên 35 and Str to 25",
+                        "Nng Spear lên +5",
+                        "Trang bị Lightning Clutch Ring",
+                        "Dùng $1unlight Blade buff",
+                        "Tăng Attunement lên 10",
+                        "Get Clear Bluestone Ring"
                     ]
                 },
                 {
                     "name": "Late Game + DLC",
-                    "nameVi": "Cu�\u0018i Game + DLC",
+                    "nameVi": "Cuối Game + DLC",
                     "levels": "100-150",
                     "areas": "Drangleic Castle, DLC, Shrine of Amana",
                     "areasVi": "Drangleic Castle, DLC, Shrine of Amana",
@@ -2939,12 +2939,12 @@
                         "Use Great Lightning Spear"
                     ],
                     "stepsVi": [
-                        "\u0010�y Faith 50 v� Str 30",
-                        "N�ng Spear l�n +5",
-                        "Ch�y R2 b�n s�t",
-                        "M�\u0014i �\u0018�n s�t th��ng s�t",
-                        "Sun's Firstborn Ring",
-                        "Great Lightning Spear"
+                        "Tăng Faith lên 50 and Str to 30",
+                        "Nng Spear lên +5",
+                        "Chy R2 bắn sát",
+                        "Mi n sát thng sát",
+                        "Trang bị Sun's Firstborn Ring for miracles",
+                        "Dùng $1reat Lightning Spear"
                     ]
                 }
             ],
@@ -2962,19 +2962,19 @@
                     "name": "Dragonslayer Spear",
                     "type": "Weapon",
                     "location": "Crafted from Old Dragonslayer's soul at the blacksmith",
-                    "locationVi": "Chế tạo từ linh h�\u001cn Old Dragonslayer"
+                    "locationVi": "Chế tạo từ linh hn Old Dragonslayer"
                 },
                 {
                     "name": "Lightning Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter on a corpse",
-                    "locationVi": "The Gutter"
+                    "locationVi": "The Gutter on a corpse"
                 },
                 {
                     "name": "Sunlight Blade",
                     "type": "Weapon",
                     "location": "Heirs of the Sun covenant reward",
-                    "locationVi": "Phần thư�xng Heirs of the Sun"
+                    "locationVi": "Phần thưxng Heirs of the Sun"
                 },
                 {
                     "name": "Clear Bluestone Ring",
@@ -2997,19 +2997,19 @@
                 "The spear's 1-handed R1 pokes are fast and stamina-efficient"
             ],
             "tipsVi": [
-                "Ch�y R2 b�n s�t kh�ng t�\u0018n �\u0018�n",
-                "S�t th��ng s�t m�\u0014i �\u0018�n",
-                "Faith quy�t �\u0018�9nh s�t th��ng s�t",
-                "Sunlight Blade th�m s�t",
-                "R1 m�\"t tay nhanh, �t stamina"
+                "Chy R2 bắn sát khng tn n",
+                "St thng sát mi n",
+                "Faith quyt 9nh sát thng sát",
+                "Sunlight Blade thm sát",
+                "The spear's 1-handed R1 pokes are fast and stamina-efficient"
             ]
         },
         {
             "slug": "spider-fang",
             "name": "Spider Fang DEX",
-            "nameVi": "Nanh Nh�!n DEX",
+            "nameVi": "Spider Fang DEX",
             "description": "A Dexterity build using the Spider Fang. The weapon skill creates a web that slows enemies. Unique utility weapon that's surprisingly effective in both PvE and PvP.",
-            "descriptionVi": "Build Dexterity v�:i Spider Fang. K� n\u0012ng t�o m�ng nh�!n l�m ch�m �\u0018�9ch.",
+            "descriptionVi": "A Dexterity build using the Spider Fang. The weapon skill creates a web that slows enemies. Unique utility weapon that's surprisingly effective in both PvE and PvP.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -3044,11 +3044,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Swordsman",
-                        "Chạy �\u0018ến Brightstone Cove",
+                        "Chạy ến Brightstone Cove",
                         "Giết Duke's Dear Freja",
-                        "Đ�\"i linh h�\u001cn lấy Spider Fang",
-                        "D�ng Rapier t�m",
-                        "N�ng l�n +3"
+                        "Đ\"i linh hn lấy Spider Fang",
+                        "Dùng $1 Rapier temporarily",
+                        "Nng lên +3"
                     ]
                 },
                 {
@@ -3067,16 +3067,16 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 40",
-                        "N�ng Spider Fang l�n +10",
+                        "Nng Spider Fang lên +10",
                         "Gắn Lightning",
-                        "Ring of Blades",
+                        "Trang bị Ring of Blades",
                         "Học timing bắn web",
-                        "Chloranthy Ring"
+                        "Get Chloranthy Ring"
                     ]
                 },
                 {
                     "name": "Late Game + PvP",
-                    "nameVi": "Cu�\u0018i Game + PvP",
+                    "nameVi": "Cuối Game + PvP",
                     "levels": "100-150",
                     "areas": "DLC, Iron Bridge, PvP arenas",
                     "areasVi": "DLC, Iron Bridge, PvP arenas",
@@ -3090,11 +3090,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Dex 50",
-                        "N�ng Spider Fang l�n +10",
-                        "Web l�m ch�m 50% trong 10 gi�y",
-                        "Sau web spam R1",
-                        "Web kh�ng th� l\u0012n qua",
-                        "Flynn's Ring"
+                        "Nng Spider Fang lên +10",
+                        "Web slows enemies by 50% for 10 seconds",
+                        "Follow web with R1 spam for free damage",
+                        "The web cannot be rolled through",
+                        "Dùng $1lynn's Ring for more damage"
                     ]
                 }
             ],
@@ -3119,7 +3119,7 @@
                     "name": "Spider Fang",
                     "type": "Weapon",
                     "location": "Straid of Olaphis, trade Duke's Dear Freja's soul",
-                    "locationVi": "Straid of Olaphis, �\u0018�\"i linh h�\u001cn Freja"
+                    "locationVi": "Straid of Olaphis, trade Duke's Dear Freja's soul"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -3154,19 +3154,19 @@
                 "Spider Fang has a unique running attack that lunges forward"
             ],
             "tipsVi": [
-                "K� n\u0012ng b�n web l�m ch�m 50% 10 gi�y",
-                "\u0010�9ch d�nh web kh�ng ch�y ho�c l\u0012n �\u0018��c",
-                "Sau web spam R1",
-                "Web �\u0018ặc bi�!t chết người trong PvP",
-                "Ch�y t�n c�ng �\u0018�\"c �\u0018�o"
+                "K nng bắn web lm chm 50% 10 giy",
+                "Webbed enemies cannot sprint or roll effectively",
+                "After webbing, switch to aggressive R1 spam for free damage",
+                "Web ặc bi!t chết người trong PvP",
+                "Chy tn công \"c o"
             ]
         },
         {
             "slug": "dual-clubs",
             "name": "Dual Clubs Powerstance",
-            "nameVi": "Song Ch�y",
+            "nameVi": "Dual Clubs Powerstance",
             "description": "A dual club powerstance build that breaks poise for breakfast. The Stone Twin Clubs combined with the Stone Ring stagger everything in two hits. Pure unga bunga Strength.",
-            "descriptionVi": "Build song ch�y ph� poise. Stone Twin Clubs v�i Stone Ring stunlock m�i th�. Unga bunga Strength.",
+            "descriptionVi": "A dual club powerstance build that breaks poise for breakfast. The Stone Twin Clubs combined with the Stone Ring stagger everything in two hits. Pure unga bunga Strength.",
             "category": "pve",
             "difficulty": 1,
             "dlc": false,
@@ -3201,11 +3201,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Str 25 v� End 20",
-                        "Hai c�y ch�y trong Forest",
-                        "Powerstance 1.5x Str",
-                        "Stone Ring",
-                        "H�c L1 song ch�y"
+                        "Tăng Str lên 25 and End to 20",
+                        "Tìm two clubs in the Forest",
+                        "Powerstance them with 1.5x Str req",
+                        "Get the Stone Ring early",
+                        "Learn the L1 powerstance moveset"
                     ]
                 },
                 {
@@ -3224,11 +3224,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 40",
-                        "Hai ch�y +10",
+                        "Nâng cấp both clubs to +10",
                         "Gắn Lightning",
-                        "Ring of Blades",
-                        "Chloranthy Ring",
-                        "Adaptability 24"
+                        "Trang bị the Ring of Blades",
+                        "Get the Chloranthy Ring",
+                        "Tăng Adaptability lên 24"
                     ]
                 },
                 {
@@ -3247,11 +3247,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 50",
-                        "Max hai ch�y +10",
-                        "L1 ph� m�i poise",
-                        "Stone Ring th�m poise damage",
-                        "Giant Warrior Club cho boss",
-                        "Third Dragon Ring"
+                        "Nâng tối đa both clubs to +10",
+                        "L1 powerstance breaks every poise",
+                        "Stone Ring adds even more poise damage",
+                        "Dùng $1he Giant Warrior Club for bosses",
+                        "Trang bị the Third Dragon Ring"
                     ]
                 }
             ],
@@ -3282,13 +3282,13 @@
                     "name": "Giant Warrior Club",
                     "type": "Weapon",
                     "location": "DLC, Shulva Sanctum",
-                    "locationVi": "DLC Shulva"
+                    "locationVi": "DLC, Shulva Sanctum"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Majula, from the cat",
-                    "locationVi": "Majula"
+                    "locationVi": "Majula, from the cat"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -3311,19 +3311,19 @@
                 "Two clubs means two chances for poison/bleed procs"
             ],
             "tipsVi": [
-                "L1 vung hai ch�y c�ng l�c",
-                "Stone Ring +30% poise damage",
-                "L2 b� \u0011�i",
-                "Ch�y c� poise damage cao",
+                "L1 vung hai chy công lc",
+                "Stone Ring adds 30% poise damage to all attacks",
+                "The L2 is a double overhead smash",
+                "Clubs have innate high poise damage",
                 "Hai cơ hội poison/bleed"
             ]
         },
         {
             "slug": "dark-pursuer",
             "name": "Dark Pursuer UGS",
-            "nameVi": "K� Truy \u0010u�i B�ng T�i",
+            "nameVi": "K Truy ui Bắng Ti",
             "description": "A dark build using the Pursuer's Ultra Greatsword infused with Dark. The R2 thrust combos into massive damage with Dark scaling. High risk, devastating payoff.",
-            "descriptionVi": "Build b�ng t�i v�i Pursuer's UGS g�n Dark. R2 \u0011�m combo s�t th��ng kh�ng.",
+            "descriptionVi": "Build bắng ti vi Pursuer's UGS gn Dark. R2 m combo sát thng khng.",
             "category": "pvp",
             "difficulty": 2,
             "dlc": true,
@@ -3358,11 +3358,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Knight",
-                        "Str 20 v� End 15",
+                        "Tăng Str lên 20 and End to 15",
                         "Giết Pursuer Bastille",
-                        "Pursuer's UGS",
-                        "Int v� Faith 15",
-                        "Dark infusion"
+                        "Dùng $1is soul to get the Pursuer's UGS",
+                        "Level Int and Faith to 15 each",
+                        "Get the Dark infusion as soon as possible"
                     ]
                 },
                 {
@@ -3381,11 +3381,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Int/Fth 20",
-                        "UGS +10 Dark",
-                        "Dark Clutch Ring",
-                        "Abyss Seal",
-                        "Vigor 30",
-                        "Zweihander d� ph�ng"
+                        "Nâng cấp UGS to +10 Dark",
+                        "Trang bị the Dark Clutch Ring",
+                        "Get Abyss Seal for more Dark damage",
+                        "Tăng Vigor lên 30",
+                        "Dùng $1he Zweihander as a backup"
                     ]
                 },
                 {
@@ -3404,11 +3404,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 30",
-                        "UGS +10 Dark",
-                        "R2 \u0011�m t�m xa",
-                        "S�t th��ng v�t l�/b�ng t�i",
-                        "RoB +2",
-                        "Dark Weapon buff"
+                        "Nâng tối đa UGS to +10 Dark",
+                        "The R2 thrust has incredible range",
+                        "St thng vt l/bắng ti",
+                        "Trang bị the RoB +2",
+                        "Dùng $1ark Weapon buff for even more damage"
                     ]
                 }
             ],
@@ -3439,13 +3439,13 @@
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "Shaded Woods, behind the locked door",
-                    "locationVi": "Shaded Woods"
+                    "locationVi": "Shaded Woods, behind the locked door"
                 },
                 {
                     "name": "Abyss Seal",
                     "type": "Ring",
                     "location": "DLC, Dark Chasm of Old",
-                    "locationVi": "DLC"
+                    "locationVi": "DLC, Dark Chasm of Old"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -3462,19 +3462,19 @@
                 "The running attack is a lunging overhead slam"
             ],
             "tipsVi": [
-                "Dark t\u0003ng theo Int v� Faith 20/20",
-                "Dark Clutch Ring +15% dark",
-                "Pursuer's UGS R2 \u0011�m xa",
-                "Dark Weapon buff th�m 15%",
-                "Ch�y \u0011�nh b�"
+                "Dark scales with both Intelligence and Faith at 20/20",
+                "Dark Clutch Ring adds 15% dark damage at the cost of defense",
+                "Pursuer's UGS R2 has a long-range thrust attack",
+                "Buff with Dark Weapon for additional 15% dark damage",
+                "The running attack is a lunging overhead slam"
             ]
         },
         {
             "slug": "sanctum-mace",
             "name": "Sanctum Mace STR",
-            "nameVi": "Ch�y Th�nh \u0010�a",
+            "nameVi": "Chy Thình a",
             "description": "A Strength/Faith build using the Sanctum Mace from the Sunken King DLC. This hammer deals Strike damage and has a unique running attack. The weapon art creates a dark shockwave.",
-            "descriptionVi": "Build Str/Fth v�i Sanctum Mace DLC. S�t th��ng Strike, ch�y \u0011�nh \u0011�c \u0011�o. K� n\u0003ng t�o s�ng b�ng t�i.",
+            "descriptionVi": "Build Str/Fth vi Sanctum Mace DLC. St thng Strike, chy nh c o. K nng to súng bắng ti.",
             "category": "pve",
             "difficulty": 2,
             "dlc": true,
@@ -3509,11 +3509,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Cleric",
-                        "Str 25 v� Faith 20",
-                        "D�ng Mace t�m",
-                        "Lightning Spear",
-                        "Mace t� th� r�n Majula",
-                        "Heide's Tower"
+                        "Tăng Str lên 25 and Faith to 20",
+                        "Dùng $1he Mace as a starter weapon",
+                        "Trang bị the Lightning Spear miracle",
+                        "Mua the Mace từ Majula blacksmith",
+                        "Get Heide's Tower of Flame"
                     ]
                 },
                 {
@@ -3531,12 +3531,12 @@
                         "Get the Blinding Bolt miracle"
                     ],
                     "stepsVi": [
-                        "V�o Sunken King DLC",
-                        "Sanctum Mace",
-                        "N�ng +5",
-                        "Str 35 v� Faith 30",
-                        "Lightning Clutch Ring",
-                        "Blinding Bolt"
+                        "Rush to Sunken King DLC",
+                        "Tìm Sanctum Mace in the sanctum",
+                        "Nâng cấp to +5 (Twinkling)",
+                        "Tăng Str lên 35 and Faith to 30",
+                        "Trang bị the Lightning Clutch Ring",
+                        "Get the Blinding Bolt miracle"
                     ]
                 },
                 {
@@ -3554,12 +3554,12 @@
                         "Use Sacred Oath for buff"
                     ],
                     "stepsVi": [
-                        "\u0010�y Str 40 v� Faith 40",
-                        "Max +5",
-                        "Strike ph� gi�p",
-                        "Weapon art s�ng b�ng t�i",
-                        "Sunlight Blade",
-                        "Sacred Oath"
+                        "Tăng Str lên 40 and Faith to 40",
+                        "Nâng tối đa Sanctum Mace to +5",
+                        "Strike damage destroys armored enemies",
+                        "Weapon art súng bắng ti",
+                        "Trang bị Sunlight Blade for extra damage",
+                        "Dùng $1acred Oath for buff"
                     ]
                 }
             ],
@@ -3584,25 +3584,25 @@
                     "name": "Sanctum Mace",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "DLC Sunken King"
+                    "locationVi": "Sunken King DLC, Sanctum City"
                 },
                 {
                     "name": "Lightning Clutch Ring",
                     "type": "Ring",
                     "location": "Shaded Woods, by the basilisk pit",
-                    "locationVi": "Shaded Woods"
+                    "locationVi": "Shaded Woods, by the basilisk pit"
                 },
                 {
                     "name": "Sunlight Blade",
                     "type": "Weapon",
                     "location": "Shrine of Amana, behind the shrine",
-                    "locationVi": "Shrine of Amana"
+                    "locationVi": "Shrine of Amana, behind the shrine"
                 },
                 {
                     "name": "Sacred Oath",
                     "type": "Weapon",
                     "location": "DLC, Brume Tower",
-                    "locationVi": "DLC Brume Tower"
+                    "locationVi": "DLC, Brume Tower"
                 }
             ],
             "tips": [
@@ -3613,11 +3613,11 @@
                 "Sacred Oath boosts attack and defense by 10%"
             ],
             "tipsVi": [
-                "Sanctum Mace strike damage",
-                "Weapon art b�n \u0011�n b�ng t�i",
+                "Sanctum Mace deals Strike damage — best against armored enemies",
+                "Weapon art bắn n bắng ti",
                 "Lightning giữ Faith scaling",
-                "Sunlight Blade th�m 30 s�t",
-                "Sacred Oath +10% t�n c�ng/ph�ng th�"
+                "Sunlight Blade thm 30 sát",
+                "Sacred Oath +10% tn công/phng th"
             ]
         },
         {
@@ -3625,7 +3625,7 @@
             "name": "Curved Dragon Greatsword",
             "nameVi": "Đại Kiếm Rồng Cong",
             "description": "A quality build using the Curved Dragon Greatsword. This weapon has an S scaling in both Strength and Dexterity when infused. The R2 is a sweeping slash with incredible reach.",
-            "descriptionVi": "Build quality v�i Curved Dragon Greatsword. S scaling Str v� Dex khi infused. R2 vung ngang t�m xa.",
+            "descriptionVi": "A quality build using the Curved Dragon Greatsword. This weapon has an S scaling in both Strength and Dexterity when infused. The R2 is a sweeping slash with incredible reach.",
             "category": "quality",
             "difficulty": 2,
             "dlc": true,
@@ -3660,11 +3660,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Warrior",
-                        "Str v� Dex 20",
-                        "Dragon Soul DLC",
+                        "Level Str and Dex to 20 each",
+                        "Rush to get the Dragon Soul in DLC",
                         "Curved Dragon GS từ Ornifex",
                         "Bastard Sword tạm",
-                        "Ring of Blades"
+                        "Get the Ring of Blades"
                     ]
                 },
                 {
@@ -3683,11 +3683,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 30",
-                        "CDGS +5",
-                        "Lightning infusion",
-                        "Flynn's Ring",
-                        "Chloranthy Ring +2",
-                        "Vigor 30"
+                        "Nâng cấp CDGS to +5",
+                        "Infuse with Lightning for more damage",
+                        "Trang bị the Flynn's Ring",
+                        "Get the Chloranthy Ring +2",
+                        "Tăng Vigor lên 30"
                     ]
                 },
                 {
@@ -3706,10 +3706,10 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str/Dex 35",
-                        "Max CDGS +5",
-                        "R2 vung ngang",
-                        "Sweet spot s�t th��ng t�i \u0011a",
-                        "Old Leo Ring",
+                        "Nâng tối đa CDGS to +5",
+                        "The R2 horizontal slash hits everything",
+                        "Sweet spot sát thng ti a",
+                        "Trang bị the Old Leo Ring for counters",
                         "Nhựa buff"
                     ]
                 }
@@ -3741,7 +3741,7 @@
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "DLC Sunken King"
+                    "locationVi": "Sunken King DLC"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -3753,7 +3753,7 @@
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "DLC, Old Iron King boss",
-                    "locationVi": "DLC"
+                    "locationVi": "DLC, Old Iron King boss"
                 },
                 {
                     "name": "Chloranthy Ring +2",
@@ -3774,15 +3774,15 @@
                 "R2 vung rộng nhất game",
                 "Flynn's Ring +50 nếu load dưới 60",
                 "Lightning giữ scaling",
-                "\u0010�n ngang t�t cho PvP"
+                "Lightning infusion preserves quality scaling while adding element"
             ]
         },
         {
             "slug": "ivory-king-ugs",
             "name": "Ivory King UGS",
-            "nameVi": "\u0010�i Ki�m Vua Ng�",
+            "nameVi": "i Kiếm Vua Ng",
             "description": "A pure Strength build using the Ivory King Ultra Greatsword. This massive weapon has a frozen moveset with built-in magic damage. The R2 is an overhead slam that freezes enemies.",
-            "descriptionVi": "Build Strength thu�n v�i Ivory King UGS. \u0010�i ki�m b\u0003ng gi�, R2 b� \u0011�ng c�ng k� \u0011�ch.",
+            "descriptionVi": "Build Strength thun vi Ivory King UGS. i kiếm bng gi, R2 b ng công k ch.",
             "category": "pve",
             "difficulty": 1,
             "dlc": true,
@@ -3817,11 +3817,11 @@
                     ],
                     "stepsVi": [
                         "Chọn Bandit",
-                        "Str 25 v� End 15",
+                        "Tăng Str lên 25 and End to 15",
                         "Greatsword tạm",
                         "Đến DLC",
-                        "Ivory King DLC",
-                        "T�m Ivory King UGS"
+                        "Get to the Ivory King DLC",
+                        "Tìm the Ivory King UGS"
                     ]
                 },
                 {
@@ -3840,11 +3840,11 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 40",
-                        "UGS +5",
-                        "Magic infusion",
-                        "Ring of Blades",
-                        "Third Dragon Ring",
-                        "Vigor 30"
+                        "Nâng cấp UGS to +5",
+                        "Infuse with Magic for more int-scaling",
+                        "Trang bị the Ring of Blades",
+                        "Get the Third Dragon Ring",
+                        "Tăng Vigor lên 30"
                     ]
                 },
                 {
@@ -3863,9 +3863,9 @@
                     ],
                     "stepsVi": [
                         "Đẩy Str 55",
-                        "Max +5",
+                        "Nâng tối đa UGS to +5",
                         "R1 chậm nhưng mạnh",
-                        "R2 \u0011�ng b\u0003ng"
+                        "R2 freeze effect staggers enemies"
                     ]
                 }
             ],
@@ -3890,7 +3890,7 @@
                     "name": "Ivory King Ultra Greatsword",
                     "type": "Weapon",
                     "location": "Ivory King DLC, frozen area",
-                    "locationVi": "DLC Ivory King"
+                    "locationVi": "Ivory King DLC, frozen area"
                 },
                 {
                     "name": "Ring of Blades +2",
@@ -3908,7 +3908,7 @@
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Majula cat",
-                    "locationVi": "Majula"
+                    "locationVi": "Majula cat"
                 }
             ],
             "tips": [
@@ -3919,11 +3919,11 @@
                 "Str scaling at A makes this a pure Strength powerhouse"
             ],
             "tipsVi": [
-                "UGS c� s�n s�t th��ng magic",
-                "R2 AoE \u0011�ng b\u0003ng",
-                "Ch�y \u0011�nh \u0011�m xa",
-                "T�m \u0011�nh r�ng",
-                "A Str scaling"
+                "UGS c sn sát thng magic",
+                "The R2 slam has a small AoE freeze effect",
+                "The running attack is a long-range thrust",
+                "The weapon's size gives incredible reach",
+                "Str scaling at A makes this a pure Strength powerhouse"
             ]
         }
     ]
