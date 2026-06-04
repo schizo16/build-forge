@@ -10,7 +10,10 @@ export function RandomCTA() {
 
   const handleRandom = async () => {
     try {
-      const res = await fetch('/api/random')
+      // Pick a random game first, then a random build
+      const games = ['elden-ring', 'dark-souls-1', 'dark-souls-2', 'dark-souls-3', 'bloodborne', 'cyberpunk']
+      const randomGame = games[Math.floor(Math.random() * games.length)]
+      const res = await fetch(`/api/random?game=${randomGame}`)
       if (!res.ok) throw new Error('Failed')
       const build = await res.json()
       router.push(`/${build.game}/${build.slug}`)

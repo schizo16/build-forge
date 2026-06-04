@@ -70,7 +70,7 @@ export default async function BuildDetailPage({ params }: { params: Promise<{ lo
         {/* Items */}
         <section>
           <h2 className="mb-4 font-display text-base text-forge-text">{isVi ? '🎒 Trang bị' : '🎒 Items'}</h2>
-          <ItemGrid items={build.items} itemType={config.itemType} locale={locale} />
+          <ItemGrid items={build.items} itemType={config.itemType} locale={locale} gameSlug={gameSlug} />
         </section>
 
         {/* Tips */}
