@@ -2,6 +2,8 @@ const STAT_LABELS: Record<string, string> = {
   vigor: 'VIG', mind: 'MND', endurance: 'END',
   strength: 'STR', dexterity: 'DEX', intelligence: 'INT',
   faith: 'FTH', arcane: 'ARC',
+  vitality: 'VIT', skill: 'SKL', bloodtinge: 'BLT',
+  body: 'BDY', reflexes: 'RFX', technical: 'TEC', cool: 'COL',
 }
 
 export function StatBars({ stats, sl }: { stats: Record<string, number>; sl: number }) {
