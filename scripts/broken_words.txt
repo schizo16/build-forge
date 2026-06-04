@@ -1,0 +1,4 @@
+  File "<string>", line 15
+    print(f'{fname}/{b[" slug\]}:
+                       ^
+SyntaxError: unterminated string literal (detected at line 15)
