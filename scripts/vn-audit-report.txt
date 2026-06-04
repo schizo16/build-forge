@@ -1,11 +1,11 @@
-Vietnamese Audit Report - 2026-06-04T20:15:37.497Z
+Vietnamese Audit Report - 2026-06-04T20:20:37.097Z
 ============================================================
 
-Issues found: 1280
+Issues found: 1265
 
 Categories:
-  English-only Vietnamese field: 866
-  Mixed EN/VN (mostly English): 198
+  English-only Vietnamese field: 848
+  Mixed EN/VN (mostly English): 213
   Encoding corruption: 127
-  locationVi still English: 88
+  locationVi still English: 76
   Walkthrough English phrasing in VN: 1
