@@ -1,0 +1,11 @@
+import Link from "next/link"
+
+export default function LocaleNotFound() {
+  return (
+    <div className="flex min-h-screen flex-col items-center justify-center">
+      <h1 className="font-display text-4xl text-accent-gold">404</h1>
+      <p className="mt-2 text-forge-muted">Page not found</p>
+      <Link href="/" className="mt-6 text-sm text-accent-gold hover:underline">Return home</Link>
+    </div>
+  )
+}

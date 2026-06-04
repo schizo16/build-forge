@@ -1,0 +1,27 @@
+{
+  "nav": { "home": "Home", "random": "Random Build" },
+  "landing": {
+    "hero": "FIND YOUR\nPLAYSTYLE",
+    "subtitle": "Hand-curated builds for Elden Ring, Dark Souls, Bloodborne & Cyberpunk 2077. Detailed guides from early game to DLC.",
+    "random": "RANDOM BUILD",
+    "builds": "Builds",
+    "games": "Games",
+    "dlc": "DLC Supported"
+  },
+  "game": {
+    "builds": "builds",
+    "all": "All",
+    "random": "RANDOM"
+  },
+  "build": {
+    "guide": "Guide",
+    "stats": "Stats",
+    "affinity": "Affinity",
+    "items": "Items",
+    "early": "Early Game",
+    "mid": "Mid Game",
+    "late": "Late Game + DLC",
+    "tips": "Tips & Tricks",
+    "difficulty": "Difficulty"
+  }
+}
