@@ -1,0 +1,402 @@
+{
+  "name": "Elden Ring",
+  "nameVi": "Elden Ring",
+  "accent": "#D4AF37",
+  "itemType": "Talisman",
+  "itemTypeVi": "Bùa",
+  "builds": [
+    {
+      "slug": "blade-of-the-erdtree",
+      "name": "Blade of the Erdtree",
+      "nameVi": "Lưỡi Kiếm Erdtree",
+      "description": "A devastating bleed-focused dual-wield build that shreds every boss in the game. Uses two curved swords with Occult infusion and Arcane scaling to stack hemorrhage in seconds.",
+      "descriptionVi": "Build chảy máu tàn bạo với hai thanh kiếm cong, xé xác mọi boss trong game. Sử dụng phép Occult và chỉ số Arcane để tích lũy sát thương chảy máu trong tích tắc.",
+      "category": "pve",
+      "difficulty": 2,
+      "dlc": true,
+      "gameClass": "Samurai",
+      "gameClassVi": "Samurai",
+      "sl": 150,
+      "stats": {
+        "Vigor": 50,
+        "Mind": 20,
+        "Endurance": 30,
+        "Strength": 16,
+        "Dexterity": 45,
+        "Intelligence": 9,
+        "Faith": 8,
+        "Arcane": 55
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–60",
+          "areas": "Limgrave, Weeping Peninsula, Liurnia",
+          "areasVi": "Limgrave, Weeping Peninsula, Liurnia",
+          "steps": [
+            "Choose Samurai for starting Uchigatana and high Dex",
+            "Rush to Fort Haight and Fort Gael for both halves of the Dectus Medallion",
+            "Defeat Godrick to access Liurnia and respec later",
+            "Head to Caelid and grab the Reduvia dagger from Murkwater Cave",
+            "Level Vigor to 25 and Dexterity to 20 first",
+            "Find the Bloody Slash ash of war in Fort Haight"
+          ],
+          "stepsVi": [
+            "Chọn Samurai để nhận Uchigatana và chỉ số Dex cao",
+            "Chạy đến Fort Haight và Fort Gael để lấy hai mảnh Dectus Medallion",
+            "Đánh bại Godrick để vào Liurnia và có thể reset chỉ số sau",
+            "Đến Caelid và lấy Reduvia từ Murkwater Cave",
+            "Tăng Vigor lên 25 và Dexterity lên 20 trước",
+            "Tìm Bloody Slash ash of war ở Fort Haight"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "60–100",
+          "areas": "Caelid, Altus Plateau, Mt. Gelmir",
+          "areasVi": "Caelid, Altus Plateau, Mt. Gelmir",
+          "steps": [
+            "Progress Ranni's questline to reach Nokron and get the Silver Tear Mask",
+            "Acquire the Scavenger's Curved Sword from Mt. Gelmir — your second curved sword",
+            "Collect the Lord of Blood's Exultation talisman from the Lord of Blood's area",
+            "Respec at Rennala to push Arcane to 35, Dex to 35",
+            "Apply Occult affinity to both curved swords for pure Arcane scaling",
+            "Kill Elemer of the Briar for the Claw Talisman",
+            "Find White Mask in Mohgwyn Dynasty Mausoleum for extra blood damage"
+          ],
+          "stepsVi": [
+            "Tiếp tục nhiệm vụ của Ranni để đến Nokron lấy Silver Tear Mask",
+            "Lấy Scavenger's Curved Sword từ Mt. Gelmir — thanh kiếm cong thứ hai",
+            "Thu thập Lord of Blood's Exultation từ khu vực Lord of Blood",
+            "Reset chỉ số tại Rennala để đẩy Arcane lên 35, Dex lên 35",
+            "Gắn Occult affinity cho cả hai thanh kiếm cong",
+            "Giết Elemer of the Briar để lấy Claw Talisman",
+            "Tìm White Mask ở Mohgwyn Dynasty Mausoleum để tăng sát thương máu"
+          ]
+        },
+        {
+          "name": "Late Game + DLC",
+          "nameVi": "Cuối Game + DLC",
+          "levels": "100–150",
+          "areas": "Mountaintops, Farum Azula, Realm of Shadow",
+          "areasVi": "Mountaintops, Farum Azula, Realm of Shadow",
+          "steps": [
+            "Push Arcane to 55 and Dexterity to 45 for maximum hemorrhage buildup",
+            "Equip Rotten Winged Sword Insignia for multi-hit damage bonus",
+            "Find the Backhand Blade in the DLC as an alternative weapon",
+            "Equip the Two-Headed Turtle Talisman from the DLC for stamina regen",
+            "Use the Dragoncrest Greatshield Talisman for physical defense",
+            "Collect the Obsidian Lamina weapon from the DLC for a fun bleed curved sword",
+            "Defeat Promised Consort Radahn with jumping L1 attacks"
+          ],
+          "stepsVi": [
+            "Đẩy Arcane lên 55 và Dexterity lên 45 để tối đa tích lũy chảy máu",
+            "Trang bị Rotten Winged Sword Insignia để tăng sát thương đòn liên tiếp",
+            "Tìm Backhand Blade trong DLC làm vũ khí thay thế",
+            "Trang bị Two-Headed Turtle Talisman từ DLC để hồi stamina",
+            "Dùng Dragoncrest Greatshield Talisman để tăng phòng thủ vật lý",
+            "Thu thập Obsidian Lamina từ DLC — một thanh kiếm cong chảy máu thú vị",
+            "Đánh bại Promised Consort Radahn bằng đòn nhảy L1"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Keen",
+          "ar": 485,
+          "scaling": "S Dex",
+          "verdict": "Worst option for this build. Pure Dex doesn't boost bleed.",
+          "verdictVi": "Lựa chọn tệ nhất cho build này. Dex thuần không tăng chảy máu."
+        },
+        {
+          "name": "Blood",
+          "ar": 412,
+          "scaling": "B Arcane",
+          "statusEffect": { "type": "Bleed", "value": 112 },
+          "verdict": "Insane bleed buildup, but lower AR. Best for pure bleed procs.",
+          "verdictVi": "Tích lũy chảy máu khủng khiếp, nhưng AR thấp hơn. Tốt nhất để gây chảy máu nhanh."
+        },
+        {
+          "name": "Occult",
+          "ar": 501,
+          "scaling": "A Arcane",
+          "statusEffect": { "type": "Bleed", "value": 72 },
+          "verdict": "Best overall. Highest AR with solid bleed. One-hand powers stance moveset.",
+          "verdictVi": "Tốt nhất tổng thể. AR cao nhất với chảy máu ổn định."
+        }
+      ],
+      "items": [
+        {
+          "name": "Scavenger's Curved Sword",
+          "type": "Weapon",
+          "location": "Mt. Gelmir, dropped by a skeleton near the poison swamp",
+          "locationVi": "Mt. Gelmir, rơi từ xương gần đầm độc"
+        },
+        {
+          "name": "Bandit's Curved Sword",
+          "type": "Weapon",
+          "location": "Dropped by skeleton enemies in Caelid",
+          "locationVi": "Rơi từ quái xương ở Caelid"
+        },
+        {
+          "name": "Lord of Blood's Exultation",
+          "type": "Talisman",
+          "location": "Mohgwyn Dynasty Mausoleum, in a chest near the Dynasty Mausoleum Entrance site of grace",
+          "locationVi": "Mohgwyn Dynasty Mausoleum, trong rương gần Dynasty Mausoleum Entrance"
+        },
+        {
+          "name": "Rotten Winged Sword Insignia",
+          "type": "Talisman",
+          "location": "Miquella's Haligtree, reward from Millicent's questline",
+          "locationVi": "Miquella's Haligtree, phần thưởng từ nhiệm vụ của Millicent"
+        },
+        {
+          "name": "White Mask",
+          "type": "Armor",
+          "location": "Mohgwyn Dynasty Mausoleum, dropped by invading NPC",
+          "locationVi": "Mohgwyn Dynasty Mausoleum, rơi từ NPC xâm lăng"
+        },
+        {
+          "name": "Silver Tear Mask",
+          "type": "Armor",
+          "location": "Nokron, Eternal City, in a chest near the Mimic Tear boss arena",
+          "locationVi": "Nokron, Eternal City, trong rương gần đấu trường Mimic Tear"
+        },
+        {
+          "name": "Claw Talisman",
+          "type": "Talisman",
+          "location": "Shaded Castle, dropped by Elemer of the Briar",
+          "locationVi": "Shaded Castle, rơi từ Elemer of the Briar"
+        },
+        {
+          "name": "Dragoncrest Greatshield Talisman",
+          "type": "Talisman",
+          "location": "Elphael, Brace of the Haligtree, on a corpse near the Prayer Room site of grace",
+          "locationVi": "Elphael, Brace of the Haligtree, trên xác gần Prayer Room"
+        },
+        {
+          "name": "Thorny Cracked Tear",
+          "type": "Physick",
+          "location": "Minor Erdtree in the Mountaintops of the Giants, dropped by the Erdtree Avatar",
+          "locationVi": "Minor Erdtree ở Mountaintops, rơi từ Erdtree Avatar"
+        },
+        {
+          "name": "Opaline Hardtear",
+          "type": "Physick",
+          "location": "Minor Erdtree in Liurnia, dropped by the Erdtree Avatar",
+          "locationVi": "Minor Erdtree ở Liurnia, rơi từ Erdtree Avatar"
+        }
+      ],
+      "tips": [
+        "Jumping L1 attacks apply status effects twice per button press for insane bleed buildup — always jump attack when possible",
+        "Multi-hit talismans (Rotten Winged Sword Insignia, Millicent's Prosthesis, Claw Talisman) stack multiplicatively",
+        "Seppuku ash of war triggers Lord of Blood's Exultation and White Mask buffs simultaneously",
+        "Keep a spare Blood-infused weapon for bosses immune to Occult-scaling bleed",
+        "DLC's Two-Handed Sword Talisman works with power-stance jumping attacks — huge damage increase"
+      ],
+      "tipsVi": [
+        "Đòn nhảy L1 gây trạng thái hai lần mỗi lần nhấn — luôn nhảy tấn công khi có thể",
+        "Các talisman đa đòn (Rotten Winged Sword, Millicent's Prosthesis, Claw) cộng dồn với nhau",
+        "Seppuku kích hoạt Lord of Blood's Exultation và White Mask cùng lúc",
+        "Giữ một vũ khí Blood-infused dự phòng cho boss miễn nhiễm Occult",
+        "Two-Handed Sword Talisman từ DLC tăng sát thương đòn nhảy"
+      ]
+    },
+    {
+      "slug": "moonveil-mage",
+      "name": "Moonveil Mage",
+      "nameVi": "Pháp Sư Moonveil",
+      "description": "An Intelligence-based katana build that combines powerful sorceries with Moonveil's unique weapon skill. Perfect for new players who want both melee and ranged magic damage.",
+      "descriptionVi": "Build katana dựa trên Intelligence, kết hợp ma thuật mạnh mẽ với chiêu thức độc đáo của Moonveil. Hoàn hảo cho người chơi mới muốn sát thương cả cận chiến lẫn ma thuật.",
+      "category": "pve",
+      "difficulty": 1,
+      "dlc": false,
+      "gameClass": "Prisoner",
+      "gameClassVi": "Prisoner",
+      "sl": 125,
+      "stats": {
+        "Vigor": 40,
+        "Mind": 35,
+        "Endurance": 20,
+        "Strength": 12,
+        "Dexterity": 18,
+        "Intelligence": 60,
+        "Faith": 6,
+        "Arcane": 8
+      },
+      "phases": [
+        {
+          "name": "Early Game",
+          "nameVi": "Đầu Game",
+          "levels": "1–50",
+          "areas": "Limgrave, Liurnia",
+          "areasVi": "Limgrave, Liurnia",
+          "steps": [
+            "Pick Prisoner for the best starting stat spread (Int 14, Dex 14)",
+            "Rush to Caelid and defeat Magma Wyrm to get Moonveil early",
+            "Alternatively, defeat Rennala and respec into Int build",
+            "Level Vigor to 20 and Intelligence to 30",
+            "Buy Glintstone Pebble and Carian Slicer from Sorceress Sellen",
+            "Find the Meteorite Staff in Caelid for S-tier early staff"
+          ],
+          "stepsVi": [
+            "Chọn Prisoner vì chỉ số khởi đầu tốt nhất (Int 14, Dex 14)",
+            "Đến Caelid và đánh bại Magma Wyrm để lấy Moonveil sớm",
+            "Hoặc đánh bại Rennala và reset chỉ số sang Int",
+            "Tăng Vigor lên 20 và Intelligence lên 30",
+            "Mua Glintstone Pebble và Carian Slicer từ Sorceress Sellen",
+            "Tìm Meteorite Staff ở Caelid — cây gậy đầu game mạnh nhất"
+          ]
+        },
+        {
+          "name": "Mid Game",
+          "nameVi": "Giữa Game",
+          "levels": "50–90",
+          "areas": "Altus Plateau, Mt. Gelmir, Caelid",
+          "areasVi": "Altus Plateau, Mt. Gelmir, Caelid",
+          "steps": [
+            "Invest heavily in Intelligence — push to 50",
+            "Find the Carian Regal Scepter from Rennala's Remembrance",
+            "Collect Wing of Astel from Uhl Palace Ruins for a great Int curved sword",
+            "Get the Magic Scorpion Charm from Seluvis's quest",
+            "Level Mind to 30 for comfortable FP pool",
+            "Equip the Graven-Mass Talisman for boosted sorcery damage"
+          ],
+          "stepsVi": [
+            "Đầu tư mạnh vào Intelligence — đẩy lên 50",
+            "Lấy Carian Regal Scepter từ Remembrance của Rennala",
+            "Thu thập Wing of Astel từ Uhl Palace Ruins",
+            "Nhận Magic Scorpion Charm từ nhiệm vụ của Seluvis",
+            "Tăng Mind lên 30 để có FP thoải mái",
+            "Trang bị Graven-Mass Talisman để tăng sát thương ma thuật"
+          ]
+        },
+        {
+          "name": "Late Game",
+          "nameVi": "Cuối Game",
+          "levels": "90–125",
+          "areas": "Mountaintops, Farum Azula, Haligtree",
+          "areasVi": "Mountaintops, Farum Azula, Haligtree",
+          "steps": [
+            "Push Intelligence to 60 and Vigor to 40",
+            "Find Terra Magicus to set up nuke damage",
+            "Collect the Lusat's Glintstone Staff from Sellia Hideaway",
+            "Equip the Godfrey Icon for charged spell boosts",
+            "Dex to 18 for slightly faster cast speed",
+            "Defeat Malenia with Moonveil's Transient Moonlight — stance damage is key"
+          ],
+          "stepsVi": [
+            "Đẩy Intelligence lên 60 và Vigor lên 40",
+            "Tìm Terra Magicus để thiết lập sát thương nuke",
+            "Thu thập Lusat's Glintstone Staff từ Sellia Hideaway",
+            "Trang bị Godfrey Icon để tăng sát thương phép tích lũy",
+            "Dex lên 18 để tăng tốc niệm phép",
+            "Đánh bại Malenia bằng Transient Moonlight — sát thương stance là chìa khóa"
+          ]
+        }
+      ],
+      "affinities": [
+        {
+          "name": "Magic",
+          "ar": 438,
+          "scaling": "S Int",
+          "verdict": "Default best option. Moonveil comes Magic-infused — just pump Int.",
+          "verdictVi": "Lựa chọn mặc định tốt nhất. Moonveil đã có Magic-infused — chỉ cần tăng Int."
+        },
+        {
+          "name": "Cold",
+          "ar": 385,
+          "scaling": "B Int",
+          "statusEffect": { "type": "Frostbite", "value": 85 },
+          "verdict": "Good for frost buildup but lowers AR. Only if you want frostbite utility.",
+          "verdictVi": "Tốt cho tích lũy băng nhưng giảm AR. Chỉ dùng nếu muốn hiệu ứng băng."
+        },
+        {
+          "name": "Keen",
+          "ar": 352,
+          "scaling": "B Dex",
+          "verdict": "Not recommended. Moonveil is an Int weapon first.",
+          "verdictVi": "Không khuyến khích. Moonveil là vũ khí Int trước tiên."
+        }
+      ],
+      "items": [
+        {
+          "name": "Moonveil",
+          "type": "Weapon",
+          "location": "Caelid, dropped by Magma Wyrm in Gael Tunnel",
+          "locationVi": "Caelid, rơi từ Magma Wyrm trong Gael Tunnel"
+        },
+        {
+          "name": "Carian Regal Scepter",
+          "type": "Weapon",
+          "location": "Liurnia, traded with Finger Reader using Rennala's Remembrance",
+          "locationVi": "Liurnia, đổi với Finger Reader bằng Remembrance của Rennala"
+        },
+        {
+          "name": "Lusat's Glintstone Staff",
+          "type": "Weapon",
+          "location": "Sellia Hideaway in Caelid, behind the hidden wall near the Sellia Under-Stair site of grace",
+          "locationVi": "Sellia Hideaway ở Caelid, sau tường ẩn gần Sellia Under-Stair"
+        },
+        {
+          "name": "Graven-Mass Talisman",
+          "type": "Talisman",
+          "location": "Mountaintops of the Giants, found in Albinauric Rise",
+          "locationVi": "Mountaintops of the Giants, trong Albinauric Rise"
+        },
+        {
+          "name": "Magic Scorpion Charm",
+          "type": "Talisman",
+          "location": "Seluvis's Rise, obtained during Seluvis's questline",
+          "locationVi": "Seluvis's Rise, nhận từ nhiệm vụ của Seluvis"
+        },
+        {
+          "name": "Godfrey Icon",
+          "type": "Talisman",
+          "location": "Golden Lineage Evergaol in Limgrave, dropped by Godefroy",
+          "locationVi": "Golden Lineage Evergaol ở Limgrave, rơi từ Godefroy"
+        },
+        {
+          "name": "Meteorite Staff",
+          "type": "Weapon",
+          "location": "Caelid, in the Swamp of Aeonia near Street of Sages Ruins",
+          "locationVi": "Caelid, trong Swamp of Aeonia gần Street of Sages Ruins"
+        },
+        {
+          "name": "Queen's Crescent Crown",
+          "type": "Armor",
+          "location": "Raya Lucaria Academy, on a corpse in the debate parlor",
+          "locationVi": "Raya Lucaria Academy, trên xác trong debate parlor"
+        },
+        {
+          "name": "Cerulean Hidden Tear",
+          "type": "Physick",
+          "location": "Minor Erdtree in Mt. Gelmir, dropped by the Erdtree Avatar",
+          "locationVi": "Minor Erdtree ở Mt. Gelmir, rơi từ Erdtree Avatar"
+        },
+        {
+          "name": "Intelligence Knot Tear",
+          "type": "Physick",
+          "location": "Minor Erdtree in Liurnia, dropped by the Erdtree Avatar",
+          "locationVi": "Minor Erdtree ở Liurnia, rơi từ Erdtree Avatar"
+        }
+      ],
+      "tips": [
+        "Moonveil's Transient Moonlight has incredible range and stance damage — use it to stagger bosses",
+        "Jumping heavy attack + Transient Moonlight R2 is a massive stagger combo",
+        "Terra Magicus into Comet Azur with Cerulean Hidden Tear melts bosses instantly",
+        "Carian Slicer is your highest DPS option for close-range fights",
+        "Keep Loretta's Greatbow for sniping distant enemies without aggroing them"
+      ],
+      "tipsVi": [
+        "Transient Moonlight của Moonveil có tầm xa tuyệt vời và sát thương stance cao",
+        "Đòn nhảy nặng + Transient Moonlight R2 là combo phá stance mạnh",
+        "Terra Magicus + Comet Azur + Cerulean Hidden Tear hủy diệt boss trong giây lát",
+        "Carian Slicer là lựa chọn DPS cao nhất cho cận chiến",
+        "Giữ Loretta's Greatbow để bắn tỉa kẻ địch từ xa mà không kéo aggro"
+      ]
+    }
+  ]
+}

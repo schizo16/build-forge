@@ -26,3 +26,53 @@ export const CATEGORIES: { key: string; label: string; labelVi: string }[] = [
 ]
 
 export const ALL_GAME_SLUGS: GameSlug[] = ['elden-ring', 'dark-souls-1', 'dark-souls-2', 'dark-souls-3', 'bloodborne', 'cyberpunk']
+
+export type Category = 'pve' | 'pvp' | 'meta' | 'meme' | 'trend'
+
+export interface BuildPhase {
+  name: string
+  nameVi: string
+  levels: string
+  areas: string
+  areasVi: string
+  steps: string[]
+  stepsVi: string[]
+}
+
+export interface AffinityOption {
+  name: string
+  ar: number
+  scaling: string
+  statusEffect?: { type: string; value: number }
+  verdict: string
+  verdictVi: string
+}
+
+export interface BuildItem {
+  name: string
+  nameVi?: string
+  type: string
+  location: string
+  locationVi?: string
+  imageUrl?: string
+}
+
+export interface Build {
+  slug: string
+  name: string
+  nameVi: string
+  description: string
+  descriptionVi: string
+  category: Category
+  difficulty: 1 | 2 | 3
+  dlc: boolean
+  gameClass: string
+  gameClassVi: string
+  sl: number
+  stats: Record<string, number>
+  phases: BuildPhase[]
+  affinities: AffinityOption[]
+  items: BuildItem[]
+  tips: string[]
+  tipsVi: string[]
+}
