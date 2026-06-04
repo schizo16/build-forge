@@ -4,11 +4,9 @@ import type { GameSlug } from "@/lib/utils"
 
 const DISPLAY_GAMES: { slug: GameSlug; label: string }[] = [
   { slug: 'elden-ring', label: 'Elden Ring' },
-  { slug: 'dark-souls-1', label: 'DS1' },
-  { slug: 'dark-souls-2', label: 'DS2' },
-  { slug: 'dark-souls-3', label: 'DS3' },
+  { slug: 'dark-souls-3', label: 'Dark Souls' },
   { slug: 'bloodborne', label: 'Bloodborne' },
-  { slug: 'cyberpunk', label: 'CP2077' },
+  { slug: 'cyberpunk', label: 'Cyberpunk' },
 ]
 
 export function Nav() {
