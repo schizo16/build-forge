@@ -1,7 +1,27 @@
 import { notFound } from "next/navigation"
 import { getTranslations } from "next-intl/server"
+import type { Metadata } from "next"
 import { GAME_CONFIGS, type GameSlug } from "@/lib/utils"
 import { getBuild } from "@/data"
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string; game: string; slug: string }> }): Promise<Metadata> {
+  const { game, slug } = await params
+  const gameSlug = game as GameSlug
+  const config = GAME_CONFIGS[gameSlug]
+  if (!config) return { title: 'Build Forge' }
+  const build = getBuild(gameSlug, slug)
+  if (!build) return { title: 'Build Forge' }
+  return {
+    title: `${build.name} — ${config.name} Build — Build Forge`,
+    description: build.description,
+    openGraph: {
+      title: `${build.name} — ${config.name}`,
+      description: build.description,
+      siteName: 'Build Forge',
+      type: 'website',
+    },
+  }
+}
 import { GuideSection } from "@/components/build-detail/guide-section"
 import { StatBars } from "@/components/build-detail/stat-bars"
 import { AnimatedSection } from "@/components/animated-section"
