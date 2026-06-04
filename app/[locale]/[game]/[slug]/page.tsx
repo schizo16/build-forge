@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     },
   }
 }
+import { getCyberpunkStartingStats } from "@/lib/cyberpunk-stats"
 import { GuideSection } from "@/components/build-detail/guide-section"
 import { StatBars } from "@/components/build-detail/stat-bars"
 import { AnimatedSection } from "@/components/animated-section"
@@ -91,6 +92,46 @@ export default async function BuildDetailPage({ params }: { params: Promise<{ lo
           <h2 className="mb-4 font-display text-base text-forge-text">{isVi ? '📊 Chỉ số' : '📊 Stats'}</h2>
           <StatBars stats={build.stats} sl={build.sl} />
         </AnimatedSection>
+
+        {/* Cyberpunk Starting Stats */}
+        {game === 'cyberpunk' && (
+          <AnimatedSection>
+            <h2 className="mb-4 font-display text-base text-forge-text">
+              {isVi ? '🎭 Chỉ Số Tạo Nhân Vật' : '🎭 Starting Stats'}
+            </h2>
+            <div className="rounded-lg border border-accent-green/20 bg-forge-surface p-4">
+              <div className="mb-3 flex items-center gap-2">
+                <span className="rounded bg-accent-green/20 px-2 py-0.5 text-[10px] text-accent-green">
+                  {isVi ? 'Xuất thân' : 'Life Path'}: {(() => {
+                    const s = getCyberpunkStartingStats(build.stats)
+                    return isVi ? s.lifePathVi : s.lifePath
+                  })()}
+                </span>
+              </div>
+              <div className="grid grid-cols-5 gap-2">
+                {['Body', 'Reflexes', 'Technical', 'Intelligence', 'Cool'].map((stat) => {
+                  const { stats } = getCyberpunkStartingStats(build.stats)
+                  const val = stats[stat] ?? 3
+                  return (
+                    <div key={stat} className="text-center rounded bg-forge-hover p-2">
+                      <p className="text-[9px] text-forge-muted uppercase">{stat.slice(0, 4)}</p>
+                      <p className="mt-1 font-display text-lg text-accent-green">{val}</p>
+                    </div>
+                  )
+                })}
+              </div>
+              <p className="mt-3 text-[11px] text-forge-muted">
+                {(() => {
+                  const s = getCyberpunkStartingStats(build.stats)
+                  return isVi ? s.notesVi : s.notes
+                })()}
+              </p>
+              <p className="mt-1 text-[9px] text-forge-muted">
+                {isVi ? '22 điểm ban đầu, tối đa 6 mỗi chỉ số' : '22 attribute points at creation, max 6 per stat'}
+              </p>
+            </div>
+          </AnimatedSection>
+        )}
 
         {/* Affinity Comparison */}
         {build.affinities.length > 0 && (
