@@ -147,61 +147,71 @@
                     "name": "Sunset Staff",
                     "type": "Weapon",
                     "location": "Huntsman's Copse, found behind a locked door near the second bonfire",
-                    "locationVi": "Huntsman's Copsẽ, found behind a locked door near the sẽcònd bonfire"
+                    "locationVi": "Huntsman's Copsẽ, found behind a locked door near the sẽcònd bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/sunset-staff.png"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter, on a corpse in a toxic pit",
-                    "locationVi": "The Gutter, on a corpsẽ in a toxic pit"
+                    "locationVi": "The Gutter, on a corpsẽ in a toxic pit",
+                    "imageUrl": "/images/items/dark-souls-2/dark-clutch-ring.png"
                 },
                 {
                     "name": "Abyss Seal",
                     "type": "Ring",
                     "location": "Darkdiver Grandahl's covenant reward (rank 2)",
-                    "locationVi": "Phần thưởng covenant đãrkdiver Granđãhl"
+                    "locationVi": "Phần thưởng covenant đãrkdiver Granđãhl",
+                    "imageUrl": "/images/items/dark-souls-2/abyss-seal.png"
                 },
                 {
                     "name": "Clear Bluestone Ring +2",
                     "type": "Ring",
                     "location": "NG+ Najka in Shaded Woods, or ascetic the boss area",
-                    "locationVi": "NG+ Najka ở Shađểd Woods"
+                    "locationVi": "NG+ Najka ở Shađểd Woods",
+                    "imageUrl": "/images/items/dark-souls-2/clear-bluestone-ring-2.png"
                 },
                 {
                     "name": "Felkin the Outcast Set",
                     "type": "Armor",
                     "location": "Kill Felkin in Huntsman's Copse for his set",
-                    "locationVi": "Giết Felkin ở Huntsman's Copsẽ"
+                    "locationVi": "Giết Felkin ở Huntsman's Copsẽ",
+                    "imageUrl": "/images/items/dark-souls-2/felkin-the-outcast-set.png"
                 },
                 {
                     "name": "Dark Orb",
                     "type": "Weapon",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/dark-orb.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -375,61 +385,71 @@
                     "name": "Scimitar x2",
                     "type": "Weapon",
                     "location": "Purchased from Lonesome Gavlan in No Man's Wharf or Doors of Pharros",
-                    "locationVi": "Mua từ Lonesome Gavlan"
+                    "locationVi": "Mua từ Lonesome Gavlan",
+                    "imageUrl": "/images/items/dark-souls-2/scimitar-x2.png"
                 },
                 {
                     "name": "Ring of Blades",
                     "type": "Ring",
                     "location": "The Pursuer arena in the Forest of Fallen Giants",
-                    "locationVi": "Đấu trường Pursuer ở Forest of Fallen Giants"
+                    "locationVi": "Đấu trường Pursuer ở Forest of Fallen Giants",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Crown of the Sunken King DLC, in the Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC, in the Sanctum City"
+                    "locationVi": "Crown of the Sunken King DLC, in the Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ Rotten or use Bonfire Ascetic in Black Gulch",
-                    "locationVi": "NG+ Rotten or usẽ Bonfire Ascetic in Black Gulch"
+                    "locationVi": "NG+ Rotten or usẽ Bonfire Ascetic in Black Gulch",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "Dropped by the Old Dragonslayer in Heides Tower (NG+)",
-                    "locationVi": "Rơi từ Old Dragonslấyer (NG+)"
+                    "locationVi": "Rơi từ Old Dragonslấyer (NG+)",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -596,61 +616,71 @@
                     "name": "Rapier",
                     "type": "Weapon",
                     "location": "Starting weapon for Swordsman or purchased from Leningrast",
-                    "locationVi": "khởi đầu weapon for Swordsman or purchasẽd from Leningrast"
+                    "locationVi": "khởi đầu weapon for Swordsman or purchasẽd from Leningrast",
+                    "imageUrl": "/images/items/dark-souls-2/rapier.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "Dropped by Old Dragonslayer in Heides Tower (NG+ via Bonfire Ascetic)",
-                    "locationVi": "Rơi từ Old Dragonslấyer (NG+)"
+                    "locationVi": "Rơi từ Old Dragonslấyer (NG+)",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer or use Bonfire Ascetic",
-                    "locationVi": "NG+ Pursuer or usẽ Bonfire Ascetic"
+                    "locationVi": "NG+ Pursuer or usẽ Bonfire Ascetic",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC, Sanctum City"
+                    "locationVi": "Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Engraved Gauntlets",
                     "type": "Armor",
                     "location": "Iron King DLC, dropped by the NPC invader in Brume Tower",
-                    "locationVi": "Iron King DLC, rơi t NPC xm lng"
+                    "locationVi": "Iron King DLC, rơi t NPC xm lng",
+                    "imageUrl": "/images/items/dark-souls-2/engraved-gauntlets.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -823,61 +853,71 @@
                     "name": "Greatsword",
                     "type": "Weapon",
                     "location": "No Man's Wharf, in a room behind the ship's masts",
-                    "locationVi": "No Man's Wharf, sau cột buồm"
+                    "locationVi": "No Man's Wharf, sau cột buồm",
+                    "imageUrl": "/images/items/dark-souls-2/greatsword.png"
                 },
                 {
                     "name": "Fume Ultra Greatsword",
                     "type": "Weapon",
                     "location": "Crown of the Old Iron King DLC, boss weapon from Fume Knight",
-                    "locationVi": "Crown of the Old Iron King DLC, boss weapon from Fume Knight"
+                    "locationVi": "Crown of the Old Iron King DLC, boss weapon from Fume Knight",
+                    "imageUrl": "/images/items/dark-souls-2/fume-ultra-greatsword.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Doors of Pharros, found behind a petrified door",
-                    "locationVi": "Doors of Pharros, found behind a petrified door"
+                    "locationVi": "Doors of Pharros, found behind a petrified door",
+                    "imageUrl": "/images/items/dark-souls-2/havels-ring.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter, on a corpse near the entrance",
-                    "locationVi": "Shrine of Winter, on a corpsẽ near the entrance"
+                    "locationVi": "Shrine of Winter, on a corpsẽ near the entrance",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Drakekeeper Armor Set",
                     "type": "Armor",
                     "location": "Dropped by Drakekeeper enemies in Dragon Shrine",
-                    "locationVi": "Rơi từ Drakekeeper ở Dragon Shrine"
+                    "locationVi": "Rơi từ Drakekeeper ở Dragon Shrine",
+                    "imageUrl": "/images/items/dark-souls-2/drakekeeper-armor-set.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -1037,61 +1077,71 @@
                     "name": "Dragon Chime",
                     "type": "Weapon",
                     "location": "Shrine of Amana, found behind a locked door near the third bonfire",
-                    "locationVi": "Shrine of Amana, found behind a locked door near the third bonfire"
+                    "locationVi": "Shrine of Amana, found behind a locked door near the third bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/dragon-chime.png"
                 },
                 {
                     "name": "Lightning Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter, on a corpse hanging over a poison pool",
-                    "locationVi": "The Gutter, on a corpsẽ hanging over a poison pool"
+                    "locationVi": "The Gutter, on a corpsẽ hanging over a poison pool",
+                    "imageUrl": "/images/items/dark-souls-2/lightning-clutch-ring.png"
                 },
                 {
                     "name": "Clear Bluestone Ring +2",
                     "type": "Ring",
                     "location": "NG+ Najka in Shaded Woods",
-                    "locationVi": "NG+ Najka in Shađểd Woods"
+                    "locationVi": "NG+ Najka in Shađểd Woods",
+                    "imageUrl": "/images/items/dark-souls-2/clear-bluestone-ring-2.png"
                 },
                 {
                     "name": "Sunlight Spear",
                     "type": "Weapon",
                     "location": "Heirs of the Sun covenant rank 3 reward",
-                    "locationVi": "Phần thưởng Heirs of the Sun rank 3"
+                    "locationVi": "Phần thưởng Heirs of the Sun rank 3",
+                    "imageUrl": "/images/items/dark-souls-2/sunlight-spear.png"
                 },
                 {
                     "name": "Lightning Mace",
                     "type": "Weapon",
                     "location": "Infuse any Mace with Boltstone",
-                    "locationVi": "Infusẽ any Mace với Boltstone"
+                    "locationVi": "Infusẽ any Mace với Boltstone",
+                    "imageUrl": "/images/items/dark-souls-2/lightning-mace.png"
                 },
                 {
                     "name": "Saint's Hood",
                     "type": "Armor",
                     "location": "Felkin the Outcast set or Saint's set in Undead Crypt",
-                    "locationVi": "Felkin the Outcast hoặc Saint's sẽt"
+                    "locationVi": "Felkin the Outcast hoặc Saint's sẽt",
+                    "imageUrl": "/images/items/dark-souls-2/saints-hood.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -1251,61 +1301,71 @@
                     "name": "Staff of Wisdom",
                     "type": "Weapon",
                     "location": "Brightstone Cove Tseldora, in the room with the invader",
-                    "locationVi": "Brightstone Cove Tsẽldora, in the room với the invađểr"
+                    "locationVi": "Brightstone Cove Tsẽldora, in the room với the invađểr",
+                    "imageUrl": "/images/items/dark-souls-2/staff-of-wisdom.png"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Crown of the Sunken King DLC, Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC, Sanctum City"
+                    "locationVi": "Crown of the Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/magic-clutch-ring.png"
                 },
                 {
                     "name": "Clear Bluestone Ring +2",
                     "type": "Ring",
                     "location": "NG+ Najka or Bonfire Ascetic in Shaded Woods",
-                    "locationVi": "NG+ Najka or Bonfire Ascetic in Shađểd Woods"
+                    "locationVi": "NG+ Najka or Bonfire Ascetic in Shađểd Woods",
+                    "imageUrl": "/images/items/dark-souls-2/clear-bluestone-ring-2.png"
                 },
                 {
                     "name": "Unleash Magic",
                     "type": "Weapon",
                     "location": "Dragon Shrine, dropped by an NPC invader",
-                    "locationVi": "Dragon Shrine, rơi t NPC xm lng"
+                    "locationVi": "Dragon Shrine, rơi t NPC xm lng",
+                    "imageUrl": "/images/items/dark-souls-2/unleash-magic.png"
                 },
                 {
                     "name": "Chaos Hood",
                     "type": "Armor",
                     "location": "DLC area, found in the Iron King DLC",
-                    "locationVi": "DLC area, found in the Iron King DLC"
+                    "locationVi": "DLC area, found in the Iron King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/chaos-hood.png"
                 },
                 {
                     "name": "Crystal Soul Spear",
                     "type": "Weapon",
                     "location": "Straid of Olaphis, trade Duke's Dear Freja's soul",
-                    "locationVi": "Straid of Olaphis, đổi linh hồn Freja"
+                    "locationVi": "Straid of Olaphis, đổi linh hồn Freja",
+                    "imageUrl": "/images/items/dark-souls-2/crystal-soul-spear.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -1472,61 +1532,71 @@
                     "name": "Sun Sword",
                     "type": "Weapon",
                     "location": "Heirs of the Sun covenant rank 2 reward",
-                    "locationVi": "Phần thưởng Heirs of the Sun rank 2"
+                    "locationVi": "Phần thưởng Heirs of the Sun rank 2",
+                    "imageUrl": "/images/items/dark-souls-2/sun-sword.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC, Sanctum City"
+                    "locationVi": "Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Engraved Gauntlets",
                     "type": "Armor",
                     "location": "Iron King DLC, Brume Tower",
-                    "locationVi": "Iron King DLC, Brume Tower"
+                    "locationVi": "Iron King DLC, Brume Tower",
+                    "imageUrl": "/images/items/dark-souls-2/engraved-gauntlets.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -1685,61 +1755,71 @@
                     "name": "Poison Curved Sword x2",
                     "type": "Weapon",
                     "location": "Infuse any curved sword with Poison using Poison Stones",
-                    "locationVi": "Gn Poison cho bt k kiếm còng no"
+                    "locationVi": "Gn Poison cho bt k kiếm còng no",
+                    "imageUrl": "/images/items/dark-souls-2/poison-curved-sword-x2.png"
                 },
                 {
                     "name": "Sanctum Crossbow",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC, Sanctum City"
+                    "locationVi": "Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/sanctum-crossbow.png"
                 },
                 {
                     "name": "Crest of the Rat",
                     "type": "Ring",
                     "location": "Rat King covenant rank 1 reward",
-                    "locationVi": "Phần thưởng rất King rank 1"
+                    "locationVi": "Phần thưởng rất King rank 1",
+                    "imageUrl": "/images/items/dark-souls-2/crest-of-the-rat.png"
                 },
                 {
                     "name": "Shadow Gauntlets",
                     "type": "Armor",
                     "location": "Earthen Peak, dropped by the Manikins",
-                    "locationVi": "Earthen Peak, rơi từ Manikins"
+                    "locationVi": "Earthen Peak, rơi từ Manikins",
+                    "imageUrl": "/images/items/dark-souls-2/shadow-gauntlets.png"
                 },
                 {
                     "name": "Sanctum Soldier Gauntlets",
                     "type": "Armor",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC, Sanctum City"
+                    "locationVi": "Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/sanctum-soldier-gauntlets.png"
                 },
                 {
                     "name": "Poisonbite Ring +1",
                     "type": "Ring",
                     "location": "NG+ Mytha or Bonfire Ascetic in Earthen Peak",
-                    "locationVi": "NG+ Mytha or Bonfire Ascetic in Earthen Peak"
+                    "locationVi": "NG+ Mytha or Bonfire Ascetic in Earthen Peak",
+                    "imageUrl": "/images/items/dark-souls-2/poisonbite-ring-1.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -1906,61 +1986,71 @@
                     "name": "Helix Halberd",
                     "type": "Weapon",
                     "location": "Crown of the Sunken King DLC, Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC, Sanctum City"
+                    "locationVi": "Crown of the Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/helix-halberd.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer or Bonfire Ascetic",
-                    "locationVi": "NG+ Old Dragonslấyer or Bonfire Ascetic"
+                    "locationVi": "NG+ Old Dragonslấyer or Bonfire Ascetic",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Engraved Gauntlets",
                     "type": "Armor",
                     "location": "Iron King DLC, Brume Tower",
-                    "locationVi": "Iron King DLC, Brume Tower"
+                    "locationVi": "Iron King DLC, Brume Tower",
+                    "imageUrl": "/images/items/dark-souls-2/engraved-gauntlets.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -2127,61 +2217,71 @@
                     "name": "Ice Rapier",
                     "type": "Weapon",
                     "location": "Crown of the Sunken King DLC, dropped by a priestess in Sanctum City",
-                    "locationVi": "Crown of the Sunken King DLC, dropped by a priestess in Sanctum City"
+                    "locationVi": "Crown of the Sunken King DLC, dropped by a priestess in Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/ice-rapier.png"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC, Sanctum City"
+                    "locationVi": "Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/magic-clutch-ring.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Clear Bluestone Ring +2",
                     "type": "Ring",
                     "location": "NG+ Najka",
-                    "locationVi": "NG+ Najka"
+                    "locationVi": "NG+ Najka",
+                    "imageUrl": "/images/items/dark-souls-2/clear-bluestone-ring-2.png"
                 },
                 {
                     "name": "Crystal Magic Weapon",
                     "type": "Weapon",
                     "location": "Straid of Olaphis, trade Freja's soul",
-                    "locationVi": "Straid of Olaphis, trađể Freja's soul"
+                    "locationVi": "Straid of Olaphis, trađể Freja's soul",
+                    "imageUrl": "/images/items/dark-souls-2/crystal-magic-weapon.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -2348,61 +2448,71 @@
                     "name": "Sacred Chime Hammer",
                     "type": "Weapon",
                     "location": "Undead Crypt, dropped by Velstadt the Royal Aegis",
-                    "locationVi": "Unđểad Crypt, rơi từ Velstadt"
+                    "locationVi": "Unđểad Crypt, rơi từ Velstadt",
+                    "imageUrl": "/images/items/dark-souls-2/sacred-chime-hammer.png"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter on a corpse",
-                    "locationVi": "The Gutter on a corpsẽ"
+                    "locationVi": "The Gutter on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-2/dark-clutch-ring.png"
                 },
                 {
                     "name": "Dragon Chime",
                     "type": "Weapon",
                     "location": "Shrine of Amana behind locked door",
-                    "locationVi": "Shrine of Amana behind locked door"
+                    "locationVi": "Shrine of Amana behind locked door",
+                    "imageUrl": "/images/items/dark-souls-2/dragon-chime.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter near the entrance",
-                    "locationVi": "Shrine of Winter near the entrance"
+                    "locationVi": "Shrine of Winter near the entrance",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 },
                 {
                     "name": "Great Heal",
                     "type": "Weapon",
                     "location": "Purchased from Licia of Lindeldt",
-                    "locationVi": "Mua từ Licia"
+                    "locationVi": "Mua từ Licia",
+                    "imageUrl": "/images/items/dark-souls-2/great-heal.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -2569,61 +2679,71 @@
                     "name": "Majestic Greatsword",
                     "type": "Weapon",
                     "location": "Crown of the Old Iron King DLC, Brume Tower",
-                    "locationVi": "Crown of the Old Iron King DLC, Brume Tower"
+                    "locationVi": "Crown of the Old Iron King DLC, Brume Tower",
+                    "imageUrl": "/images/items/dark-souls-2/majestic-greatsword.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Things Betwixt Ogre",
-                    "locationVi": "Things Betwixt Ogre"
+                    "locationVi": "Things Betwixt Ogre",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter, on a corpse near the entrance",
-                    "locationVi": "Shrine of Winter"
+                    "locationVi": "Shrine of Winter",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 }
             ],
             "tips": [
@@ -2790,61 +2910,71 @@
                     "name": "Warped Sword",
                     "type": "Weapon",
                     "location": "NG+ Flexile Sentry or Bonfire Ascetic in Sinner's Rise",
-                    "locationVi": "NG+ Flexile sẽntry or Bonfire Ascetic in Sinner's Risẽ"
+                    "locationVi": "NG+ Flexile sẽntry or Bonfire Ascetic in Sinner's Risẽ",
+                    "imageUrl": "/images/items/dark-souls-2/warped-sword.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -3004,61 +3134,71 @@
                     "name": "Crypt Blacksword",
                     "type": "Weapon",
                     "location": "Traded with Straid of Olaphis using The Rotten's soul",
-                    "locationVi": "Straid of Olaphis từ linh hn The Rotten"
+                    "locationVi": "Straid of Olaphis từ linh hn The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/crypt-blacksword.png"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter on a corpse",
-                    "locationVi": "The Gutter on a corpsẽ"
+                    "locationVi": "The Gutter on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-2/dark-clutch-ring.png"
                 },
                 {
                     "name": "Abyss Seal",
                     "type": "Ring",
                     "location": "Darkdiver Grandahl covenant rank 2",
-                    "locationVi": "đãrkdiver Granđãhl covenant rank 2"
+                    "locationVi": "đãrkdiver Granđãhl covenant rank 2",
+                    "imageUrl": "/images/items/dark-souls-2/abyss-seal.png"
                 },
                 {
                     "name": "Dark Weapon",
                     "type": "Weapon",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin"
+                    "locationVi": "Mua từ Felkin",
+                    "imageUrl": "/images/items/dark-souls-2/dark-weapon.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter",
-                    "locationVi": "Shrine of Winter"
+                    "locationVi": "Shrine of Winter",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -3225,61 +3365,71 @@
                     "name": "Puzzling Stone Sword",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC, Sanctum City"
+                    "locationVi": "Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/puzzling-stone-sword.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ Rotten",
-                    "locationVi": "NG+ Rotten"
+                    "locationVi": "NG+ Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -3439,61 +3589,71 @@
                     "name": "Bone Fist",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City in a chest",
-                    "locationVi": "Sunken King DLC, Sanctum City in a chest"
+                    "locationVi": "Sunken King DLC, Sanctum City in a chest",
+                    "imageUrl": "/images/items/dark-souls-2/bone-fist.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ Rotten",
-                    "locationVi": "NG+ Rotten"
+                    "locationVi": "NG+ Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Things Betwixt Ogre",
-                    "locationVi": "Things Betwixt Ogre"
+                    "locationVi": "Things Betwixt Ogre",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter, on a corpse near the entrance",
-                    "locationVi": "Shrine of Winter"
+                    "locationVi": "Shrine of Winter",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 }
             ],
             "tips": [
@@ -3653,61 +3813,71 @@
                     "name": "Silverblack Spear",
                     "type": "Weapon",
                     "location": "Dropped by enemies in Undead Purgatory",
-                    "locationVi": "Dropped by enemies in Unđểad Purgatory"
+                    "locationVi": "Dropped by enemies in Unđểad Purgatory",
+                    "imageUrl": "/images/items/dark-souls-2/silverblack-spear.png"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter",
-                    "locationVi": "The Gutter"
+                    "locationVi": "The Gutter",
+                    "imageUrl": "/images/items/dark-souls-2/dark-clutch-ring.png"
                 },
                 {
                     "name": "Dark Orb",
                     "type": "Weapon",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin"
+                    "locationVi": "Mua từ Felkin",
+                    "imageUrl": "/images/items/dark-souls-2/dark-orb.png"
                 },
                 {
                     "name": "Clear Bluestone Ring +2",
                     "type": "Ring",
                     "location": "NG+ Najka",
-                    "locationVi": "NG+ Najka"
+                    "locationVi": "NG+ Najka",
+                    "imageUrl": "/images/items/dark-souls-2/clear-bluestone-ring-2.png"
                 },
                 {
                     "name": "Dark Weapon",
                     "type": "Weapon",
                     "location": "Purchased from Felkin",
-                    "locationVi": "Mua từ Felkin"
+                    "locationVi": "Mua từ Felkin",
+                    "imageUrl": "/images/items/dark-souls-2/dark-weapon.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -3874,61 +4044,71 @@
                     "name": "Fume Sword",
                     "type": "Weapon",
                     "location": "Crown of the Old Iron King DLC, Brume Tower",
-                    "locationVi": "Crown of the Old Iron King DLC, Brume Tower"
+                    "locationVi": "Crown of the Old Iron King DLC, Brume Tower",
+                    "imageUrl": "/images/items/dark-souls-2/fume-sword.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ Rotten",
-                    "locationVi": "NG+ Rotten"
+                    "locationVi": "NG+ Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -4088,61 +4268,71 @@
                     "name": "Dragonslayer Spear",
                     "type": "Weapon",
                     "location": "Crafted from Old Dragonslayer's soul at the blacksmith",
-                    "locationVi": "Chế tạo từ linh hn Old Dragonslấyer"
+                    "locationVi": "Chế tạo từ linh hn Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/dragonslayer-spear.png"
                 },
                 {
                     "name": "Lightning Clutch Ring",
                     "type": "Ring",
                     "location": "The Gutter on a corpse",
-                    "locationVi": "The Gutter on a corpsẽ"
+                    "locationVi": "The Gutter on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-2/lightning-clutch-ring.png"
                 },
                 {
                     "name": "Sunlight Blade",
                     "type": "Weapon",
                     "location": "Heirs of the Sun covenant reward",
-                    "locationVi": "Phần thưxng Heirs of the Sun"
+                    "locationVi": "Phần thưxng Heirs of the Sun",
+                    "imageUrl": "/images/items/dark-souls-2/sunlight-blade.png"
                 },
                 {
                     "name": "Clear Bluestone Ring",
                     "type": "Ring",
                     "location": "Dropped by Najka in Shaded Woods",
-                    "locationVi": "Shađểd Woods từ Najka"
+                    "locationVi": "Shađểd Woods từ Najka",
+                    "imageUrl": "/images/items/dark-souls-2/clear-bluestone-ring.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Shrine of Amana",
-                    "locationVi": "Shrine of Amana"
+                    "locationVi": "Shrine of Amana",
+                    "imageUrl": "/images/items/dark-souls-2/suns-firstborn-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -4309,61 +4499,71 @@
                     "name": "Spider Fang",
                     "type": "Weapon",
                     "location": "Straid of Olaphis, trade Duke's Dear Freja's soul",
-                    "locationVi": "Straid of Olaphis, trađể Duke's đểar Freja's soul"
+                    "locationVi": "Straid of Olaphis, trađể Duke's đểar Freja's soul",
+                    "imageUrl": "/images/items/dark-souls-2/spider-fang.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ Rotten",
-                    "locationVi": "NG+ Rotten"
+                    "locationVi": "NG+ Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Things Betwixt Ogre",
-                    "locationVi": "Things Betwixt Ogre"
+                    "locationVi": "Things Betwixt Ogre",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter, on a corpse near the entrance",
-                    "locationVi": "Shrine of Winter"
+                    "locationVi": "Shrine of Winter",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 }
             ],
             "tips": [
@@ -4530,55 +4730,64 @@
                     "name": "Stone Club",
                     "type": "Weapon",
                     "location": "Dropped by Stone Soldiers in Drangleic Castle",
-                    "locationVi": "Rơi từ Stone Soldiers"
+                    "locationVi": "Rơi từ Stone Soldiers",
+                    "imageUrl": "/images/items/dark-souls-2/stone-club.png"
                 },
                 {
                     "name": "Giant Warrior Club",
                     "type": "Weapon",
                     "location": "DLC, Shulva Sanctum",
-                    "locationVi": "DLC, Shulva Sanctum"
+                    "locationVi": "DLC, Shulva Sanctum",
+                    "imageUrl": "/images/items/dark-souls-2/giant-warrior-club.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Majula, from the cat",
-                    "locationVi": "Majula, from the cat"
+                    "locationVi": "Majula, from the cat",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Dragon Shrine",
-                    "locationVi": "Dragon Shrine"
+                    "locationVi": "Dragon Shrine",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -4745,61 +4954,71 @@
                     "name": "Pursuer's Ultra Greatsword",
                     "type": "Weapon",
                     "location": "Exchange Pursuer soul with Straid",
-                    "locationVi": "Đổi linh hồn Pursuer"
+                    "locationVi": "Đổi linh hồn Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/pursuers-ultra-greatsword.png"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "Shaded Woods, behind the locked door",
-                    "locationVi": "Shađểd Woods, behind the locked door"
+                    "locationVi": "Shađểd Woods, behind the locked door",
+                    "imageUrl": "/images/items/dark-souls-2/dark-clutch-ring.png"
                 },
                 {
                     "name": "Abyss Seal",
                     "type": "Ring",
                     "location": "DLC, Dark Chasm of Old",
-                    "locationVi": "DLC, đãrk Chasm of Old"
+                    "locationVi": "DLC, đãrk Chasm of Old",
+                    "imageUrl": "/images/items/dark-souls-2/abyss-seal.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter, on a corpse near the entrance",
-                    "locationVi": "Shrine of Winter"
+                    "locationVi": "Shrine of Winter",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 }
             ],
             "tips": [
@@ -4966,61 +5185,71 @@
                     "name": "Sanctum Mace",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC, Sanctum City"
+                    "locationVi": "Sunken King DLC, Sanctum City",
+                    "imageUrl": "/images/items/dark-souls-2/sanctum-mace.png"
                 },
                 {
                     "name": "Lightning Clutch Ring",
                     "type": "Ring",
                     "location": "Shaded Woods, by the basilisk pit",
-                    "locationVi": "Shađểd Woods, by the basilisk pit"
+                    "locationVi": "Shađểd Woods, by the basilisk pit",
+                    "imageUrl": "/images/items/dark-souls-2/lightning-clutch-ring.png"
                 },
                 {
                     "name": "Sunlight Blade",
                     "type": "Weapon",
                     "location": "Shrine of Amana, behind the shrine",
-                    "locationVi": "Shrine of Amana, behind the shrine"
+                    "locationVi": "Shrine of Amana, behind the shrine",
+                    "imageUrl": "/images/items/dark-souls-2/sunlight-blade.png"
                 },
                 {
                     "name": "Sacred Oath",
                     "type": "Weapon",
                     "location": "DLC, Brume Tower",
-                    "locationVi": "DLC, Brume Tower"
+                    "locationVi": "DLC, Brume Tower",
+                    "imageUrl": "/images/items/dark-souls-2/sacred-oath.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Shrine of Winter, on a corpse near the entrance",
-                    "locationVi": "Shrine of Winter"
+                    "locationVi": "Shrine of Winter",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 }
             ],
             "tips": [
@@ -5187,61 +5416,71 @@
                     "name": "Curved Dragon Greatsword",
                     "type": "Weapon",
                     "location": "Trade Guardian Dragon soul with Ornifex",
-                    "locationVi": "Đổi linh hồn Guardian Dragon"
+                    "locationVi": "Đổi linh hồn Guardian Dragon",
+                    "imageUrl": "/images/items/dark-souls-2/curved-dragon-greatsword.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "DLC, Old Iron King boss",
-                    "locationVi": "DLC, Old Iron King boss"
+                    "locationVi": "DLC, Old Iron King boss",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ Rotten",
-                    "locationVi": "NG+ Rotten"
+                    "locationVi": "NG+ Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -5406,49 +5645,57 @@
                     "name": "Ivory King Ultra Greatsword",
                     "type": "Weapon",
                     "location": "Ivory King DLC, frozen area",
-                    "locationVi": "Ivory King DLC, frozen area"
+                    "locationVi": "Ivory King DLC, frozen area",
+                    "imageUrl": "/images/items/dark-souls-2/ivory-king-ultra-greatsword.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Third Dragon Ring",
                     "type": "Ring",
                     "location": "Dragon Shrine",
-                    "locationVi": "Dragon Shrine"
+                    "locationVi": "Dragon Shrine",
+                    "imageUrl": "/images/items/dark-souls-2/third-dragon-ring.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Majula cat",
-                    "locationVi": "Majula cat"
+                    "locationVi": "Majula cat",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -5615,61 +5862,71 @@
                     "name": "Ladle",
                     "type": "Weapon",
                     "location": "Starting weapon for Deprived class",
-                    "locationVi": "Vũ khí khởi đầu của đểprived"
+                    "locationVi": "Vũ khí khởi đầu của đểprived",
+                    "imageUrl": "/images/items/dark-souls-2/ladle.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 },
                 {
                     "name": "Southern Ritual Band +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten or Bonfire Ascetic",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/southern-ritual-band-2.png"
                 }
             ],
             "tips": [
@@ -5836,61 +6093,71 @@
                     "name": "Hunter's Blackbow",
                     "type": "Weapon",
                     "location": "Drangleic Castle, in a chest near the central bonfire",
-                    "locationVi": "Drangleic Castle, trong rương"
+                    "locationVi": "Drangleic Castle, trong rương",
+                    "imageUrl": "/images/items/dark-souls-2/hunters-blackbow.png"
                 },
                 {
                     "name": "Bow of Want",
                     "type": "Weapon",
                     "location": "Traded with Weaponsmith Ornifex using Nashandra's soul",
-                    "locationVi": "Đổi từ linh hồn Nashandra"
+                    "locationVi": "Đổi từ linh hồn Nashandra",
+                    "imageUrl": "/images/items/dark-souls-2/bow-of-want.png"
                 },
                 {
                     "name": "Ring of Blades +2",
                     "type": "Ring",
                     "location": "NG+ Pursuer",
-                    "locationVi": "NG+ Pursuer"
+                    "locationVi": "NG+ Pursuer",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-blades-2.png"
                 },
                 {
                     "name": "Old Leo Ring",
                     "type": "Ring",
                     "location": "NG+ Old Dragonslayer",
-                    "locationVi": "NG+ Old Dragonslấyer"
+                    "locationVi": "NG+ Old Dragonslấyer",
+                    "imageUrl": "/images/items/dark-souls-2/old-leo-ring.png"
                 },
                 {
                     "name": "Flynn's Ring",
                     "type": "Ring",
                     "location": "Sunken King DLC",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/flynns-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +2",
                     "type": "Ring",
                     "location": "NG+ The Rotten",
-                    "locationVi": "NG+ The Rotten"
+                    "locationVi": "NG+ The Rotten",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-2.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [
@@ -6050,61 +6317,71 @@
                     "name": "Poison Dagger x2",
                     "type": "Weapon",
                     "location": "Infuse any dagger with Poison Stone",
-                    "locationVi": "Gắn Poison cho đão găm"
+                    "locationVi": "Gắn Poison cho đão găm",
+                    "imageUrl": "/images/items/dark-souls-2/poison-dagger-x2.png"
                 },
                 {
                     "name": "Sanctum Crossbow",
                     "type": "Weapon",
                     "location": "Sunken King DLC, Sanctum City",
-                    "locationVi": "Sunken King DLC"
+                    "locationVi": "Sunken King DLC",
+                    "imageUrl": "/images/items/dark-souls-2/sanctum-crossbow.png"
                 },
                 {
                     "name": "Crest of the Rat",
                     "type": "Ring",
                     "location": "Rat King covenant rank 1 reward",
-                    "locationVi": "Phần thưởng rất King"
+                    "locationVi": "Phần thưởng rất King",
+                    "imageUrl": "/images/items/dark-souls-2/crest-of-the-rat.png"
                 },
                 {
                     "name": "Shadow Gauntlets",
                     "type": "Armor",
                     "location": "Manikin drop in Earthen Peak",
-                    "locationVi": "Manikin rơi ở Earthen Peak"
+                    "locationVi": "Manikin rơi ở Earthen Peak",
+                    "imageUrl": "/images/items/dark-souls-2/shadow-gauntlets.png"
                 },
                 {
                     "name": "Rat Ring",
                     "type": "Ring",
                     "location": "Rat King covenant rank 2 reward",
-                    "locationVi": "Phần thưởng rất King"
+                    "locationVi": "Phần thưởng rất King",
+                    "imageUrl": "/images/items/dark-souls-2/rat-ring.png"
                 },
                 {
                     "name": "Poisonbite Ring +1",
                     "type": "Ring",
                     "location": "NG+ Mytha or Bonfire Ascetic",
-                    "locationVi": "NG+ Mytha"
+                    "locationVi": "NG+ Mytha",
+                    "imageUrl": "/images/items/dark-souls-2/poisonbite-ring-1.png"
                 },
                 {
                     "name": "Chloranthy Ring +1",
                     "type": "Ring",
                     "location": "Shaded Woods, on a corpse near the bonfire",
-                    "locationVi": "Shađểd Woods gần bonfire"
+                    "locationVi": "Shađểd Woods gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-2/chloranthy-ring-1.png"
                 },
                 {
                     "name": "Ring of Life Protection",
                     "type": "Ring",
                     "location": "Purchased from Felkin the Outcast",
-                    "locationVi": "Mua từ Felkin the Outcast"
+                    "locationVi": "Mua từ Felkin the Outcast",
+                    "imageUrl": "/images/items/dark-souls-2/ring-of-life-protection.png"
                 },
                 {
                     "name": "Stone Ring",
                     "type": "Ring",
                     "location": "Dropped by the Ogre in Things Betwixt",
-                    "locationVi": "Rơi từ Ogre ở Things Betwixt"
+                    "locationVi": "Rơi từ Ogre ở Things Betwixt",
+                    "imageUrl": "/images/items/dark-souls-2/stone-ring.png"
                 },
                 {
                     "name": "Royal Soldier's Ring",
                     "type": "Ring",
                     "location": "Drangleic Castle near the central bonfire",
-                    "locationVi": "Drangleic Castle"
+                    "locationVi": "Drangleic Castle",
+                    "imageUrl": "/images/items/dark-souls-2/royal-soldiers-ring.png"
                 }
             ],
             "tips": [

@@ -14,17 +14,22 @@ const WIKI_SUFFIXES: Record<string, string> = {
   'bloodborne': '_bloodborne_wiki_guide_350wp.png',
 }
 
-export function getItemImageUrl(gameSlug: string, itemName: string): string | null {
-  const base = WIKI_BASE[gameSlug]
-  const suffix = WIKI_SUFFIXES[gameSlug]
-  if (!base || !suffix) return null
-
-  const normalized = itemName
+function slugify(name: string): string {
+  return name
     .toLowerCase()
     .replace(/[^a-z0-9\s-]/g, '')
     .replace(/\s+/g, '-')
     .replace(/-+/g, '-')
-    .trim()
+    .replace(/^-|-$/g, '')
+}
 
-  return `${base}/${normalized}${suffix}`
+export function getItemImageUrl(gameSlug: string, itemName: string): string {
+  return `/images/items/${gameSlug}/${slugify(itemName)}.png`
+}
+
+export function getWikiFallbackUrl(gameSlug: string, itemName: string): string | null {
+  const base = WIKI_BASE[gameSlug]
+  const suffix = WIKI_SUFFIXES[gameSlug]
+  if (!base || !suffix) return null
+  return `${base}/${slugify(itemName)}${suffix}`
 }

@@ -163,61 +163,71 @@
                     "name": "Scavenger's Curved Sword",
                     "type": "Weapon",
                     "location": "Mt. Gelmir, dropped by a skeleton near the poison swamp",
-                    "locationVi": "Mt. Gelmir, rơi từ xương gần đầm độc"
+                    "locationVi": "Mt. Gelmir, rơi từ xương gần đầm độc",
+                    "imageUrl": "/images/items/elden-ring/scavengers-curved-sword.png"
                 },
                 {
                     "name": "Bandit's Curved Sword",
                     "type": "Weapon",
                     "location": "Dropped by skeleton enemies in Caelid",
-                    "locationVi": "Rơi từ kẻ địch skeleton ở Caelid"
+                    "locationVi": "Rơi từ kẻ địch skeleton ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/bandits-curved-sword.png"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum, in a chest near the Dynasty Mausoleum Entrance site of grace",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum, trong rương gần Dynasty Mausoleum Entrance"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum, trong rương gần Dynasty Mausoleum Entrance",
+                    "imageUrl": "/images/items/elden-ring/lord-of-bloods-exultation.png"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Miquella's Haligtree, reward from Millicent's questline",
-                    "locationVi": "Miquella's Haligtree, phần thưởng từ nhiệm vụ của Millicent"
+                    "locationVi": "Miquella's Haligtree, phần thưởng từ nhiệm vụ của Millicent",
+                    "imageUrl": "/images/items/elden-ring/rotten-winged-sword-insignia.png"
                 },
                 {
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum, dropped by invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum, rơi t NPC xm lng"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum, rơi t NPC xm lng",
+                    "imageUrl": "/images/items/elden-ring/white-mask.png"
                 },
                 {
                     "name": "Silver Tear Mask",
                     "type": "Armor",
                     "location": "Nokron, Eternal City, in a chest near the Mimic Tear boss arena",
-                    "locationVi": "Nokron, Eternal City, trong rương gần đấu trường Mimic Tear"
+                    "locationVi": "Nokron, Eternal City, trong rương gần đấu trường Mimic Tear",
+                    "imageUrl": "/images/items/elden-ring/silver-tear-mask.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Shaded Castle, dropped by Elemer of the Briar",
-                    "locationVi": "Shaded Castle, rơi từ Elemer of the Briar"
+                    "locationVi": "Shaded Castle, rơi từ Elemer of the Briar",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael, Brace of the Haligtree, on a corpse near the Prayer Room site of grace",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Thorny Cracked Tear",
                     "type": "Physick",
                     "location": "Minor Erdtree in the Mountaintops of the Giants, dropped by the Erdtree Avatar",
-                    "locationVi": "Minor Erdtree ở Mountaintops, rơi từ Erdtree Avatar"
+                    "locationVi": "Minor Erdtree ở Mountaintops, rơi từ Erdtree Avatar",
+                    "imageUrl": "/images/items/elden-ring/thorny-cracked-tear.png"
                 },
                 {
                     "name": "Opaline Hardtear",
                     "type": "Physick",
                     "location": "Minor Erdtree in Liurnia, dropped by the Erdtree Avatar",
-                    "locationVi": "Minor Erdtree ở Liurnia, rơi từ Erdtree Avatar"
+                    "locationVi": "Minor Erdtree ở Liurnia, rơi từ Erdtree Avatar",
+                    "imageUrl": "/images/items/elden-ring/opaline-hardtear.png"
                 }
             ],
             "tips": [
@@ -394,61 +404,71 @@
                     "name": "Moonveil",
                     "type": "Weapon",
                     "location": "Caelid, dropped by Magma Wyrm in Gael Tunnel",
-                    "locationVi": "Caelid, rơi từ Magma Wyrm trong Gael Tunnel"
+                    "locationVi": "Caelid, rơi từ Magma Wyrm trong Gael Tunnel",
+                    "imageUrl": "/images/items/elden-ring/moonveil.png"
                 },
                 {
                     "name": "Carian Regal Scepter",
                     "type": "Weapon",
                     "location": "Liurnia, traded with Finger Reader using Rennala's Remembrance",
-                    "locationVi": "Liurnia, đổi với Finger Reader bằng Remembrance của Rennala"
+                    "locationVi": "Liurnia, đổi với Finger Reader bằng Remembrance của Rennala",
+                    "imageUrl": "/images/items/elden-ring/carian-regal-scepter.png"
                 },
                 {
                     "name": "Lusat's Glintstone Staff",
                     "type": "Weapon",
                     "location": "Sellia Hideaway in Caelid, behind the hidden wall near the Sellia Under-Stair site of grace",
-                    "locationVi": "Sellia Hideaway ở Caelid, sau tường ẩn gần Sellia Under-Stair"
+                    "locationVi": "Sellia Hideaway ở Caelid, sau tường ẩn gần Sellia Under-Stair",
+                    "imageUrl": "/images/items/elden-ring/lusats-glintstone-staff.png"
                 },
                 {
                     "name": "Graven-Mass Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants, found in Albinauric Rise",
-                    "locationVi": "Mountaintops of the Giants, found in Albinauric Rise"
+                    "locationVi": "Mountaintops of the Giants, found in Albinauric Rise",
+                    "imageUrl": "/images/items/elden-ring/graven-mass-talisman.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise, obtained during Seluvis's questline",
-                    "locationVi": "Seluvis's Rise, nhận từ nhiệm vụ của Seluvis"
+                    "locationVi": "Seluvis's Rise, nhận từ nhiệm vụ của Seluvis",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol in Limgrave, dropped by Godefroy",
-                    "locationVi": "Golden Lineage Evergaol ở Limgrave, rơi từ Godefroy"
+                    "locationVi": "Golden Lineage Evergaol ở Limgrave, rơi từ Godefroy",
+                    "imageUrl": "/images/items/elden-ring/godfrey-icon.png"
                 },
                 {
                     "name": "Meteorite Staff",
                     "type": "Weapon",
                     "location": "Caelid, in the Swamp of Aeonia near Street of Sages Ruins",
-                    "locationVi": "Caelid, trong Swamp of Aeonia gần Street of Sages Ruins"
+                    "locationVi": "Caelid, trong Swamp of Aeonia gần Street of Sages Ruins",
+                    "imageUrl": "/images/items/elden-ring/meteorite-staff.png"
                 },
                 {
                     "name": "Queen's Crescent Crown",
                     "type": "Armor",
                     "location": "Raya Lucaria Academy, on a corpse in the debate parlor",
-                    "locationVi": "Raya Lucaria Academy, on a corpse in the debate parlor"
+                    "locationVi": "Raya Lucaria Academy, on a corpse in the debate parlor",
+                    "imageUrl": "/images/items/elden-ring/queens-crescent-crown.png"
                 },
                 {
                     "name": "Cerulean Hidden Tear",
                     "type": "Physick",
                     "location": "Minor Erdtree in Mt. Gelmir, dropped by the Erdtree Avatar",
-                    "locationVi": "Minor Erdtree ở Mt. Gelmir, rơi từ Erdtree Avatar"
+                    "locationVi": "Minor Erdtree ở Mt. Gelmir, rơi từ Erdtree Avatar",
+                    "imageUrl": "/images/items/elden-ring/cerulean-hidden-tear.png"
                 },
                 {
                     "name": "Intelligence Knot Tear",
                     "type": "Physick",
                     "location": "Minor Erdtree in Liurnia, dropped by the Erdtree Avatar",
-                    "locationVi": "Minor Erdtree ở Liurnia, rơi từ Erdtree Avatar"
+                    "locationVi": "Minor Erdtree ở Liurnia, rơi từ Erdtree Avatar",
+                    "imageUrl": "/images/items/elden-ring/intelligence-knot-tear.png"
                 }
             ],
             "tips": [
@@ -614,61 +634,71 @@
                     "name": "Blasphemous Blade",
                     "type": "Weapon",
                     "location": "Traded from Enia using Rykard's Remembrance",
-                    "locationVi": "Đổi từ Enia bằng Remembrance của Rykard"
+                    "locationVi": "Đổi từ Enia bằng Remembrance của Rykard",
+                    "imageUrl": "/images/items/elden-ring/blasphemous-blade.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander the Iron Fist quest reward",
-                    "locationVi": "Phần thưởng nhiệm vụ Alexander"
+                    "locationVi": "Phần thưởng nhiệm vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir đấu trường sub-boss"
+                    "locationVi": "Mt Gelmir đấu trường sub-boss",
+                    "imageUrl": "/images/items/elden-ring/fire-scorpion-charm.png"
                 },
                 {
                     "name": "Golden Vow",
                     "type": "Weapon",
                     "location": "Corpse Stench in Mountaintops",
-                    "locationVi": "Corpse Stench in Mountaintops"
+                    "locationVi": "Corpse Stench in Mountaintops",
+                    "imageUrl": "/images/items/elden-ring/golden-vow.png"
                 },
                 {
                     "name": "Erdtree Seal",
                     "type": "Weapon",
                     "location": "DLC near first site of grace",
-                    "locationVi": "Khu vực DLC gần site of grace"
+                    "locationVi": "Khu vực DLC gần site of grace",
+                    "imageUrl": "/images/items/elden-ring/erdtree-seal.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -834,61 +864,71 @@
                     "name": "Greatsword",
                     "type": "Weapon",
                     "location": "Caelid on a carriage near Rotview Balcony",
-                    "locationVi": "Caelid on a carriage near Rotview Balcony"
+                    "locationVi": "Caelid on a carriage near Rotview Balcony",
+                    "imageUrl": "/images/items/elden-ring/greatsword.png"
                 },
                 {
                     "name": "Giant-Crusher",
                     "type": "Weapon",
                     "location": "Outer Wall Phantom Tree in Altus",
-                    "locationVi": "Outer Wall Phantom Tree in Altus"
+                    "locationVi": "Outer Wall Phantom Tree in Altus",
+                    "imageUrl": "/images/items/elden-ring/giant-crusher.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle from Lion Guardian",
-                    "locationVi": "Stormveil Castle from Lion Guardian"
+                    "locationVi": "Stormveil Castle from Lion Guardian",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/two-handed-sword-talisman.png"
                 },
                 {
                     "name": "Bull-Goat Talisman",
                     "type": "Talisman",
                     "location": "Dragonbarrow tower",
-                    "locationVi": "Dragonbarrow tower"
+                    "locationVi": "Dragonbarrow tower",
+                    "imageUrl": "/images/items/elden-ring/bull-goat-talisman.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -1054,61 +1094,71 @@
                     "name": "Dragon Halberd",
                     "type": "Weapon",
                     "location": "Siofra River from Dragonkin Soldier",
-                    "locationVi": "Siofra River rơi từ Dragonkin Soldier"
+                    "locationVi": "Siofra River rơi từ Dragonkin Soldier",
+                    "imageUrl": "/images/items/elden-ring/dragon-halberd.png"
                 },
                 {
                     "name": "Frozen Needle",
                     "type": "Weapon",
                     "location": "Kingsrealm Ruins in Liurnia",
-                    "locationVi": "Kingsrealm Ruins ở Liurnia"
+                    "locationVi": "Kingsrealm Ruins ở Liurnia",
+                    "imageUrl": "/images/items/elden-ring/frozen-needle.png"
                 },
                 {
                     "name": "Ice Spear",
                     "type": "Weapon",
                     "location": "Liurnia scarab near Gate Town Bridge",
-                    "locationVi": "Liurnia bọ gần Gate Town Bridge"
+                    "locationVi": "Liurnia bọ gần Gate Town Bridge",
+                    "imageUrl": "/images/items/elden-ring/ice-spear.png"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline reward",
-                    "locationVi": "Phần thưởng nhiệm vụ Millicent"
+                    "locationVi": "Phần thưởng nhiệm vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/rotten-winged-sword-insignia.png"
                 },
                 {
                     "name": "Spear Talisman",
                     "type": "Talisman",
                     "location": "Wandering Mausoleum in Limgrave",
-                    "locationVi": "Wandering Mausoleum ở Limgrave"
+                    "locationVi": "Wandering Mausoleum ở Limgrave",
+                    "imageUrl": "/images/items/elden-ring/spear-talisman.png"
                 },
                 {
                     "name": "Godskin Swaddling Cloth",
                     "type": "Talisman",
                     "location": "Windmill Village in Altus",
-                    "locationVi": "Windmill Village ở Altus"
+                    "locationVi": "Windmill Village ở Altus",
+                    "imageUrl": "/images/items/elden-ring/godskin-swaddling-cloth.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -1274,61 +1324,71 @@
                     "name": "Prince of Death's Staff",
                     "type": "Weapon",
                     "location": "Deeproot Depths on a corpse",
-                    "locationVi": "Deeproot Depths on a corpse"
+                    "locationVi": "Deeproot Depths on a corpse",
+                    "imageUrl": "/images/items/elden-ring/prince-of-deaths-staff.png"
                 },
                 {
                     "name": "Golden Order Seal",
                     "type": "Weapon",
                     "location": "Auriza Side Tomb in Altus Plateau",
-                    "locationVi": "Auriza Side Tomb ở Altus"
+                    "locationVi": "Auriza Side Tomb ở Altus",
+                    "imageUrl": "/images/items/elden-ring/golden-order-seal.png"
                 },
                 {
                     "name": "Giantsflame Take Thee",
                     "type": "Weapon",
                     "location": "Mountaintops of the Giants near the Fire Giant",
-                    "locationVi": "Mountaintops gần Fire Giant"
+                    "locationVi": "Mountaintops gần Fire Giant",
+                    "imageUrl": "/images/items/elden-ring/giantsflame-take-thee.png"
                 },
                 {
                     "name": "Flock's Canvas Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants",
-                    "locationVi": "Mountaintops of the Giants"
+                    "locationVi": "Mountaintops of the Giants",
+                    "imageUrl": "/images/items/elden-ring/flocks-canvas-talisman.png"
                 },
                 {
                     "name": "Rellana's Twin Blades",
                     "type": "Weapon",
                     "location": "DLC from Rellana's Remembrance",
-                    "locationVi": "DLC từ Remembrance của Rellana"
+                    "locationVi": "DLC từ Remembrance của Rellana",
+                    "imageUrl": "/images/items/elden-ring/rellanas-twin-blades.png"
                 },
                 {
                     "name": "Messmer's Orb",
                     "type": "Weapon",
                     "location": "DLC from Messmer's Remembrance",
-                    "locationVi": "DLC từ Remembrance của Messmer"
+                    "locationVi": "DLC từ Remembrance của Messmer",
+                    "imageUrl": "/images/items/elden-ring/messmers-orb.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -1487,61 +1547,71 @@
                     "name": "Dragon Communion Seal",
                     "type": "Weapon",
                     "location": "Fringefolk Hero's Grave behind imp seal",
-                    "locationVi": "Fringefolk Hero's Grave sau tượng imp"
+                    "locationVi": "Fringefolk Hero's Grave sau tượng imp",
+                    "imageUrl": "/images/items/elden-ring/dragon-communion-seal.png"
                 },
                 {
                     "name": "Dragonfire",
                     "type": "Weapon",
                     "location": "Dragon Communion Church in Limgrave",
-                    "locationVi": "Dragon Communion Church in Limgrave"
+                    "locationVi": "Dragon Communion Church in Limgrave",
+                    "imageUrl": "/images/items/elden-ring/dragonfire.png"
                 },
                 {
                     "name": "Dragonmaw",
                     "type": "Weapon",
                     "location": "Cathedral of Dragon Communion in Caelid",
-                    "locationVi": "Cathedral of Dragon Communion in Caelid"
+                    "locationVi": "Cathedral of Dragon Communion in Caelid",
+                    "imageUrl": "/images/items/elden-ring/dragonmaw.png"
                 },
                 {
                     "name": "Bayle's Tyranny",
                     "type": "Weapon",
                     "location": "DLC from Bayle the Dread",
-                    "locationVi": "DLC từ Bayle the Dread"
+                    "locationVi": "DLC từ Bayle the Dread",
+                    "imageUrl": "/images/items/elden-ring/bayles-tyranny.png"
                 },
                 {
                     "name": "Flock's Canvas Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants",
-                    "locationVi": "Mountaintops of the Giants"
+                    "locationVi": "Mountaintops of the Giants",
+                    "imageUrl": "/images/items/elden-ring/flocks-canvas-talisman.png"
                 },
                 {
                     "name": "Roar Medallion",
                     "type": "Talisman",
                     "location": "Limgrave coastal cave",
-                    "locationVi": "Limgrave hang động ven biển"
+                    "locationVi": "Limgrave hang động ven biển",
+                    "imageUrl": "/images/items/elden-ring/roar-medallion.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -1707,61 +1777,71 @@
                     "name": "Bloodhound's Fang",
                     "type": "Weapon",
                     "location": "Limgrave, Bloodhound Knight Darriwil boss",
-                    "locationVi": "Limgrave, Bloodhound Knight Darriwil boss"
+                    "locationVi": "Limgrave, Bloodhound Knight Darriwil boss",
+                    "imageUrl": "/images/items/elden-ring/bloodhounds-fang.png"
                 },
                 {
                     "name": "Iron Whetblade",
                     "type": "Weapon",
                     "location": "Stormveil Castle in a locked room",
-                    "locationVi": "Stormveil Castle in a locked room"
+                    "locationVi": "Stormveil Castle in a locked room",
+                    "imageUrl": "/images/items/elden-ring/iron-whetblade.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle from Lion Guardian",
-                    "locationVi": "Stormveil Castle từ Lion Guardian"
+                    "locationVi": "Stormveil Castle từ Lion Guardian",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village catacombs"
+                    "locationVi": "Limgrave Summonwater Village catacombs",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Millicent's Prosthesis",
                     "type": "Talisman",
                     "location": "Millicent questline reward",
-                    "locationVi": "Phần thưởng nhiệm vụ Millicent"
+                    "locationVi": "Phần thưởng nhiệm vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/millicents-prosthesis.png"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline reward",
-                    "locationVi": "Phần thưởng nhiệm vụ Millicent"
+                    "locationVi": "Phần thưởng nhiệm vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/rotten-winged-sword-insignia.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -1927,61 +2007,71 @@
                     "name": "Erdtree Seal",
                     "type": "Weapon",
                     "location": "DLC near first site of grace",
-                    "locationVi": "DLC near first site of grace"
+                    "locationVi": "DLC near first site of grace",
+                    "imageUrl": "/images/items/elden-ring/erdtree-seal.png"
                 },
                 {
                     "name": "Godslayer Seal",
                     "type": "Weapon",
                     "location": "Stormveil Castle locked room",
-                    "locationVi": "Stormveil Castle locked room"
+                    "locationVi": "Stormveil Castle locked room",
+                    "imageUrl": "/images/items/elden-ring/godslayer-seal.png"
                 },
                 {
                     "name": "Ancient Dragons' Lightning Strike",
                     "type": "Weapon",
                     "location": "Altus Plateau near the Second Church of Marika",
-                    "locationVi": "Altus Plateau gần Second Church of Marika"
+                    "locationVi": "Altus Plateau gần Second Church of Marika",
+                    "imageUrl": "/images/items/elden-ring/ancient-dragons-lightning-strike.png"
                 },
                 {
                     "name": "Lightning Spear",
                     "type": "Weapon",
                     "location": "Liurnia altar statue with Faith requirement",
-                    "locationVi": "Liurnia tường th yu cu Faith"
+                    "locationVi": "Liurnia tường th yu cu Faith",
+                    "imageUrl": "/images/items/elden-ring/lightning-spear.png"
                 },
                 {
                     "name": "Knight's Lightning Spear",
                     "type": "Weapon",
                     "location": "DLC in the Gravesite Plain",
-                    "locationVi": "DLC in the Gravesite Plain"
+                    "locationVi": "DLC in the Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/knights-lightning-spear.png"
                 },
                 {
                     "name": "Lightning Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir đấu trường sub-boss"
+                    "locationVi": "Mt Gelmir đấu trường sub-boss",
+                    "imageUrl": "/images/items/elden-ring/lightning-scorpion-charm.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -2147,61 +2237,71 @@
                     "name": "Ringed Finger",
                     "type": "Weapon",
                     "location": "DLC, dropped by a boss in the Southern Shore",
-                    "locationVi": "DLC, rơi từ boss ở Southern Shore"
+                    "locationVi": "DLC, rơi từ boss ở Southern Shore",
+                    "imageUrl": "/images/items/elden-ring/ringed-finger.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander questline reward",
-                    "locationVi": "Phần thưởng nhiệm vụ Alexander"
+                    "locationVi": "Phần thưởng nhiệm vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/two-handed-sword-talisman.png"
                 },
                 {
                     "name": "Bull-Goat Talisman",
                     "type": "Talisman",
                     "location": "Dragonbarrow tower",
-                    "locationVi": "Dragonbarrow tower"
+                    "locationVi": "Dragonbarrow tower",
+                    "imageUrl": "/images/items/elden-ring/bull-goat-talisman.png"
                 },
                 {
                     "name": "Great-Jar's Arsenal",
                     "type": "Talisman",
                     "location": "Caelid Great-Jar challenge",
-                    "locationVi": "Caelid Great-Jar challenge"
+                    "locationVi": "Caelid Great-Jar challenge",
+                    "imageUrl": "/images/items/elden-ring/great-jars-arsenal.png"
                 },
                 {
                     "name": "Finger Severer",
                     "type": "Weapon",
                     "location": "Purchase from the Twin Maiden Husks",
-                    "locationVi": "Mua từ Twin Maiden Husks"
+                    "locationVi": "Mua từ Twin Maiden Husks",
+                    "imageUrl": "/images/items/elden-ring/finger-severer.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -2360,61 +2460,71 @@
                     "name": "Dark Moon Greatsword",
                     "type": "Weapon",
                     "location": "Ranni's questline reward after defeating Astel",
-                    "locationVi": "Ranni's questline reward after defeating Astel"
+                    "locationVi": "Ranni's questline reward after defeating Astel",
+                    "imageUrl": "/images/items/elden-ring/dark-moon-greatsword.png"
                 },
                 {
                     "name": "Carian Regal Scepter",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Rennala's Remembrance",
-                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Rennala"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Rennala",
+                    "imageUrl": "/images/items/elden-ring/carian-regal-scepter.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise, obtained during Seluvis's questline",
-                    "locationVi": "Seluvis's Rise từ nhi!m vụ Seluvis"
+                    "locationVi": "Seluvis's Rise từ nhi!m vụ Seluvis",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol in Limgrave",
-                    "locationVi": "Golden Lineage Evergaol in Limgrave"
+                    "locationVi": "Golden Lineage Evergaol in Limgrave",
+                    "imageUrl": "/images/items/elden-ring/godfrey-icon.png"
                 },
                 {
                     "name": "Graven-Mass Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants in Albinauric Rise",
-                    "locationVi": "Mountaintops of the Giants in Albinauric Rise"
+                    "locationVi": "Mountaintops of the Giants in Albinauric Rise",
+                    "imageUrl": "/images/items/elden-ring/graven-mass-talisman.png"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/two-handed-sword-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -2573,61 +2683,71 @@
                     "name": "Fallingstar Beast Jaw",
                     "type": "Weapon",
                     "location": "Mt Gelmir, dropped by Full-Grown Fallingstar Beast",
-                    "locationVi": "Mt Gelmir, rơi từ Full-Grown Fallingstar Beast"
+                    "locationVi": "Mt Gelmir, rơi từ Full-Grown Fallingstar Beast",
+                    "imageUrl": "/images/items/elden-ring/fallingstar-beast-jaw.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander the Iron Fist quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/two-handed-sword-talisman.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle from Lion Guardian",
-                    "locationVi": "Stormveil Castle from Lion Guardian"
+                    "locationVi": "Stormveil Castle from Lion Guardian",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree",
-                    "locationVi": "Elphael Brace of the Haligtree"
+                    "locationVi": "Elphael Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise in Liurnia",
-                    "locationVi": "Seluvis's Rise ở Liurnia"
+                    "locationVi": "Seluvis's Rise ở Liurnia",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 }
             ],
             "tips": [
@@ -2786,61 +2906,71 @@
                     "name": "Rivers of Blood",
                     "type": "Weapon",
                     "location": "Mountaintops of the Giants, dropped by Bloody Finger Okina",
-                    "locationVi": "Mountaintops of the Giants, rơi từ Bloody Finger Okina"
+                    "locationVi": "Mountaintops of the Giants, rơi từ Bloody Finger Okina",
+                    "imageUrl": "/images/items/elden-ring/rivers-of-blood.png"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest",
+                    "imageUrl": "/images/items/elden-ring/lord-of-bloods-exultation.png"
                 },
                 {
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum from invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC",
+                    "imageUrl": "/images/items/elden-ring/white-mask.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Millicent's Prosthesis",
                     "type": "Talisman",
                     "location": "Millicent questline reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Millicent"
+                    "locationVi": "Phần thưxng nhi!m vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/millicents-prosthesis.png"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Millicent"
+                    "locationVi": "Phần thưxng nhi!m vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/rotten-winged-sword-insignia.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -2999,61 +3129,71 @@
                     "name": "Death's Poker",
                     "type": "Weapon",
                     "location": "Liurnia, dropped by Death Rite Bird east of Gate Town Bridge",
-                    "locationVi": "Liurnia, rơi từ Death Rite Bird"
+                    "locationVi": "Liurnia, rơi từ Death Rite Bird",
+                    "imageUrl": "/images/items/elden-ring/deaths-poker.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's questline",
-                    "locationVi": "Nhi!m vụ Seluvis"
+                    "locationVi": "Nhi!m vụ Seluvis",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol in Limgrave",
-                    "locationVi": "Golden Lineage Evergaol in Limgrave"
+                    "locationVi": "Golden Lineage Evergaol in Limgrave",
+                    "imageUrl": "/images/items/elden-ring/godfrey-icon.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise",
-                    "locationVi": "Seluvis's Rise"
+                    "locationVi": "Seluvis's Rise",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -3212,61 +3352,71 @@
                     "name": "Godslayer Greatsword",
                     "type": "Weapon",
                     "location": "Caelid Divine Tower, dropped by Godskin Apostle",
-                    "locationVi": "Divine Tower of Caelid, rơi từ Godskin Apostle"
+                    "locationVi": "Divine Tower of Caelid, rơi từ Godskin Apostle",
+                    "imageUrl": "/images/items/elden-ring/godslayer-greatsword.png"
                 },
                 {
                     "name": "Godslayer Seal",
                     "type": "Weapon",
                     "location": "Stormveil Castle in a locked room",
-                    "locationVi": "Stormveil Castle in a locked room"
+                    "locationVi": "Stormveil Castle in a locked room",
+                    "imageUrl": "/images/items/elden-ring/godslayer-seal.png"
                 },
                 {
                     "name": "Black Flame",
                     "type": "Weapon",
                     "location": "Stormveil Castle or Liurnia",
-                    "locationVi": "Stormveil Castle hoặc Liurnia"
+                    "locationVi": "Stormveil Castle hoặc Liurnia",
+                    "imageUrl": "/images/items/elden-ring/black-flame.png"
                 },
                 {
                     "name": "Flock's Canvas Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants",
-                    "locationVi": "Mountaintops of the Giants"
+                    "locationVi": "Mountaintops of the Giants",
+                    "imageUrl": "/images/items/elden-ring/flocks-canvas-talisman.png"
                 },
                 {
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir sub-boss arena"
+                    "locationVi": "Mt Gelmir sub-boss arena",
+                    "imageUrl": "/images/items/elden-ring/fire-scorpion-charm.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -3425,61 +3575,71 @@
                     "name": "Bolt of Gransax",
                     "type": "Weapon",
                     "location": "Leyndell Capital, stuck in the dragon statue near the West Capital Rampart",
-                    "locationVi": "Leyndell Capital, cm trn tường rng"
+                    "locationVi": "Leyndell Capital, cm trn tường rng",
+                    "imageUrl": "/images/items/elden-ring/bolt-of-gransax.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Lightning Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir sub-boss arena"
+                    "locationVi": "Mt Gelmir sub-boss arena",
+                    "imageUrl": "/images/items/elden-ring/lightning-scorpion-charm.png"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol",
-                    "locationVi": "Golden Lineage Evergaol"
+                    "locationVi": "Golden Lineage Evergaol",
+                    "imageUrl": "/images/items/elden-ring/godfrey-icon.png"
                 },
                 {
                     "name": "Spear Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Wandering Mausoleum",
-                    "locationVi": "Limgrave Wandering Mausoleum"
+                    "locationVi": "Limgrave Wandering Mausoleum",
+                    "imageUrl": "/images/items/elden-ring/spear-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -3638,61 +3798,71 @@
                     "name": "Sword of Night and Flame",
                     "type": "Weapon",
                     "location": "Caria Manor in Liurnia, found in a chest behind an illusory wall",
-                    "locationVi": "Caria Manor Liurnia, trong rương sau tường ảo"
+                    "locationVi": "Caria Manor Liurnia, trong rương sau tường ảo",
+                    "imageUrl": "/images/items/elden-ring/sword-of-night-and-flame.png"
                 },
                 {
                     "name": "Staff of Loss",
                     "type": "Weapon",
                     "location": "Sellia Town of Sorcery in Caelid",
-                    "locationVi": "Sellia Town of Sorcery in Caelid"
+                    "locationVi": "Sellia Town of Sorcery in Caelid",
+                    "imageUrl": "/images/items/elden-ring/staff-of-loss.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise",
-                    "locationVi": "Seluvis's Rise"
+                    "locationVi": "Seluvis's Rise",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir",
-                    "locationVi": "Mt Gelmir"
+                    "locationVi": "Mt Gelmir",
+                    "imageUrl": "/images/items/elden-ring/fire-scorpion-charm.png"
                 },
                 {
                     "name": "Graven-Mass Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants",
-                    "locationVi": "Mountaintops of the Giants"
+                    "locationVi": "Mountaintops of the Giants",
+                    "imageUrl": "/images/items/elden-ring/graven-mass-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -3851,61 +4021,71 @@
                     "name": "Marais Executioner Sword",
                     "type": "Weapon",
                     "location": "Shaded Castle in Altus Plateau, dropped by Elemer of the Briar",
-                    "locationVi": "Shaded Castle Altus Plateau, rơi từ Elemer of the Briar"
+                    "locationVi": "Shaded Castle Altus Plateau, rơi từ Elemer of the Briar",
+                    "imageUrl": "/images/items/elden-ring/marais-executioner-sword.png"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol in Limgrave",
-                    "locationVi": "Golden Lineage Evergaol in Limgrave"
+                    "locationVi": "Golden Lineage Evergaol in Limgrave",
+                    "imageUrl": "/images/items/elden-ring/godfrey-icon.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Axe Talisman",
                     "type": "Talisman",
                     "location": "Mistywood in Limgrave",
-                    "locationVi": "Mistywood in Limgrave"
+                    "locationVi": "Mistywood in Limgrave",
+                    "imageUrl": "/images/items/elden-ring/axe-talisman.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise",
-                    "locationVi": "Seluvis's Rise"
+                    "locationVi": "Seluvis's Rise",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Two-Headed Turtle Talisman",
                     "type": "Talisman",
                     "location": "DLC in the Gravesite Plain",
-                    "locationVi": "DLC in the Gravesite Plain"
+                    "locationVi": "DLC in the Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/two-headed-turtle-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -4064,61 +4244,71 @@
                     "name": "Morgott's Cursed Sword",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Morgott's Remembrance",
-                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Morgott"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Morgott",
+                    "imageUrl": "/images/items/elden-ring/morgotts-cursed-sword.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest",
+                    "imageUrl": "/images/items/elden-ring/lord-of-bloods-exultation.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline",
-                    "locationVi": "Nhi!m vụ Millicent"
+                    "locationVi": "Nhi!m vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/rotten-winged-sword-insignia.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -4277,61 +4467,71 @@
                     "name": "Royal Greatsword",
                     "type": "Weapon",
                     "location": "Ranni's questline, dropped by Blaidd after the quest finale",
-                    "locationVi": "Nhi!m v Ranni, rơi t Blaidd sau khi kt thc nhi!m v"
+                    "locationVi": "Nhi!m v Ranni, rơi t Blaidd sau khi kt thc nhi!m v",
+                    "imageUrl": "/images/items/elden-ring/royal-greatsword.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Godfrey Icon",
                     "type": "Talisman",
                     "location": "Golden Lineage Evergaol",
-                    "locationVi": "Golden Lineage Evergaol"
+                    "locationVi": "Golden Lineage Evergaol",
+                    "imageUrl": "/images/items/elden-ring/godfrey-icon.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis's Rise",
-                    "locationVi": "Seluvis's Rise"
+                    "locationVi": "Seluvis's Rise",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/two-handed-sword-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -4490,61 +4690,71 @@
                     "name": "Sacred Relic Sword",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Elden Remembrance",
-                    "locationVi": "Đ\"i v:i Finger Reader bằng Elden Remembrance"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Elden Remembrance",
+                    "imageUrl": "/images/items/elden-ring/sacred-relic-sword.png"
                 },
                 {
                     "name": "Godslayer Seal",
                     "type": "Weapon",
                     "location": "Stormveil Castle locked room",
-                    "locationVi": "Stormveil Castle locked room"
+                    "locationVi": "Stormveil Castle locked room",
+                    "imageUrl": "/images/items/elden-ring/godslayer-seal.png"
                 },
                 {
                     "name": "Flock's Canvas Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops of the Giants",
-                    "locationVi": "Mountaintops of the Giants"
+                    "locationVi": "Mountaintops of the Giants",
+                    "imageUrl": "/images/items/elden-ring/flocks-canvas-talisman.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Sacred Scorpion Charm",
                     "type": "Talisman",
                     "location": "Liurnia near the Church of Vows",
-                    "locationVi": "Liurnia gần Church of Vows"
+                    "locationVi": "Liurnia gần Church of Vows",
+                    "imageUrl": "/images/items/elden-ring/sacred-scorpion-charm.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -4703,61 +4913,71 @@
                     "name": "Eleonora's Poleblade",
                     "type": "Weapon",
                     "location": "Altus Plateau, dropped by Eleonora invading at the Second Church of Marika",
-                    "locationVi": "Altus Plateau, rơi từ Eleonora tại Second Church of Marika"
+                    "locationVi": "Altus Plateau, rơi từ Eleonora tại Second Church of Marika",
+                    "imageUrl": "/images/items/elden-ring/eleonoras-poleblade.png"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest",
+                    "imageUrl": "/images/items/elden-ring/lord-of-bloods-exultation.png"
                 },
                 {
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum from invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC",
+                    "imageUrl": "/images/items/elden-ring/white-mask.png"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent questline",
-                    "locationVi": "Nhi!m vụ Millicent"
+                    "locationVi": "Nhi!m vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/rotten-winged-sword-insignia.png"
                 },
                 {
                     "name": "Millicent's Prosthesis",
                     "type": "Talisman",
                     "location": "Millicent questline",
-                    "locationVi": "Nhi!m vụ Millicent"
+                    "locationVi": "Nhi!m vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/millicents-prosthesis.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -4916,61 +5136,71 @@
                     "name": "Mohgwyn's Sacred Spear",
                     "type": "Weapon",
                     "location": "Traded with Finger Reader using Mohg's Remembrance",
-                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Mohg"
+                    "locationVi": "Đ\"i v:i Finger Reader bằng Remembrance của Mohg",
+                    "imageUrl": "/images/items/elden-ring/mohgwyns-sacred-spear.png"
                 },
                 {
                     "name": "Lord of Blood's Exultation",
                     "type": "Talisman",
                     "location": "Mohgwyn Dynasty Mausoleum chest",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum chest"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum chest",
+                    "imageUrl": "/images/items/elden-ring/lord-of-bloods-exultation.png"
                 },
                 {
                     "name": "White Mask",
                     "type": "Armor",
                     "location": "Mohgwyn Dynasty Mausoleum from invading NPC",
-                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC"
+                    "locationVi": "Mohgwyn Dynasty Mausoleum from invading NPC",
+                    "imageUrl": "/images/items/elden-ring/white-mask.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Spear Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Wandering Mausoleum",
-                    "locationVi": "Limgrave Wandering Mausoleum"
+                    "locationVi": "Limgrave Wandering Mausoleum",
+                    "imageUrl": "/images/items/elden-ring/spear-talisman.png"
                 },
                 {
                     "name": "Dragon Communion Seal",
                     "type": "Weapon",
                     "location": "Fringefolk Hero's Grave",
-                    "locationVi": "Fringefolk Hero's Grave"
+                    "locationVi": "Fringefolk Hero's Grave",
+                    "imageUrl": "/images/items/elden-ring/dragon-communion-seal.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -5129,61 +5359,71 @@
                     "name": "Magma Wyrm Scalesword",
                     "type": "Weapon",
                     "location": "Gael Tunnel in Caelid, dropped by Magma Wyrm",
-                    "locationVi": "Gael Tunnel x Caelid, rơi từ Magma Wyrm"
+                    "locationVi": "Gael Tunnel x Caelid, rơi từ Magma Wyrm",
+                    "imageUrl": "/images/items/elden-ring/magma-wyrm-scalesword.png"
                 },
                 {
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt Gelmir sub-boss arena",
-                    "locationVi": "Mt Gelmir sub-boss arena"
+                    "locationVi": "Mt Gelmir sub-boss arena",
+                    "imageUrl": "/images/items/elden-ring/fire-scorpion-charm.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander quest reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Alexander"
+                    "locationVi": "Phần thưxng nhi!m vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain",
-                    "locationVi": "DLC Gravesite Plain"
+                    "locationVi": "DLC Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/two-handed-sword-talisman.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -5349,61 +5589,71 @@
                     "name": "Greatsword",
                     "type": "Weapon",
                     "location": "Caelid, in a chest on a caravan",
-                    "locationVi": "Caelid, in a chest on a caravan"
+                    "locationVi": "Caelid, in a chest on a caravan",
+                    "imageUrl": "/images/items/elden-ring/greatsword.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle, behind the troll",
-                    "locationVi": "Stormveil Castle, behind the troll"
+                    "locationVi": "Stormveil Castle, behind the troll",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Two-Handed Sword Talisman",
                     "type": "Talisman",
                     "location": "DLC Gravesite Plain, from a merchant",
-                    "locationVi": "DLC Gravesite Plain, from a merchant"
+                    "locationVi": "DLC Gravesite Plain, from a merchant",
+                    "imageUrl": "/images/items/elden-ring/two-handed-sword-talisman.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Summonwater Village ruins",
-                    "locationVi": "Summonwater Village ruins"
+                    "locationVi": "Summonwater Village ruins",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Raptor's Black Feathers",
                     "type": "Armor",
                     "location": "Sage's Cave, in Altus Plateau",
-                    "locationVi": "Sage's Cave, in Altus Plateau"
+                    "locationVi": "Sage's Cave, in Altus Plateau",
+                    "imageUrl": "/images/items/elden-ring/raptors-black-feathers.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 },
                 {
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt. Gelmir sub-boss arena",
-                    "locationVi": "Mt. Gelmir"
+                    "locationVi": "Mt. Gelmir",
+                    "imageUrl": "/images/items/elden-ring/fire-scorpion-charm.png"
                 }
             ],
             "tips": [
@@ -5569,61 +5819,71 @@
                     "name": "Cross-Naginata",
                     "type": "Weapon",
                     "location": "Caelid, Gael Tunnel near the grace",
-                    "locationVi": "Caelid, Gael Tunnel near the grace"
+                    "locationVi": "Caelid, Gael Tunnel near the grace",
+                    "imageUrl": "/images/items/elden-ring/cross-naginata.png"
                 },
                 {
                     "name": "Bolt of Gransax",
                     "type": "Weapon",
                     "location": "Leyndell, Royal Capital, on a spear",
-                    "locationVi": "Leyndell, Royal Capital, on a spear"
+                    "locationVi": "Leyndell, Royal Capital, on a spear",
+                    "imageUrl": "/images/items/elden-ring/bolt-of-gransax.png"
                 },
                 {
                     "name": "Spear Talisman",
                     "type": "Talisman",
                     "location": "Wormface in Altus Plateau",
-                    "locationVi": "Wormface in Altus Plateau"
+                    "locationVi": "Wormface in Altus Plateau",
+                    "imageUrl": "/images/items/elden-ring/spear-talisman.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander questline reward",
-                    "locationVi": "Phần thưởng nhiệm vụ Alexander"
+                    "locationVi": "Phần thưởng nhiệm vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Rellana's Cameo",
                     "type": "Talisman",
                     "location": "DLC, Castle Ensis",
-                    "locationVi": "DLC, Castle Ensis"
+                    "locationVi": "DLC, Castle Ensis",
+                    "imageUrl": "/images/items/elden-ring/rellanas-cameo.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -5782,61 +6042,71 @@
                     "name": "Carian Knight Sword",
                     "type": "Weapon",
                     "location": "Liurnia, Carian Study Hall",
-                    "locationVi": "Liurnia, Carian Study Hall"
+                    "locationVi": "Liurnia, Carian Study Hall",
+                    "imageUrl": "/images/items/elden-ring/carian-knight-sword.png"
                 },
                 {
                     "name": "Carian Regal Scepter",
                     "type": "Weapon",
                     "location": "Remembrance of the Full Moon Queen",
-                    "locationVi": "Remembrance of the Full Moon Queen"
+                    "locationVi": "Remembrance of the Full Moon Queen",
+                    "imageUrl": "/images/items/elden-ring/carian-regal-scepter.png"
                 },
                 {
                     "name": "Carian Greatshield",
                     "type": "Armor",
                     "location": "Caria Manor, behind the courtyard",
-                    "locationVi": "Caria Manor, behind the courtyard"
+                    "locationVi": "Caria Manor, behind the courtyard",
+                    "imageUrl": "/images/items/elden-ring/carian-greatshield.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Preceptor Seluvis quest",
-                    "locationVi": "Nhiệm vụ Seluvis"
+                    "locationVi": "Nhiệm vụ Seluvis",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Graven-Mass Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops, Albinauric rise",
-                    "locationVi": "Mountaintops, Albinauric rise"
+                    "locationVi": "Mountaintops, Albinauric rise",
+                    "imageUrl": "/images/items/elden-ring/graven-mass-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -6002,61 +6272,71 @@
                     "name": "Misericorde",
                     "type": "Weapon",
                     "location": "Stormveil Castle, in the dark room",
-                    "locationVi": "Stormveil Castle, in the dark room"
+                    "locationVi": "Stormveil Castle, in the dark room",
+                    "imageUrl": "/images/items/elden-ring/misericorde.png"
                 },
                 {
                     "name": "Buckler",
                     "type": "Armor",
                     "location": "Purchased from Gostoc in Stormveil",
-                    "locationVi": "Mua từ Gostoc"
+                    "locationVi": "Mua từ Gostoc",
+                    "imageUrl": "/images/items/elden-ring/buckler.png"
                 },
                 {
                     "name": "Dagger Talisman",
                     "type": "Talisman",
                     "location": "Liurnia, from the big pot",
-                    "locationVi": "Liurnia, from the big pot"
+                    "locationVi": "Liurnia, from the big pot",
+                    "imageUrl": "/images/items/elden-ring/dagger-talisman.png"
                 },
                 {
                     "name": "Assassin's Cerulean Dagger",
                     "type": "Talisman",
                     "location": "Leyndell, from the Black Knife Catacombs",
-                    "locationVi": "Leyndell, from the Black Knife Catacombs"
+                    "locationVi": "Leyndell, from the Black Knife Catacombs",
+                    "imageUrl": "/images/items/elden-ring/assassins-cerulean-dagger.png"
                 },
                 {
                     "name": "Blue Dancer Charm",
                     "type": "Talisman",
                     "location": "Limgrave, Highway Cave",
-                    "locationVi": "Limgrave, Highway Cave"
+                    "locationVi": "Limgrave, Highway Cave",
+                    "imageUrl": "/images/items/elden-ring/blue-dancer-charm.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -6215,61 +6495,71 @@
                     "name": "Beast Claw",
                     "type": "Weapon",
                     "location": "DLC, Gravesite Plain near the bridge",
-                    "locationVi": "DLC, Gravesite Plain near the bridge"
+                    "locationVi": "DLC, Gravesite Plain near the bridge",
+                    "imageUrl": "/images/items/elden-ring/beast-claw.png"
                 },
                 {
                     "name": "Clawmark Seal",
                     "type": "Weapon",
                     "location": "Dropped by Gurranq after feeding 5 deathroots",
-                    "locationVi": "Từ Gurranq"
+                    "locationVi": "Từ Gurranq",
+                    "imageUrl": "/images/items/elden-ring/clawmark-seal.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle",
-                    "locationVi": "Stormveil Castle"
+                    "locationVi": "Stormveil Castle",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Rotten Winged Sword Insignia",
                     "type": "Talisman",
                     "location": "Millicent quest reward",
-                    "locationVi": "Phần thưởng Millicent"
+                    "locationVi": "Phần thưởng Millicent",
+                    "imageUrl": "/images/items/elden-ring/rotten-winged-sword-insignia.png"
                 },
                 {
                     "name": "Two-Headed Turtle Talisman",
                     "type": "Talisman",
                     "location": "DLC, Dragon's Pit",
-                    "locationVi": "DLC, Dragon's Pit"
+                    "locationVi": "DLC, Dragon's Pit",
+                    "imageUrl": "/images/items/elden-ring/two-headed-turtle-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -6428,61 +6718,71 @@
                     "name": "Lion Greatbow",
                     "type": "Weapon",
                     "location": "Remembrance of Starscourge Radahn",
-                    "locationVi": "Remembrance của Radahn"
+                    "locationVi": "Remembrance của Radahn",
+                    "imageUrl": "/images/items/elden-ring/lion-greatbow.png"
                 },
                 {
                     "name": "Horn Bow",
                     "type": "Weapon",
                     "location": "DLC, Gravesite Plain merchant",
-                    "locationVi": "DLC, Gravesite Plain merchant"
+                    "locationVi": "DLC, Gravesite Plain merchant",
+                    "imageUrl": "/images/items/elden-ring/horn-bow.png"
                 },
                 {
                     "name": "Arrow's Reach Talisman",
                     "type": "Talisman",
                     "location": "Limgrave, from the Twin Maiden Husks",
-                    "locationVi": "Limgrave, from the Twin Maiden Husks"
+                    "locationVi": "Limgrave, from the Twin Maiden Husks",
+                    "imageUrl": "/images/items/elden-ring/arrows-reach-talisman.png"
                 },
                 {
                     "name": "Arrow's Sting Talisman",
                     "type": "Talisman",
                     "location": "DLC, by the Scadutree Base",
-                    "locationVi": "DLC, by the Scadutree Base"
+                    "locationVi": "DLC, by the Scadutree Base",
+                    "imageUrl": "/images/items/elden-ring/arrows-sting-talisman.png"
                 },
                 {
                     "name": "Shroud of the Mausoleum",
                     "type": "Armor",
                     "location": "DLC, Mausoleum Compound",
-                    "locationVi": "DLC, Mausoleum Compound"
+                    "locationVi": "DLC, Mausoleum Compound",
+                    "imageUrl": "/images/items/elden-ring/shroud-of-the-mausoleum.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -6641,61 +6941,71 @@
                     "name": "Death's Poker",
                     "type": "Weapon",
                     "location": "Caelid, from the Death Rite Bird",
-                    "locationVi": "Caelid, từ Death Rite Bird"
+                    "locationVi": "Caelid, từ Death Rite Bird",
+                    "imageUrl": "/images/items/elden-ring/deaths-poker.png"
                 },
                 {
                     "name": "Family Heads",
                     "type": "Weapon",
                     "location": "Liurnia, from the Cemetery Shade",
-                    "locationVi": "Liurnia, from the Cemetery Shade"
+                    "locationVi": "Liurnia, from the Cemetery Shade",
+                    "imageUrl": "/images/items/elden-ring/family-heads.png"
                 },
                 {
                     "name": "Shard of Alexander",
                     "type": "Talisman",
                     "location": "Alexander questline reward",
-                    "locationVi": "Nhiệm vụ Alexander"
+                    "locationVi": "Nhiệm vụ Alexander",
+                    "imageUrl": "/images/items/elden-ring/shard-of-alexander.png"
                 },
                 {
                     "name": "Magic Scorpion Charm",
                     "type": "Talisman",
                     "location": "Seluvis quest",
-                    "locationVi": "Nhiệm vụ Seluvis"
+                    "locationVi": "Nhiệm vụ Seluvis",
+                    "imageUrl": "/images/items/elden-ring/magic-scorpion-charm.png"
                 },
                 {
                     "name": "Staff of the Great Beyond",
                     "type": "Weapon",
                     "location": "DLC, Finger Birthing area",
-                    "locationVi": "DLC, Finger Birthing area"
+                    "locationVi": "DLC, Finger Birthing area",
+                    "imageUrl": "/images/items/elden-ring/staff-of-the-great-beyond.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -6854,61 +7164,71 @@
                     "name": "Erdtree Seal",
                     "type": "Weapon",
                     "location": "Leyndell, Royal Capital",
-                    "locationVi": "Leyndell, Royal Capital"
+                    "locationVi": "Leyndell, Royal Capital",
+                    "imageUrl": "/images/items/elden-ring/erdtree-seal.png"
                 },
                 {
                     "name": "Godslayer Greatsword",
                     "type": "Weapon",
                     "location": "Caelid, Divine Tower of Caelid",
-                    "locationVi": "Caelid, Divine Tower of Caelid"
+                    "locationVi": "Caelid, Divine Tower of Caelid",
+                    "imageUrl": "/images/items/elden-ring/godslayer-greatsword.png"
                 },
                 {
                     "name": "Flock's Canvas Talisman",
                     "type": "Talisman",
                     "location": "Mountaintops, from the merchant",
-                    "locationVi": "Mountaintops, from the merchant"
+                    "locationVi": "Mountaintops, from the merchant",
+                    "imageUrl": "/images/items/elden-ring/flocks-canvas-talisman.png"
                 },
                 {
                     "name": "Two Fingers Heirloom",
                     "type": "Talisman",
                     "location": "Limgrave, Purified Ruins",
-                    "locationVi": "Limgrave, Purified Ruins"
+                    "locationVi": "Limgrave, Purified Ruins",
+                    "imageUrl": "/images/items/elden-ring/two-fingers-heirloom.png"
                 },
                 {
                     "name": "Dryleaf Seal",
                     "type": "Weapon",
                     "location": "DLC, Scadu Altus",
-                    "locationVi": "DLC, Scadu Altus"
+                    "locationVi": "DLC, Scadu Altus",
+                    "imageUrl": "/images/items/elden-ring/dryleaf-seal.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [
@@ -7067,61 +7387,71 @@
                     "name": "Poison Mist",
                     "type": "Weapon",
                     "location": "Church of Dragon Communion in Caelid",
-                    "locationVi": "Church of Dragon Communion ở Caelid"
+                    "locationVi": "Church of Dragon Communion ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/poison-mist.png"
                 },
                 {
                     "name": "Pest Threads",
                     "type": "Weapon",
                     "location": "Gowry in Caelid after progressing Millicent quest",
-                    "locationVi": "Gowry ở Caelid sau khi tiến triển nhiệm vụ Millicent"
+                    "locationVi": "Gowry ở Caelid sau khi tiến triển nhiệm vụ Millicent",
+                    "imageUrl": "/images/items/elden-ring/pest-threads.png"
                 },
                 {
                     "name": "Ekzykes's Decay",
                     "type": "Weapon",
                     "location": "Cathedral of Dragon Communion in Caelid",
-                    "locationVi": "Cathedral of Dragon Communion ở Caelid"
+                    "locationVi": "Cathedral of Dragon Communion ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/ekzykess-decay.png"
                 },
                 {
                     "name": "Frenzied Flame Seal",
                     "type": "Weapon",
                     "location": "Frenzied Flame Village in Liurnia",
-                    "locationVi": "Frenzied Flame Village ở Liurnia"
+                    "locationVi": "Frenzied Flame Village ở Liurnia",
+                    "imageUrl": "/images/items/elden-ring/frenzied-flame-seal.png"
                 },
                 {
                     "name": "Deadly Poison Perfume Bottle",
                     "type": "Weapon",
                     "location": "DLC, found in the Shadow Keep",
-                    "locationVi": "DLC, tìm thấy ở Shadow Keep"
+                    "locationVi": "DLC, tìm thấy ở Shadow Keep",
+                    "imageUrl": "/images/items/elden-ring/deadly-poison-perfume-bottle.png"
                 },
                 {
                     "name": "Kindred of Rot's Exultation",
                     "type": "Talisman",
                     "location": "Lake of Rot, behind the Sealed Door",
-                    "locationVi": "Lake of Rot, sau cánh cửa niêm phong"
+                    "locationVi": "Lake of Rot, sau cánh cửa niêm phong",
+                    "imageUrl": "/images/items/elden-ring/kindred-of-rots-exultation.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -7280,61 +7610,71 @@
                     "name": "Crafting Kit",
                     "type": "Weapon",
                     "location": "Nomadic Merchant near Gatefront in Limgrave",
-                    "locationVi": "Nomadic Merchant gần Gatefront"
+                    "locationVi": "Nomadic Merchant gần Gatefront",
+                    "imageUrl": "/images/items/elden-ring/crafting-kit.png"
                 },
                 {
                     "name": "Ritual Pot",
                     "type": "Weapon",
                     "location": "Nomadic Merchant in Liurnia of the Lakes",
-                    "locationVi": "Nomadic Merchant ở Liurnia"
+                    "locationVi": "Nomadic Merchant ở Liurnia",
+                    "imageUrl": "/images/items/elden-ring/ritual-pot.png"
                 },
                 {
                     "name": "Giant Pot",
                     "type": "Weapon",
                     "location": "Liurnia, Giant's Mountaintop after defeating Golem",
-                    "locationVi": "Liurnia, Giant's Mountaintop"
+                    "locationVi": "Liurnia, Giant's Mountaintop",
+                    "imageUrl": "/images/items/elden-ring/giant-pot.png"
                 },
                 {
                     "name": "Volcano Pot",
                     "type": "Weapon",
                     "location": "Volcano Manor recipe book",
-                    "locationVi": "Sách công thức Volcano Manor"
+                    "locationVi": "Sách công thức Volcano Manor",
+                    "imageUrl": "/images/items/elden-ring/volcano-pot.png"
                 },
                 {
                     "name": "Hefty Fire Pot",
                     "type": "Weapon",
                     "location": "DLC, found in Gravesite Plain",
-                    "locationVi": "DLC, tìm thấy ở Gravesite Plain"
+                    "locationVi": "DLC, tìm thấy ở Gravesite Plain",
+                    "imageUrl": "/images/items/elden-ring/hefty-fire-pot.png"
                 },
                 {
                     "name": "Ancient Dragon Pot",
                     "type": "Weapon",
                     "location": "DLC, recipe near Dragon's Pit",
-                    "locationVi": "DLC, công thức gần Dragon's Pit"
+                    "locationVi": "DLC, công thức gần Dragon's Pit",
+                    "imageUrl": "/images/items/elden-ring/ancient-dragon-pot.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -7500,61 +7840,71 @@
                     "name": "Caestus",
                     "type": "Weapon",
                     "location": "Purchased from Brother Corhyn in Roundtable Hold",
-                    "locationVi": "Mua từ Brother Corhyn ở Roundtable Hold"
+                    "locationVi": "Mua từ Brother Corhyn ở Roundtable Hold",
+                    "imageUrl": "/images/items/elden-ring/caestus.png"
                 },
                 {
                     "name": "Star Fist",
                     "type": "Weapon",
                     "location": "Merchant near Old Altus Tunnel entrance",
-                    "locationVi": "Merchant gần Old Altus Tunnel"
+                    "locationVi": "Merchant gần Old Altus Tunnel",
+                    "imageUrl": "/images/items/elden-ring/star-fist.png"
                 },
                 {
                     "name": "Spiked Caestus",
                     "type": "Weapon",
                     "location": "Liurnia merchant in the lake facing cliffs",
-                    "locationVi": "Merchant ở Liurnia"
+                    "locationVi": "Merchant ở Liurnia",
+                    "imageUrl": "/images/items/elden-ring/spiked-caestus.png"
                 },
                 {
                     "name": "Dryleaf Arts",
                     "type": "Weapon",
                     "location": "DLC, found in the Realm of Shadow",
-                    "locationVi": "DLC, tìm thấy ở Realm of Shadow"
+                    "locationVi": "DLC, tìm thấy ở Realm of Shadow",
+                    "imageUrl": "/images/items/elden-ring/dryleaf-arts.png"
                 },
                 {
                     "name": "Claw Talisman",
                     "type": "Talisman",
                     "location": "Stormveil Castle, dropped by Lion Guardian",
-                    "locationVi": "Stormveil Castle, rơi từ Lion Guardian"
+                    "locationVi": "Stormveil Castle, rơi từ Lion Guardian",
+                    "imageUrl": "/images/items/elden-ring/claw-talisman.png"
                 },
                 {
                     "name": "Axe Talisman",
                     "type": "Talisman",
                     "location": "Mistywood, dropped by the Ancient Hero of Zamor",
-                    "locationVi": "Mistywood, rơi từ Ancient Hero of Zamor"
+                    "locationVi": "Mistywood, rơi từ Ancient Hero of Zamor",
+                    "imageUrl": "/images/items/elden-ring/axe-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave Summonwater Village catacombs",
-                    "locationVi": "Limgrave Summonwater Village"
+                    "locationVi": "Limgrave Summonwater Village",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 }
             ],
             "tips": [
@@ -7713,61 +8063,71 @@
                     "name": "Standard Torch",
                     "type": "Weapon",
                     "location": "Nomadic Merchant near Gatefront in Limgrave",
-                    "locationVi": "Nomadic Merchant gần Gatefront"
+                    "locationVi": "Nomadic Merchant gần Gatefront",
+                    "imageUrl": "/images/items/elden-ring/standard-torch.png"
                 },
                 {
                     "name": "Beast-Repellent Torch",
                     "type": "Weapon",
                     "location": "Isolated Merchant in Dragonbarrow",
-                    "locationVi": "Isolated Merchant ở Dragonbarrow"
+                    "locationVi": "Isolated Merchant ở Dragonbarrow",
+                    "imageUrl": "/images/items/elden-ring/beast-repellent-torch.png"
                 },
                 {
                     "name": "St. Trina's Torch",
                     "type": "Weapon",
                     "location": "Consecrated Snowfield, near the hidden Albinauric village",
-                    "locationVi": "Consecrated Snowfield, gần làng Albinauric ẩn"
+                    "locationVi": "Consecrated Snowfield, gần làng Albinauric ẩn",
+                    "imageUrl": "/images/items/elden-ring/st-trinas-torch.png"
                 },
                 {
                     "name": "Ghostflame Torch",
                     "type": "Weapon",
                     "location": "Mountaintops of the Giants, dropped by a ghost at the spirit spring",
-                    "locationVi": "Mountaintops of the Giants, rơi từ hồn ma"
+                    "locationVi": "Mountaintops of the Giants, rơi từ hồn ma",
+                    "imageUrl": "/images/items/elden-ring/ghostflame-torch.png"
                 },
                 {
                     "name": "Fire Scorpion Charm",
                     "type": "Talisman",
                     "location": "Mt. Gelmir, sub-boss arena near Fort Laiedd",
-                    "locationVi": "Mt. Gelmir, đấu trường sub-boss gần Fort Laiedd"
+                    "locationVi": "Mt. Gelmir, đấu trường sub-boss gần Fort Laiedd",
+                    "imageUrl": "/images/items/elden-ring/fire-scorpion-charm.png"
                 },
                 {
                     "name": "Green Turtle Talisman",
                     "type": "Talisman",
                     "location": "Limgrave, Summonwater Village catacombs",
-                    "locationVi": "Limgrave, Summonwater Village catacombs"
+                    "locationVi": "Limgrave, Summonwater Village catacombs",
+                    "imageUrl": "/images/items/elden-ring/green-turtle-talisman.png"
                 },
                 {
                     "name": "Erdtree's Favor +2",
                     "type": "Talisman",
                     "location": "Leyndell, Royal Capital, in a chest near the Erdtree Sanctuary",
-                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary"
+                    "locationVi": "Leyndell, trong rương gần Erdtree Sanctuary",
+                    "imageUrl": "/images/items/elden-ring/erdtrees-favor-2.png"
                 },
                 {
                     "name": "Crimson Amber Medallion +2",
                     "type": "Talisman",
                     "location": "Leyndell Royal Capital, in a chest in the Fortified Manor",
-                    "locationVi": "Leyndell, trong rương ở Fortified Manor"
+                    "locationVi": "Leyndell, trong rương ở Fortified Manor",
+                    "imageUrl": "/images/items/elden-ring/crimson-amber-medallion-2.png"
                 },
                 {
                     "name": "Dragoncrest Greatshield Talisman",
                     "type": "Talisman",
                     "location": "Elphael Brace of the Haligtree, on a corpse near the Prayer Room",
-                    "locationVi": "Elphael, Brace of the Haligtree"
+                    "locationVi": "Elphael, Brace of the Haligtree",
+                    "imageUrl": "/images/items/elden-ring/dragoncrest-greatshield-talisman.png"
                 },
                 {
                     "name": "Radagon's Soreseal",
                     "type": "Talisman",
                     "location": "Fort Faroth in Caelid, on a corpse on the roof",
-                    "locationVi": "Fort Faroth ở Caelid"
+                    "locationVi": "Fort Faroth ở Caelid",
+                    "imageUrl": "/images/items/elden-ring/radagons-soreseal.png"
                 }
             ],
             "tips": [

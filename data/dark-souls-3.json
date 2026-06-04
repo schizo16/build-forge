@@ -154,61 +154,71 @@
                     "name": "Sellsword Twinblades",
                     "type": "Weapon",
                     "location": "Starting weapon for Mercenary class",
-                    "locationVi": "khởi đầu weapon for Mercenary class"
+                    "locationVi": "khởi đầu weapon for Mercenary class",
+                    "imageUrl": "/images/items/dark-souls-3/sellsword-twinblades.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn's soul",
-                    "locationVi": "Transposed from Pontiff Sulyvahn's soul"
+                    "locationVi": "Transposed from Pontiff Sulyvahn's soul",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Pontiff's Left Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn's soul",
-                    "locationVi": "Transposed from Pontiff Sulyvahn's soul"
+                    "locationVi": "Transposed from Pontiff Sulyvahn's soul",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-left-eye.png"
                 },
                 {
                     "name": "Lloyd's Sword Ring",
                     "type": "Ring",
                     "location": "High Wall of Lothric near Tower on the Wall",
-                    "locationVi": "High Wall of Lothric near Tower on the Wall"
+                    "locationVi": "High Wall of Lothric near Tower on the Wall",
+                    "imageUrl": "/images/items/dark-souls-3/lloyds-sword-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed from Champion Gundyr's soul"
+                    "locationVi": "Transposed from Champion Gundyr's soul",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Lightning Blade",
                     "type": "Weapon",
                     "location": "Irithyll Dungeon near the giant",
-                    "locationVi": "Irithyll Dungeon near the giant"
+                    "locationVi": "Irithyll Dungeon near the giant",
+                    "imageUrl": "/images/items/dark-souls-3/lightning-blade.png"
                 },
                 {
                     "name": "Yorshka's Chime",
                     "type": "Weapon",
                     "location": "Anor Londo near the Silver Knights",
-                    "locationVi": "Anor Londo near the Silver Knights"
+                    "locationVi": "Anor Londo near the Silver Knights",
+                    "imageUrl": "/images/items/dark-souls-3/yorshkas-chime.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 }
             ],
             "tips": [
@@ -375,61 +385,71 @@
                     "name": "Zweihander",
                     "type": "Weapon",
                     "location": "Farron Keep perimeter on a corpse",
-                    "locationVi": "Farron Keep perimeter on a corpse"
+                    "locationVi": "Farron Keep perimeter on a corpse",
+                    "imageUrl": "/images/items/dark-souls-3/zweihander.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near Shared Grave",
-                    "locationVi": "Ringed City DLC near Shared Grave"
+                    "locationVi": "Ringed City DLC near Shared Grave",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC from Havel",
-                    "locationVi": "Ringed City DLC from Havel"
+                    "locationVi": "Ringed City DLC from Havel",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Witch's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement from fire demon NPC",
-                    "locationVi": "Undead Settlement from fire demon NPC"
+                    "locationVi": "Undead Settlement from fire demon NPC",
+                    "imageUrl": "/images/items/dark-souls-3/witchs-ring.png"
                 },
                 {
                     "name": "Giant's Coal",
                     "type": "Weapon",
                     "location": "Catacombs of Carthus behind illusory wall",
-                    "locationVi": "Catacombs of Carthus behind illusory wall"
+                    "locationVi": "Catacombs of Carthus behind illusory wall",
+                    "imageUrl": "/images/items/dark-souls-3/giants-coal.png"
                 },
                 {
                     "name": "Chaos Gem",
                     "type": "Weapon",
                     "location": "Dropped by fire witches in Irithyll",
-                    "locationVi": "Dropped by fire witches in Irithyll"
+                    "locationVi": "Dropped by fire witches in Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/chaos-gem.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 }
             ],
             "tips": [
@@ -596,61 +616,71 @@
                     "name": "Greatsword",
                     "type": "Weapon",
                     "location": "Farron Keep swamp near black knight",
-                    "locationVi": "Farron Keep swamp near black knight"
+                    "locationVi": "Farron Keep swamp near black knight",
+                    "imageUrl": "/images/items/dark-souls-3/greatsword.png"
                 },
                 {
                     "name": "Fume Ultra Greatsword",
                     "type": "Weapon",
                     "location": "Transposed from Knight Slayer Tsorig soul",
-                    "locationVi": "Transposed from Knight Slayer Tsorig soul"
+                    "locationVi": "Transposed from Knight Slayer Tsorig soul",
+                    "imageUrl": "/images/items/dark-souls-3/fume-ultra-greatsword.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near giant tower",
-                    "locationVi": "Undead Settlement near giant tower"
+                    "locationVi": "Undead Settlement near giant tower",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near Shared Grave",
-                    "locationVi": "Ringed City DLC near Shared Grave"
+                    "locationVi": "Ringed City DLC near Shared Grave",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap from Havel Knight"
+                    "locationVi": "Dreg Heap from Havel Knight",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Lapp's Armor Set",
                     "type": "Armor",
                     "location": "Ringed City DLC from Lapp quest",
-                    "locationVi": "Ringed City DLC from Lapp quest"
+                    "locationVi": "Ringed City DLC from Lapp quest",
+                    "imageUrl": "/images/items/dark-souls-3/lapps-armor-set.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 }
             ],
             "tips": [
@@ -817,61 +847,71 @@
                     "name": "Court Sorcerer's Staff",
                     "type": "Weapon",
                     "location": "Irithyll sewers near the church",
-                    "locationVi": "Irithyll sewers near the church"
+                    "locationVi": "Irithyll sewers near the church",
+                    "imageUrl": "/images/items/dark-souls-3/court-sorcerers-staff.png"
                 },
                 {
                     "name": "Young Dragon Ring",
                     "type": "Ring",
                     "location": "Orbeck of Vinheim quest in Firelink",
-                    "locationVi": "Orbeck of Vinheim quest in Firelink"
+                    "locationVi": "Orbeck of Vinheim quest in Firelink",
+                    "imageUrl": "/images/items/dark-souls-3/young-dragon-ring.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Irithyll behind illusory wall",
-                    "locationVi": "Irithyll behind illusory wall"
+                    "locationVi": "Irithyll behind illusory wall",
+                    "imageUrl": "/images/items/dark-souls-3/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC swamp"
+                    "locationVi": "Ringed City DLC swamp",
+                    "imageUrl": "/images/items/dark-souls-3/magic-clutch-ring.png"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC before Demon Prince",
-                    "locationVi": "Ringed City DLC before Demon Prince"
+                    "locationVi": "Ringed City DLC before Demon Prince",
+                    "imageUrl": "/images/items/dark-souls-3/sage-ring-2.png"
                 },
                 {
                     "name": "Crown of Dusk",
                     "type": "Armor",
                     "location": "Farron Keep from golden golem",
-                    "locationVi": "Farron Keep from golden golem"
+                    "locationVi": "Farron Keep from golden golem",
+                    "imageUrl": "/images/items/dark-souls-3/crown-of-dusk.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 }
             ],
             "tips": [
@@ -1037,61 +1077,71 @@
                     "name": "Yorshka's Chime",
                     "type": "Weapon",
                     "location": "Anor Londo near Silver Knights",
-                    "locationVi": "Anor Londo near Silver Knights"
+                    "locationVi": "Anor Londo near Silver Knights",
+                    "imageUrl": "/images/items/dark-souls-3/yorshkas-chime.png"
                 },
                 {
                     "name": "Saint's Talisman",
                     "type": "Weapon",
                     "location": "Undead Settlement sewers",
-                    "locationVi": "Undead Settlement sewers"
+                    "locationVi": "Undead Settlement sewers",
+                    "imageUrl": "/images/items/dark-souls-3/saints-talisman.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll near Church of Yorshka"
+                    "locationVi": "Irithyll near Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 },
                 {
                     "name": "Morne's Ring",
                     "type": "Ring",
                     "location": "Firelink Shrine from Handmaid",
-                    "locationVi": "Firelink Shrine from Handmaid"
+                    "locationVi": "Firelink Shrine from Handmaid",
+                    "imageUrl": "/images/items/dark-souls-3/mornes-ring.png"
                 },
                 {
                     "name": "Sunlight Spear",
                     "type": "Weapon",
                     "location": "Transposed from Soul of Cinder",
-                    "locationVi": "Transposed from Soul of Cinder"
+                    "locationVi": "Transposed from Soul of Cinder",
+                    "imageUrl": "/images/items/dark-souls-3/sunlight-spear.png"
                 },
                 {
                     "name": "Lightning Arrow",
                     "type": "Weapon",
                     "location": "Ringed City DLC near Streets bonfire",
-                    "locationVi": "Ringed City DLC near Streets bonfire"
+                    "locationVi": "Ringed City DLC near Streets bonfire",
+                    "imageUrl": "/images/items/dark-souls-3/lightning-arrow.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 }
             ],
             "tips": [
@@ -1258,61 +1308,71 @@
                     "name": "Pyromancy Flame",
                     "type": "Weapon",
                     "location": "Cornyx of the Great Swamp after rescue",
-                    "locationVi": "Cornyx of the Great Swamp after rescue"
+                    "locationVi": "Cornyx of the Great Swamp after rescue",
+                    "imageUrl": "/images/items/dark-souls-3/pyromancy-flame.png"
                 },
                 {
                     "name": "Witch's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement from fire demon",
-                    "locationVi": "Undead Settlement from fire demon"
+                    "locationVi": "Undead Settlement from fire demon",
+                    "imageUrl": "/images/items/dark-souls-3/witchs-ring.png"
                 },
                 {
                     "name": "Great Swamp Ring",
                     "type": "Ring",
                     "location": "Undead Settlement on a corpse",
-                    "locationVi": "Undead Settlement on a corpse"
+                    "locationVi": "Undead Settlement on a corpse",
+                    "imageUrl": "/images/items/dark-souls-3/great-swamp-ring.png"
                 },
                 {
                     "name": "Chaos Bed Vestiges",
                     "type": "Weapon",
                     "location": "Transposed from Old Demon King",
-                    "locationVi": "Transposed from Old Demon King"
+                    "locationVi": "Transposed from Old Demon King",
+                    "imageUrl": "/images/items/dark-souls-3/chaos-bed-vestiges.png"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC before Demon Prince",
-                    "locationVi": "Ringed City DLC before Demon Prince"
+                    "locationVi": "Ringed City DLC before Demon Prince",
+                    "imageUrl": "/images/items/dark-souls-3/sage-ring-2.png"
                 },
                 {
                     "name": "Black Flame",
                     "type": "Weapon",
                     "location": "Ringed City DLC Shared Grave",
-                    "locationVi": "Ringed City DLC Shared Grave"
+                    "locationVi": "Ringed City DLC Shared Grave",
+                    "imageUrl": "/images/items/dark-souls-3/black-flame.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 }
             ],
             "tips": [
@@ -1479,61 +1539,71 @@
                     "name": "Lothric Knight Sword",
                     "type": "Weapon",
                     "location": "Dropped by Lothric Knights",
-                    "locationVi": "Dropped by Lothric Knights"
+                    "locationVi": "Dropped by Lothric Knights",
+                    "imageUrl": "/images/items/dark-souls-3/lothric-knight-sword.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff",
-                    "locationVi": "Transposed from Pontiff"
+                    "locationVi": "Transposed from Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr",
-                    "locationVi": "Transposed from Champion Gundyr"
+                    "locationVi": "Transposed from Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Llewellyn Shield",
                     "type": "Armor",
                     "location": "Road of Sacrifices",
-                    "locationVi": "Road of Sacrifices"
+                    "locationVi": "Road of Sacrifices",
+                    "imageUrl": "/images/items/dark-souls-3/llewellyn-shield.png"
                 },
                 {
                     "name": "Caestus",
                     "type": "Weapon",
                     "location": "Shrine Handmaid in Firelink",
-                    "locationVi": "Shrine Handmaid in Firelink"
+                    "locationVi": "Shrine Handmaid in Firelink",
+                    "imageUrl": "/images/items/dark-souls-3/caestus.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 }
             ],
             "tips": [
@@ -1693,61 +1763,71 @@
                     "name": "Greatshield of Glory",
                     "type": "Weapon",
                     "location": "Cathedral of the Deep chest",
-                    "locationVi": "Cathedral of the Deep chest"
+                    "locationVi": "Cathedral of the Deep chest",
+                    "imageUrl": "/images/items/dark-souls-3/greatshield-of-glory.png"
                 },
                 {
                     "name": "Lapp's Armor Set",
                     "type": "Armor",
                     "location": "Ringed City DLC Lapp quest",
-                    "locationVi": "Ringed City DLC Lapp quest"
+                    "locationVi": "Ringed City DLC Lapp quest",
+                    "imageUrl": "/images/items/dark-souls-3/lapps-armor-set.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap from Havel Knight"
+                    "locationVi": "Dreg Heap from Havel Knight",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Great Club",
                     "type": "Weapon",
                     "location": "Farron Keep swamp",
-                    "locationVi": "Farron Keep swamp"
+                    "locationVi": "Farron Keep swamp",
+                    "imageUrl": "/images/items/dark-souls-3/great-club.png"
                 },
                 {
                     "name": "Wolf Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/wolf-ring-3.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 }
             ],
             "tips": [
@@ -1914,49 +1994,57 @@
                     "name": "Lothric Knight Straight Sword",
                     "type": "Weapon",
                     "location": "Dropped by Lothric Knights on the High Wall",
-                    "locationVi": "Rơi từ Lothric Knights"
+                    "locationVi": "Rơi từ Lothric Knights",
+                    "imageUrl": "/images/items/dark-souls-3/lothric-knight-straight-sword.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near Shared Grave",
-                    "locationVi": "Ringed City DLC near Shared Grave"
+                    "locationVi": "Ringed City DLC near Shared Grave",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr",
-                    "locationVi": "Transpose từ Champion Gundyr"
+                    "locationVi": "Transpose từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -2116,55 +2204,64 @@
                     "name": "Great Club",
                     "type": "Weapon",
                     "location": "Farron Keep swamp near the black knight",
-                    "locationVi": "Farron Keep swamp near the black knight"
+                    "locationVi": "Farron Keep swamp near the black knight",
+                    "imageUrl": "/images/items/dark-souls-3/great-club.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near tower",
-                    "locationVi": "Undead Settlement near tower"
+                    "locationVi": "Undead Settlement near tower",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap from Havel Knight"
+                    "locationVi": "Dreg Heap from Havel Knight",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -2324,61 +2421,71 @@
                     "name": "Demon's Scar",
                     "type": "Weapon",
                     "location": "Transposed from Old Demon King's soul",
-                    "locationVi": "Transpose từ Old Demon King"
+                    "locationVi": "Transpose từ Old Demon King",
+                    "imageUrl": "/images/items/dark-souls-3/demons-scar.png"
                 },
                 {
                     "name": "Witch's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement from fire demon",
-                    "locationVi": "Undead Settlement from fire demon"
+                    "locationVi": "Undead Settlement from fire demon",
+                    "imageUrl": "/images/items/dark-souls-3/witchs-ring.png"
                 },
                 {
                     "name": "Great Swamp Ring",
                     "type": "Ring",
                     "location": "Undead Settlement on a corpse",
-                    "locationVi": "Undead Settlement on a corpse"
+                    "locationVi": "Undead Settlement on a corpse",
+                    "imageUrl": "/images/items/dark-souls-3/great-swamp-ring.png"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC before Demon Prince",
-                    "locationVi": "Ringed City DLC before Demon Prince"
+                    "locationVi": "Ringed City DLC before Demon Prince",
+                    "imageUrl": "/images/items/dark-souls-3/sage-ring-2.png"
                 },
                 {
                     "name": "Chaos Bed Vestiges",
                     "type": "Weapon",
                     "location": "Transposed from Old Demon King",
-                    "locationVi": "Transpose từ Old Demon King"
+                    "locationVi": "Transpose từ Old Demon King",
+                    "imageUrl": "/images/items/dark-souls-3/chaos-bed-vestiges.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 }
             ],
             "tips": [
@@ -2538,61 +2645,71 @@
                     "name": "Friede's Great Scythe",
                     "type": "Weapon",
                     "location": "Transposed from Sister Friede's soul",
-                    "locationVi": "Transpose từ linh hn Sister Friede"
+                    "locationVi": "Transpose từ linh hn Sister Friede",
+                    "imageUrl": "/images/items/dark-souls-3/friedes-great-scythe.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Pontiff's Left Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-left-eye.png"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/sage-ring-2.png"
                 },
                 {
                     "name": "Frozen Weapon",
                     "type": "Weapon",
                     "location": "Irithyll Dungeon near the giant",
-                    "locationVi": "Irithyll Dungeon near the giant"
+                    "locationVi": "Irithyll Dungeon near the giant",
+                    "imageUrl": "/images/items/dark-souls-3/frozen-weapon.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 }
             ],
             "tips": [
@@ -2752,61 +2869,71 @@
                     "name": "Ringed Knight Paired Greatswords",
                     "type": "Weapon",
                     "location": "Ringed City DLC, near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC, near the Shared Grave bonfire"
+                    "locationVi": "Ringed City DLC, near the Shared Grave bonfire",
+                    "imageUrl": "/images/items/dark-souls-3/ringed-knight-paired-greatswords.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap from Havel Knight"
+                    "locationVi": "Dreg Heap from Havel Knight",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Wolf Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/wolf-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -2973,61 +3100,71 @@
                     "name": "Murky Hand Scythe",
                     "type": "Weapon",
                     "location": "Dreg Heap DLC, found on a corpse near the swamp",
-                    "locationVi": "Dreg Heap DLC, found on a corpse near the swamp"
+                    "locationVi": "Dreg Heap DLC, found on a corpse near the swamp",
+                    "imageUrl": "/images/items/dark-souls-3/murky-hand-scythe.png"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC swamp"
+                    "locationVi": "Ringed City DLC swamp",
+                    "imageUrl": "/images/items/dark-souls-3/dark-clutch-ring.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr",
-                    "locationVi": "Transpose từ Champion Gundyr"
+                    "locationVi": "Transpose từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Irithyll behind illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -3194,55 +3331,64 @@
                     "name": "Gotthard Twinswords",
                     "type": "Weapon",
                     "location": "Grand Archives on a corpse near the rooftops",
-                    "locationVi": "Grand Archives on a corpse near the rooftops"
+                    "locationVi": "Grand Archives on a corpse near the rooftops",
+                    "imageUrl": "/images/items/dark-souls-3/gotthard-twinswords.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr",
-                    "locationVi": "Transpose từ Champion Gundyr"
+                    "locationVi": "Transpose từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Transposed from Pontiff",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -3402,61 +3548,71 @@
                     "name": "Wolf Knight's Greatsword",
                     "type": "Weapon",
                     "location": "Transposed from Abyss Watchers soul",
-                    "locationVi": "Transpose từ linh hn Abyss Watchers"
+                    "locationVi": "Transpose từ linh hn Abyss Watchers",
+                    "imageUrl": "/images/items/dark-souls-3/wolf-knights-greatsword.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap",
-                    "locationVi": "Dreg Heap"
+                    "locationVi": "Dreg Heap",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Wolf Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/wolf-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -3616,61 +3772,71 @@
                     "name": "Crucifix of the Mad King",
                     "type": "Weapon",
                     "location": "Ringed City DLC, dropped by an invading NPC",
-                    "locationVi": "Ringed City DLC, dropped by an invading NPC"
+                    "locationVi": "Ringed City DLC, dropped by an invading NPC",
+                    "imageUrl": "/images/items/dark-souls-3/crucifix-of-the-mad-king.png"
                 },
                 {
                     "name": "Dark Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC swamp"
+                    "locationVi": "Ringed City DLC swamp",
+                    "imageUrl": "/images/items/dark-souls-3/dark-clutch-ring.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr",
-                    "locationVi": "Transpose từ Champion Gundyr"
+                    "locationVi": "Transpose từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Dark Blade",
                     "type": "Weapon",
                     "location": "Purchased from Irina or Karla",
-                    "locationVi": "Mua từ Irina hoặc Karla"
+                    "locationVi": "Mua từ Irina hoặc Karla",
+                    "imageUrl": "/images/items/dark-souls-3/dark-blade.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Irithyll behind illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -3830,61 +3996,71 @@
                     "name": "Harald Curved Greatsword",
                     "type": "Weapon",
                     "location": "Dreg Heap DLC, found on a corpse near the swamp area",
-                    "locationVi": "Dreg Heap DLC, found on a corpse near the swamp area"
+                    "locationVi": "Dreg Heap DLC, found on a corpse near the swamp area",
+                    "imageUrl": "/images/items/dark-souls-3/harald-curved-greatsword.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap from Havel Knight"
+                    "locationVi": "Dreg Heap from Havel Knight",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Wolf Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/wolf-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -4051,61 +4227,71 @@
                     "name": "Splitleaf Greatsword",
                     "type": "Weapon",
                     "location": "Ringed City DLC, found on a corpse near the Ringed Inner Wall",
-                    "locationVi": "Ringed City DLC, found on a corpse near the Ringed Inner Wall"
+                    "locationVi": "Ringed City DLC, found on a corpse near the Ringed Inner Wall",
+                    "imageUrl": "/images/items/dark-souls-3/splitleaf-greatsword.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap",
-                    "locationVi": "Dreg Heap"
+                    "locationVi": "Dreg Heap",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -4272,61 +4458,71 @@
                     "name": "Aquamarine Dagger",
                     "type": "Weapon",
                     "location": "Dreg Heap DLC, found on a corpse near the angel",
-                    "locationVi": "Dreg Heap DLC, found on a corpse near the angel"
+                    "locationVi": "Dreg Heap DLC, found on a corpse near the angel",
+                    "imageUrl": "/images/items/dark-souls-3/aquamarine-dagger.png"
                 },
                 {
                     "name": "Young Dragon Ring",
                     "type": "Ring",
                     "location": "Orbeck quest in Firelink",
-                    "locationVi": "Nhi!m vụ Orbeck"
+                    "locationVi": "Nhi!m vụ Orbeck",
+                    "imageUrl": "/images/items/dark-souls-3/young-dragon-ring.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Irithyll behind illusory wall",
-                    "locationVi": "Irithyll behind illusory wall"
+                    "locationVi": "Irithyll behind illusory wall",
+                    "imageUrl": "/images/items/dark-souls-3/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Sage Ring +2",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/sage-ring-2.png"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Ringed City DLC swamp",
-                    "locationVi": "Ringed City DLC swamp"
+                    "locationVi": "Ringed City DLC swamp",
+                    "imageUrl": "/images/items/dark-souls-3/magic-clutch-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 }
             ],
             "tips": [
@@ -4493,61 +4689,71 @@
                     "name": "Dragonslayer's Axe",
                     "type": "Weapon",
                     "location": "Creighton questline in Irithyll",
-                    "locationVi": "Nhiệm vụ Creighton"
+                    "locationVi": "Nhiệm vụ Creighton",
+                    "imageUrl": "/images/items/dark-souls-3/dragonslayers-axe.png"
                 },
                 {
                     "name": "Lightning Clutch Ring",
                     "type": "Ring",
                     "location": "Archdragon Peak",
-                    "locationVi": "Archdragon Peak"
+                    "locationVi": "Archdragon Peak",
+                    "imageUrl": "/images/items/dark-souls-3/lightning-clutch-ring.png"
                 },
                 {
                     "name": "Lightning Blade",
                     "type": "Weapon",
                     "location": "Irithyll, from the knight",
-                    "locationVi": "Irithyll, from the knight"
+                    "locationVi": "Irithyll, from the knight",
+                    "imageUrl": "/images/items/dark-souls-3/lightning-blade.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Sunlight Straight Sword",
                     "type": "Weapon",
                     "location": "Dropped by Sunlight knights",
-                    "locationVi": "Rơi từ Sunlight knights"
+                    "locationVi": "Rơi từ Sunlight knights",
+                    "imageUrl": "/images/items/dark-souls-3/sunlight-straight-sword.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 }
             ],
             "tips": [
@@ -4707,61 +4913,71 @@
                     "name": "Twin Princes Greatsword",
                     "type": "Weapon",
                     "location": "Transpose Twin Princes souls",
-                    "locationVi": "Chế tạo từ linh hồn"
+                    "locationVi": "Chế tạo từ linh hồn",
+                    "imageUrl": "/images/items/dark-souls-3/twin-princes-greatsword.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, near the door",
-                    "locationVi": "Darkroot Garden, near the door"
+                    "locationVi": "Darkroot Garden, near the door",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Untended Graves",
-                    "locationVi": "Untended Graves"
+                    "locationVi": "Untended Graves",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Magic Clutch Ring",
                     "type": "Ring",
                     "location": "Dreg Heap DLC",
-                    "locationVi": "Dreg Heap DLC"
+                    "locationVi": "Dreg Heap DLC",
+                    "imageUrl": "/images/items/dark-souls-3/magic-clutch-ring.png"
                 },
                 {
                     "name": "Scholar Ring",
                     "type": "Ring",
                     "location": "Grand Archives",
-                    "locationVi": "Grand Archives"
+                    "locationVi": "Grand Archives",
+                    "imageUrl": "/images/items/dark-souls-3/scholar-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Irithyll behind illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -4928,55 +5144,64 @@
                     "name": "Valorheart",
                     "type": "Weapon",
                     "location": "Ringed City DLC, early area",
-                    "locationVi": "Ringed City DLC, early area"
+                    "locationVi": "Ringed City DLC, early area",
+                    "imageUrl": "/images/items/dark-souls-3/valorheart.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Dancer area",
-                    "locationVi": "Dancer area"
+                    "locationVi": "Dancer area",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -5143,61 +5368,71 @@
                     "name": "Onikiri and Ubadachi",
                     "type": "Weapon",
                     "location": "Dropped by NPCs in Grand Archives",
-                    "locationVi": "Rơi từ NPC Grand Archives"
+                    "locationVi": "Rơi từ NPC Grand Archives",
+                    "imageUrl": "/images/items/dark-souls-3/onikiri-and-ubadachi.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Irithyll, after Pontiff Sullivan",
-                    "locationVi": "Irithyll, after Pontiff Sullivan"
+                    "locationVi": "Irithyll, after Pontiff Sullivan",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Pontiff's Left Eye",
                     "type": "Ring",
                     "location": "Irithyll, after Sullivan",
-                    "locationVi": "Irithyll, after Sullivan"
+                    "locationVi": "Irithyll, after Sullivan",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-left-eye.png"
                 },
                 {
                     "name": "Carthus Milkring",
                     "type": "Ring",
                     "location": "Catacombs of Carthus",
-                    "locationVi": "Catacombs of Carthus"
+                    "locationVi": "Catacombs of Carthus",
+                    "imageUrl": "/images/items/dark-souls-3/carthus-milkring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Dancer area",
-                    "locationVi": "Dancer area"
+                    "locationVi": "Dancer area",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 }
             ],
             "tips": [
@@ -5357,61 +5592,71 @@
                     "name": "Frayed Blade",
                     "type": "Weapon",
                     "location": "Transpose Darkeater Midir soul",
-                    "locationVi": "Chế tạo từ linh hồn Midir"
+                    "locationVi": "Chế tạo từ linh hồn Midir",
+                    "imageUrl": "/images/items/dark-souls-3/frayed-blade.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Irithyll after Pontiff",
-                    "locationVi": "Irithyll after Pontiff"
+                    "locationVi": "Irithyll after Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Dancer area",
-                    "locationVi": "Dancer area"
+                    "locationVi": "Dancer area",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Life Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/life-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [
@@ -5578,61 +5823,71 @@
                     "name": "Broken Straight Sword",
                     "type": "Weapon",
                     "location": "Cemetery of Ash, on a corpse near the first bonfire",
-                    "locationVi": "Cemetery of Ash, trên xác chết gần bonfire đầu"
+                    "locationVi": "Cemetery of Ash, trên xác chết gần bonfire đầu",
+                    "imageUrl": "/images/items/dark-souls-3/broken-straight-sword.png"
                 },
                 {
                     "name": "Lloyd's Sword Ring",
                     "type": "Ring",
                     "location": "High Wall of Lothric, near Tower on the Wall",
-                    "locationVi": "High Wall of Lothric, gần Tower on the Wall"
+                    "locationVi": "High Wall of Lothric, gần Tower on the Wall",
+                    "imageUrl": "/images/items/dark-souls-3/lloyds-sword-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transpose từ linh hồn Champion Gundyr"
+                    "locationVi": "Transpose từ linh hồn Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Priestess Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, on a corpse in the church",
-                    "locationVi": "Irithyll, trên xác chết trong nhà thờ"
+                    "locationVi": "Irithyll, trên xác chết trong nhà thờ",
+                    "imageUrl": "/images/items/dark-souls-3/priestess-ring.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 }
             ],
             "tips": [
@@ -5799,61 +6054,71 @@
                     "name": "Patches' Armor Set",
                     "type": "Armor",
                     "location": "Shrine Handmaid after completing Patches' quest",
-                    "locationVi": "Shrine Handmaid sau nhiệm vụ Patches"
+                    "locationVi": "Shrine Handmaid sau nhiệm vụ Patches",
+                    "imageUrl": "/images/items/dark-souls-3/patches-armor-set.png"
                 },
                 {
                     "name": "Winged Spear",
                     "type": "Weapon",
                     "location": "Purchased from Shrine Handmaid or found",
-                    "locationVi": "Mua từ Shrine Handmaid"
+                    "locationVi": "Mua từ Shrine Handmaid",
+                    "imageUrl": "/images/items/dark-souls-3/winged-spear.png"
                 },
                 {
                     "name": "Patches' Shield",
                     "type": "Armor",
                     "location": "Dropped by Patches or purchased after quest",
-                    "locationVi": "Patches rơi ra"
+                    "locationVi": "Patches rơi ra",
+                    "imageUrl": "/images/items/dark-souls-3/patches-shield.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn's soul",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "\"Well, what is it?\" Gesture",
                     "type": "Weapon",
                     "location": "Purchased from Patches",
-                    "locationVi": "Mua từ Patches"
+                    "locationVi": "Mua từ Patches",
+                    "imageUrl": "/images/items/dark-souls-3/well-what-is-it-gesture.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 }
             ],
             "tips": [
@@ -6013,61 +6278,71 @@
                     "name": "Dung Pie",
                     "type": "Weapon",
                     "location": "Shrine Handmaid and various merchants",
-                    "locationVi": "Shrine Handmaid và nhiều merchant"
+                    "locationVi": "Shrine Handmaid và nhiều merchant",
+                    "imageUrl": "/images/items/dark-souls-3/dung-pie.png"
                 },
                 {
                     "name": "Alluring Skull",
                     "type": "Weapon",
                     "location": "Shrine Handmaid",
-                    "locationVi": "Shrine Handmaid"
+                    "locationVi": "Shrine Handmaid",
+                    "imageUrl": "/images/items/dark-souls-3/alluring-skull.png"
                 },
                 {
                     "name": "Undead Hunter Charm",
                     "type": "Weapon",
                     "location": "Shrine Handmaid, found in Undead Settlement",
-                    "locationVi": "Shrine Handmaid, tìm thấy ở Undead Settlement"
+                    "locationVi": "Shrine Handmaid, tìm thấy ở Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/undead-hunter-charm.png"
                 },
                 {
                     "name": "Covetous Gold Serpent Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/covetous-gold-serpent-ring-3.png"
                 },
                 {
                     "name": "Symbol of Avarice",
                     "type": "Armor",
                     "location": "Dropped by mimic in High Wall or Lothric Castle",
-                    "locationVi": "Rơi từ mimic"
+                    "locationVi": "Rơi từ mimic",
+                    "imageUrl": "/images/items/dark-souls-3/symbol-of-avarice.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC near the Shared Grave bonfire",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr's soul",
-                    "locationVi": "Transposed từ Champion Gundyr"
+                    "locationVi": "Transposed từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 }
             ],
             "tips": [
@@ -6234,61 +6509,71 @@
                     "name": "Caestus x2",
                     "type": "Weapon",
                     "location": "Purchased from Shrine Handmaid in Firelink Shrine",
-                    "locationVi": "Mua từ Shrine Handmaid"
+                    "locationVi": "Mua từ Shrine Handmaid",
+                    "imageUrl": "/images/items/dark-souls-3/caestus-x2.png"
                 },
                 {
                     "name": "Pontiff's Right Eye",
                     "type": "Ring",
                     "location": "Transposed from Pontiff Sulyvahn",
-                    "locationVi": "Transpose từ Pontiff"
+                    "locationVi": "Transpose từ Pontiff",
+                    "imageUrl": "/images/items/dark-souls-3/pontiffs-right-eye.png"
                 },
                 {
                     "name": "Chloranthy Ring +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/chloranthy-ring-3.png"
                 },
                 {
                     "name": "Ring of Favor +3",
                     "type": "Ring",
                     "location": "Ringed City DLC",
-                    "locationVi": "Ringed City DLC"
+                    "locationVi": "Ringed City DLC",
+                    "imageUrl": "/images/items/dark-souls-3/ring-of-favor-3.png"
                 },
                 {
                     "name": "Havel's Ring +3",
                     "type": "Ring",
                     "location": "Dreg Heap from Havel Knight",
-                    "locationVi": "Dreg Heap từ Havel Knight"
+                    "locationVi": "Dreg Heap từ Havel Knight",
+                    "imageUrl": "/images/items/dark-souls-3/havels-ring-3.png"
                 },
                 {
                     "name": "Prisoner's Chain",
                     "type": "Ring",
                     "location": "Transposed from Champion Gundyr",
-                    "locationVi": "Transpose từ Champion Gundyr"
+                    "locationVi": "Transpose từ Champion Gundyr",
+                    "imageUrl": "/images/items/dark-souls-3/prisoners-chain.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by Ornstein's sentinel",
-                    "locationVi": "Anor Londo"
+                    "locationVi": "Anor Londo",
+                    "imageUrl": "/images/items/dark-souls-3/leo-ring.png"
                 },
                 {
                     "name": "Knight's Ring",
                     "type": "Ring",
                     "location": "Undead Settlement near the giant tower",
-                    "locationVi": "Undead Settlement"
+                    "locationVi": "Undead Settlement",
+                    "imageUrl": "/images/items/dark-souls-3/knights-ring.png"
                 },
                 {
                     "name": "Hunter's Ring",
                     "type": "Ring",
                     "location": "Irithyll of the Boreal Valley, behind an illusory wall",
-                    "locationVi": "Irithyll"
+                    "locationVi": "Irithyll",
+                    "imageUrl": "/images/items/dark-souls-3/hunters-ring.png"
                 },
                 {
                     "name": "Sun's Firstborn Ring",
                     "type": "Ring",
                     "location": "Irithyll near Church of Yorshka",
-                    "locationVi": "Irithyll gần Church of Yorshka"
+                    "locationVi": "Irithyll gần Church of Yorshka",
+                    "imageUrl": "/images/items/dark-souls-3/suns-firstborn-ring.png"
                 }
             ],
             "tips": [

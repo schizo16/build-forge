@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import type { BuildItem } from "@/lib/utils"
-import { getItemImageUrl } from "@/lib/item-images"
+import { getItemImageUrl, getWikiFallbackUrl } from "@/lib/item-images"
 
 const ITEM_ICONS: Record<string, string> = {
   weapon: '🗡️',
@@ -15,20 +15,30 @@ const ITEM_ICONS: Record<string, string> = {
 }
 
 function ItemImage({ gameSlug, itemName, fallbackIcon }: { gameSlug: string; itemName: string; fallbackIcon: string }) {
+  const [useWiki, setUseWiki] = useState(false)
   const [failed, setFailed] = useState(false)
-  const src = getItemImageUrl(gameSlug, itemName)
+  const localSrc = getItemImageUrl(gameSlug, itemName)
+  const wikiSrc = getWikiFallbackUrl(gameSlug, itemName)
+  const src = useWiki ? wikiSrc : localSrc
 
-  if (!src || failed) {
+  if (failed || !src) {
     return <span className="text-lg">{fallbackIcon}</span>
   }
 
   return (
     <img
+      key={useWiki ? 'wiki' : 'local'}
       src={src}
       alt={itemName}
       className="h-full w-full object-contain p-1"
       loading="lazy"
-      onError={() => setFailed(true)}
+      onError={() => {
+        if (!useWiki) {
+          setUseWiki(true)
+        } else {
+          setFailed(true)
+        }
+      }}
     />
   )
 }

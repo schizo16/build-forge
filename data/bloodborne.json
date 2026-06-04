@@ -144,61 +144,71 @@
                     "name": "Saw Cleaver",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/saw-cleaver.png"
                 },
                 {
                     "name": "Hunter Set",
                     "type": "Armor",
                     "location": "Purchased from Bath Messengers in Hunter's Dream",
-                    "locationVi": "Mua từ Bath Messẽngers"
+                    "locationVi": "Mua từ Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/hunter-set.png"
                 },
                 {
                     "name": "Beast Blood Pellet",
                     "type": "Weapon",
                     "location": "Found throughout Yharnam, commonly in Forbidden Woods",
-                    "locationVi": "Found throughout Yharnam, commonly in Forbidđến Woods"
+                    "locationVi": "Found throughout Yharnam, commonly in Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/beast-blood-pellet.png"
                 },
                 {
                     "name": "Rune Workshop Tool",
                     "type": "Rune",
                     "location": "Hemwick Charnel Lane after Witch of Hemwick",
-                    "locationVi": "Hemwick Charnel Lane after Witch of Hemwick"
+                    "locationVi": "Hemwick Charnel Lane after Witch of Hemwick",
+                    "imageUrl": "/images/items/bloodborne/rune-workshop-tool.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis near Mergo's Loft Middle",
-                    "locationVi": "Nightmare of Mensis gần Mergo's Loft Middle"
+                    "locationVi": "Nightmare of Mensis gần Mergo's Loft Middle",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 }
             ],
             "tips": [
@@ -355,61 +365,71 @@
                     "name": "Ludwig's Holy Blade",
                     "type": "Weapon",
                     "location": "Purchased from Bath Messengers after Sword Hunter Badge",
-                    "locationVi": "Mua từ Bath Messẽngers sau Sword Hunter Badge"
+                    "locationVi": "Mua từ Bath Messẽngers sau Sword Hunter Badge",
+                    "imageUrl": "/images/items/bloodborne/ludwigs-holy-blade.png"
                 },
                 {
                     "name": "Sword Hunter Badge",
                     "type": "Weapon",
                     "location": "Dropped by Cleric Beast in Central Yharnam",
-                    "locationVi": "Rơi từ Cleric Beast"
+                    "locationVi": "Rơi từ Cleric Beast",
+                    "imageUrl": "/images/items/bloodborne/sword-hunter-badge.png"
                 },
                 {
                     "name": "Executioner Set",
                     "type": "Armor",
                     "location": "Cainhurst Castle in a chest near throne room",
-                    "locationVi": "Cainhurst Castle in a chest near throne room"
+                    "locationVi": "Cainhurst Castle in a chest near throne room",
+                    "imageUrl": "/images/items/bloodborne/executioner-set.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
-                    "locationVi": "Nightmare of Mensis hoặc Chalice Dungeon"
+                    "locationVi": "Nightmare of Mensis hoặc Chalice Dungeon",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [
@@ -566,61 +586,71 @@
                     "name": "Chikage",
                     "type": "Weapon",
                     "location": "Cainhurst Castle after killing Martyr Logarius",
-                    "locationVi": "Cainhurst Castle after killing Martyr Logarius"
+                    "locationVi": "Cainhurst Castle after killing Martyr Logarius",
+                    "imageUrl": "/images/items/bloodborne/chikage.png"
                 },
                 {
                     "name": "Evelyn",
                     "type": "Weapon",
                     "location": "Cainhurst Castle near the entrance",
-                    "locationVi": "Cainhurst Castle near the entrance"
+                    "locationVi": "Cainhurst Castle near the entrance",
+                    "imageUrl": "/images/items/bloodborne/evelyn.png"
                 },
                 {
                     "name": "Repeating Pistol",
                     "type": "Weapon",
                     "location": "Central Yharnam from Bath Messengers",
-                    "locationVi": "Central Yharnam từ Bath Messẽngers"
+                    "locationVi": "Central Yharnam từ Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/repeating-pistol.png"
                 },
                 {
                     "name": "Bloodletter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC in Research Hall",
-                    "locationVi": "The Old Hunters DLC in Resẽarch Hall"
+                    "locationVi": "The Old Hunters DLC in Resẽarch Hall",
+                    "imageUrl": "/images/items/bloodborne/bloodletter.png"
                 },
                 {
                     "name": "Cainhurst Set",
                     "type": "Armor",
                     "location": "Cainhurst Castle in floating chairs area",
-                    "locationVi": "Cainhurst Castle in floating chairs area"
+                    "locationVi": "Cainhurst Castle in floating chairs area",
+                    "imageUrl": "/images/items/bloodborne/cainhurst-set.png"
                 },
                 {
                     "name": "Bone Marrow Ash",
                     "type": "Weapon",
                     "location": "Found throughout game, purchased from Messengers",
-                    "locationVi": "Found throughout game, purchasẽd from Messẽngers"
+                    "locationVi": "Found throughout game, purchasẽd from Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/bone-marrow-ash.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 }
             ],
             "tips": [
@@ -777,61 +807,71 @@
                     "name": "Rakuyo",
                     "type": "Weapon",
                     "location": "Fishing Hamlet DLC after defeating Shark Giants",
-                    "locationVi": "Fishing Hamlet DLC after đểfeating Shark Giants"
+                    "locationVi": "Fishing Hamlet DLC after đểfeating Shark Giants",
+                    "imageUrl": "/images/items/bloodborne/rakuyo.png"
                 },
                 {
                     "name": "Threaded Cane",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/threaded-cane.png"
                 },
                 {
                     "name": "Hunter Set",
                     "type": "Armor",
                     "location": "Purchased from Bath Messengers",
-                    "locationVi": "Mua từ Bath Messẽngers"
+                    "locationVi": "Mua từ Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/hunter-set.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
-                    "locationVi": "Nightmare of Mensis hoặc Chalice Dungeon"
+                    "locationVi": "Nightmare of Mensis hoặc Chalice Dungeon",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [
@@ -988,61 +1028,71 @@
                     "name": "Beast Claw",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, near the Ludwig boss arena",
-                    "locationVi": "DLC The Old Hunters gần Ludwig"
+                    "locationVi": "DLC The Old Hunters gần Ludwig",
+                    "imageUrl": "/images/items/bloodborne/beast-claw.png"
                 },
                 {
                     "name": "Beast's Embrace Rune",
                     "type": "Rune",
                     "location": "The Old Hunters DLC, dropped by Laurence the First Vicar",
-                    "locationVi": "DLC The Old Hunters từ Laurence"
+                    "locationVi": "DLC The Old Hunters từ Laurence",
+                    "imageUrl": "/images/items/bloodborne/beasts-embrace-rune.png"
                 },
                 {
                     "name": "Beast Blood Pellet",
                     "type": "Weapon",
                     "location": "Found throughout Yharnam",
-                    "locationVi": "Found throughout Yharnam"
+                    "locationVi": "Found throughout Yharnam",
+                    "imageUrl": "/images/items/bloodborne/beast-blood-pellet.png"
                 },
                 {
                     "name": "Hunter Set",
                     "type": "Armor",
                     "location": "Purchased from Bath Messengers",
-                    "locationVi": "Mua từ Bath Messẽngers"
+                    "locationVi": "Mua từ Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/hunter-set.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [
@@ -1199,61 +1249,71 @@
                     "name": "Kos Parasite",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, traded from Orphan of Kos soul",
-                    "locationVi": "DLC The Old Hunters từ linh hồn Orphan of Kos"
+                    "locationVi": "DLC The Old Hunters từ linh hồn Orphan of Kos",
+                    "imageUrl": "/images/items/bloodborne/kos-parasite.png"
                 },
                 {
                     "name": "Milkweed Rune",
                     "type": "Rune",
                     "location": "The Old Hunters DLC from Saint Adeline's quest",
-                    "locationVi": "DLC The Old Hunters từ nhiệm vụ Saint Ađểline"
+                    "locationVi": "DLC The Old Hunters từ nhiệm vụ Saint Ađểline",
+                    "imageUrl": "/images/items/bloodborne/milkweed-rune.png"
                 },
                 {
                     "name": "Augur of Ebrietas",
                     "type": "Weapon",
                     "location": "Byrgenwerth, dropped by a student enemy near the lamp",
-                    "locationVi": "Byrgenwerth, dropped by a stuđếnt enemy near the lamp"
+                    "locationVi": "Byrgenwerth, dropped by a stuđếnt enemy near the lamp",
+                    "imageUrl": "/images/items/bloodborne/augur-of-ebrietas.png"
                 },
                 {
                     "name": "Flamesprayer",
                     "type": "Weapon",
                     "location": "Central Yharnam, rescued from Gilbert NPC",
-                    "locationVi": "Central Yharnam từ Gilbert"
+                    "locationVi": "Central Yharnam từ Gilbert",
+                    "imageUrl": "/images/items/bloodborne/flamesprayer.png"
                 },
                 {
                     "name": "Executioner's Gloves",
                     "type": "Weapon",
                     "location": "Cainhurst Castle found on a corpse",
-                    "locationVi": "Cainhurst Castle found on a corpsẽ"
+                    "locationVi": "Cainhurst Castle found on a corpsẽ",
+                    "imageUrl": "/images/items/bloodborne/executioners-gloves.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 }
             ],
             "tips": [
@@ -1417,61 +1477,71 @@
                     "name": "Simon's Bowblade",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC from Simon's questline",
-                    "locationVi": "DLC The Old Hunters từ nhiệm vụ Simon"
+                    "locationVi": "DLC The Old Hunters từ nhiệm vụ Simon",
+                    "imageUrl": "/images/items/bloodborne/simons-bowblade.png"
                 },
                 {
                     "name": "Hunter's Bone",
                     "type": "Weapon",
                     "location": "Forbidden Woods, found in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods gần đầm độc"
+                    "locationVi": "Forbidđến Woods gần đầm độc",
+                    "imageUrl": "/images/items/bloodborne/hunters-bone.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Found in the Forbidden Woods",
-                    "locationVi": "Found in the Forbidđến Woods"
+                    "locationVi": "Found in the Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
-                    "locationVi": "Nightmare of Mensis hoặc Chalice"
+                    "locationVi": "Nightmare of Mensis hoặc Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -1628,61 +1698,71 @@
                     "name": "Whirligig Saw",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Nightmare version near the first lamp",
-                    "locationVi": "The Old Hunters DLC, found in the Nightmare version near the first lamp"
+                    "locationVi": "The Old Hunters DLC, found in the Nightmare version near the first lamp",
+                    "imageUrl": "/images/items/bloodborne/whirligig-saw.png"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/hunter-axe.png"
                 },
                 {
                     "name": "Beast Blood Pellet",
                     "type": "Weapon",
                     "location": "Found throughout Yharnam",
-                    "locationVi": "Found throughout Yharnam"
+                    "locationVi": "Found throughout Yharnam",
+                    "imageUrl": "/images/items/bloodborne/beast-blood-pellet.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice bosses",
-                    "locationVi": "Nightmare of Mensis hoặc Chalice"
+                    "locationVi": "Nightmare of Mensis hoặc Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [
@@ -1839,61 +1919,71 @@
                     "name": "Beast Cutter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Hunter's Nightmare",
-                    "locationVi": "The Old Hunters DLC, found in the Hunter's Nightmare"
+                    "locationVi": "The Old Hunters DLC, found in the Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/beast-cutter.png"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased from Bath Messengers",
-                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers"
+                    "locationVi": "khởi đầu weapon or purchasẽd from Bath Messẽngers",
+                    "imageUrl": "/images/items/bloodborne/hunter-axe.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -2050,61 +2140,71 @@
                     "name": "Amygdalan Arm",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, Hunter's Nightmare near Ludwig's arena",
-                    "locationVi": "The Old Hunters DLC, Hunter's Nightmare near Ludwig's arena"
+                    "locationVi": "The Old Hunters DLC, Hunter's Nightmare near Ludwig's arena",
+                    "imageUrl": "/images/items/bloodborne/amygdalan-arm.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Elemental Gems",
                     "type": "Weapon",
                     "location": "Chalice Dungeons or DLC",
-                    "locationVi": "Chalice Dungeons or DLC"
+                    "locationVi": "Chalice Dungeons or DLC",
+                    "imageUrl": "/images/items/bloodborne/elemental-gems.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -2261,61 +2361,71 @@
                     "name": "Church Pick",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Hunter's Nightmare near the cave",
-                    "locationVi": "The Old Hunters DLC, found in the Hunter's Nightmare near the cave"
+                    "locationVi": "The Old Hunters DLC, found in the Hunter's Nightmare near the cave",
+                    "imageUrl": "/images/items/bloodborne/church-pick.png"
                 },
                 {
                     "name": "Saw Cleaver",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "khởi đầu weapon or purchasẽd"
+                    "locationVi": "khởi đầu weapon or purchasẽd",
+                    "imageUrl": "/images/items/bloodborne/saw-cleaver.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -2472,61 +2582,71 @@
                     "name": "Blade of Mercy",
                     "type": "Weapon",
                     "location": "Eileen the Crow's questline reward",
-                    "locationVi": "Phần thưxng nhi!m vụ Eileen"
+                    "locationVi": "Phần thưxng nhi!m vụ Eileen",
+                    "imageUrl": "/images/items/bloodborne/blade-of-mercy.png"
                 },
                 {
                     "name": "Threaded Cane",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "khởi đầu weapon or purchasẽd"
+                    "locationVi": "khởi đầu weapon or purchasẽd",
+                    "imageUrl": "/images/items/bloodborne/threaded-cane.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Found throughout Yharnam",
-                    "locationVi": "Khắp Yharnam"
+                    "locationVi": "Khắp Yharnam",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -2683,61 +2803,71 @@
                     "name": "Reiterpallasch",
                     "type": "Weapon",
                     "location": "Cainhurst Castle, found in a chest near the boss",
-                    "locationVi": "Cainhurst Castle, found in a chest near the boss"
+                    "locationVi": "Cainhurst Castle, found in a chest near the boss",
+                    "imageUrl": "/images/items/bloodborne/reiterpallasch.png"
                 },
                 {
                     "name": "Evelyn",
                     "type": "Weapon",
                     "location": "Cainhurst Castle near the entrance",
-                    "locationVi": "Cainhurst Castle near the entrance"
+                    "locationVi": "Cainhurst Castle near the entrance",
+                    "imageUrl": "/images/items/bloodborne/evelyn.png"
                 },
                 {
                     "name": "Bone Marrow Ash",
                     "type": "Weapon",
                     "location": "Found throughout the game",
-                    "locationVi": "Khắp game"
+                    "locationVi": "Khắp game",
+                    "imageUrl": "/images/items/bloodborne/bone-marrow-ash.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [
@@ -2894,61 +3024,71 @@
                     "name": "Burial Blade",
                     "type": "Weapon",
                     "location": "Purchase from Bath Messengers after defeating Gehrman",
-                    "locationVi": "Mua từ Bath Messẽngers sau Gehrman"
+                    "locationVi": "Mua từ Bath Messẽngers sau Gehrman",
+                    "imageUrl": "/images/items/bloodborne/burial-blade.png"
                 },
                 {
                     "name": "Ludwig's Holy Blade",
                     "type": "Weapon",
                     "location": "Purchased after Sword Hunter Badge",
-                    "locationVi": "Purchasẽd after Sword Hunter Badge"
+                    "locationVi": "Purchasẽd after Sword Hunter Badge",
+                    "imageUrl": "/images/items/bloodborne/ludwigs-holy-blade.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -3105,55 +3245,64 @@
                     "name": "Stake Driver",
                     "type": "Weapon",
                     "location": "Central Yharnam, found near the first lamp behind a gate",
-                    "locationVi": "Central Yharnam, found near the first lamp behind a gate"
+                    "locationVi": "Central Yharnam, found near the first lamp behind a gate",
+                    "imageUrl": "/images/items/bloodborne/stake-driver.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -3310,55 +3459,64 @@
                     "name": "Tonitrus",
                     "type": "Weapon",
                     "location": "Yahargul, found on a body near the Hypogean Gaol lamp",
-                    "locationVi": "Yahargul, found on a body near the Hypogean Gaol lamp"
+                    "locationVi": "Yahargul, found on a body near the Hypogean Gaol lamp",
+                    "imageUrl": "/images/items/bloodborne/tonitrus.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -3515,55 +3673,64 @@
                     "name": "Holy Moonlight Sword",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, traded from Ludwig's soul",
-                    "locationVi": "DLC The Old Hunters từ linh hn Ludwig"
+                    "locationVi": "DLC The Old Hunters từ linh hn Ludwig",
+                    "imageUrl": "/images/items/bloodborne/holy-moonlight-sword.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -3720,61 +3887,71 @@
                     "name": "Logarius Wheel",
                     "type": "Weapon",
                     "location": "Purchased from Bath Messengers after Martyr Logarius soul",
-                    "locationVi": "Mua từ Bath Messẽngers sau linh hn Logarius"
+                    "locationVi": "Mua từ Bath Messẽngers sau linh hn Logarius",
+                    "imageUrl": "/images/items/bloodborne/logarius-wheel.png"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "khởi đầu weapon or purchasẽd"
+                    "locationVi": "khởi đầu weapon or purchasẽd",
+                    "imageUrl": "/images/items/bloodborne/hunter-axe.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -3931,61 +4108,71 @@
                     "name": "Boom Hammer",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, Hunter's Nightmare near the beginning",
-                    "locationVi": "The Old Hunters DLC, Hunter's Nightmare near the beginning"
+                    "locationVi": "The Old Hunters DLC, Hunter's Nightmare near the beginning",
+                    "imageUrl": "/images/items/bloodborne/boom-hammer.png"
                 },
                 {
                     "name": "Hunter Axe",
                     "type": "Weapon",
                     "location": "Starting weapon or purchased",
-                    "locationVi": "khởi đầu weapon or purchasẽd"
+                    "locationVi": "khởi đầu weapon or purchasẽd",
+                    "imageUrl": "/images/items/bloodborne/hunter-axe.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -4142,61 +4329,71 @@
                     "name": "Bloodletter",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, found in the Research Hall",
-                    "locationVi": "The Old Hunters DLC, found in the Resẽarch Hall"
+                    "locationVi": "The Old Hunters DLC, found in the Resẽarch Hall",
+                    "imageUrl": "/images/items/bloodborne/bloodletter.png"
                 },
                 {
                     "name": "Chikage",
                     "type": "Weapon",
                     "location": "Cainhurst Castle after Martyr Logarius",
-                    "locationVi": "Cainhurst Castle after Martyr Logarius"
+                    "locationVi": "Cainhurst Castle after Martyr Logarius",
+                    "imageUrl": "/images/items/bloodborne/chikage.png"
                 },
                 {
                     "name": "Blood Rock",
                     "type": "Weapon",
                     "location": "Nightmare of Mensis or Depth 5 Chalice",
-                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice"
+                    "locationVi": "Nightmare of Mensis or đểpth 5 Chalice",
+                    "imageUrl": "/images/items/bloodborne/blood-rock.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -4353,61 +4550,71 @@
                     "name": "Beasthunter Saif",
                     "type": "Weapon",
                     "location": "The Old Hunters DLC, Nightmare",
-                    "locationVi": "The Old Hunters DLC, Nightmare"
+                    "locationVi": "The Old Hunters DLC, Nightmare",
+                    "imageUrl": "/images/items/bloodborne/beasthunter-saif.png"
                 },
                 {
                     "name": "Old Hunter's Bone",
                     "type": "Armor",
                     "location": "Old Yharnam, inside the church",
-                    "locationVi": "Old Yharnam, insiđể the church"
+                    "locationVi": "Old Yharnam, insiđể the church",
+                    "imageUrl": "/images/items/bloodborne/old-hunters-bone.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, from the gargoyles",
-                    "locationVi": "Cainhurst Castle, from the gargoyles"
+                    "locationVi": "Cainhurst Castle, from the gargoyles",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Hunter Rune",
                     "type": "Rune",
                     "location": "Unlock with the Hunter Covenant",
-                    "locationVi": "Unlock với the Hunter Covenant"
+                    "locationVi": "Unlock với the Hunter Covenant",
+                    "imageUrl": "/images/items/bloodborne/hunter-rune.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the Amygdala",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 }
             ],
             "tips": [
@@ -4564,61 +4771,71 @@
                     "name": "Simon's Bowblade",
                     "type": "Weapon",
                     "location": "DLC, Fishing Hamlet from Simon's body",
-                    "locationVi": "DLC, Fishing Hamlet from Simon's body"
+                    "locationVi": "DLC, Fishing Hamlet from Simon's body",
+                    "imageUrl": "/images/items/bloodborne/simons-bowblade.png"
                 },
                 {
                     "name": "Bone Marrow Ash",
                     "type": "Weapon",
                     "location": "Purchased from messengers",
-                    "locationVi": "Mua từ messẽngers"
+                    "locationVi": "Mua từ messẽngers",
+                    "imageUrl": "/images/items/bloodborne/bone-marrow-ash.png"
                 },
                 {
                     "name": "Great One's Wisdom",
                     "type": "Rune",
                     "location": "Byrgenwerth",
-                    "locationVi": "Byrgenwerth"
+                    "locationVi": "Byrgenwerth",
+                    "imageUrl": "/images/items/bloodborne/great-ones-wisdom.png"
                 },
                 {
                     "name": "Eye of the Night",
                     "type": "Rune",
                     "location": "Nightmare of Mensis",
-                    "locationVi": "Nightmare of Mensis"
+                    "locationVi": "Nightmare of Mensis",
+                    "imageUrl": "/images/items/bloodborne/eye-of-the-night.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [
@@ -4775,61 +4992,71 @@
                     "name": "Church Cannon",
                     "type": "Weapon",
                     "location": "DLC, Research Hall upper floor",
-                    "locationVi": "DLC, Resẽarch Hall upper floor"
+                    "locationVi": "DLC, Resẽarch Hall upper floor",
+                    "imageUrl": "/images/items/bloodborne/church-cannon.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis",
                     "type": "Rune",
                     "location": "Central Yharnam sewer",
-                    "locationVi": "Central Yharnam sẽwer"
+                    "locationVi": "Central Yharnam sẽwer",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis.png"
                 },
                 {
                     "name": "Beast Rune",
                     "type": "Rune",
                     "location": "Unlock from the Beast Covenant",
-                    "locationVi": "Unlock from the Beast Covenant"
+                    "locationVi": "Unlock from the Beast Covenant",
+                    "imageUrl": "/images/items/bloodborne/beast-rune.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [
@@ -4986,55 +5213,64 @@
                     "name": "Chikage",
                     "type": "Weapon",
                     "location": "Cainhurst Castle after Logarius",
-                    "locationVi": "Cainhurst Castle after Logarius"
+                    "locationVi": "Cainhurst Castle after Logarius",
+                    "imageUrl": "/images/items/bloodborne/chikage.png"
                 },
                 {
                     "name": "Piercing Rifle",
                     "type": "Weapon",
                     "location": "DLC, Research Hall basement",
-                    "locationVi": "DLC, Resẽarch Hall basẽment"
+                    "locationVi": "DLC, Resẽarch Hall basẽment",
+                    "imageUrl": "/images/items/bloodborne/piercing-rifle.png"
                 },
                 {
                     "name": "Great Lake Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/great-lake-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 }
             ],
             "tips": [
@@ -5191,61 +5427,71 @@
                     "name": "Fist of Gratia",
                     "type": "Weapon",
                     "location": "DLC, Research Hall by the elevator",
-                    "locationVi": "DLC, Resẽarch Hall by the elevator"
+                    "locationVi": "DLC, Resẽarch Hall by the elevator",
+                    "imageUrl": "/images/items/bloodborne/fist-of-gratia.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis",
                     "type": "Rune",
                     "location": "Central Yharnam sewer",
-                    "locationVi": "Central Yharnam sẽwer"
+                    "locationVi": "Central Yharnam sẽwer",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis.png"
                 },
                 {
                     "name": "Formless Oedon",
                     "type": "Rune",
                     "location": "Iosefka's Clinic",
-                    "locationVi": "Iosẽfka's Clinic"
+                    "locationVi": "Iosẽfka's Clinic",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon.png"
                 },
                 {
                     "name": "Beast Rune",
                     "type": "Rune",
                     "location": "Beast Covenant",
-                    "locationVi": "Beast Covenant"
+                    "locationVi": "Beast Covenant",
+                    "imageUrl": "/images/items/bloodborne/beast-rune.png"
                 },
                 {
                     "name": "Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Nightmare Frontier on a corpse near the poison lake",
-                    "locationVi": "Nightmare Frontier"
+                    "locationVi": "Nightmare Frontier",
+                    "imageUrl": "/images/items/bloodborne/clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Anti-Clockwise Metamorphosis Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods on a corpse near the snake area",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/anti-clockwise-metamorphosis-rune.png"
                 },
                 {
                     "name": "Blood Rapture Rune",
                     "type": "Rune",
                     "location": "Cainhurst Castle, dropped by the gargoyle enemies",
-                    "locationVi": "Cainhurst Castle"
+                    "locationVi": "Cainhurst Castle",
+                    "imageUrl": "/images/items/bloodborne/blood-rapture-rune.png"
                 },
                 {
                     "name": "Oedon Writhe Rune",
                     "type": "Rune",
                     "location": "Cathedral Ward, obtained from the NPC Alfred questline",
-                    "locationVi": "Cathedral Ward"
+                    "locationVi": "Cathedral Ward",
+                    "imageUrl": "/images/items/bloodborne/oedon-writhe-rune.png"
                 },
                 {
                     "name": "Formless Oedon Rune",
                     "type": "Rune",
                     "location": "Forbidden Woods in a cave near the poison swamp",
-                    "locationVi": "Forbidđến Woods"
+                    "locationVi": "Forbidđến Woods",
+                    "imageUrl": "/images/items/bloodborne/formless-oedon-rune.png"
                 },
                 {
                     "name": "Clawmark Rune",
                     "type": "Rune",
                     "location": "Hunter's Nightmare from the Beast Hunter enemies",
-                    "locationVi": "Hunter's Nightmare"
+                    "locationVi": "Hunter's Nightmare",
+                    "imageUrl": "/images/items/bloodborne/clawmark-rune.png"
                 }
             ],
             "tips": [

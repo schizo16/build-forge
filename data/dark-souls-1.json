@@ -145,61 +145,71 @@
                     "name": "Zweihander",
                     "type": "Weapon",
                     "location": "Firelink Shrine graveyard, found on a corpse",
-                    "locationVi": "Firelink Shrine graveyard, found on a corpsẽ"
+                    "locationVi": "Firelink Shrine graveyard, found on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-1/zweihander.png"
                 },
                 {
                     "name": "Mask of the Father",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in the Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-father.png"
                 },
                 {
                     "name": "Giant's Armor Set",
                     "type": "Armor",
                     "location": "Anor Londo, purchased from the giant blacksmith",
-                    "locationVi": "Anor Londo, purchasẽd from the giant blacksmith"
+                    "locationVi": "Anor Londo, purchasẽd from the giant blacksmith",
+                    "imageUrl": "/images/items/dark-souls-1/giants-armor-set.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo, behind a locked door in a tower",
-                    "locationVi": "Anor Londo, behind a locked door in a tower"
+                    "locationVi": "Anor Londo, behind a locked door in a tower",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, ring found behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau còn chuột khổng lồ trong cống"
+                    "locationVi": "Unđểad Parish, sau còn chuột khổng lồ trong cống",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Chaos Ember",
                     "type": "Weapon",
                     "location": "Demon Ruins, found near the Centipede Demon boss fog",
-                    "locationVi": "đểmon Ruins, gần Centipeđể đểmon boss fog"
+                    "locationVi": "đểmon Ruins, gần Centipeđể đểmon boss fog",
+                    "imageUrl": "/images/items/dark-souls-1/chaos-ember.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 }
             ],
             "tips": [
@@ -365,61 +375,71 @@
                     "name": "Tin Crystalization Catalyst",
                     "type": "Weapon",
                     "location": "Duke's Archives, found in a cell near the bonfire",
-                    "locationVi": "Duke's Archives, found in a cell near the bonfire"
+                    "locationVi": "Duke's Archives, found in a cell near the bonfire",
+                    "imageUrl": "/images/items/dark-souls-1/tin-crystalization-catalyst.png"
                 },
                 {
                     "name": "Manus Catalyst",
                     "type": "Weapon",
                     "location": "DLC, crafted from Manus's soul at the blacksmith",
-                    "locationVi": "DLC, chế tạo từ linh hồn Manus"
+                    "locationVi": "DLC, chế tạo từ linh hồn Manus",
+                    "imageUrl": "/images/items/dark-souls-1/manus-catalyst.png"
                 },
                 {
                     "name": "Logan's Catalyst",
                     "type": "Weapon",
                     "location": "Duke's Archives, acquired after Logan goes hollow",
-                    "locationVi": "Duke's Archives, acquired after Logan goes hollow"
+                    "locationVi": "Duke's Archives, acquired after Logan goes hollow",
+                    "imageUrl": "/images/items/dark-souls-1/logans-catalyst.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs of Vinheim after rescuing him",
-                    "locationVi": "Mua từ Griggs of Vinheim sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs of Vinheim sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Dusk Crown Ring",
                     "type": "Ring",
                     "location": "Darkroot Basin, in a golem near the Hydra",
-                    "locationVi": "đãrkroot Basin, trong golem gần Hydra"
+                    "locationVi": "đãrkroot Basin, trong golem gần Hydra",
+                    "imageUrl": "/images/items/dark-souls-1/dusk-crown-ring.png"
                 },
                 {
                     "name": "Crown of Dusk",
                     "type": "Armor",
                     "location": "Darkroot Basin, after killing the golden golem near the Hydra",
-                    "locationVi": "đãrkroot Basin, sau khi giết golđến golem gần Hydra"
+                    "locationVi": "đãrkroot Basin, sau khi giết golđến golem gần Hydra",
+                    "imageUrl": "/images/items/dark-souls-1/crown-of-dusk.png"
                 },
                 {
                     "name": "Dark Wood Grain Ring",
                     "type": "Ring",
                     "location": "DLC, found in the Royal Wood",
-                    "locationVi": "DLC, found in the Royal Wood"
+                    "locationVi": "DLC, found in the Royal Wood",
+                    "imageUrl": "/images/items/dark-souls-1/dark-wood-grain-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 }
             ],
             "tips": [
@@ -585,61 +605,71 @@
                     "name": "Claymore",
                     "type": "Weapon",
                     "location": "Undead Burg, on the Hellkite Dragon bridge",
-                    "locationVi": "Unđểad Burg, on the Hellkite Dragon bridge"
+                    "locationVi": "Unđểad Burg, on the Hellkite Dragon bridge",
+                    "imageUrl": "/images/items/dark-souls-1/claymore.png"
                 },
                 {
                     "name": "Dragon Crest Shield",
                     "type": "Armor",
                     "location": "Undead Parish, found behind the locked gate near the Hellkite bridge",
-                    "locationVi": "Unđểad Parish, sau công kha gn cũ Hellkite"
+                    "locationVi": "Unđểad Parish, sau công kha gn cũ Hellkite",
+                    "imageUrl": "/images/items/dark-souls-1/dragon-crest-shield.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind a giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ trong cống"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ trong cống",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Hornet Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, behind the hidden wall near the Artorias door",
-                    "locationVi": "đãrkroot Garđến, sau tường ẩn gần cửa Artorias"
+                    "locationVi": "đãrkroot Garđến, sau tường ẩn gần cửa Artorias",
+                    "imageUrl": "/images/items/dark-souls-1/hornet-ring.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by the Ornstein sentinel",
-                    "locationVi": "Anor Londo, rơi từ Ornstein sẽntinel"
+                    "locationVi": "Anor Londo, rơi từ Ornstein sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -805,61 +835,71 @@
                     "name": "Zweihander",
                     "type": "Weapon",
                     "location": "Firelink Shrine graveyard",
-                    "locationVi": "Nghĩa trang Firelink Shrine"
+                    "locationVi": "Nghĩa trang Firelink Shrine",
+                    "imageUrl": "/images/items/dark-souls-1/zweihander.png"
                 },
                 {
                     "name": "Chaos Ember",
                     "type": "Weapon",
                     "location": "Demon Ruins, near the Centipede Demon boss fog",
-                    "locationVi": "đểmon Ruins, gần Centipeđể đểmon"
+                    "locationVi": "đểmon Ruins, gần Centipeđể đểmon",
+                    "imageUrl": "/images/items/dark-souls-1/chaos-ember.png"
                 },
                 {
                     "name": "Power Within",
                     "type": "Weapon",
                     "location": "Blighttown, on a corpse near the giant leech swamp",
-                    "locationVi": "Blighttown, on a corpsẽ near the giant leech swamp"
+                    "locationVi": "Blighttown, on a corpsẽ near the giant leech swamp",
+                    "imageUrl": "/images/items/dark-souls-1/power-within.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo, behind a locked tower door",
-                    "locationVi": "Anor Londo, behind a locked tower door"
+                    "locationVi": "Anor Londo, behind a locked tower door",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -1025,61 +1065,71 @@
                     "name": "Falchion",
                     "type": "Weapon",
                     "location": "Blighttown or purchased from Shiva of the East",
-                    "locationVi": "Blighttown hoặc mua từ Shiva of the East"
+                    "locationVi": "Blighttown hoặc mua từ Shiva of the East",
+                    "imageUrl": "/images/items/dark-souls-1/falchion.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin, behind the Black Knight",
-                    "locationVi": "đãrkroot Basin, behind the Black Knight"
+                    "locationVi": "đãrkroot Basin, behind the Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs of Vinheim",
-                    "locationVi": "Mua từ Griggs of Vinheim"
+                    "locationVi": "Mua từ Griggs of Vinheim",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Dark Wood Grain Ring",
                     "type": "Ring",
                     "location": "DLC, found in the Royal Wood",
-                    "locationVi": "DLC, found in the Royal Wood"
+                    "locationVi": "DLC, found in the Royal Wood",
+                    "imageUrl": "/images/items/dark-souls-1/dark-wood-grain-ring.png"
                 },
                 {
                     "name": "Hornet Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, hidden behind a tree",
-                    "locationVi": "đãrkroot Garđến, hidđến behind a tree"
+                    "locationVi": "đãrkroot Garđến, hidđến behind a tree",
+                    "imageUrl": "/images/items/dark-souls-1/hornet-ring.png"
                 },
                 {
                     "name": "Crystal Magic Weapon",
                     "type": "Weapon",
                     "location": "Purchased from Big Hat Logan in Duke's Archives",
-                    "locationVi": "Mua từ Big Hat Logan ở Duke's Archives"
+                    "locationVi": "Mua từ Big Hat Logan ở Duke's Archives",
+                    "imageUrl": "/images/items/dark-souls-1/crystal-magic-weapon.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 }
             ],
             "tips": [
@@ -1245,61 +1295,71 @@
                     "name": "Canvas Talisman",
                     "type": "Weapon",
                     "location": "Purchased from Petrus of Thorolund in Firelink Shrine",
-                    "locationVi": "Mua từ Petrus of Thorolund ở Firelink Shrine"
+                    "locationVi": "Mua từ Petrus of Thorolund ở Firelink Shrine",
+                    "imageUrl": "/images/items/dark-souls-1/canvas-talisman.png"
                 },
                 {
                     "name": "Divine Ember",
                     "type": "Weapon",
                     "location": "Darkroot Garden, in a chest in the tower behind the Moonlight Butterfly",
-                    "locationVi": "đãrkroot Garđến, trong rương sau Moonlight Butterfly"
+                    "locationVi": "đãrkroot Garđến, trong rương sau Moonlight Butterfly",
+                    "imageUrl": "/images/items/dark-souls-1/divine-ember.png"
                 },
                 {
                     "name": "Ring of the Sun's Firstborn",
                     "type": "Ring",
                     "location": "Found in the Tomb of the Giants, on a corpse near the second bonfire",
-                    "locationVi": "Found in the Tomb of the Giants, on a corpsẽ near the sẽcònd bonfire"
+                    "locationVi": "Found in the Tomb of the Giants, on a corpsẽ near the sẽcònd bonfire",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-the-suns-firstborn.png"
                 },
                 {
                     "name": "Wrath of the Gods",
                     "type": "Weapon",
                     "location": "Purchased from Reah of Thorolund after rescuing her from Tomb of the Giants",
-                    "locationVi": "Purchasẽd from Reah of Thorolund after rescuing her from Tomb of the Giants"
+                    "locationVi": "Purchasẽd from Reah of Thorolund after rescuing her from Tomb of the Giants",
+                    "imageUrl": "/images/items/dark-souls-1/wrath-of-the-gods.png"
                 },
                 {
                     "name": "Great Heal",
                     "type": "Weapon",
                     "location": "Purchased from Petrus of Thorolund",
-                    "locationVi": "Mua từ Petrus of Thorolund"
+                    "locationVi": "Mua từ Petrus of Thorolund",
+                    "imageUrl": "/images/items/dark-souls-1/great-heal.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -1465,61 +1525,71 @@
                     "name": "Great Club",
                     "type": "Weapon",
                     "location": "Blighttown, behind the ogre near the swamp bonfire",
-                    "locationVi": "Blighttown, sau ogre gần bonfire đầm lầy"
+                    "locationVi": "Blighttown, sau ogre gần bonfire đầm lầy",
+                    "imageUrl": "/images/items/dark-souls-1/great-club.png"
                 },
                 {
                     "name": "Dragon Tooth",
                     "type": "Weapon",
                     "location": "Anor Londo, in a chest behind the giant sentinels",
-                    "locationVi": "Anor Londo, trong rương sau giant sẽntinels"
+                    "locationVi": "Anor Londo, trong rương sau giant sẽntinels",
+                    "imageUrl": "/images/items/dark-souls-1/dragon-tooth.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo, locked tower behind the mimic",
-                    "locationVi": "Anor Londo, locked tower behind the mimic"
+                    "locationVi": "Anor Londo, locked tower behind the mimic",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, behind the sealed door (requires Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến, behind the sẽaled door (requires Crest of Artorias)"
+                    "locationVi": "đãrkroot Garđến, behind the sẽaled door (requires Crest of Artorias)",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Large Club",
                     "type": "Weapon",
                     "location": "Blighttown, dropped by the ogres",
-                    "locationVi": "Blighttown, rơi từ ogre"
+                    "locationVi": "Blighttown, rơi từ ogre",
+                    "imageUrl": "/images/items/dark-souls-1/large-club.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -1685,61 +1755,71 @@
                     "name": "Manus Catalyst",
                     "type": "Weapon",
                     "location": "DLC, crafted from Manus's soul at the giant blacksmith",
-                    "locationVi": "DLC, chế tạo từ linh hồn Manus"
+                    "locationVi": "DLC, chế tạo từ linh hồn Manus",
+                    "imageUrl": "/images/items/dark-souls-1/manus-catalyst.png"
                 },
                 {
                     "name": "Tin Crystalization Catalyst",
                     "type": "Weapon",
                     "location": "Duke's Archives, in a cell near the bonfire",
-                    "locationVi": "Duke's Archives, gần bonfire"
+                    "locationVi": "Duke's Archives, gần bonfire",
+                    "imageUrl": "/images/items/dark-souls-1/tin-crystalization-catalyst.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs of Vinheim",
-                    "locationVi": "Mua từ Griggs of Vinheim"
+                    "locationVi": "Mua từ Griggs of Vinheim",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Dusk Crown Ring",
                     "type": "Ring",
                     "location": "Darkroot Basin, from the golden golem",
-                    "locationVi": "đãrkroot Basin, từ golđến golem"
+                    "locationVi": "đãrkroot Basin, từ golđến golem",
+                    "imageUrl": "/images/items/dark-souls-1/dusk-crown-ring.png"
                 },
                 {
                     "name": "Crown of Dusk",
                     "type": "Armor",
                     "location": "Darkroot Basin, after killing the golden golem",
-                    "locationVi": "đãrkroot Basin, sau khi giết golđến golem"
+                    "locationVi": "đãrkroot Basin, sau khi giết golđến golem",
+                    "imageUrl": "/images/items/dark-souls-1/crown-of-dusk.png"
                 },
                 {
                     "name": "Dark Bead",
                     "type": "Weapon",
                     "location": "DLC, crafted from Manus's soul at the blacksmith",
-                    "locationVi": "DLC, crafted from Manus's soul at the blacksmith"
+                    "locationVi": "DLC, crafted from Manus's soul at the blacksmith",
+                    "imageUrl": "/images/items/dark-souls-1/dark-bead.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 }
             ],
             "tips": [
@@ -1905,61 +1985,71 @@
                     "name": "Claymore",
                     "type": "Weapon",
                     "location": "Undead Burg on Hellkite Dragon bridge",
-                    "locationVi": "Unđểad Burg on Hellkite Dragon bridge"
+                    "locationVi": "Unđểad Burg on Hellkite Dragon bridge",
+                    "imageUrl": "/images/items/dark-souls-1/claymore.png"
                 },
                 {
                     "name": "Elite Knight Set",
                     "type": "Armor",
                     "location": "Undead Parish merchant after buying key",
-                    "locationVi": "Unđểad Parish merchant after buying key"
+                    "locationVi": "Unđểad Parish merchant after buying key",
+                    "imageUrl": "/images/items/dark-souls-1/elite-knight-set.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish behind giant rat",
-                    "locationVi": "Unđểad Parish behind giant rất"
+                    "locationVi": "Unđểad Parish behind giant rất",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Hornet Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind hidden wall",
-                    "locationVi": "đãrkroot Garđến sau tường ẩn"
+                    "locationVi": "đãrkroot Garđến sau tường ẩn",
+                    "imageUrl": "/images/items/dark-souls-1/hornet-ring.png"
                 },
                 {
                     "name": "Great Magic Weapon",
                     "type": "Weapon",
                     "location": "Purchased from Big Hat Logan",
-                    "locationVi": "Mua từ Big Hat Logan"
+                    "locationVi": "Mua từ Big Hat Logan",
+                    "imageUrl": "/images/items/dark-souls-1/great-magic-weapon.png"
                 },
                 {
                     "name": "Power Within",
                     "type": "Weapon",
                     "location": "Blighttown on a corpse",
-                    "locationVi": "Blighttown on a corpsẽ"
+                    "locationVi": "Blighttown on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-1/power-within.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 }
             ],
             "tips": [
@@ -2118,55 +2208,64 @@
                     "name": "Black Knight Halberd",
                     "type": "Weapon",
                     "location": "Dropped by the Black Knight in Darkroot Basin",
-                    "locationVi": "Rơi từ Black Knight x đãrkroot Basin"
+                    "locationVi": "Rơi từ Black Knight x đãrkroot Basin",
+                    "imageUrl": "/images/items/dark-souls-1/black-knight-halberd.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin behind the Black Knight"
+                    "locationVi": "đãrkroot Basin behind the Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish behind giant rat",
-                    "locationVi": "Unđểad Parish behind giant rất"
+                    "locationVi": "Unđểad Parish behind giant rất",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo locked tower",
-                    "locationVi": "Anor Londo locked tower"
+                    "locationVi": "Anor Londo locked tower",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind Artorias door",
-                    "locationVi": "đãrkroot Garđến sau cửa Artorias"
+                    "locationVi": "đãrkroot Garđến sau cửa Artorias",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Mask of the Father",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel",
-                    "locationVi": "Rơi từ Pinwheel"
+                    "locationVi": "Rơi từ Pinwheel",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-father.png"
                 }
             ],
             "tips": [
@@ -2332,61 +2431,71 @@
                     "name": "Great Scythe",
                     "type": "Weapon",
                     "location": "Catacombs, found on a corpse near the first bonfire",
-                    "locationVi": "Catacombs, found on a corpsẽ near the first bonfire"
+                    "locationVi": "Catacombs, found on a corpsẽ near the first bonfire",
+                    "imageUrl": "/images/items/dark-souls-1/great-scythe.png"
                 },
                 {
                     "name": "Dark Wood Grain Ring",
                     "type": "Ring",
                     "location": "DLC Royal Wood",
-                    "locationVi": "DLC Royal Wood"
+                    "locationVi": "DLC Royal Wood",
+                    "imageUrl": "/images/items/dark-souls-1/dark-wood-grain-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin",
-                    "locationVi": "đãrkroot Basin"
+                    "locationVi": "đãrkroot Basin",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo from Ornstein's sentinel",
-                    "locationVi": "Anor Londo từ Ornstein sẽntinel"
+                    "locationVi": "Anor Londo từ Ornstein sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Crystal Magic Weapon",
                     "type": "Weapon",
                     "location": "Purchased from Big Hat Logan",
-                    "locationVi": "Mua từ Big Hat Logan"
+                    "locationVi": "Mua từ Big Hat Logan",
+                    "imageUrl": "/images/items/dark-souls-1/crystal-magic-weapon.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 }
             ],
             "tips": [
@@ -2552,61 +2661,71 @@
                     "name": "Uchigatana",
                     "type": "Weapon",
                     "location": "Dropped by Undead Merchant in Burg",
-                    "locationVi": "Rơi từ Unđểad Merchant x Burg"
+                    "locationVi": "Rơi từ Unđểad Merchant x Burg",
+                    "imageUrl": "/images/items/dark-souls-1/uchigatana.png"
                 },
                 {
                     "name": "Pyromancy Flame",
                     "type": "Weapon",
                     "location": "Starting gift from Pyromancer class",
-                    "locationVi": "khởi đầu gift from Pyromancer class"
+                    "locationVi": "khởi đầu gift from Pyromancer class",
+                    "imageUrl": "/images/items/dark-souls-1/pyromancy-flame.png"
                 },
                 {
                     "name": "Power Within",
                     "type": "Weapon",
                     "location": "Blighttown on a corpse near the giant leech swamp",
-                    "locationVi": "Blighttown gần ầm 0a"
+                    "locationVi": "Blighttown gần ầm 0a",
+                    "imageUrl": "/images/items/dark-souls-1/power-within.png"
                 },
                 {
                     "name": "Great Fireball",
                     "type": "Weapon",
                     "location": "Learned from Quelaana of Izalith",
-                    "locationVi": "Học từ Quelaana of Izalith"
+                    "locationVi": "Học từ Quelaana of Izalith",
+                    "imageUrl": "/images/items/dark-souls-1/great-fireball.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs of Vinheim",
-                    "locationVi": "Mua từ Griggs of Vinheim"
+                    "locationVi": "Mua từ Griggs of Vinheim",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin",
-                    "locationVi": "đãrkroot Basin"
+                    "locationVi": "đãrkroot Basin",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 }
             ],
             "tips": [
@@ -2765,61 +2884,71 @@
                     "name": "Moonlight Greatsword",
                     "type": "Weapon",
                     "location": "Crafted from Moonlight Butterfly soul at the giant blacksmith",
-                    "locationVi": "Chế tạo từ linh hn Moonlight Butterfly"
+                    "locationVi": "Chế tạo từ linh hn Moonlight Butterfly",
+                    "imageUrl": "/images/items/dark-souls-1/moonlight-greatsword.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs of Vinheim",
-                    "locationVi": "Mua từ Griggs"
+                    "locationVi": "Mua từ Griggs",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Crown of Dusk",
                     "type": "Armor",
                     "location": "Darkroot Basin from golden golem",
-                    "locationVi": "đãrkroot Basin từ golđến golem"
+                    "locationVi": "đãrkroot Basin từ golđến golem",
+                    "imageUrl": "/images/items/dark-souls-1/crown-of-dusk.png"
                 },
                 {
                     "name": "Dusk Crown Ring",
                     "type": "Ring",
                     "location": "Darkroot Basin from golden golem",
-                    "locationVi": "đãrkroot Basin từ golđến golem"
+                    "locationVi": "đãrkroot Basin từ golđến golem",
+                    "imageUrl": "/images/items/dark-souls-1/dusk-crown-ring.png"
                 },
                 {
                     "name": "Homing Soulmass",
                     "type": "Weapon",
                     "location": "Purchased from Big Hat Logan",
-                    "locationVi": "Mua từ Big Hat Logan"
+                    "locationVi": "Mua từ Big Hat Logan",
+                    "imageUrl": "/images/items/dark-souls-1/homing-soulmass.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 }
             ],
             "tips": [
@@ -2985,61 +3114,71 @@
                     "name": "Longsword +15",
                     "type": "Weapon",
                     "location": "Purchased from Andre of Astora",
-                    "locationVi": "Mua từ Andre of Astora"
+                    "locationVi": "Mua từ Andre of Astora",
+                    "imageUrl": "/images/items/dark-souls-1/longsword-15.png"
                 },
                 {
                     "name": "Sunlight Blade",
                     "type": "Weapon",
                     "location": "Anor Londo bonfire, found in a chest near the Silver Knights",
-                    "locationVi": "Anor Londo gần Silver Knights"
+                    "locationVi": "Anor Londo gần Silver Knights",
+                    "imageUrl": "/images/items/dark-souls-1/sunlight-blade.png"
                 },
                 {
                     "name": "Canvas Talisman",
                     "type": "Weapon",
                     "location": "Purchased from Petrus in Firelink Shrine",
-                    "locationVi": "Mua từ Petrus x Firelink"
+                    "locationVi": "Mua từ Petrus x Firelink",
+                    "imageUrl": "/images/items/dark-souls-1/canvas-talisman.png"
                 },
                 {
                     "name": "Ring of the Sun's Firstborn",
                     "type": "Ring",
                     "location": "Tomb of the Giants on a corpse",
-                    "locationVi": "Tomb of the Giants on a corpsẽ"
+                    "locationVi": "Tomb of the Giants on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-the-suns-firstborn.png"
                 },
                 {
                     "name": "Wrath of the Gods",
                     "type": "Weapon",
                     "location": "Purchased from Reah of Thorolund",
-                    "locationVi": "Mua từ Reah of Thorolund"
+                    "locationVi": "Mua từ Reah of Thorolund",
+                    "imageUrl": "/images/items/dark-souls-1/wrath-of-the-gods.png"
                 },
                 {
                     "name": "Great Heal",
                     "type": "Weapon",
                     "location": "Purchased from Petrus of Thorolund",
-                    "locationVi": "Mua từ Petrus"
+                    "locationVi": "Mua từ Petrus",
+                    "imageUrl": "/images/items/dark-souls-1/great-heal.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 }
             ],
             "tips": [
@@ -3198,61 +3337,71 @@
                     "name": "Dragon King Greataxe",
                     "type": "Weapon",
                     "location": "Cut off Gaping Dragon's tail for the weapon",
-                    "locationVi": "Cut off Gaping Dragon's tạil for the weapon"
+                    "locationVi": "Cut off Gaping Dragon's tạil for the weapon",
+                    "imageUrl": "/images/items/dark-souls-1/dragon-king-greataxe.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin",
-                    "locationVi": "đãrkroot Basin"
+                    "locationVi": "đãrkroot Basin",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish behind giant rat",
-                    "locationVi": "Unđểad Parish behind giant rất"
+                    "locationVi": "Unđểad Parish behind giant rất",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo locked tower",
-                    "locationVi": "Anor Londo locked tower"
+                    "locationVi": "Anor Londo locked tower",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Power Within",
                     "type": "Weapon",
                     "location": "Blighttown on a corpse",
-                    "locationVi": "Blighttown on a corpsẽ"
+                    "locationVi": "Blighttown on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-1/power-within.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Mask of the Father",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel",
-                    "locationVi": "Rơi từ Pinwheel"
+                    "locationVi": "Rơi từ Pinwheel",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-father.png"
                 }
             ],
             "tips": [
@@ -3418,61 +3567,71 @@
                     "name": "Rapier",
                     "type": "Weapon",
                     "location": "Undead Burg, purchased from the Merchant",
-                    "locationVi": "Unđểad Burg mua từ Merchant"
+                    "locationVi": "Unđểad Burg mua từ Merchant",
+                    "imageUrl": "/images/items/dark-souls-1/rapier.png"
                 },
                 {
                     "name": "Chaos Ember",
                     "type": "Weapon",
                     "location": "Demon Ruins near Centipede Demon",
-                    "locationVi": "đểmon Ruins gần Centipeđể đểmon"
+                    "locationVi": "đểmon Ruins gần Centipeđể đểmon",
+                    "imageUrl": "/images/items/dark-souls-1/chaos-ember.png"
                 },
                 {
                     "name": "Hornet Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden near Artorias door",
-                    "locationVi": "đãrkroot Garđến near Artorias door"
+                    "locationVi": "đãrkroot Garđến near Artorias door",
+                    "imageUrl": "/images/items/dark-souls-1/hornet-ring.png"
                 },
                 {
                     "name": "Dark Wood Grain Ring",
                     "type": "Ring",
                     "location": "DLC Royal Wood",
-                    "locationVi": "DLC Royal Wood"
+                    "locationVi": "DLC Royal Wood",
+                    "imageUrl": "/images/items/dark-souls-1/dark-wood-grain-ring.png"
                 },
                 {
                     "name": "Buckler",
                     "type": "Armor",
                     "location": "Undead Burg dropped by the hollow",
-                    "locationVi": "Unđểad Burg rơi từ hollow"
+                    "locationVi": "Unđểad Burg rơi từ hollow",
+                    "imageUrl": "/images/items/dark-souls-1/buckler.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -3631,61 +3790,71 @@
                     "name": "Dragon Slayer Spear",
                     "type": "Weapon",
                     "location": "Crafted from Ornstein's soul at the giant blacksmith",
-                    "locationVi": "Chế tạo từ linh hn Ornstein"
+                    "locationVi": "Chế tạo từ linh hn Ornstein",
+                    "imageUrl": "/images/items/dark-souls-1/dragon-slayer-spear.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo from Ornstein's sentinel",
-                    "locationVi": "Anor Londo từ Ornstein sẽntinel"
+                    "locationVi": "Anor Londo từ Ornstein sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish behind giant rat",
-                    "locationVi": "Unđểad Parish behind giant rất"
+                    "locationVi": "Unđểad Parish behind giant rất",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin",
-                    "locationVi": "đãrkroot Basin"
+                    "locationVi": "đãrkroot Basin",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Silver Knight Spear",
                     "type": "Weapon",
                     "location": "Dropped by Silver Knights in Anor Londo",
-                    "locationVi": "Rơi từ Silver Knights"
+                    "locationVi": "Rơi từ Silver Knights",
+                    "imageUrl": "/images/items/dark-souls-1/silver-knight-spear.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Mask of the Father",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel",
-                    "locationVi": "Rơi từ Pinwheel"
+                    "locationVi": "Rơi từ Pinwheel",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-father.png"
                 }
             ],
             "tips": [
@@ -3844,61 +4013,71 @@
                     "name": "Gravelord Sword",
                     "type": "Weapon",
                     "location": "Gravelord Covenant reward from Nito's coffin",
-                    "locationVi": "Phần thưxng Gravelord Covenant"
+                    "locationVi": "Phần thưxng Gravelord Covenant",
+                    "imageUrl": "/images/items/dark-souls-1/gravelord-sword.png"
                 },
                 {
                     "name": "Canvas Talisman",
                     "type": "Weapon",
                     "location": "Purchased from Petrus",
-                    "locationVi": "Mua từ Petrus"
+                    "locationVi": "Mua từ Petrus",
+                    "imageUrl": "/images/items/dark-souls-1/canvas-talisman.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish behind giant rat",
-                    "locationVi": "Unđểad Parish behind giant rất"
+                    "locationVi": "Unđểad Parish behind giant rất",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo locked tower",
-                    "locationVi": "Anor Londo locked tower"
+                    "locationVi": "Anor Londo locked tower",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Great Heal",
                     "type": "Weapon",
                     "location": "Purchased from Petrus",
-                    "locationVi": "Mua từ Petrus"
+                    "locationVi": "Mua từ Petrus",
+                    "imageUrl": "/images/items/dark-souls-1/great-heal.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -4057,61 +4236,71 @@
                     "name": "Lifehunt Scythe",
                     "type": "Weapon",
                     "location": "Painted World of Ariamis, cut Priscilla's tail",
-                    "locationVi": "Painted World of Ariamis, cut Priscilla's tạil"
+                    "locationVi": "Painted World of Ariamis, cut Priscilla's tạil",
+                    "imageUrl": "/images/items/dark-souls-1/lifehunt-scythe.png"
                 },
                 {
                     "name": "Bloodbite Ring",
                     "type": "Ring",
                     "location": "Undead Parish or purchased",
-                    "locationVi": "Unđểad Parish hoặc mua"
+                    "locationVi": "Unđểad Parish hoặc mua",
+                    "imageUrl": "/images/items/dark-souls-1/bloodbite-ring.png"
                 },
                 {
                     "name": "Blood Shield",
                     "type": "Armor",
                     "location": "Painted World of Ariamis",
-                    "locationVi": "Painted World of Ariamis"
+                    "locationVi": "Painted World of Ariamis",
+                    "imageUrl": "/images/items/dark-souls-1/blood-shield.png"
                 },
                 {
                     "name": "Bloodred Moss Clump",
                     "type": "Weapon",
                     "location": "Purchased from merchants",
-                    "locationVi": "Mua từ merchant"
+                    "locationVi": "Mua từ merchant",
+                    "imageUrl": "/images/items/dark-souls-1/bloodred-moss-clump.png"
                 },
                 {
                     "name": "Dark Wood Grain Ring",
                     "type": "Ring",
                     "location": "DLC Royal Wood",
-                    "locationVi": "DLC Royal Wood"
+                    "locationVi": "DLC Royal Wood",
+                    "imageUrl": "/images/items/dark-souls-1/dark-wood-grain-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -4270,61 +4459,71 @@
                     "name": "Balder Side Sword",
                     "type": "Weapon",
                     "location": "Dropped by Balder Knights in the Parish",
-                    "locationVi": "Rơi từ Balđểr Knights x Parish"
+                    "locationVi": "Rơi từ Balđểr Knights x Parish",
+                    "imageUrl": "/images/items/dark-souls-1/balder-side-sword.png"
                 },
                 {
                     "name": "Crystal Magic Weapon",
                     "type": "Weapon",
                     "location": "Purchased from Big Hat Logan in Duke's Archives",
-                    "locationVi": "Mua từ Big Hat Logan"
+                    "locationVi": "Mua từ Big Hat Logan",
+                    "imageUrl": "/images/items/dark-souls-1/crystal-magic-weapon.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs",
-                    "locationVi": "Mua từ Griggs"
+                    "locationVi": "Mua từ Griggs",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Crown of Dusk",
                     "type": "Armor",
                     "location": "Darkroot Basin from golden golem",
-                    "locationVi": "đãrkroot Basin từ golđến golem"
+                    "locationVi": "đãrkroot Basin từ golđến golem",
+                    "imageUrl": "/images/items/dark-souls-1/crown-of-dusk.png"
                 },
                 {
                     "name": "Power Within",
                     "type": "Weapon",
                     "location": "Blighttown on a corpse",
-                    "locationVi": "Blighttown on a corpsẽ"
+                    "locationVi": "Blighttown on a corpsẽ",
+                    "imageUrl": "/images/items/dark-souls-1/power-within.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo from Ornstein sentinel",
-                    "locationVi": "Anor Londo from Ornstein sẽntinel"
+                    "locationVi": "Anor Londo from Ornstein sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 }
             ],
             "tips": [
@@ -4483,55 +4682,64 @@
                     "name": "Black Knight Greataxe",
                     "type": "Weapon",
                     "location": "Dropped by Black Knights in the Parish",
-                    "locationVi": "Rơi từ Black Knights"
+                    "locationVi": "Rơi từ Black Knights",
+                    "imageUrl": "/images/items/dark-souls-1/black-knight-greataxe.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo, behind the giant sentinel",
-                    "locationVi": "Anor Londo, behind the giant sẽntinel"
+                    "locationVi": "Anor Londo, behind the giant sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, behind the door",
-                    "locationVi": "đãrkroot Garđến, behind the door"
+                    "locationVi": "đãrkroot Garđến, behind the door",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, Lautrec quest",
-                    "locationVi": "Unđểad Parish, Lautrec quest"
+                    "locationVi": "Unđểad Parish, Lautrec quest",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Mask of the Father",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel",
-                    "locationVi": "Rơi từ Pinwheel"
+                    "locationVi": "Rơi từ Pinwheel",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-father.png"
                 }
             ],
             "tips": [
@@ -4690,61 +4898,71 @@
                     "name": "Great Club",
                     "type": "Weapon",
                     "location": "Blighttown, behind the giant tree",
-                    "locationVi": "Blighttown, behind the giant tree"
+                    "locationVi": "Blighttown, behind the giant tree",
+                    "imageUrl": "/images/items/dark-souls-1/great-club.png"
                 },
                 {
                     "name": "Havel's Greatshield",
                     "type": "Armor",
                     "location": "Undead Burg, Havel's tower basement",
-                    "locationVi": "Unđểad Burg, Havel's tower basẽment"
+                    "locationVi": "Unđểad Burg, Havel's tower basẽment",
+                    "imageUrl": "/images/items/dark-souls-1/havels-greatshield.png"
                 },
                 {
                     "name": "Havel's Ring",
                     "type": "Ring",
                     "location": "Anor Londo, giant sentinel room",
-                    "locationVi": "Anor Londo, giant sẽntinel room"
+                    "locationVi": "Anor Londo, giant sẽntinel room",
+                    "imageUrl": "/images/items/dark-souls-1/havels-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Garden, behind the hydra",
-                    "locationVi": "đãrkroot Garđến, behind the hydra"
+                    "locationVi": "đãrkroot Garđến, behind the hydra",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Mask of the Father",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel",
-                    "locationVi": "Rơi từ Pinwheel"
+                    "locationVi": "Rơi từ Pinwheel",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-father.png"
                 }
             ],
             "tips": [
@@ -4903,61 +5121,71 @@
                     "name": "Painting Guardian Sword",
                     "type": "Weapon",
                     "location": "Dropped by Painting Guardians in Anor Londo",
-                    "locationVi": "Rơi từ Painting Guardians"
+                    "locationVi": "Rơi từ Painting Guardians",
+                    "imageUrl": "/images/items/dark-souls-1/painting-guardian-sword.png"
                 },
                 {
                     "name": "Darksilver Tracer",
                     "type": "Weapon",
                     "location": "DLC, dropped by Knight of Pride",
-                    "locationVi": "DLC, dropped by Knight of Priđể"
+                    "locationVi": "DLC, dropped by Knight of Priđể",
+                    "imageUrl": "/images/items/dark-souls-1/darksilver-tracer.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, from Ornstein's sentinel",
-                    "locationVi": "Anor Londo, from Ornstein's sẽntinel"
+                    "locationVi": "Anor Londo, from Ornstein's sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs",
-                    "locationVi": "Mua từ Griggs"
+                    "locationVi": "Mua từ Griggs",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Mask of the Father",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel",
-                    "locationVi": "Rơi từ Pinwheel"
+                    "locationVi": "Rơi từ Pinwheel",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-father.png"
                 }
             ],
             "tips": [
@@ -5116,61 +5344,71 @@
                     "name": "Silver Knight Spear",
                     "type": "Weapon",
                     "location": "Dropped by Silver Knights in Anor Londo",
-                    "locationVi": "Rơi từ Silver Knights"
+                    "locationVi": "Rơi từ Silver Knights",
+                    "imageUrl": "/images/items/dark-souls-1/silver-knight-spear.png"
                 },
                 {
                     "name": "Silver Knight Shield",
                     "type": "Armor",
                     "location": "Same drop from Silver Knights",
-                    "locationVi": "Từ Silver Knights"
+                    "locationVi": "Từ Silver Knights",
+                    "imageUrl": "/images/items/dark-souls-1/silver-knight-shield.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, Ornstein's chamber",
-                    "locationVi": "Anor Londo, Ornstein's chamber"
+                    "locationVi": "Anor Londo, Ornstein's chamber",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Hornet Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, behind the forest door",
-                    "locationVi": "đãrkroot Garđến, behind the forest door"
+                    "locationVi": "đãrkroot Garđến, behind the forest door",
+                    "imageUrl": "/images/items/dark-souls-1/hornet-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 }
             ],
             "tips": [
@@ -5329,61 +5567,71 @@
                     "name": "Dark Hand",
                     "type": "Weapon",
                     "location": "Given by Darkstalker Kaathe in the Abyss",
-                    "locationVi": "Từ Kaathe ở Abyss"
+                    "locationVi": "Từ Kaathe ở Abyss",
+                    "imageUrl": "/images/items/dark-souls-1/dark-hand.png"
                 },
                 {
                     "name": "Pyromancy Flame",
                     "type": "Weapon",
                     "location": "Given by Laurentius",
-                    "locationVi": "Từ Laurentius"
+                    "locationVi": "Từ Laurentius",
+                    "imageUrl": "/images/items/dark-souls-1/pyromancy-flame.png"
                 },
                 {
                     "name": "Ring of Fog",
                     "type": "Ring",
                     "location": "Trade with Snuggly the Crow",
-                    "locationVi": "Đổi với Snuggly"
+                    "locationVi": "Đổi với Snuggly",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-fog.png"
                 },
                 {
                     "name": "Hornet Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden, forest area",
-                    "locationVi": "đãrkroot Garđến, forest area"
+                    "locationVi": "đãrkroot Garđến, forest area",
+                    "imageUrl": "/images/items/dark-souls-1/hornet-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish, behind the giant rat in the aqueduct",
-                    "locationVi": "Unđểad Parish, sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish, sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 }
             ],
             "tips": [
@@ -5549,61 +5797,71 @@
                     "name": "Broken Sword",
                     "type": "Weapon",
                     "location": "Undead Asylum, starting equipment (or break your weapon on purpose)",
-                    "locationVi": "Unđểad Asylum, trang bị khởi đầu"
+                    "locationVi": "Unđểad Asylum, trang bị khởi đầu",
+                    "imageUrl": "/images/items/dark-souls-1/broken-sword.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo, dropped by the Ornstein sentinel",
-                    "locationVi": "Anor Londo, rơi từ Ornstein sẽntinel"
+                    "locationVi": "Anor Londo, rơi từ Ornstein sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Ring of Favor and Protection",
                     "type": "Ring",
                     "location": "Undead Parish behind the giant rat",
-                    "locationVi": "Unđểad Parish sau chuột khổng lồ"
+                    "locationVi": "Unđểad Parish sau chuột khổng lồ",
+                    "imageUrl": "/images/items/dark-souls-1/ring-of-favor-and-protection.png"
                 },
                 {
                     "name": "Power Within",
                     "type": "Weapon",
                     "location": "Blighttown on a corpse near the giant leech swamp",
-                    "locationVi": "Blighttown trên xác chết"
+                    "locationVi": "Blighttown trên xác chết",
+                    "imageUrl": "/images/items/dark-souls-1/power-within.png"
                 },
                 {
                     "name": "Gold Pine Resin",
                     "type": "Weapon",
                     "location": "Purchased from merchants or found",
-                    "locationVi": "Mua từ merchant"
+                    "locationVi": "Mua từ merchant",
+                    "imageUrl": "/images/items/dark-souls-1/gold-pine-resin.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -5767,61 +6025,71 @@
                     "name": "Caestus",
                     "type": "Weapon",
                     "location": "Purchased from Undead Merchant in Undead Burg",
-                    "locationVi": "Mua từ Unđểad Merchant"
+                    "locationVi": "Mua từ Unđểad Merchant",
+                    "imageUrl": "/images/items/dark-souls-1/caestus.png"
                 },
                 {
                     "name": "Dragon Fist",
                     "type": "Weapon",
                     "location": "Ash Lake, cut the Everlasting Dragon's tail",
-                    "locationVi": "Ash Lake, cắt đuôi Everlasting Dragon"
+                    "locationVi": "Ash Lake, cắt đuôi Everlasting Dragon",
+                    "imageUrl": "/images/items/dark-souls-1/dragon-fist.png"
                 },
                 {
                     "name": "Leo Ring",
                     "type": "Ring",
                     "location": "Anor Londo from Ornstein sentinel",
-                    "locationVi": "Anor Londo từ Ornstein sẽntinel"
+                    "locationVi": "Anor Londo từ Ornstein sẽntinel",
+                    "imageUrl": "/images/items/dark-souls-1/leo-ring.png"
                 },
                 {
                     "name": "Dark Wood Grain Ring",
                     "type": "Ring",
                     "location": "DLC Royal Wood",
-                    "locationVi": "DLC Royal Wood"
+                    "locationVi": "DLC Royal Wood",
+                    "imageUrl": "/images/items/dark-souls-1/dark-wood-grain-ring.png"
                 },
                 {
                     "name": "Hornet Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind hidden wall",
-                    "locationVi": "đãrkroot Garđến sau tường ẩn"
+                    "locationVi": "đãrkroot Garđến sau tường ẩn",
+                    "imageUrl": "/images/items/dark-souls-1/hornet-ring.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 },
                 {
                     "name": "Bellowing Dragoncrest Ring",
                     "type": "Ring",
                     "location": "Purchased from Griggs after rescuing him",
-                    "locationVi": "Mua từ Griggs sau khi giải cứu"
+                    "locationVi": "Mua từ Griggs sau khi giải cứu",
+                    "imageUrl": "/images/items/dark-souls-1/bellowing-dragoncrest-ring.png"
                 }
             ],
             "tips": [
@@ -5980,61 +6248,71 @@
                     "name": "Firebomb",
                     "type": "Weapon",
                     "location": "Undead Merchant in Undead Burg",
-                    "locationVi": "Unđểad Merchant ở Unđểad Burg"
+                    "locationVi": "Unđểad Merchant ở Unđểad Burg",
+                    "imageUrl": "/images/items/dark-souls-1/firebomb.png"
                 },
                 {
                     "name": "Kukri",
                     "type": "Weapon",
                     "location": "Dropped by merchants, found in Blighttown",
-                    "locationVi": "Tìm thấy ở Blighttown"
+                    "locationVi": "Tìm thấy ở Blighttown",
+                    "imageUrl": "/images/items/dark-souls-1/kukri.png"
                 },
                 {
                     "name": "Lightning Urn",
                     "type": "Weapon",
                     "location": "Crestfallen Merchant in Sen's Fortress",
-                    "locationVi": "Crestfallen Merchant ở sẽn's Fortress"
+                    "locationVi": "Crestfallen Merchant ở sẽn's Fortress",
+                    "imageUrl": "/images/items/dark-souls-1/lightning-urn.png"
                 },
                 {
                     "name": "Black Firebomb",
                     "type": "Weapon",
                     "location": "DLC merchants, Undead Asylum",
-                    "locationVi": "Merchant DLC, Unđểad Asylum"
+                    "locationVi": "Merchant DLC, Unđểad Asylum",
+                    "imageUrl": "/images/items/dark-souls-1/black-firebomb.png"
                 },
                 {
                     "name": "Lloyd's Talisman",
                     "type": "Weapon",
                     "location": "Purchased from Oswald in Undead Parish",
-                    "locationVi": "Mua từ Oswald"
+                    "locationVi": "Mua từ Oswald",
+                    "imageUrl": "/images/items/dark-souls-1/lloyds-talisman.png"
                 },
                 {
                     "name": "Poison Throwing Knife",
                     "type": "Weapon",
                     "location": "Purchased from Shiva of the East or found",
-                    "locationVi": "Mua từ Shiva of the East"
+                    "locationVi": "Mua từ Shiva of the East",
+                    "imageUrl": "/images/items/dark-souls-1/poison-throwing-knife.png"
                 },
                 {
                     "name": "Grass Crest Shield",
                     "type": "Armor",
                     "location": "Darkroot Basin behind the Black Knight",
-                    "locationVi": "đãrkroot Basin sau Black Knight"
+                    "locationVi": "đãrkroot Basin sau Black Knight",
+                    "imageUrl": "/images/items/dark-souls-1/grass-crest-shield.png"
                 },
                 {
                     "name": "Cloranthy Ring",
                     "type": "Ring",
                     "location": "Great Swamp, dropped by the mushroom enemies",
-                    "locationVi": "Great Swamp"
+                    "locationVi": "Great Swamp",
+                    "imageUrl": "/images/items/dark-souls-1/cloranthy-ring.png"
                 },
                 {
                     "name": "Wolf Ring",
                     "type": "Ring",
                     "location": "Darkroot Garden behind the sealed door (Crest of Artorias)",
-                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng"
+                    "locationVi": "đãrkroot Garđến sau cửa niêm phơng",
+                    "imageUrl": "/images/items/dark-souls-1/wolf-ring.png"
                 },
                 {
                     "name": "Mask of the Child",
                     "type": "Armor",
                     "location": "Dropped by Pinwheel in Catacombs",
-                    "locationVi": "Rơi từ Pinwheel ở Catacombs"
+                    "locationVi": "Rơi từ Pinwheel ở Catacombs",
+                    "imageUrl": "/images/items/dark-souls-1/mask-of-the-child.png"
                 }
             ],
             "tips": [
