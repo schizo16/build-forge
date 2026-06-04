@@ -61,7 +61,7 @@ export function NavHover() {
         ♥ Saved
       </Link>
       <Link
-        href="/walkthrough/elden-ring"
+        href="/walkthrough"
         className="text-xs text-forge-muted transition-colors hover:text-forge-text"
         onMouseEnter={handleEnter}
         onMouseLeave={handleLeave}

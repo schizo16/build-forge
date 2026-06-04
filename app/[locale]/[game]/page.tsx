@@ -3,6 +3,7 @@
 import { useState, useCallback, useMemo } from "react"
 import { useParams, useRouter } from "next/navigation"
 import { useLocale } from "next-intl"
+import Link from "next/link"
 import { GAME_CONFIGS, DIFFICULTIES, type GameSlug, type Build } from "@/lib/utils"
 import { FilterPills } from "@/components/game/filter-pills"
 import { BuildGrid } from "@/components/game/build-grid"
@@ -91,12 +92,22 @@ export default function GamePage() {
           })}
         </div>
       )}
-      <h1 className="mt-1 font-display text-2xl tracking-wider" style={{ color: config.accent }}>
-        {gameName}{' '}
-        <span className="text-sm text-forge-muted">
-          &bull; {getGameBuildCount(game)} {locale === 'vi' ? 'build' : 'builds'}
-        </span>
-      </h1>
+      <div className="mt-1 flex items-center gap-3">
+        <h1 className="font-display text-2xl tracking-wider" style={{ color: config.accent }}>
+          {gameName}{' '}
+          <span className="text-sm text-forge-muted">
+            &bull; {getGameBuildCount(game)} {locale === 'vi' ? 'build' : 'builds'}
+          </span>
+        </h1>
+        {game !== 'cyberpunk' && (
+          <Link
+            href={`/walkthrough/${game}`}
+            className="rounded border border-accent-gold/30 px-2 py-0.5 text-[9px] text-accent-gold transition-all hover:bg-accent-gold/10"
+          >
+            📖 {locale === 'vi' ? 'Walkthrough' : 'Guide'}
+          </Link>
+        )}
+      </div>
       <div className="mt-6 flex items-center gap-3">
         <FilterPills active={category} onChange={setCategory} locale={locale} />
       </div>
